@@ -1,5 +1,5 @@
-const fs = require('fs');
-const csv = require('csv-parser');
+import fs from 'fs';
+import csv from 'csv-parser';
 
 const csvFilePathProducts = 'src/seeds/mock/products.csv';
 const jsonFilePathProducts = 'src/seeds/mock/products.json';

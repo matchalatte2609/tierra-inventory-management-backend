@@ -1,16 +1,15 @@
-const bodyParser = require('body-parser');
-const cors = require('cors');
-const dotenv = require('dotenv');
-const express = require('express');
-const { Pool } = require('pg');
-const fs = require('fs');
+import cors from 'cors';
+import dotenv from 'dotenv';
+import express from 'express';
+import pg from 'pg';
+import productsRouter from './routers/products.js';
+import materialsRouter from './routers/materials.js';
 
 const app = express();
 
 dotenv.config();
 
 // Middlewares
-app.use(bodyParser.json());
 app.use(cors());
 app.use(express.json());
 
@@ -24,27 +23,8 @@ const PORT = process.env.PORT || 5002;
 // 	},
 // });
 
-app.get('/products', (req, res) => {
-	fs.readFile('src/seeds/mock/products.json', 'utf8', (err, data) => {
-		if (err) {
-			res.status(500).send('Error reading the JSON file');
-		} else {
-			res.setHeader('Content-Type', 'application/json');
-			res.send(data);
-		}
-	});
-});
-
-app.get('/materials', (req, res) => {
-	fs.readFile('src/seeds/mock/materials.json', 'utf8', (err, data) => {
-		if (err) {
-			res.status(500).send('Error reading the JSON file');
-		} else {
-			res.setHeader('Content-Type', 'application/json');
-			res.send(data);
-		}
-	});
-});
+app.use('/products', productsRouter);
+app.use('/materials', materialsRouter);
 
 app.listen(PORT, () => {
 	console.log(`listening on port ${PORT}`);
