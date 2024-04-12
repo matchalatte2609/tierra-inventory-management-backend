@@ -23,9 +23,20 @@ const PORT = process.env.PORT || 5002;
 // 	},
 // });
 
+app.listen(PORT, () => {
+	console.log(`listening on port ${PORT}`);
+});
+
 app.use('/products', productsRouter);
 app.use('/materials', materialsRouter);
 
-app.listen(PORT, () => {
-	console.log(`listening on port ${PORT}`);
+app.all('*', (req, res, next) => {
+	next(new ExpressError('Page not found', 404));
+});
+
+app.use((err, req, res, next) => {
+	const { statusCode = 500 } = err;
+	if (!err.message) err.message = 'Something went wrong!';
+	res.status(statusCode);
+	res.json({ status: statusCode, message: err.message });
 });
