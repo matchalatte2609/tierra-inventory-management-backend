@@ -4,6 +4,8 @@ import express from 'express';
 import pg from 'pg';
 import productsRouter from './routers/products.js';
 import materialsRouter from './routers/materials.js';
+import pricingRouter from './routers/pricing.js';
+import shapesRouter from './routers/shapes.js';
 
 const app = express();
 
@@ -29,6 +31,8 @@ app.listen(PORT, () => {
 
 app.use('/products', productsRouter);
 app.use('/materials', materialsRouter);
+app.use('/pricing', pricingRouter);
+app.use('/shapes', shapesRouter);
 
 app.all('*', (req, res, next) => {
 	next(new ExpressError('Page not found', 404));
