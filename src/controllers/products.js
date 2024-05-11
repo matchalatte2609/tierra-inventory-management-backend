@@ -18,6 +18,6 @@ export const getProductById = async (req, res, next) => {
 		'utf-8'
 	);
 	const products = JSON.parse(fileData);
-	const result = products.find((item) => item.id === id) || null;
+	const result = products.find((item) => item.ProductId === id) || null;
 	res.json(result);
 };
