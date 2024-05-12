@@ -6,6 +6,7 @@ import productsRouter from './routers/products.js';
 import materialsRouter from './routers/materials.js';
 import pricingRouter from './routers/pricing.js';
 import shapesRouter from './routers/shapes.js';
+import { ExpressError } from './utils/index.js';
 
 const app = express();
 
