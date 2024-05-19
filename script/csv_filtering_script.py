@@ -3,7 +3,7 @@ import sys
 
 def filter_csv(input_file, output_file, column_mapping):
     # Load the CSV file with the correct encoding, skipping the first row and setting the second row as header
-    df = pd.read_csv(input_file, encoding='ISO-8859-1', skiprows=1, header=0)
+    df = pd.read_csv(input_file, encoding='UTF-8', skiprows=1, header=0)
     
     # Rename columns based on the provided mapping
     df.rename(columns=column_mapping, inplace=True)
@@ -12,7 +12,7 @@ def filter_csv(input_file, output_file, column_mapping):
     selected_columns = df[list(column_mapping.values())]
 
     # Save the filtered data to a new CSV file
-    selected_columns.to_csv(output_file, index=False, encoding='ISO-8859-1')
+    selected_columns.to_csv(output_file, index=False, encoding='UTF-8')
     print(f"Filtered CSV created at: {output_file}")
 
 if __name__ == "__main__":
@@ -55,13 +55,13 @@ if __name__ == "__main__":
             'Shape10': 'Shape10',
             'Size10': 'Size10',
             'SL10': 'SL10',
-            # 'MTK': 'design_code',
-            # 'NAME': 'name',
-            # 'CATEGORY': 'category',
-            # 'DIAMETER': 'diameter',
-            # 'RINGSIZE': 'ring_size',
-            # 'Shape Viên ch?': 'main_gemstone_shape',
-            # 'Size Viên ch?': 'main_gemstone_size',
+            # 'Mã Thiết kế': 'design_code',
+            # 'Tên gọi': 'name',
+            # 'Dòng hàng': 'category',
+            # 'Đường kính vòng (cm)': 'diameter',
+            # 'Ni': 'ring_size',
+            # 'Shape Viên chủ': 'main_gemstone_shape',
+            # 'Size Viên chủ': 'main_gemstone_size',
             # 'Vàng 18k': 'gold_18k_weight',
             # 'Vàng 14k': 'gold_14k_weight',
             # 'Pt900': 'plat_900_weight',
