@@ -30,7 +30,7 @@ const writeCsvToJson = (csvFilePath, jsonFilePath) => {
 		});
 };
 
-// writeCsvToJson(csvFilePathMaterials, jsonFilePathMaterials);
-// writeCsvToJson(csvFilePathProducts, jsonFilePathProducts);
-// writeCsvToJson(csvFilePathPricing, jsonFilePathPricing);
+writeCsvToJson(csvFilePathMaterials, jsonFilePathMaterials);
+writeCsvToJson(csvFilePathProducts, jsonFilePathProducts);
+writeCsvToJson(csvFilePathPricing, jsonFilePathPricing);
 writeCsvToJson(csvFilePathShapes, jsonFilePathShapes);
