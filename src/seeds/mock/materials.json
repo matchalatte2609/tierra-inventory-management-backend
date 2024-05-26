@@ -59,7 +59,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "1.69",
     "gold_14k_weight": "1.55",
-    "plat_900_weight": "2.23",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -68,7 +68,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "2.21",
     "gold_14k_weight": "2.03",
-    "plat_900_weight": "2.92",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -1526,7 +1526,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "2.63",
     "gold_14k_weight": "2.45",
-    "plat_900_weight": "3.52",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -1535,7 +1535,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "0.71",
     "gold_14k_weight": "0.65",
-    "plat_900_weight": "0.94",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -1544,7 +1544,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "1.66",
     "gold_14k_weight": "1.55",
-    "plat_900_weight": "2.22",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -1553,7 +1553,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "2.43",
     "gold_14k_weight": "2.27",
-    "plat_900_weight": "3.26",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -1562,7 +1562,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "1.2",
     "gold_14k_weight": "1.1",
-    "plat_900_weight": "1.58",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -1706,7 +1706,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "1.11",
     "gold_14k_weight": "1.02",
-    "plat_900_weight": "1.47",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -1715,7 +1715,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "1.83",
     "gold_14k_weight": "1.68",
-    "plat_900_weight": "2.41",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -1760,7 +1760,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "2.43",
     "gold_14k_weight": "2.23",
-    "plat_900_weight": "3.21",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -1769,7 +1769,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "2.51",
     "gold_14k_weight": "2.3",
-    "plat_900_weight": "3.31",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -1778,7 +1778,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "2.07",
     "gold_14k_weight": "1.9",
-    "plat_900_weight": "2.73",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -2408,7 +2408,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "2.36",
     "gold_14k_weight": "2.17",
-    "plat_900_weight": "3.11",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -2435,7 +2435,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "2.06",
     "gold_14k_weight": "1.92",
-    "plat_900_weight": "2.76",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -2444,7 +2444,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "1.25",
     "gold_14k_weight": "1.15",
-    "plat_900_weight": "1.65",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -2453,7 +2453,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "1.08",
     "gold_14k_weight": "1.0",
-    "plat_900_weight": "1.44",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -2462,7 +2462,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "2.74",
     "gold_14k_weight": "2.56",
-    "plat_900_weight": "3.68",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -2471,7 +2471,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "1.23",
     "gold_14k_weight": "1.13",
-    "plat_900_weight": "1.63",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -2606,7 +2606,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "2.33",
     "gold_14k_weight": "2.14",
-    "plat_900_weight": "3.07",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -3335,7 +3335,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "3.74",
     "gold_14k_weight": "2.95",
-    "plat_900_weight": "4.24",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -3497,7 +3497,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "4.54",
     "gold_14k_weight": "4.17",
-    "plat_900_weight": "5.99",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -3974,7 +3974,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "3.8",
     "gold_14k_weight": "3.49",
-    "plat_900_weight": "5.02",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -4019,7 +4019,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "5.29",
     "gold_14k_weight": "4.86",
-    "plat_900_weight": "6.98",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -4316,7 +4316,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "3.79",
     "gold_14k_weight": "3.48",
-    "plat_900_weight": "5",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -4370,7 +4370,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "4.52",
     "gold_14k_weight": "4.15",
-    "plat_900_weight": "5.97",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -4415,7 +4415,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "3.79",
     "gold_14k_weight": "3.48",
-    "plat_900_weight": "5",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -4424,7 +4424,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "3.45",
     "gold_14k_weight": "3.38",
-    "plat_900_weight": "4.86",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -4478,7 +4478,7 @@
     "main_gemstone_size": "5.4",
     "gold_18k_weight": "3.88",
     "gold_14k_weight": "3.56",
-    "plat_900_weight": "5.12",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -5522,7 +5522,7 @@
     "main_gemstone_size": "5.4",
     "gold_18k_weight": "3.01",
     "gold_14k_weight": "2.76",
-    "plat_900_weight": "3.97",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -5531,7 +5531,7 @@
     "main_gemstone_size": "5.4",
     "gold_18k_weight": "2.18",
     "gold_14k_weight": "2.0",
-    "plat_900_weight": "2.88",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -5549,7 +5549,7 @@
     "main_gemstone_size": "5.4",
     "gold_18k_weight": "2.52",
     "gold_14k_weight": "2.32",
-    "plat_900_weight": "3.33",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -5558,7 +5558,7 @@
     "main_gemstone_size": "5.4",
     "gold_18k_weight": "2.1",
     "gold_14k_weight": "1.96",
-    "plat_900_weight": "2.82",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -5567,7 +5567,7 @@
     "main_gemstone_size": "5.4",
     "gold_18k_weight": "3.16",
     "gold_14k_weight": "2.9",
-    "plat_900_weight": "4.17",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -5810,7 +5810,7 @@
     "main_gemstone_size": "5",
     "gold_18k_weight": "2.42",
     "gold_14k_weight": "2.22",
-    "plat_900_weight": "3.19",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -6503,7 +6503,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "4.62",
     "gold_14k_weight": "4.25",
-    "plat_900_weight": "6.11",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -6917,7 +6917,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "4.13",
     "gold_14k_weight": "3.85",
-    "plat_900_weight": "5.53",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -7079,7 +7079,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "6.92",
     "gold_14k_weight": "6.35",
-    "plat_900_weight": "9.13",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -7556,7 +7556,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "5.89",
     "gold_14k_weight": "5.41",
-    "plat_900_weight": "7.78",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -7601,7 +7601,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "7.25",
     "gold_14k_weight": "6.65",
-    "plat_900_weight": "9.57",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -7898,7 +7898,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "6.9",
     "gold_14k_weight": "6.33",
-    "plat_900_weight": "9.1",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -7952,7 +7952,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "6.93",
     "gold_14k_weight": "6.37",
-    "plat_900_weight": "9.15",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -7997,7 +7997,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "4.54",
     "gold_14k_weight": "4.17",
-    "plat_900_weight": "6",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -8006,7 +8006,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "6.03",
     "gold_14k_weight": "5.53",
-    "plat_900_weight": "7.95",
+    "plat_900_weight": "",
     "surface_plain_pattern": "Pattern"
   },
   {

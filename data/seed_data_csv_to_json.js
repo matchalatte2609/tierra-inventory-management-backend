@@ -9,6 +9,7 @@ const jsonFilePathProducts = 'data/filtered_product.json';
 
 const csvFilePathPricing = 'data/filtered_pricing.csv';
 const jsonFilePathPricing = 'data/filtered_pricing.json';
+
 const csvFilePathShapes = 'data/filtered_shape.csv';
 const jsonFilePathShapes = 'data/filtered_shape.json';
 
