@@ -5475,7 +5475,7 @@
     "ring_size": "12",
     "base_thickness": "1.5",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "7.5"
   },
   {
     "ProductId": "499",
@@ -5596,7 +5596,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "7.4"
   },
   {
     "ProductId": "510",
@@ -5607,7 +5607,7 @@
     "ring_size": "11",
     "base_thickness": "1.4",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "7.2"
   },
   {
     "ProductId": "511",
@@ -5616,9 +5616,9 @@
     "category": "NCH",
     "diameter": "",
     "ring_size": "11",
-    "base_thickness": "1.4",
+    "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "5.8"
   },
   {
     "ProductId": "512",
@@ -5628,8 +5628,8 @@
     "diameter": "",
     "ring_size": "12",
     "base_thickness": "1.3",
-    "base_width": "2.0",
-    "prongs_height": ""
+    "base_width": "1.8",
+    "prongs_height": "6.2"
   },
   {
     "ProductId": "513",
@@ -5651,7 +5651,7 @@
     "ring_size": "10",
     "base_thickness": "1.3",
     "base_width": "1.7",
-    "prongs_height": ""
+    "prongs_height": "6.5"
   },
   {
     "ProductId": "515",
@@ -5662,7 +5662,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "1.7",
-    "prongs_height": ""
+    "prongs_height": "7.2"
   },
   {
     "ProductId": "516",
@@ -5673,7 +5673,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "7.0"
   },
   {
     "ProductId": "517",
@@ -5684,7 +5684,7 @@
     "ring_size": "11",
     "base_thickness": "1.6",
     "base_width": "2.2",
-    "prongs_height": ""
+    "prongs_height": "7.0"
   },
   {
     "ProductId": "518",
@@ -5716,8 +5716,8 @@
     "diameter": "",
     "ring_size": "9.5",
     "base_thickness": "1.3",
-    "base_width": "1.8",
-    "prongs_height": ""
+    "base_width": "2.0",
+    "prongs_height": "7.2"
   },
   {
     "ProductId": "521",
@@ -5728,7 +5728,7 @@
     "ring_size": "10",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "7.1"
   },
   {
     "ProductId": "522",
@@ -5783,7 +5783,7 @@
     "ring_size": "10",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "6.7"
   },
   {
     "ProductId": "527",
@@ -5860,7 +5860,7 @@
     "ring_size": "12",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "7.3"
   },
   {
     "ProductId": "534",
@@ -5871,7 +5871,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.3"
   },
   {
     "ProductId": "535",
@@ -5926,7 +5926,7 @@
     "ring_size": "10",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.0"
   },
   {
     "ProductId": "540",
@@ -5948,7 +5948,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.3"
   },
   {
     "ProductId": "542",
@@ -6036,7 +6036,7 @@
     "ring_size": "11",
     "base_thickness": "1.4",
     "base_width": "2.2",
-    "prongs_height": ""
+    "prongs_height": "6.3"
   },
   {
     "ProductId": "550",
@@ -6058,7 +6058,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.7"
   },
   {
     "ProductId": "552",
@@ -6069,7 +6069,7 @@
     "ring_size": "13",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.1"
   },
   {
     "ProductId": "553",
@@ -6122,9 +6122,9 @@
     "category": "NCH",
     "diameter": "",
     "ring_size": "10",
-    "base_thickness": "1.3",
-    "base_width": "1.7",
-    "prongs_height": ""
+    "base_thickness": "1.4",
+    "base_width": "2.2",
+    "prongs_height": "5.8"
   },
   {
     "ProductId": "558",
@@ -6179,7 +6179,7 @@
     "ring_size": "12",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "6.3"
   },
   {
     "ProductId": "563",
@@ -6189,8 +6189,8 @@
     "diameter": "",
     "ring_size": "11",
     "base_thickness": "1.3",
-    "base_width": "2.2",
-    "prongs_height": ""
+    "base_width": "2.0",
+    "prongs_height": "6.7"
   },
   {
     "ProductId": "564",
@@ -6201,7 +6201,7 @@
     "ring_size": "10",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "6.5"
   },
   {
     "ProductId": "565",
@@ -6454,7 +6454,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "7.4"
   },
   {
     "ProductId": "588",
@@ -6487,7 +6487,7 @@
     "ring_size": "12",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "7.2"
   },
   {
     "ProductId": "591",
@@ -6685,7 +6685,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "1.9",
-    "prongs_height": ""
+    "prongs_height": "7.0"
   },
   {
     "ProductId": "609",
@@ -6894,7 +6894,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.8"
   },
   {
     "ProductId": "628",
@@ -6903,9 +6903,9 @@
     "category": "NCH",
     "diameter": "",
     "ring_size": "12",
-    "base_thickness": "1.4",
+    "base_thickness": "1.3",
     "base_width": "2.3",
-    "prongs_height": ""
+    "prongs_height": "8.0"
   },
   {
     "ProductId": "629",
@@ -6938,7 +6938,7 @@
     "ring_size": "12",
     "base_thickness": "1.3",
     "base_width": "1.7",
-    "prongs_height": ""
+    "prongs_height": "7.4"
   },
   {
     "ProductId": "632",
@@ -7521,7 +7521,7 @@
     "ring_size": "8",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "5.4"
   },
   {
     "ProductId": "685",
@@ -7576,7 +7576,7 @@
     "ring_size": "12",
     "base_thickness": "1.3",
     "base_width": "2.2",
-    "prongs_height": ""
+    "prongs_height": "7.0"
   },
   {
     "ProductId": "690",
@@ -15248,7 +15248,7 @@
   {
     "ProductId": "1387",
     "design_code": "NFS0003",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "7.5",
@@ -15259,7 +15259,7 @@
   {
     "ProductId": "1388",
     "design_code": "NFS0004",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "11.5",
@@ -15270,7 +15270,7 @@
   {
     "ProductId": "1389",
     "design_code": "NFS0008",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "8.5",
@@ -15281,7 +15281,7 @@
   {
     "ProductId": "1390",
     "design_code": "NFS0009",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "8.5",
@@ -15292,7 +15292,7 @@
   {
     "ProductId": "1391",
     "design_code": "NFS1002",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "8.5",
@@ -15303,7 +15303,7 @@
   {
     "ProductId": "1392",
     "design_code": "NFS1012",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "10",
@@ -15314,7 +15314,7 @@
   {
     "ProductId": "1393",
     "design_code": "NFS1013",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "10",
@@ -15325,7 +15325,7 @@
   {
     "ProductId": "1394",
     "design_code": "NFS1033",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "8.5",
@@ -15336,7 +15336,7 @@
   {
     "ProductId": "1395",
     "design_code": "NFS2003",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "11",
@@ -15347,7 +15347,7 @@
   {
     "ProductId": "1396",
     "design_code": "NFS2010",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "8.5",
@@ -15358,7 +15358,7 @@
   {
     "ProductId": "1397",
     "design_code": "NFS2011",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "8.5",
@@ -15369,7 +15369,7 @@
   {
     "ProductId": "1398",
     "design_code": "NFS2015",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "8.5",
@@ -15380,7 +15380,7 @@
   {
     "ProductId": "1399",
     "design_code": "NFS2035",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "7.5",
@@ -15391,7 +15391,7 @@
   {
     "ProductId": "1400",
     "design_code": "NFS2041",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "8.5",
@@ -15402,7 +15402,7 @@
   {
     "ProductId": "1401",
     "design_code": "NFS3006",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "8.5",
@@ -15413,7 +15413,7 @@
   {
     "ProductId": "1402",
     "design_code": "NFS3009",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "8.5",
@@ -15424,7 +15424,7 @@
   {
     "ProductId": "1403",
     "design_code": "NFS3012",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "8.5",
@@ -15435,7 +15435,7 @@
   {
     "ProductId": "1404",
     "design_code": "NFS5007",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "10",
@@ -15446,7 +15446,7 @@
   {
     "ProductId": "1405",
     "design_code": "NMS0003",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "18",
@@ -15457,7 +15457,7 @@
   {
     "ProductId": "1406",
     "design_code": "NMS0004",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15",
@@ -15468,7 +15468,7 @@
   {
     "ProductId": "1407",
     "design_code": "NMS0008",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15",
@@ -15479,7 +15479,7 @@
   {
     "ProductId": "1408",
     "design_code": "NMS0009",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15",
@@ -15490,7 +15490,7 @@
   {
     "ProductId": "1409",
     "design_code": "NMS1002",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15",
@@ -15501,7 +15501,7 @@
   {
     "ProductId": "1410",
     "design_code": "NMS1012",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "17",
@@ -15512,7 +15512,7 @@
   {
     "ProductId": "1411",
     "design_code": "NMS1013",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15",
@@ -15523,7 +15523,7 @@
   {
     "ProductId": "1412",
     "design_code": "NMS1033",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15",
@@ -15534,7 +15534,7 @@
   {
     "ProductId": "1413",
     "design_code": "NMS2003",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "18",
@@ -15545,7 +15545,7 @@
   {
     "ProductId": "1414",
     "design_code": "NMS2010",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15",
@@ -15556,7 +15556,7 @@
   {
     "ProductId": "1415",
     "design_code": "NMS2011",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15",
@@ -15567,7 +15567,7 @@
   {
     "ProductId": "1416",
     "design_code": "NMS2015",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15",
@@ -15578,7 +15578,7 @@
   {
     "ProductId": "1417",
     "design_code": "NMS2035",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15.7",
@@ -15589,7 +15589,7 @@
   {
     "ProductId": "1418",
     "design_code": "NMS2041",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15",
@@ -15600,7 +15600,7 @@
   {
     "ProductId": "1419",
     "design_code": "NMS3006",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15.5",
@@ -15611,7 +15611,7 @@
   {
     "ProductId": "1420",
     "design_code": "NMS3009",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15.5",
@@ -15622,7 +15622,7 @@
   {
     "ProductId": "1421",
     "design_code": "NMS3012",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "15",
@@ -15633,7 +15633,7 @@
   {
     "ProductId": "1422",
     "design_code": "NMS5007",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "18",
@@ -15644,7 +15644,7 @@
   {
     "ProductId": "1423",
     "design_code": "NCS0003",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.18 - F.7.5",
@@ -15655,7 +15655,7 @@
   {
     "ProductId": "1424",
     "design_code": "NCS0004",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15 - F.11.5",
@@ -15666,7 +15666,7 @@
   {
     "ProductId": "1425",
     "design_code": "NCS0008",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15 - F.8.5",
@@ -15677,7 +15677,7 @@
   {
     "ProductId": "1426",
     "design_code": "NCS0009",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15 - F.8.5",
@@ -15688,7 +15688,7 @@
   {
     "ProductId": "1427",
     "design_code": "NCS1002",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15 - F.8.5",
@@ -15699,7 +15699,7 @@
   {
     "ProductId": "1428",
     "design_code": "NCS1012",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.17 - F.10",
@@ -15710,7 +15710,7 @@
   {
     "ProductId": "1429",
     "design_code": "NCS1013",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15 - F.10",
@@ -15721,7 +15721,7 @@
   {
     "ProductId": "1430",
     "design_code": "NCS1033",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15 - F.8.5",
@@ -15732,7 +15732,7 @@
   {
     "ProductId": "1431",
     "design_code": "NCS2003",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.18 - F.11",
@@ -15743,7 +15743,7 @@
   {
     "ProductId": "1432",
     "design_code": "NCS2010",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15 - F.8.5",
@@ -15754,7 +15754,7 @@
   {
     "ProductId": "1433",
     "design_code": "NCS2011",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15 - F.8.5",
@@ -15765,7 +15765,7 @@
   {
     "ProductId": "1434",
     "design_code": "NCS2015",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15 - F.8.5",
@@ -15776,7 +15776,7 @@
   {
     "ProductId": "1435",
     "design_code": "NCS2035",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15.7 - F.7.5",
@@ -15787,7 +15787,7 @@
   {
     "ProductId": "1436",
     "design_code": "NCS2041",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15 - F.8.5",
@@ -15798,7 +15798,7 @@
   {
     "ProductId": "1437",
     "design_code": "NCS3006",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15.5 - F.8.5",
@@ -15809,7 +15809,7 @@
   {
     "ProductId": "1438",
     "design_code": "NCS3009",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15.5 - F.8.5",
@@ -15820,7 +15820,7 @@
   {
     "ProductId": "1439",
     "design_code": "NCS3012",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.15 - F.8.5",
@@ -15831,12 +15831,122 @@
   {
     "ProductId": "1440",
     "design_code": "NCS5007",
-    "name": "",
+    "name": "Bộ Đào Lòng",
     "category": "NCM/NCF",
     "diameter": "",
     "ring_size": "M.18 - F.10",
     "base_thickness": "",
     "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1441",
+    "design_code": "NNA2106",
+    "name": "TRUE NORTH",
+    "category": "NNA",
+    "diameter": "",
+    "ring_size": "20",
+    "base_thickness": "1.4",
+    "base_width": "2.6",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1442",
+    "design_code": "NNA2107",
+    "name": "TRUE NORTH",
+    "category": "NNA",
+    "diameter": "",
+    "ring_size": "18",
+    "base_thickness": "1.5",
+    "base_width": "4.6",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1443",
+    "design_code": "NNA2108",
+    "name": "TRUE NORTH",
+    "category": "NNA",
+    "diameter": "",
+    "ring_size": "18",
+    "base_thickness": "1.7",
+    "base_width": "4.5",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1444",
+    "design_code": "NNA2204",
+    "name": "TRUE NORTH",
+    "category": "NNA",
+    "diameter": "",
+    "ring_size": "19.8",
+    "base_thickness": "1.3",
+    "base_width": "4.2",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1445",
+    "design_code": "NNA2205",
+    "name": "TRUE NORTH",
+    "category": "NNA",
+    "diameter": "",
+    "ring_size": "18",
+    "base_thickness": "1.4",
+    "base_width": "2.4",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1446",
+    "design_code": "NNA2206",
+    "name": "TRUE NORTH",
+    "category": "NNA",
+    "diameter": "",
+    "ring_size": "18",
+    "base_thickness": "1.5",
+    "base_width": "3.2",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1447",
+    "design_code": "NNA2207",
+    "name": "TRUE NORTH",
+    "category": "NNA",
+    "diameter": "",
+    "ring_size": "18",
+    "base_thickness": "1.5",
+    "base_width": "3.2",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1448",
+    "design_code": "NNA2315",
+    "name": "TRUE NORTH",
+    "category": "NNA",
+    "diameter": "",
+    "ring_size": "18",
+    "base_thickness": "1.4",
+    "base_width": "5.35",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1449",
+    "design_code": "NNA2316",
+    "name": "TRUE NORTH",
+    "category": "NNA",
+    "diameter": "",
+    "ring_size": "18",
+    "base_thickness": "1.4",
+    "base_width": "3.95",
+    "prongs_height": "4.25"
+  },
+  {
+    "ProductId": "1450",
+    "design_code": "NNA2317",
+    "name": "TRUE NORTH",
+    "category": "NNA",
+    "diameter": "",
+    "ring_size": "19.8",
+    "base_thickness": "1.4",
+    "base_width": "2.95",
     "prongs_height": ""
   }
 ]
