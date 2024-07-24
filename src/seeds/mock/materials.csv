@@ -1,5 +1,5 @@
 ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight,plat_900_weight,surface_plain_pattern
-1,Heart,5.0*6.0,2.68,2.46,,Pattern
+1,Heart,5.0*6.0,3.84,3.3,5.05,Pattern
 2,,,3.03,2.83,,Plain
 3,,,2.85,2.66,,Plain
 4,,,3.77,3.52,,Pattern
@@ -182,7 +182,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 181,Round,3.6,1.08,1.01,,Plain
 182,Round,5,2.65,2.47,,Plain
 183,Round,4.5,2.03,1.89,,Plain
-184,,,3.1,2.89,,Pattern
+184,,,3.1,2.89,4.077,Pattern
 185,,,2.7,2.52,,Plain
 186,,,0.11,0.11,,Plain
 187,,,0.13,0.12,,Plain

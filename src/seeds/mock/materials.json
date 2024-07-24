@@ -3,9 +3,9 @@
     "ProductId": "1",
     "main_gemstone_shape": "Heart",
     "main_gemstone_size": "5.0*6.0",
-    "gold_18k_weight": "2.68",
-    "gold_14k_weight": "2.46",
-    "plat_900_weight": "",
+    "gold_18k_weight": "3.84",
+    "gold_14k_weight": "3.3",
+    "plat_900_weight": "5.05",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -1652,7 +1652,7 @@
     "main_gemstone_size": "",
     "gold_18k_weight": "3.1",
     "gold_14k_weight": "2.89",
-    "plat_900_weight": "",
+    "plat_900_weight": "4.077",
     "surface_plain_pattern": "Pattern"
   },
   {
