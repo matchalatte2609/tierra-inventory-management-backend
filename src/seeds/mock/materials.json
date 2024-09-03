@@ -1056,7 +1056,7 @@
     "ProductId": "118",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "4.5",
-    "gold_18k_weight": "    10.62",
+    "gold_18k_weight": "10.62",
     "gold_14k_weight": "9.91",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -1362,8 +1362,8 @@
     "ProductId": "152",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    11.07",
-    "gold_14k_weight": "    10.33",
+    "gold_18k_weight": "11.07",
+    "gold_14k_weight": "10.33",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -2481,7 +2481,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "277",
@@ -2490,7 +2490,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "278",
@@ -2544,7 +2544,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "284",
@@ -2553,7 +2553,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Pattern-M.Plain"
   },
   {
     "ProductId": "285",
@@ -2562,7 +2562,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "286",
@@ -2589,7 +2589,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Pattern-M.Plain"
   },
   {
     "ProductId": "289",
@@ -2661,7 +2661,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Plain-M.Pattern"
   },
   {
     "ProductId": "297",
@@ -2724,7 +2724,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Pattern-M.Plain"
   },
   {
     "ProductId": "304",
@@ -2742,7 +2742,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "306",
@@ -2751,7 +2751,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "307",
@@ -2760,7 +2760,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "308",
@@ -2769,7 +2769,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "309",
@@ -2778,7 +2778,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "310",
@@ -2787,7 +2787,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "311",
@@ -2796,7 +2796,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "312",
@@ -2805,7 +2805,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "313",
@@ -2814,7 +2814,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "314",
@@ -2823,7 +2823,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Pattern-M.Plain"
   },
   {
     "ProductId": "315",
@@ -2832,7 +2832,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "316",
@@ -2841,7 +2841,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "317",
@@ -2850,7 +2850,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "318",
@@ -2859,7 +2859,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Pattern-M.Plain"
   },
   {
     "ProductId": "319",
@@ -2868,7 +2868,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "320",
@@ -2877,7 +2877,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "321",
@@ -2886,7 +2886,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "322",
@@ -2895,7 +2895,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "323",
@@ -2904,7 +2904,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "324",
@@ -2913,7 +2913,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "325",
@@ -2922,7 +2922,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "326",
@@ -2931,7 +2931,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "327",
@@ -2940,7 +2940,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "328",
@@ -2949,7 +2949,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "329",
@@ -2958,7 +2958,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "330",
@@ -2967,7 +2967,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "331",
@@ -2976,7 +2976,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "332",
@@ -2985,7 +2985,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "333",
@@ -2994,7 +2994,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "334",
@@ -3003,7 +3003,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "335",
@@ -3012,7 +3012,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "336",
@@ -3021,7 +3021,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "337",
@@ -3030,7 +3030,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "338",
@@ -3039,7 +3039,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "339",
@@ -3048,7 +3048,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "340",
@@ -3057,7 +3057,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "341",
@@ -3066,7 +3066,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "342",
@@ -3075,7 +3075,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "343",
@@ -3084,7 +3084,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "344",
@@ -3093,7 +3093,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "345",
@@ -3102,7 +3102,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "346",
@@ -3111,7 +3111,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "347",
@@ -3120,7 +3120,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "348",
@@ -3129,7 +3129,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "349",
@@ -3138,7 +3138,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "350",
@@ -3147,7 +3147,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "351",
@@ -3156,7 +3156,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "352",
@@ -3174,7 +3174,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "354",
@@ -3183,7 +3183,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "355",
@@ -3192,7 +3192,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "356",
@@ -3201,7 +3201,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "357",
@@ -3210,7 +3210,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "358",
@@ -3219,7 +3219,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "359",
@@ -3228,7 +3228,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "360",
@@ -3237,7 +3237,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "361",
@@ -3246,7 +3246,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "362",
@@ -3255,7 +3255,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "363",
@@ -3264,7 +3264,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "364",
@@ -3273,7 +3273,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "365",
@@ -3282,7 +3282,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "366",
@@ -3291,7 +3291,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "367",
@@ -3300,7 +3300,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "368",
@@ -3309,7 +3309,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "369",
@@ -3318,7 +3318,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "370",
@@ -3327,7 +3327,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "371",
@@ -3336,7 +3336,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "372",
@@ -3345,7 +3345,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "373",
@@ -3354,7 +3354,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "374",
@@ -3363,7 +3363,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "375",
@@ -3372,7 +3372,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "376",
@@ -3381,7 +3381,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "377",
@@ -3390,7 +3390,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "378",
@@ -3399,7 +3399,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "379",
@@ -3408,7 +3408,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "380",
@@ -3417,7 +3417,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "381",
@@ -3426,7 +3426,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "382",
@@ -3435,7 +3435,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "383",
@@ -3444,7 +3444,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "384",
@@ -3453,7 +3453,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "385",
@@ -3462,7 +3462,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "386",
@@ -3471,7 +3471,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Pattern-M.Plain"
   },
   {
     "ProductId": "387",
@@ -3480,7 +3480,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "388",
@@ -3489,7 +3489,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "389",
@@ -3498,7 +3498,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "390",
@@ -3507,7 +3507,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "391",
@@ -3516,7 +3516,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "392",
@@ -3525,7 +3525,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "393",
@@ -3534,7 +3534,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "394",
@@ -3543,7 +3543,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "395",
@@ -3552,7 +3552,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "396",
@@ -3561,7 +3561,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Plain-M.Pattern"
   },
   {
     "ProductId": "397",
@@ -3570,7 +3570,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Pattern-M.Plain"
   },
   {
     "ProductId": "398",
@@ -3579,7 +3579,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "399",
@@ -3588,7 +3588,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "400",
@@ -3597,7 +3597,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "401",
@@ -3606,7 +3606,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "402",
@@ -3615,7 +3615,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "403",
@@ -3624,7 +3624,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Pattern-M.Plain"
   },
   {
     "ProductId": "404",
@@ -3633,7 +3633,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "405",
@@ -3642,7 +3642,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "406",
@@ -3651,7 +3651,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "407",
@@ -3660,7 +3660,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "408",
@@ -3669,7 +3669,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "409",
@@ -3678,7 +3678,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "410",
@@ -3687,7 +3687,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "411",
@@ -3696,7 +3696,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "412",
@@ -3705,7 +3705,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "413",
@@ -3714,7 +3714,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "414",
@@ -3723,7 +3723,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "415",
@@ -3732,7 +3732,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "416",
@@ -3741,7 +3741,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "417",
@@ -3750,7 +3750,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "418",
@@ -3759,7 +3759,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "419",
@@ -3768,7 +3768,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "420",
@@ -3777,7 +3777,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "421",
@@ -3786,7 +3786,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "422",
@@ -3795,7 +3795,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "423",
@@ -3804,7 +3804,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "424",
@@ -3813,7 +3813,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "425",
@@ -3822,7 +3822,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "426",
@@ -3831,7 +3831,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "427",
@@ -3840,7 +3840,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "428",
@@ -3849,7 +3849,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "429",
@@ -3858,7 +3858,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "430",
@@ -3867,7 +3867,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "431",
@@ -3876,7 +3876,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "432",
@@ -3885,7 +3885,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Plain-M.Pattern"
   },
   {
     "ProductId": "433",
@@ -3894,7 +3894,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "434",
@@ -3903,7 +3903,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "435",
@@ -3912,7 +3912,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "436",
@@ -3921,7 +3921,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "437",
@@ -3930,7 +3930,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "438",
@@ -3939,7 +3939,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "439",
@@ -3948,7 +3948,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "440",
@@ -3957,7 +3957,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "441",
@@ -3966,7 +3966,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "442",
@@ -3975,7 +3975,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "443",
@@ -3984,7 +3984,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "444",
@@ -3993,7 +3993,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "445",
@@ -4002,7 +4002,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "446",
@@ -4011,7 +4011,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Pattern-M.Plain"
   },
   {
     "ProductId": "447",
@@ -4020,7 +4020,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "448",
@@ -4029,7 +4029,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "449",
@@ -4038,7 +4038,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "450",
@@ -4047,7 +4047,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "451",
@@ -4056,7 +4056,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "452",
@@ -4065,7 +4065,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "453",
@@ -4074,7 +4074,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "454",
@@ -4083,7 +4083,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "455",
@@ -4092,7 +4092,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "456",
@@ -4101,7 +4101,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "457",
@@ -4110,7 +4110,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "458",
@@ -4119,7 +4119,7 @@
     "gold_18k_weight": " ",
     "gold_14k_weight": " ",
     "plat_900_weight": " ",
-    "surface_plain_pattern": " "
+    "surface_plain_pattern": "F.Pattern-M.Plain"
   },
   {
     "ProductId": "459",
@@ -8211,7 +8211,7 @@
     "ProductId": "913",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    10.25",
+    "gold_18k_weight": "10.25",
     "gold_14k_weight": "8.56",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -8418,7 +8418,7 @@
     "ProductId": "936",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    10.10",
+    "gold_18k_weight": "10.10",
     "gold_14k_weight": "8.44",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -8744,7 +8744,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "8.55",
     "gold_14k_weight": "7.85",
-    "plat_900_weight": "    11.29",
+    "plat_900_weight": "11.29",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -8834,7 +8834,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "8.43",
     "gold_14k_weight": "7.74",
-    "plat_900_weight": "    11.13",
+    "plat_900_weight": "11.13",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -8843,7 +8843,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "7.65",
     "gold_14k_weight": "7.03",
-    "plat_900_weight": "    10.10",
+    "plat_900_weight": "10.10",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -8870,7 +8870,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "7.61",
     "gold_14k_weight": "6.98",
-    "plat_900_weight": "    10.04",
+    "plat_900_weight": "10.04",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -8933,7 +8933,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "8.18",
     "gold_14k_weight": "7.51",
-    "plat_900_weight": "    10.79",
+    "plat_900_weight": "10.79",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -8949,7 +8949,7 @@
     "ProductId": "995",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    11.12",
+    "gold_18k_weight": "11.12",
     "gold_14k_weight": "9.29",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -9014,7 +9014,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "7.79",
     "gold_14k_weight": "7.16",
-    "plat_900_weight": "    10.29",
+    "plat_900_weight": "10.29",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -9077,7 +9077,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "9.05",
     "gold_14k_weight": "8.31",
-    "plat_900_weight": "    11.94",
+    "plat_900_weight": "11.94",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -9473,7 +9473,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "8.14",
     "gold_14k_weight": "7.47",
-    "plat_900_weight": "    10.74",
+    "plat_900_weight": "10.74",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -9482,7 +9482,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "9.72",
     "gold_14k_weight": "8.92",
-    "plat_900_weight": "    12.48",
+    "plat_900_weight": "12.48",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -9680,7 +9680,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "7.77",
     "gold_14k_weight": "7.13",
-    "plat_900_weight": "    10.26",
+    "plat_900_weight": "10.26",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -9723,7 +9723,7 @@
     "ProductId": "1081",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    10.29",
+    "gold_18k_weight": "10.29",
     "gold_14k_weight": "8.60",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -10974,8 +10974,8 @@
     "ProductId": "1220",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "7.2",
-    "gold_18k_weight": "    10.84",
-    "gold_14k_weight": "    10.11",
+    "gold_18k_weight": "10.84",
+    "gold_14k_weight": "10.11",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -11012,7 +11012,7 @@
     "main_gemstone_size": "6.3",
     "gold_18k_weight": "8.08",
     "gold_14k_weight": "7.42",
-    "plat_900_weight": "    10.67",
+    "plat_900_weight": "10.67",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -11163,7 +11163,7 @@
     "ProductId": "1241",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "7.2",
-    "gold_18k_weight": "    10.00",
+    "gold_18k_weight": "10.00",
     "gold_14k_weight": "9.32",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -11208,7 +11208,7 @@
     "ProductId": "1246",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.3",
-    "gold_18k_weight": "    10.00",
+    "gold_18k_weight": "10.00",
     "gold_14k_weight": "9.32",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -12333,8 +12333,8 @@
     "ProductId": "1371",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    11.01",
-    "gold_14k_weight": "    10.27",
+    "gold_18k_weight": "11.01",
+    "gold_14k_weight": "10.27",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12342,8 +12342,8 @@
     "ProductId": "1372",
     "main_gemstone_shape": "Emerald",
     "main_gemstone_size": "13.6*10.8",
-    "gold_18k_weight": "    26.05",
-    "gold_14k_weight": "    24.30",
+    "gold_18k_weight": "26.05",
+    "gold_14k_weight": "24.30",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12351,8 +12351,8 @@
     "ProductId": "1373",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    15.90",
-    "gold_14k_weight": "    14.83",
+    "gold_18k_weight": "15.90",
+    "gold_14k_weight": "14.83",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12360,8 +12360,8 @@
     "ProductId": "1374",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    13.55",
-    "gold_14k_weight": "    12.64",
+    "gold_18k_weight": "13.55",
+    "gold_14k_weight": "12.64",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12369,8 +12369,8 @@
     "ProductId": "1375",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    17.80",
-    "gold_14k_weight": "    16.60",
+    "gold_18k_weight": "17.80",
+    "gold_14k_weight": "16.60",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12378,8 +12378,8 @@
     "ProductId": "1376",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    19.22",
-    "gold_14k_weight": "    17.93",
+    "gold_18k_weight": "19.22",
+    "gold_14k_weight": "17.93",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12389,16 +12389,16 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "9.71",
     "gold_14k_weight": "8.91",
-    "plat_900_weight": "    12.81",
+    "plat_900_weight": "12.81",
     "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "1378",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    16.44",
-    "gold_14k_weight": "    15.09",
-    "plat_900_weight": "    21.70",
+    "gold_18k_weight": "16.44",
+    "gold_14k_weight": "15.09",
+    "plat_900_weight": "21.70",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -12407,15 +12407,15 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "9.75",
     "gold_14k_weight": "8.95",
-    "plat_900_weight": "    12.87",
+    "plat_900_weight": "12.87",
     "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "1380",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    14.06",
-    "gold_14k_weight": "    13.11",
+    "gold_18k_weight": "14.06",
+    "gold_14k_weight": "13.11",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12423,8 +12423,8 @@
     "ProductId": "1381",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    14.06",
-    "gold_14k_weight": "    13.11",
+    "gold_18k_weight": "14.06",
+    "gold_14k_weight": "13.11",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12434,7 +12434,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "8.50",
     "gold_14k_weight": "7.81",
-    "plat_900_weight": "    11.22",
+    "plat_900_weight": "11.22",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -12443,7 +12443,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "7.77",
     "gold_14k_weight": "7.13",
-    "plat_900_weight": "    10.25",
+    "plat_900_weight": "10.25",
     "surface_plain_pattern": "Pattern"
   },
   {
@@ -12459,17 +12459,17 @@
     "ProductId": "1385",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    11.33",
-    "gold_14k_weight": "    10.41",
-    "plat_900_weight": "    14.96",
+    "gold_18k_weight": "11.33",
+    "gold_14k_weight": "10.41",
+    "plat_900_weight": "14.96",
     "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "1386",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    11.92",
-    "gold_14k_weight": "    11.11",
+    "gold_18k_weight": "11.92",
+    "gold_14k_weight": "11.11",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12477,8 +12477,8 @@
     "ProductId": "1387",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    13.38",
-    "gold_14k_weight": "    12.48",
+    "gold_18k_weight": "13.38",
+    "gold_14k_weight": "12.48",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12486,8 +12486,8 @@
     "ProductId": "1388",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    12.40",
-    "gold_14k_weight": "    11.56",
+    "gold_18k_weight": "12.40",
+    "gold_14k_weight": "11.56",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12495,8 +12495,8 @@
     "ProductId": "1389",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    14.42",
-    "gold_14k_weight": "    13.45",
+    "gold_18k_weight": "14.42",
+    "gold_14k_weight": "13.45",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12504,8 +12504,8 @@
     "ProductId": "1390",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    12.67",
-    "gold_14k_weight": "    11.82",
+    "gold_18k_weight": "12.67",
+    "gold_14k_weight": "11.82",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12513,8 +12513,8 @@
     "ProductId": "1391",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    14.18",
-    "gold_14k_weight": "    13.81",
+    "gold_18k_weight": "14.18",
+    "gold_14k_weight": "13.81",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12522,8 +12522,8 @@
     "ProductId": "1392",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    11.82",
-    "gold_14k_weight": "    11.02",
+    "gold_18k_weight": "11.82",
+    "gold_14k_weight": "11.02",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -12531,8 +12531,8 @@
     "ProductId": "1393",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    12.80",
-    "gold_14k_weight": "    11.10",
+    "gold_18k_weight": "12.80",
+    "gold_14k_weight": "11.10",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12540,8 +12540,8 @@
     "ProductId": "1394",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    13.27",
-    "gold_14k_weight": "    12.37",
+    "gold_18k_weight": "13.27",
+    "gold_14k_weight": "12.37",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12549,8 +12549,8 @@
     "ProductId": "1395",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    11.38",
-    "gold_14k_weight": "    10.60",
+    "gold_18k_weight": "11.38",
+    "gold_14k_weight": "10.60",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12567,8 +12567,8 @@
     "ProductId": "1397",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    12.22",
-    "gold_14k_weight": "    11.40",
+    "gold_18k_weight": "12.22",
+    "gold_14k_weight": "11.40",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -12578,7 +12578,7 @@
     "main_gemstone_size": " ",
     "gold_18k_weight": "8.40",
     "gold_14k_weight": "7.83",
-    "plat_900_weight": "    11.26",
+    "plat_900_weight": "11.26",
     "surface_plain_pattern": "Plain"
   },
   {
@@ -12594,17 +12594,17 @@
     "ProductId": "1400",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "4",
-    "gold_18k_weight": "    10.44",
+    "gold_18k_weight": "10.44",
     "gold_14k_weight": "9.59",
-    "plat_900_weight": "    13.78",
+    "plat_900_weight": "13.78",
     "surface_plain_pattern": "Pattern"
   },
   {
     "ProductId": "1401",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.3",
-    "gold_18k_weight": "    17.54",
-    "gold_14k_weight": "    16.36",
+    "gold_18k_weight": "17.54",
+    "gold_14k_weight": "16.36",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12612,8 +12612,8 @@
     "ProductId": "1402",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    13.65",
-    "gold_14k_weight": "    12.73",
+    "gold_18k_weight": "13.65",
+    "gold_14k_weight": "12.73",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12621,8 +12621,8 @@
     "ProductId": "1403",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "4.5",
-    "gold_18k_weight": "    11.73",
-    "gold_14k_weight": "    10.94",
+    "gold_18k_weight": "11.73",
+    "gold_14k_weight": "10.94",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12630,8 +12630,8 @@
     "ProductId": "1404",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    15.43",
-    "gold_14k_weight": "    14.39",
+    "gold_18k_weight": "15.43",
+    "gold_14k_weight": "14.39",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12639,7 +12639,7 @@
     "ProductId": "1405",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    10.21",
+    "gold_18k_weight": "10.21",
     "gold_14k_weight": "9.52",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -12657,8 +12657,8 @@
     "ProductId": "1407",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    10.80",
-    "gold_14k_weight": "    10.07",
+    "gold_18k_weight": "10.80",
+    "gold_14k_weight": "10.07",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12666,8 +12666,8 @@
     "ProductId": "1408",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    10.80",
-    "gold_14k_weight": "    10.07",
+    "gold_18k_weight": "10.80",
+    "gold_14k_weight": "10.07",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12675,8 +12675,8 @@
     "ProductId": "1409",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    12.02",
-    "gold_14k_weight": "    11.20",
+    "gold_18k_weight": "12.02",
+    "gold_14k_weight": "11.20",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12684,8 +12684,8 @@
     "ProductId": "1410",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    12.55",
-    "gold_14k_weight": "    11.70",
+    "gold_18k_weight": "12.55",
+    "gold_14k_weight": "11.70",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -12693,8 +12693,8 @@
     "ProductId": "1411",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    10.77",
-    "gold_14k_weight": "    10.04",
+    "gold_18k_weight": "10.77",
+    "gold_14k_weight": "10.04",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12702,7 +12702,7 @@
     "ProductId": "1412",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    10.33",
+    "gold_18k_weight": "10.33",
     "gold_14k_weight": "9.63",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -12711,8 +12711,8 @@
     "ProductId": "1413",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    12.05",
-    "gold_14k_weight": "    11.24",
+    "gold_18k_weight": "12.05",
+    "gold_14k_weight": "11.24",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12720,7 +12720,7 @@
     "ProductId": "1414",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    10.09",
+    "gold_18k_weight": "10.09",
     "gold_14k_weight": "9.41",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -12729,8 +12729,8 @@
     "ProductId": "1415",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    13.96",
-    "gold_14k_weight": "    13.02",
+    "gold_18k_weight": "13.96",
+    "gold_14k_weight": "13.02",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12747,8 +12747,8 @@
     "ProductId": "1417",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    11.83",
-    "gold_14k_weight": "    11.03",
+    "gold_18k_weight": "11.83",
+    "gold_14k_weight": "11.03",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12756,8 +12756,8 @@
     "ProductId": "1418",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    13.38",
-    "gold_14k_weight": "    12.47",
+    "gold_18k_weight": "13.38",
+    "gold_14k_weight": "12.47",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12765,8 +12765,8 @@
     "ProductId": "1419",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.3",
-    "gold_18k_weight": "    17.10",
-    "gold_14k_weight": "    15.94",
+    "gold_18k_weight": "17.10",
+    "gold_14k_weight": "15.94",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12774,8 +12774,8 @@
     "ProductId": "1420",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.3",
-    "gold_18k_weight": "    27.26",
-    "gold_14k_weight": "    25.42",
+    "gold_18k_weight": "27.26",
+    "gold_14k_weight": "25.42",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12783,7 +12783,7 @@
     "ProductId": "1421",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "4.5",
-    "gold_18k_weight": "    10.23",
+    "gold_18k_weight": "10.23",
     "gold_14k_weight": "9.54",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -12792,8 +12792,8 @@
     "ProductId": "1422",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    15.99",
-    "gold_14k_weight": "    14.91",
+    "gold_18k_weight": "15.99",
+    "gold_14k_weight": "14.91",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12801,7 +12801,7 @@
     "ProductId": "1423",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    10.33",
+    "gold_18k_weight": "10.33",
     "gold_14k_weight": "9.63",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -12819,8 +12819,8 @@
     "ProductId": "1425",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    14.53",
-    "gold_14k_weight": "    13.55",
+    "gold_18k_weight": "14.53",
+    "gold_14k_weight": "13.55",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -12828,7 +12828,7 @@
     "ProductId": "1426",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    10.63",
+    "gold_18k_weight": "10.63",
     "gold_14k_weight": "9.91",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -12837,8 +12837,8 @@
     "ProductId": "1427",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    12.33",
-    "gold_14k_weight": "    11.47",
+    "gold_18k_weight": "12.33",
+    "gold_14k_weight": "11.47",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12855,8 +12855,8 @@
     "ProductId": "1429",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "4.5",
-    "gold_18k_weight": "    19.68",
-    "gold_14k_weight": "    18.35",
+    "gold_18k_weight": "19.68",
+    "gold_14k_weight": "18.35",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -12864,7 +12864,7 @@
     "ProductId": "1430",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.3",
-    "gold_18k_weight": "    10.57",
+    "gold_18k_weight": "10.57",
     "gold_14k_weight": "8.83",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
@@ -12873,8 +12873,8 @@
     "ProductId": "1431",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    17.94",
-    "gold_14k_weight": "    15.00",
+    "gold_18k_weight": "17.94",
+    "gold_14k_weight": "15.00",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -12882,8 +12882,8 @@
     "ProductId": "1432",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    14.89",
-    "gold_14k_weight": "    12.44",
+    "gold_18k_weight": "14.89",
+    "gold_14k_weight": "12.44",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -12891,8 +12891,8 @@
     "ProductId": "1433",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    13.22",
-    "gold_14k_weight": "    11.05",
+    "gold_18k_weight": "13.22",
+    "gold_14k_weight": "11.05",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12900,8 +12900,8 @@
     "ProductId": "1434",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.3",
-    "gold_18k_weight": "    16.49",
-    "gold_14k_weight": "    13.78",
+    "gold_18k_weight": "16.49",
+    "gold_14k_weight": "13.78",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12918,7 +12918,7 @@
     "ProductId": "1436",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6",
-    "gold_18k_weight": "    11.48",
+    "gold_18k_weight": "11.48",
     "gold_14k_weight": "9.60",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
@@ -12927,8 +12927,8 @@
     "ProductId": "1437",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "4.1",
-    "gold_18k_weight": "    16.78",
-    "gold_14k_weight": "    14.03",
+    "gold_18k_weight": "16.78",
+    "gold_14k_weight": "14.03",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -12936,8 +12936,8 @@
     "ProductId": "1438",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    20.97",
-    "gold_14k_weight": "    17.53",
+    "gold_18k_weight": "20.97",
+    "gold_14k_weight": "17.53",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12972,8 +12972,8 @@
     "ProductId": "1442",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "4.1",
-    "gold_18k_weight": "    12.22",
-    "gold_14k_weight": "    11.39",
+    "gold_18k_weight": "12.22",
+    "gold_14k_weight": "11.39",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -12981,7 +12981,7 @@
     "ProductId": "1443",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    10.19",
+    "gold_18k_weight": "10.19",
     "gold_14k_weight": "8.52",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -12999,8 +12999,8 @@
     "ProductId": "1445",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.3",
-    "gold_18k_weight": "    12.80",
-    "gold_14k_weight": "    10.70",
+    "gold_18k_weight": "12.80",
+    "gold_14k_weight": "10.70",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13017,8 +13017,8 @@
     "ProductId": "1447",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.3",
-    "gold_18k_weight": "    18.20",
-    "gold_14k_weight": "    15.21",
+    "gold_18k_weight": "18.20",
+    "gold_14k_weight": "15.21",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13026,8 +13026,8 @@
     "ProductId": "1448",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    16.52",
-    "gold_14k_weight": "    13.81",
+    "gold_18k_weight": "16.52",
+    "gold_14k_weight": "13.81",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13035,7 +13035,7 @@
     "ProductId": "1449",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "4.5",
-    "gold_18k_weight": "    10.03",
+    "gold_18k_weight": "10.03",
     "gold_14k_weight": "8.39",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13044,8 +13044,8 @@
     "ProductId": "1450",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "4.1",
-    "gold_18k_weight": "    16.89",
-    "gold_14k_weight": "    14.12",
+    "gold_18k_weight": "16.89",
+    "gold_14k_weight": "14.12",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13053,8 +13053,8 @@
     "ProductId": "1451",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6",
-    "gold_18k_weight": "    13.08",
-    "gold_14k_weight": "    10.93",
+    "gold_18k_weight": "13.08",
+    "gold_14k_weight": "10.93",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13062,17 +13062,17 @@
     "ProductId": "1452",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.3",
-    "gold_18k_weight": "    11.27",
-    "gold_14k_weight": "    10.34",
-    "plat_900_weight": "    14.87",
+    "gold_18k_weight": "11.27",
+    "gold_14k_weight": "10.34",
+    "plat_900_weight": "14.87",
     "surface_plain_pattern": "Plain"
   },
   {
     "ProductId": "1453",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    12.15",
-    "gold_14k_weight": "    10.15",
+    "gold_18k_weight": "12.15",
+    "gold_14k_weight": "10.15",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13080,7 +13080,7 @@
     "ProductId": "1454",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.4",
-    "gold_18k_weight": "    10.51",
+    "gold_18k_weight": "10.51",
     "gold_14k_weight": "8.79",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13098,7 +13098,7 @@
     "ProductId": "1456",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "4.5",
-    "gold_18k_weight": "    10.75",
+    "gold_18k_weight": "10.75",
     "gold_14k_weight": "8.98",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13107,8 +13107,8 @@
     "ProductId": "1457",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    12.62",
-    "gold_14k_weight": "    10.55",
+    "gold_18k_weight": "12.62",
+    "gold_14k_weight": "10.55",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13116,8 +13116,8 @@
     "ProductId": "1458",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "5.5",
-    "gold_18k_weight": "    14.34",
-    "gold_14k_weight": "    11.99",
+    "gold_18k_weight": "14.34",
+    "gold_14k_weight": "11.99",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13125,8 +13125,8 @@
     "ProductId": "1459",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    13.52",
-    "gold_14k_weight": "    11.30",
+    "gold_18k_weight": "13.52",
+    "gold_14k_weight": "11.30",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13134,8 +13134,8 @@
     "ProductId": "1460",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "4.5",
-    "gold_18k_weight": "    13.64",
-    "gold_14k_weight": "    11.40",
+    "gold_18k_weight": "13.64",
+    "gold_14k_weight": "11.40",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13143,8 +13143,8 @@
     "ProductId": "1461",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "5",
-    "gold_18k_weight": "    16.42",
-    "gold_14k_weight": "    13.72",
+    "gold_18k_weight": "16.42",
+    "gold_14k_weight": "13.72",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13152,7 +13152,7 @@
     "ProductId": "1462",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "4.5",
-    "gold_18k_weight": "    11.58",
+    "gold_18k_weight": "11.58",
     "gold_14k_weight": "9.68",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13161,8 +13161,8 @@
     "ProductId": "1463",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "4.5",
-    "gold_18k_weight": "    19.89",
-    "gold_14k_weight": "    16.63",
+    "gold_18k_weight": "19.89",
+    "gold_14k_weight": "16.63",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13170,8 +13170,8 @@
     "ProductId": "1464",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "6",
-    "gold_18k_weight": "    12.37",
-    "gold_14k_weight": "    10.34",
+    "gold_18k_weight": "12.37",
+    "gold_14k_weight": "10.34",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13179,8 +13179,8 @@
     "ProductId": "1465",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    15.36",
-    "gold_14k_weight": "    12.84",
+    "gold_18k_weight": "15.36",
+    "gold_14k_weight": "12.84",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13188,8 +13188,8 @@
     "ProductId": "1466",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    17.74",
-    "gold_14k_weight": "    14.83",
+    "gold_18k_weight": "17.74",
+    "gold_14k_weight": "14.83",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13197,8 +13197,8 @@
     "ProductId": "1467",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    16.46",
-    "gold_14k_weight": "    13.76",
+    "gold_18k_weight": "16.46",
+    "gold_14k_weight": "13.76",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13206,8 +13206,8 @@
     "ProductId": "1468",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    13.38",
-    "gold_14k_weight": "    11.18",
+    "gold_18k_weight": "13.38",
+    "gold_14k_weight": "11.18",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13215,8 +13215,8 @@
     "ProductId": "1469",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "4.1",
-    "gold_18k_weight": "    12.77",
-    "gold_14k_weight": "    10.67",
+    "gold_18k_weight": "12.77",
+    "gold_14k_weight": "10.67",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13224,8 +13224,8 @@
     "ProductId": "1470",
     "main_gemstone_shape": "Emerald",
     "main_gemstone_size": "8",
-    "gold_18k_weight": "    17.13",
-    "gold_14k_weight": "    14.32",
+    "gold_18k_weight": "17.13",
+    "gold_14k_weight": "14.32",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13233,8 +13233,8 @@
     "ProductId": "1471",
     "main_gemstone_shape": "Emerald",
     "main_gemstone_size": "6.3",
-    "gold_18k_weight": "    14.42",
-    "gold_14k_weight": "    12.05",
+    "gold_18k_weight": "14.42",
+    "gold_14k_weight": "12.05",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13242,7 +13242,7 @@
     "ProductId": "1472",
     "main_gemstone_shape": "Emerald",
     "main_gemstone_size": "8",
-    "gold_18k_weight": "    11.39",
+    "gold_18k_weight": "11.39",
     "gold_14k_weight": "9.52",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13251,8 +13251,8 @@
     "ProductId": "1473",
     "main_gemstone_shape": "Emerald",
     "main_gemstone_size": "8",
-    "gold_18k_weight": "    17.40",
-    "gold_14k_weight": "    14.55",
+    "gold_18k_weight": "17.40",
+    "gold_14k_weight": "14.55",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13260,7 +13260,7 @@
     "ProductId": "1474",
     "main_gemstone_shape": "Emerald",
     "main_gemstone_size": "6.5",
-    "gold_18k_weight": "    11.54",
+    "gold_18k_weight": "11.54",
     "gold_14k_weight": "9.65",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13269,8 +13269,8 @@
     "ProductId": "1475",
     "main_gemstone_shape": "Emerald",
     "main_gemstone_size": "8",
-    "gold_18k_weight": "    15.07",
-    "gold_14k_weight": "    12.60",
+    "gold_18k_weight": "15.07",
+    "gold_14k_weight": "12.60",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13278,8 +13278,8 @@
     "ProductId": "1476",
     "main_gemstone_shape": "Emerald",
     "main_gemstone_size": "8",
-    "gold_18k_weight": "    16.93",
-    "gold_14k_weight": "    14.15",
+    "gold_18k_weight": "16.93",
+    "gold_14k_weight": "14.15",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13287,8 +13287,8 @@
     "ProductId": "1477",
     "main_gemstone_shape": "Emerald",
     "main_gemstone_size": "5.4",
-    "gold_18k_weight": "    13.84",
-    "gold_14k_weight": "    11.56",
+    "gold_18k_weight": "13.84",
+    "gold_14k_weight": "11.56",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13296,7 +13296,7 @@
     "ProductId": "1478",
     "main_gemstone_shape": "Oval",
     "main_gemstone_size": "7",
-    "gold_18k_weight": "    11.69",
+    "gold_18k_weight": "11.69",
     "gold_14k_weight": "9.77",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13314,8 +13314,8 @@
     "ProductId": "1480",
     "main_gemstone_shape": "Oval",
     "main_gemstone_size": "8",
-    "gold_18k_weight": "    13.55",
-    "gold_14k_weight": "    11.32",
+    "gold_18k_weight": "13.55",
+    "gold_14k_weight": "11.32",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13323,7 +13323,7 @@
     "ProductId": "1481",
     "main_gemstone_shape": "Oval",
     "main_gemstone_size": "8",
-    "gold_18k_weight": "    10.53",
+    "gold_18k_weight": "10.53",
     "gold_14k_weight": "8.80",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13332,8 +13332,8 @@
     "ProductId": "1482",
     "main_gemstone_shape": "Cushion",
     "main_gemstone_size": "7.5",
-    "gold_18k_weight": "    16.30",
-    "gold_14k_weight": "    13.62",
+    "gold_18k_weight": "16.30",
+    "gold_14k_weight": "13.62",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13359,8 +13359,8 @@
     "ProductId": "1485",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    16.29",
-    "gold_14k_weight": "    13.61",
+    "gold_18k_weight": "16.29",
+    "gold_14k_weight": "13.61",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13368,7 +13368,7 @@
     "ProductId": "1486",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    10.53",
+    "gold_18k_weight": "10.53",
     "gold_14k_weight": "8.80",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13386,7 +13386,7 @@
     "ProductId": "1488",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    11.20",
+    "gold_18k_weight": "11.20",
     "gold_14k_weight": "9.36",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
@@ -13395,7 +13395,7 @@
     "ProductId": "1489",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    10.96",
+    "gold_18k_weight": "10.96",
     "gold_14k_weight": "9.16",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13404,8 +13404,8 @@
     "ProductId": "1490",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    15.00",
-    "gold_14k_weight": "    12.54",
+    "gold_18k_weight": "15.00",
+    "gold_14k_weight": "12.54",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13413,8 +13413,8 @@
     "ProductId": "1491",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    14.30",
-    "gold_14k_weight": "    11.95",
+    "gold_18k_weight": "14.30",
+    "gold_14k_weight": "11.95",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13422,7 +13422,7 @@
     "ProductId": "1492",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    11.62",
+    "gold_18k_weight": "11.62",
     "gold_14k_weight": "9.71",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13431,7 +13431,7 @@
     "ProductId": "1493",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    10.62",
+    "gold_18k_weight": "10.62",
     "gold_14k_weight": "8.88",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13440,7 +13440,7 @@
     "ProductId": "1494",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    10.62",
+    "gold_18k_weight": "10.62",
     "gold_14k_weight": "8.88",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
@@ -13458,8 +13458,8 @@
     "ProductId": "1496",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    12.49",
-    "gold_14k_weight": "    10.44",
+    "gold_18k_weight": "12.49",
+    "gold_14k_weight": "10.44",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13476,8 +13476,8 @@
     "ProductId": "1498",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    12.41",
-    "gold_14k_weight": "    10.38",
+    "gold_18k_weight": "12.41",
+    "gold_14k_weight": "10.38",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13485,7 +13485,7 @@
     "ProductId": "1499",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    10.61",
+    "gold_18k_weight": "10.61",
     "gold_14k_weight": "8.87",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
@@ -13494,7 +13494,7 @@
     "ProductId": "1500",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    10.61",
+    "gold_18k_weight": "10.61",
     "gold_14k_weight": "8.87",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
@@ -13503,8 +13503,8 @@
     "ProductId": "1501",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    23.32",
-    "gold_14k_weight": "    19.49",
+    "gold_18k_weight": "23.32",
+    "gold_14k_weight": "19.49",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13512,8 +13512,8 @@
     "ProductId": "1502",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    12.75",
-    "gold_14k_weight": "    10.65",
+    "gold_18k_weight": "12.75",
+    "gold_14k_weight": "10.65",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13521,8 +13521,8 @@
     "ProductId": "1503",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    11.63",
-    "gold_14k_weight": "    10.85",
+    "gold_18k_weight": "11.63",
+    "gold_14k_weight": "10.85",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13530,8 +13530,8 @@
     "ProductId": "1504",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.1",
-    "gold_18k_weight": "    12.98",
-    "gold_14k_weight": "    12.10",
+    "gold_18k_weight": "12.98",
+    "gold_14k_weight": "12.10",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13539,8 +13539,8 @@
     "ProductId": "1505",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "6.3",
-    "gold_18k_weight": "    11.82",
-    "gold_14k_weight": "    11.02",
+    "gold_18k_weight": "11.82",
+    "gold_14k_weight": "11.02",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13548,8 +13548,8 @@
     "ProductId": "1506",
     "main_gemstone_shape": "Princess",
     "main_gemstone_size": "7.2",
-    "gold_18k_weight": "    14.08",
-    "gold_14k_weight": "    13.13",
+    "gold_18k_weight": "14.08",
+    "gold_14k_weight": "13.13",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13557,8 +13557,8 @@
     "ProductId": "1507",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "7.1",
-    "gold_18k_weight": "    10.88",
-    "gold_14k_weight": "    10.14",
+    "gold_18k_weight": "10.88",
+    "gold_14k_weight": "10.14",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13575,8 +13575,8 @@
     "ProductId": "1509",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": "4.1",
-    "gold_18k_weight": "    15.78",
-    "gold_14k_weight": "    14.71",
+    "gold_18k_weight": "15.78",
+    "gold_14k_weight": "14.71",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13584,8 +13584,8 @@
     "ProductId": "1510",
     "main_gemstone_shape": "Emerald",
     "main_gemstone_size": "8.0*6.0",
-    "gold_18k_weight": "    13.91",
-    "gold_14k_weight": "    12.98",
+    "gold_18k_weight": "13.91",
+    "gold_14k_weight": "12.98",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Pattern"
   },
@@ -13593,8 +13593,8 @@
     "ProductId": "1511",
     "main_gemstone_shape": "Emerald",
     "main_gemstone_size": "9.1*7.2",
-    "gold_18k_weight": "    12.42",
-    "gold_14k_weight": "    11.59",
+    "gold_18k_weight": "12.42",
+    "gold_14k_weight": "11.59",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13602,8 +13602,8 @@
     "ProductId": "1512",
     "main_gemstone_shape": "Oval",
     "main_gemstone_size": "11.8*9.0",
-    "gold_18k_weight": "    14.97",
-    "gold_14k_weight": "    13.96",
+    "gold_18k_weight": "14.97",
+    "gold_14k_weight": "13.96",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13611,8 +13611,8 @@
     "ProductId": "1513",
     "main_gemstone_shape": "Oval",
     "main_gemstone_size": "9.0*7.0",
-    "gold_18k_weight": "    11.67",
-    "gold_14k_weight": "    10.88",
+    "gold_18k_weight": "11.67",
+    "gold_14k_weight": "10.88",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13944,8 +13944,8 @@
     "ProductId": "1550",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    38.42",
-    "gold_14k_weight": "    35.83",
+    "gold_18k_weight": "38.42",
+    "gold_14k_weight": "35.83",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },
@@ -13953,8 +13953,8 @@
     "ProductId": "1551",
     "main_gemstone_shape": "",
     "main_gemstone_size": " ",
-    "gold_18k_weight": "    52.34",
-    "gold_14k_weight": "    48.80",
+    "gold_18k_weight": "52.34",
+    "gold_14k_weight": "48.80",
     "plat_900_weight": " ",
     "surface_plain_pattern": "Plain"
   },

@@ -457,636 +457,636 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 456,NCC9009,,Nhẫn cưới,,M.15-F.10,,,
 457,NCC9010,,Nhẫn cưới,,M.15-F.09,,,
 458,NCC9011,,Nhẫn cưới,,M.18-F.12,,,
-459,NCF0001,,Nhẫn cưới nữ,,85,15.0,405.0,
-460,NCF0002,,Nhẫn cưới nữ,,8,18.0,28.0,
-461,NCF0003,,Nhẫn cưới nữ,,8,14.0,24.0,
-462,NCF0004,,Nhẫn cưới nữ,,10,13.0,22.0,
-463,NCF0005,,Nhẫn cưới nữ,,11,13.0,18.0,
-464,NCF0006,,Nhẫn cưới nữ,,9,14.0,2.0,
-465,NCF0007,,Nhẫn cưới nữ,,15,21.0,2.0,
-466,NCF0008,,Nhẫn cưới nữ,,9,14.0,34.0,
-467,NCF0009,,Nhẫn cưới nữ,,9,13.0,2.0,
-468,NCF0010,,Nhẫn cưới nữ,,9,13.0,2.0,
-469,NCF0011,,Nhẫn cưới nữ,,10,16.0,22.0,
-470,NCF0012,,Nhẫn cưới nữ,,5,13.0,25.0,
-471,NCF0013,,Nhẫn cưới nữ,,11,17.0,38.0,
-472,NCF0016,,Nhẫn cưới nữ,,10,14.0,3.0,
-473,NCF0017,,Nhẫn cưới nữ,,11,13.0,18.0,
-474,NCF0018,,Nhẫn cưới nữ,,11,14.0,25.0,
-475,NCF0022,,Nhẫn cưới nữ,,11,15.0,277.0,
-476,NCF0024,,Nhẫn cưới nữ,,11,14.0,29.0,
-477,NCF0027,,Nhẫn cưới nữ,,10,17.0,37.0,
-478,NCF0029,Twisted Love,Nhẫn cưới nữ,,9,17.0,24.0,
-479,NCF0036,,Nhẫn cưới nữ,,12,13.0,3.0,
-480,NCF0040,,Nhẫn cưới nữ,,12,25.0,3.0,
+459,NCF0001,,Nhẫn cưới nữ,,85,1.5,4.05,
+460,NCF0002,,Nhẫn cưới nữ,,8,1.8,2.8,
+461,NCF0003,,Nhẫn cưới nữ,,8,1.4,2.4,
+462,NCF0004,,Nhẫn cưới nữ,,10,1.3,2.2,
+463,NCF0005,,Nhẫn cưới nữ,,11,1.3,1.8,
+464,NCF0006,,Nhẫn cưới nữ,,9,1.4,2.0,
+465,NCF0007,,Nhẫn cưới nữ,,15,2.1,2.0,
+466,NCF0008,,Nhẫn cưới nữ,,9,1.4,3.4,
+467,NCF0009,,Nhẫn cưới nữ,,9,1.3,2.0,
+468,NCF0010,,Nhẫn cưới nữ,,9,1.3,2.0,
+469,NCF0011,,Nhẫn cưới nữ,,10,1.6,2.2,
+470,NCF0012,,Nhẫn cưới nữ,,5,1.3,2.5,
+471,NCF0013,,Nhẫn cưới nữ,,11,1.7,3.8,
+472,NCF0016,,Nhẫn cưới nữ,,10,1.4,3.0,
+473,NCF0017,,Nhẫn cưới nữ,,11,1.3,1.8,
+474,NCF0018,,Nhẫn cưới nữ,,11,1.4,2.5,
+475,NCF0022,,Nhẫn cưới nữ,,11,1.5,2.77,
+476,NCF0024,,Nhẫn cưới nữ,,11,1.4,2.9,
+477,NCF0027,,Nhẫn cưới nữ,,10,1.7,3.7,
+478,NCF0029,Twisted Love,Nhẫn cưới nữ,,9,1.7,2.4,
+479,NCF0036,,Nhẫn cưới nữ,,12,1.3,3.0,
+480,NCF0040,,Nhẫn cưới nữ,,12,2.5,3.0,
 481,"NCF0041
-",,Nhẫn cưới nữ,,11,15.0,28.0,
-482,NCF0042,,Nhẫn cưới nữ,,12,15.0,43.0,
-483,NCF0043,,Nhẫn cưới nữ,,12,17.0,36.0,
-484,NCF0044,,Nhẫn cưới nữ,,11,14.0,4.0,
-485,NCF0045,,Nhẫn cưới nữ,,11,14.0,41.0,
-486,NCF0046,,Nhẫn cưới nữ,,11,14.0,42.0,
-487,NCF0101,,Nhẫn thời trang,,10,13.0,22.0,
-488,NCF0102,,Nhẫn thời trang,,11,15.0,25.0,
-489,NCF0103,,Nhẫn thời trang,,10,13.0,17.0,
-490,NCF0104,,Nhẫn thời trang,,10,15.0,23.0,
-491,NCF0105,,Nhẫn thời trang,,12,15.0,27.0,
-492,NCF0106,,Nhẫn thời trang,,13,15.0,261.0,
-493,NCF0107,,Nhẫn thời trang,,10,14.0,19.0,
-494,NCF0108,,Nhẫn thời trang,,10,145.0,25.0,
-495,NCF0109,,Nhẫn thời trang,,11,145.0,25.0,
-496,NCF0111,,Nhẫn thời trang,,10,13.0,15.0,
-497,NCF0114,,Nhẫn thời trang,,10,15.0,18.0,
-498,NCF0117,,Nhẫn thời trang,,10,13.0,16.0,
-499,NCF0118,,Nhẫn thời trang,,12,13.0,21.0,
-500,NCF0119,,Nhẫn thời trang,,10,145.0,21.0,
-501,NCF0120,,Nhẫn thời trang,,12,14.0,17.0,
-502,NCF0121,,Nhẫn thời trang,,10,15.0,19.0,
-503,NCF0122,,Nhẫn thời trang,,10,14.0,17.0,
-504,NCF0124,,Nhẫn thời trang,,10,13.0,2.0,
-505,NCF0125,,Nhẫn thời trang,,10,15.0,4.0,
-506,NCF0126,,Nhẫn thời trang,,10,16.0,3.0,
-507,NCF0127,,Nhẫn thời trang,,10,14.0,18.0,
-508,NCF0128,,Nhẫn thời trang,,10,14.0,15.0,
-509,NCF0129,,Nhẫn thời trang,,10,13.0,12.0,
-510,NCF0131,,Nhẫn thời trang,,10,13.0,16.0,
-511,NCF0132,,Nhẫn thời trang,,10,165.0,2.0,
-512,NCF0133,,Nhẫn thời trang,,10,145.0,35.0,
-513,NCF0134,,Nhẫn thời trang,,10,16.0,23.0,
-514,NCF0135,,Nhẫn thời trang,,10,18.0,28.0,
-515,NCF0136,,Nhẫn thời trang,,10,18.0,26.0,
-516,NCF0138,,Nhẫn thời trang,,10,14.0,29.0,
-517,NCF0139,,Nhẫn thời trang,,10,14.0,24.0,
-518,NCF0140,,Nhẫn thời trang,,15,14.0,32.0,
-519,NCF0141,,Nhẫn thời trang,,11,13.0,21.0,
-520,NCF0142,,Nhẫn thời trang,,11,13.0,21.0,
-521,NCF0143,,Nhẫn thời trang,,11,12.0,195.0,
-522,NCF1002,,Nhẫn cưới nữ,,11,13.0,21.0,
-523,NCF1003,,Nhẫn cưới nữ,,11,14.0,305.0,
-524,NCF1004,,Nhẫn cưới nữ,,11,15.0,15.0,
-525,NCF1005,,Nhẫn cưới nữ,,165,16.0,2.0,
-526,NCF1006,,Nhẫn cưới nữ,,105,13.0,21.0,
-527,NCF1007,,Nhẫn cưới nữ,,10,16.0,34.0,
-528,NCF1008,,Nhẫn cưới nữ,,9,16.0,33.0,
-529,NCF1009,,Nhẫn cưới nữ,,8,14.0,14.0,
-530,NCF1010,,Nhẫn cưới nữ,,10,14.0,32.0,
-531,NCF1011,,Nhẫn cưới nữ,,105,14.0,35.0,
-532,NCF1012,,Nhẫn cưới nữ,,11,14.0,28.0,
-533,NCF1013,,Nhẫn cưới nữ,,10,15.0,25.0,
-534,NCF1014,,Nhẫn cưới nữ,,8,12.0,22.0,
-535,NCF1015,,Nhẫn cưới nữ,,8,14.0,3.0,
-536,NCF1016,,Nhẫn cưới nữ,,8,15.0,3.0,
-537,NCF1017,,Nhẫn cưới nữ,,8,13.0,19.0,
-538,NCF1018,,Nhẫn cưới nữ,,9,12.0,24.0,
-539,NCF1019,,Nhẫn cưới nữ,,12,13.0,38.0,
-540,NCF1020,,Nhẫn cưới nữ,,8,14.0,31.0,
-541,NCF1021,,Nhẫn cưới nữ,,8,14.0,25.0,
-542,NCF1022,,Nhẫn cưới nữ,,8,14.0,25.0,
-543,NCF1023,,Nhẫn cưới nữ,,8,13.0,27.0,
-544,NCF1024,,Nhẫn cưới nữ,,10,13.0,18.0,
-545,NCF1025,,Nhẫn cưới nữ,,11,15.0,32.0,
-546,NCF1027,,Nhẫn cưới nữ,,11,13.0,34.0,
-547,NCF1028,,Nhẫn cưới nữ,,11,13.0,25.0,
-548,NCF1033,,Nhẫn cưới nữ,,9,14.0,25.0,
-549,NCF1036,,Nhẫn cưới nữ,,11,13.0,17.0,
-550,NCF1037,,Nhẫn cưới nữ,,10,15.0,29.0,
-551,NCF1038,,Nhẫn cưới nữ,,10,14.0,18.0,
-552,NCF1039,,Nhẫn cưới nữ,,10,15.0,22.0,
-553,NCF1040,,Nhẫn cưới nữ,,11,12.0,17.0,
-554,NCF1041,,Nhẫn cưới nữ,,9,13.0,3.0,
-555,NCF1042,,Nhẫn cưới nữ,,11,14.0,29.0,
-556,NCF1043,,Nhẫn cưới nữ,,11,13.0,13.0,
-557,NCF1044,,Nhẫn cưới nữ,,11,13.0,32.0,
-558,NCF1046,,Nhẫn cưới nữ,,11,13.0,16.0,
-559,NCF1047,,Nhẫn cưới nữ,,10,14.0,23.0,
-560,NCF1048,,Nhẫn cưới nữ,,10,13.0,35.0,
-561,NCF2001,,Nhẫn cưới nữ,,8,13.0,26.0,
-562,NCF2002,,Nhẫn cưới nữ,,9,13.0,4.0,
-563,NCF2003,,Nhẫn cưới nữ,,11,13.0,43.0,
-564,NCF2004,,Nhẫn cưới nữ,,12,16.0,34.0,
-565,NCF2005,,Nhẫn cưới nữ,,12,13.0,38.0,
-566,NCF2006,,Nhẫn cưới nữ,,10,13.0,35.0,
-567,NCF2007,,Nhẫn cưới nữ,,11,139.0,35.0,
-568,NCF2008,,Nhẫn cưới nữ,,10,13.0,2.0,
-569,NCF2009,,Nhẫn cưới nữ,,95,14.0,25.0,
-570,NCF2010,,Nhẫn cưới nữ,,11,13.0,25.0,
-571,NCF2011,,Nhẫn cưới nữ,,9,13.0,29.0,
-572,NCF2012,,Nhẫn cưới nữ,,11,14.0,38.0,
-573,NCF2013,,Nhẫn cưới nữ,,10,13.0,455.0,
-574,NCF2014,,Nhẫn cưới nữ,,8,14.0,43.0,
-575,NCF2015,,Nhẫn cưới nữ,,95,137.0,3.0,
-576,NCF2016,,Nhẫn cưới nữ,,10,11.0,34.0,
-577,NCF2017,,Nhẫn cưới nữ,,10,13.0,36.0,
-578,NCF2018,,Nhẫn cưới nữ,,8,13.0,38.0,
-579,NCF2019,,Nhẫn cưới nữ,,10,17.0,4.0,
-580,NCF2020,,Nhẫn cưới nữ,,10,1.0,24.0,
-581,NCF2021,,Nhẫn cưới nữ,,10,19.0,45.0,
-582,NCF2022,,Nhẫn cưới nữ,,10,11.0,28.0,
-583,NCF2023,,Nhẫn cưới nữ,,10,11.0,23.0,
-584,NCF2024,,Nhẫn cưới nữ,,10,11.0,45.0,
-585,NCF2025,,Nhẫn cưới nữ,,6,14.0,35.0,
-586,NCF2026,,Nhẫn cưới nữ,,10,15.0,6.0,
-587,NCF2027,,Nhẫn cưới nữ,,95,14.0,32.0,
-588,NCF2028,,Nhẫn cưới nữ,,10,16.0,45.0,
-589,NCF2029,,Nhẫn cưới nữ,,8,13.0,26.0,
-590,NCF2030,,Nhẫn cưới nữ,,10,14.0,55.0,
-591,NCF2031,,Nhẫn cưới nữ,,11,14.0,25.0,
-592,NCF2032,,Nhẫn cưới nữ,,10,15.0,38.0,
-593,NCF2033,,Nhẫn cưới nữ,,8,17.0,4.0,
-594,NCF2034,,Nhẫn cưới nữ,,14,15.0,24.0,
-595,NCF2035,,Nhẫn cưới nữ,,8,13.0,27.0,
-596,NCF2036,,Nhẫn cưới nữ,,14,14.0,35.0,
-597,NCF2037,,Nhẫn cưới nữ,,9,15.0,14.0,
-598,NCF2038,,Nhẫn cưới nữ,,8,13.0,28.0,
+",,Nhẫn cưới nữ,,11,1.5,2.8,
+482,NCF0042,,Nhẫn cưới nữ,,12,1.5,4.3,
+483,NCF0043,,Nhẫn cưới nữ,,12,1.7,3.6,
+484,NCF0044,,Nhẫn cưới nữ,,11,1.4,4.0,
+485,NCF0045,,Nhẫn cưới nữ,,11,1.4,4.1,
+486,NCF0046,,Nhẫn cưới nữ,,11,1.4,4.2,
+487,NCF0101,,Nhẫn thời trang,,10,1.3,2.2,
+488,NCF0102,,Nhẫn thời trang,,11,1.5,2.5,
+489,NCF0103,,Nhẫn thời trang,,10,1.3,1.7,
+490,NCF0104,,Nhẫn thời trang,,10,1.5,2.3,
+491,NCF0105,,Nhẫn thời trang,,12,1.5,2.7,
+492,NCF0106,,Nhẫn thời trang,,13,,,
+493,NCF0107,,Nhẫn thời trang,,10,1.4,1.9,
+494,NCF0108,,Nhẫn thời trang,,10,1.45,2.5,
+495,NCF0109,,Nhẫn thời trang,,11,1.45,2.5,
+496,NCF0111,,Nhẫn thời trang,,10,1.3,1.5,
+497,NCF0114,,Nhẫn thời trang,,10,1.5,1.8,
+498,NCF0117,,Nhẫn thời trang,,10,1.3,1.6,
+499,NCF0118,,Nhẫn thời trang,,12,1.3,2.1,
+500,NCF0119,,Nhẫn thời trang,,10,1.45,2.1,
+501,NCF0120,,Nhẫn thời trang,,12,1.4,1.7,
+502,NCF0121,,Nhẫn thời trang,,10,1.5,1.9,
+503,NCF0122,,Nhẫn thời trang,,10,1.4,1.7,
+504,NCF0124,,Nhẫn thời trang,,10,1.3,2.0,
+505,NCF0125,,Nhẫn thời trang,,10,1.5,4.0,
+506,NCF0126,,Nhẫn thời trang,,10,1.6,3.0,
+507,NCF0127,,Nhẫn thời trang,,10,1.4,1.8,
+508,NCF0128,,Nhẫn thời trang,,10,1.4,1.5,
+509,NCF0129,,Nhẫn thời trang,,10,1.3,1.2,
+510,NCF0131,,Nhẫn thời trang,,10,1.3,1.6,
+511,NCF0132,,Nhẫn thời trang,,10,1.65,2.0,
+512,NCF0133,,Nhẫn thời trang,,10,1.45,3.5,
+513,NCF0134,,Nhẫn thời trang,,10,1.6,2.3,
+514,NCF0135,,Nhẫn thời trang,,10,1.8,2.8,
+515,NCF0136,,Nhẫn thời trang,,10,1.8,2.6,
+516,NCF0138,,Nhẫn thời trang,,10,1.4,2.9,
+517,NCF0139,,Nhẫn thời trang,,10,1.4,2.4,
+518,NCF0140,,Nhẫn thời trang,,15,1.4,3.2,
+519,NCF0141,,Nhẫn thời trang,,11,1.3,2.1,
+520,NCF0142,,Nhẫn thời trang,,11,1.3,2.1,
+521,NCF0143,,Nhẫn thời trang,,11,1.2,1.95,
+522,NCF1002,,Nhẫn cưới nữ,,11,1.3,2.1,
+523,NCF1003,,Nhẫn cưới nữ,,11,1.4,3.05,
+524,NCF1004,,Nhẫn cưới nữ,,11,1.5,1.5,
+525,NCF1005,,Nhẫn cưới nữ,,165,1.6,2.0,
+526,NCF1006,,Nhẫn cưới nữ,,105,1.3,2.1,
+527,NCF1007,,Nhẫn cưới nữ,,10,1.6,3.4,
+528,NCF1008,,Nhẫn cưới nữ,,9,1.6,3.3,
+529,NCF1009,,Nhẫn cưới nữ,,8,1.4,1.4,
+530,NCF1010,,Nhẫn cưới nữ,,10,1.4,3.2,
+531,NCF1011,,Nhẫn cưới nữ,,105,1.4,3.5,
+532,NCF1012,,Nhẫn cưới nữ,,11,1.4,2.8,
+533,NCF1013,,Nhẫn cưới nữ,,10,1.5,2.5,
+534,NCF1014,,Nhẫn cưới nữ,,8,1.2,2.2,
+535,NCF1015,,Nhẫn cưới nữ,,8,1.4,3.0,
+536,NCF1016,,Nhẫn cưới nữ,,8,1.5,3.0,
+537,NCF1017,,Nhẫn cưới nữ,,8,1.3,1.9,
+538,NCF1018,,Nhẫn cưới nữ,,9,1.2,2.4,
+539,NCF1019,,Nhẫn cưới nữ,,12,1.3,3.8,
+540,NCF1020,,Nhẫn cưới nữ,,8,1.4,3.1,
+541,NCF1021,,Nhẫn cưới nữ,,8,1.4,2.5,
+542,NCF1022,,Nhẫn cưới nữ,,8,1.4,2.5,
+543,NCF1023,,Nhẫn cưới nữ,,8,1.3,2.7,
+544,NCF1024,,Nhẫn cưới nữ,,10,1.3,1.8,
+545,NCF1025,,Nhẫn cưới nữ,,11,1.5,3.2,
+546,NCF1027,,Nhẫn cưới nữ,,11,1.3,3.4,
+547,NCF1028,,Nhẫn cưới nữ,,11,1.3,2.5,
+548,NCF1033,,Nhẫn cưới nữ,,9,1.4,2.5,
+549,NCF1036,,Nhẫn cưới nữ,,11,1.3,1.7,
+550,NCF1037,,Nhẫn cưới nữ,,10,1.5,2.9,
+551,NCF1038,,Nhẫn cưới nữ,,10,1.4,1.8,
+552,NCF1039,,Nhẫn cưới nữ,,10,1.5,2.2,
+553,NCF1040,,Nhẫn cưới nữ,,11,1.2,1.7,
+554,NCF1041,,Nhẫn cưới nữ,,9,1.3,3.0,
+555,NCF1042,,Nhẫn cưới nữ,,11,1.4,2.9,
+556,NCF1043,,Nhẫn cưới nữ,,11,1.3,1.3,
+557,NCF1044,,Nhẫn cưới nữ,,11,1.3,3.2,
+558,NCF1046,,Nhẫn cưới nữ,,11,1.3,1.6,
+559,NCF1047,,Nhẫn cưới nữ,,10,1.4,2.3,
+560,NCF1048,,Nhẫn cưới nữ,,10,1.3,3.5,
+561,NCF2001,,Nhẫn cưới nữ,,8,1.3,2.6,
+562,NCF2002,,Nhẫn cưới nữ,,9,1.3,4.0,
+563,NCF2003,,Nhẫn cưới nữ,,11,1.3,4.3,
+564,NCF2004,,Nhẫn cưới nữ,,12,1.6,3.4,
+565,NCF2005,,Nhẫn cưới nữ,,12,1.3,3.8,
+566,NCF2006,,Nhẫn cưới nữ,,10,1.3,3.5,
+567,NCF2007,,Nhẫn cưới nữ,,11,1.39,3.5,
+568,NCF2008,,Nhẫn cưới nữ,,10,1.3,2.0,
+569,NCF2009,,Nhẫn cưới nữ,,95,1.4,2.5,
+570,NCF2010,,Nhẫn cưới nữ,,11,1.3,2.5,
+571,NCF2011,,Nhẫn cưới nữ,,9,1.3,2.9,
+572,NCF2012,,Nhẫn cưới nữ,,11,1.4,3.8,
+573,NCF2013,,Nhẫn cưới nữ,,10,1.3,4.55,
+574,NCF2014,,Nhẫn cưới nữ,,8,1.4,4.3,
+575,NCF2015,,Nhẫn cưới nữ,,95,1.37,3.0,
+576,NCF2016,,Nhẫn cưới nữ,,10,1.1,3.4,
+577,NCF2017,,Nhẫn cưới nữ,,10,1.3,3.6,
+578,NCF2018,,Nhẫn cưới nữ,,8,1.3,3.8,
+579,NCF2019,,Nhẫn cưới nữ,,10,1.7,4.0,
+580,NCF2020,,Nhẫn cưới nữ,,10,1.0,2.4,
+581,NCF2021,,Nhẫn cưới nữ,,10,1.9,4.5,
+582,NCF2022,,Nhẫn cưới nữ,,10,1.1,2.8,
+583,NCF2023,,Nhẫn cưới nữ,,10,1.1,2.3,
+584,NCF2024,,Nhẫn cưới nữ,,10,1.1,4.5,
+585,NCF2025,,Nhẫn cưới nữ,,6,1.4,3.5,
+586,NCF2026,,Nhẫn cưới nữ,,10,1.5,6.0,
+587,NCF2027,,Nhẫn cưới nữ,,95,1.4,3.2,
+588,NCF2028,,Nhẫn cưới nữ,,10,1.6,4.5,
+589,NCF2029,,Nhẫn cưới nữ,,8,1.3,2.6,
+590,NCF2030,,Nhẫn cưới nữ,,10,1.4,5.5,
+591,NCF2031,,Nhẫn cưới nữ,,11,1.4,2.5,
+592,NCF2032,,Nhẫn cưới nữ,,10,1.5,3.8,
+593,NCF2033,,Nhẫn cưới nữ,,8,1.7,4.0,
+594,NCF2034,,Nhẫn cưới nữ,,14,1.5,2.4,
+595,NCF2035,,Nhẫn cưới nữ,,8,1.3,2.7,
+596,NCF2036,,Nhẫn cưới nữ,,14,1.4,3.5,
+597,NCF2037,,Nhẫn cưới nữ,,9,1.5,1.4,
+598,NCF2038,,Nhẫn cưới nữ,,8,1.3,2.8,
 599,"NCF2039
-",,Nhẫn cưới nữ,,10,13.0,31.0,
-600,NCF2040,,Nhẫn cưới nữ,,11,13.0,23.0,
-601,NCF2041,,Nhẫn cưới nữ,,95,13.0,25.0,
-602,NCF2042,,Nhẫn cưới nữ,,8,11.0,28.0,
-603,NCF2043,,Nhẫn cưới nữ,,10,11.0,19.0,
-604,NCF2044,,Nhẫn cưới nữ,,10,13.0,3.0,
-605,NCF2045,,Nhẫn cưới nữ,,10,13.0,3.0,
-606,NCF2047,,Nhẫn cưới nữ,,10,14.0,23.0,
-607,NCF2048,,Nhẫn cưới nữ,,9,13.0,27.0,
-608,NCF2049,,Nhẫn cưới nữ,,10,13.0,25.0,
-609,NCF2053,,Nhẫn cưới nữ,,12,19.0,4.0,
-610,NCF2054,,Nhẫn cưới nữ,,10,14.0,45.0,
-611,NCF2055,,Nhẫn cưới nữ,,11,16.0,5.0,
-612,NCF2058,,Nhẫn cưới nữ,,115,16.0,5.0,
-613,NCF2059,,Nhẫn cưới nữ,,11,13.0,3.0,
-614,NCF2061,,Nhẫn cưới nữ,,11,15.0,42.0,
-615,NCF2062,,Nhẫn cưới nữ,,10,13.0,27.0,
-616,NCF2065,,Nhẫn cưới nữ,,10,13.0,32.0,
-617,NCF2066,Star Light,Nhẫn cưới nữ,,12,14.0,27.0,
-618,NCF2070,Our Day,Nhẫn cưới nữ,,12,12.0,37.0,
-619,NCF2071,,Nhẫn cưới nữ,,10,13.0,25.0,
-620,NCF2079,,Nhẫn cưới nữ,,12,14.0,2.0,
-621,NCF2080,,Nhẫn cưới nữ,,12,12.0,33.0,
-622,NCF2081,,Nhẫn cưới nữ,,11,15.0,34.0,
-623,NCF2090,,Nhẫn cưới nữ,,11,17.0,31.0,
-624,NCF2091,,Nhẫn cưới nữ,,11,14.0,2.0,
-625,NCF2092,,Nhẫn cưới nữ,,11,14.0,33.0,
-626,NCF2093,,Nhẫn cưới nữ,,85,145.0,21.0,
-627,NCF3001,,Nhẫn cưới nữ,,10,14.0,23.0,
-628,NCF3002,,Nhẫn cưới nữ,,7,15.0,26.0,
-629,NCF3003,,Nhẫn cưới nữ,,11,13.0,3.0,
-630,NCF3004,,Nhẫn cưới nữ,,8,13.0,35.0,
-631,NCF3005,,Nhẫn cưới nữ,,8,13.0,36.0,
-632,NCF3006,,Nhẫn cưới nữ,,9,13.0,17.0,
-633,NCF3007,,Nhẫn cưới nữ,,10,12.0,22.0,
-634,NCF3008,,Nhẫn cưới nữ,,10,11.0,428.0,
-635,NCF3009,,Nhẫn cưới nữ,,10,13.0,34.0,
-636,NCF3010,,Nhẫn cưới nữ,,9,13.0,37.0,
-637,NCF3011,,Nhẫn cưới nữ,,10,11.0,32.0,
-638,NCF3012,,Nhẫn cưới nữ,,9,13.0,32.0,
-639,NCF3013,,Nhẫn cưới nữ,,10,13.0,34.0,
-640,NCF3015,,Nhẫn cưới nữ,,11,13.0,3.0,
-641,NCF3024,Love'Em,Nhẫn cưới nữ,,115,14.0,56.0,
-642,NCF3026,,Nhẫn cưới nữ,,8,12.0,41.0,
-643,NCF3030,Love Life,Nhẫn cưới nữ,,11,14.0,38.0,
-644,NCF5001,,Nhẫn cưới nữ,,11,16.0,45.0,
-645,NCF5002,,Nhẫn cưới nữ,,10,17.0,4.0,
-646,NCF5003,,Nhẫn cưới nữ,,9,15.0,42.0,
-647,NCF5004,,Nhẫn cưới nữ,,10,16.0,44.0,
-648,NCF5005,,Nhẫn cưới nữ,,10,18.0,47.0,
-649,NCF5006,,Nhẫn cưới nữ,,9,175.0,467.0,
-650,NCF5007,,Nhẫn cưới nữ,,10,15.0,35.0,
-651,NCF5008,,Nhẫn cưới nữ,,8,13.0,35.0,
-652,NCF5009,,Nhẫn cưới nữ,,12,24.0,47.0,
-653,NCF7001,Always You,Nhẫn cưới nữ,,11,13.0,2.0,
-654,NCF7002,Perfect Half,Nhẫn cưới nữ,,11,13.0,24.0,
-655,NCF7003,Infinity Us,Nhẫn cưới nữ,,11,14.0,15.0,
-656,NCF7004,In My Heart,Nhẫn cưới nữ,,115,135.0,2.0,
-657,NCF7005,Mr. & Mrs.Right,Nhẫn cưới nữ,,11,135.0,28.0,
-658,NCF7006,All My Life,Nhẫn cưới nữ,,10,14.0,2.0,
-659,NCF7007,Definitely You,Nhẫn cưới nữ,,9,13.0,18.0,
-660,NCF7008,Destiny Half,Nhẫn cưới nữ,,11,14.0,2.0,
-661,NCF7009,Warmest Embrace,Nhẫn cưới nữ,,10,14.0,22.0,
-662,NCF7010,Tender Love,Nhẫn cưới nữ,,11,12.0,215.0,
-663,NCF8001,,Nhẫn cưới nữ,,11,12.0,42.0,
-664,NCF8002,,Nhẫn cưới nữ,,7,13.0,22.0,
-665,NCF8003,,Nhẫn cưới nữ,,10,13.0,25.0,
-666,NCF8010,,Nhẫn cưới nữ,,11,13.0,17.0,
-667,NCF9001,,Nhẫn cưới nữ,,7,13.0,38.0,
-668,NCF9002,,Nhẫn cưới nữ,,10,11.0,258.0,
-669,NCF9003,,Nhẫn cưới nữ,,9,13.0,41.0,
-670,NCF9004,,Nhẫn cưới nữ,,10,14.0,4.0,
-671,NCF9005,,Nhẫn cưới nữ,,10,13.0,35.0,
-672,NCF9006,,Nhẫn cưới nữ,,9,17.0,4.0,
-673,NCF9007,,Nhẫn cưới nữ,,9,13.0,28.0,
-674,NCF9009,,Nhẫn cưới nữ,,10,12.0,32.0,
-675,NCF9010,,Nhẫn cưới nữ,,9,26.0,3.0,
-676,NCF9011,,Nhẫn cưới nữ,,12,14.0,28.0,
-677,NCH0001,,Nhẫn cầu hôn,,12,13.0,38.0,
-678,NCH0037,Love Of Swan,Nhẫn cầu hôn,,11,13.0,18.0,
-679,NCH1003,Water Lily,Nhẫn cầu hôn,,11,13.0,19.0,
-680,NCH1004,Love Shine,Nhẫn cầu hôn,,12,14.0,27.0,
-681,NCH1005,Primrose Flower,Nhẫn cầu hôn,,12,15.0,2.0,75.0
-682,NCH1007,Double Heart,Nhẫn cầu hôn,,12,13.0,18.0,
-683,NCH1010,Petit Flower,Nhẫn cầu hôn,,10,13.0,2.0,
-684,NCH1014,Roselle Hibiscus,Nhẫn cầu hôn,,13,13.0,18.0,
-685,NCH1015,Little Love,Nhẫn cầu hôn,,8,13.0,2.0,
-686,NCH1017,Paris,Nhẫn cầu hôn,,12,13.0,25.0,
-687,NCH1018,My Day Dreams,Nhẫn cầu hôn,,10,18.0,22.0,
-688,NCH1019,Fulfill Love,Nhẫn cầu hôn,,11,13.0,29.0,
-689,NCH1020,Forever,Nhẫn cầu hôn,,12,13.0,216.0,
-690,NCH1021,Ever After,Nhẫn cầu hôn,,10,13.0,19.0,
-691,NCH1022,Always You,Nhẫn cầu hôn,,10,15.0,23.0,
+",,Nhẫn cưới nữ,,10,1.3,3.1,
+600,NCF2040,,Nhẫn cưới nữ,,11,1.3,2.3,
+601,NCF2041,,Nhẫn cưới nữ,,95,1.3,2.5,
+602,NCF2042,,Nhẫn cưới nữ,,8,1.1,2.8,
+603,NCF2043,,Nhẫn cưới nữ,,10,1.1,1.9,
+604,NCF2044,,Nhẫn cưới nữ,,10,1.3,3.0,
+605,NCF2045,,Nhẫn cưới nữ,,10,1.3,3.0,
+606,NCF2047,,Nhẫn cưới nữ,,10,1.4,2.3,
+607,NCF2048,,Nhẫn cưới nữ,,9,1.3,2.7,
+608,NCF2049,,Nhẫn cưới nữ,,10,1.3,2.5,
+609,NCF2053,,Nhẫn cưới nữ,,12,1.9,4.0,
+610,NCF2054,,Nhẫn cưới nữ,,10,1.4,4.5,
+611,NCF2055,,Nhẫn cưới nữ,,11,1.6,5.0,
+612,NCF2058,,Nhẫn cưới nữ,,115,1.6,5.0,
+613,NCF2059,,Nhẫn cưới nữ,,11,1.3,3.0,
+614,NCF2061,,Nhẫn cưới nữ,,11,1.5,4.2,
+615,NCF2062,,Nhẫn cưới nữ,,10,1.3,2.7,
+616,NCF2065,,Nhẫn cưới nữ,,10,1.3,3.2,
+617,NCF2066,Star Light,Nhẫn cưới nữ,,12,1.4,2.7,
+618,NCF2070,Our Day,Nhẫn cưới nữ,,12,1.2,3.7,
+619,NCF2071,,Nhẫn cưới nữ,,10,1.3,2.5,
+620,NCF2079,,Nhẫn cưới nữ,,12,1.4,2.0,
+621,NCF2080,,Nhẫn cưới nữ,,12,1.2,3.3,
+622,NCF2081,,Nhẫn cưới nữ,,11,1.5,3.4,
+623,NCF2090,,Nhẫn cưới nữ,,11,1.7,3.1,
+624,NCF2091,,Nhẫn cưới nữ,,11,1.4,2.0,
+625,NCF2092,,Nhẫn cưới nữ,,11,1.4,3.3,
+626,NCF2093,,Nhẫn cưới nữ,,85,1.45,2.1,
+627,NCF3001,,Nhẫn cưới nữ,,10,1.4,2.3,
+628,NCF3002,,Nhẫn cưới nữ,,7,1.5,2.6,
+629,NCF3003,,Nhẫn cưới nữ,,11,1.3,3.0,
+630,NCF3004,,Nhẫn cưới nữ,,8,1.3,3.5,
+631,NCF3005,,Nhẫn cưới nữ,,8,1.3,3.6,
+632,NCF3006,,Nhẫn cưới nữ,,9,1.3,1.7,
+633,NCF3007,,Nhẫn cưới nữ,,10,1.2,2.2,
+634,NCF3008,,Nhẫn cưới nữ,,10,1.1,4.28,
+635,NCF3009,,Nhẫn cưới nữ,,10,1.3,3.4,
+636,NCF3010,,Nhẫn cưới nữ,,9,1.3,3.7,
+637,NCF3011,,Nhẫn cưới nữ,,10,1.1,3.2,
+638,NCF3012,,Nhẫn cưới nữ,,9,1.3,3.2,
+639,NCF3013,,Nhẫn cưới nữ,,10,1.3,3.4,
+640,NCF3015,,Nhẫn cưới nữ,,11,1.3,3.0,
+641,NCF3024,Love'Em,Nhẫn cưới nữ,,115,1.4,5.6,
+642,NCF3026,,Nhẫn cưới nữ,,8,1.2,4.1,
+643,NCF3030,Love Life,Nhẫn cưới nữ,,11,1.4,3.8,
+644,NCF5001,,Nhẫn cưới nữ,,11,1.6,4.5,
+645,NCF5002,,Nhẫn cưới nữ,,10,1.7,4.0,
+646,NCF5003,,Nhẫn cưới nữ,,9,1.5,4.2,
+647,NCF5004,,Nhẫn cưới nữ,,10,1.6,4.4,
+648,NCF5005,,Nhẫn cưới nữ,,10,1.8,4.7,
+649,NCF5006,,Nhẫn cưới nữ,,9,1.75,4.67,
+650,NCF5007,,Nhẫn cưới nữ,,10,1.5,3.5,
+651,NCF5008,,Nhẫn cưới nữ,,8,1.3,3.5,
+652,NCF5009,,Nhẫn cưới nữ,,12,2.4,4.7,
+653,NCF7001,Always You,Nhẫn cưới nữ,,11,1.3,2.0,
+654,NCF7002,Perfect Half,Nhẫn cưới nữ,,11,1.3,2.4,
+655,NCF7003,Infinity Us,Nhẫn cưới nữ,,11,1.4,1.5,
+656,NCF7004,In My Heart,Nhẫn cưới nữ,,115,1.35,2.0,
+657,NCF7005,Mr. & Mrs.Right,Nhẫn cưới nữ,,11,1.35,2.8,
+658,NCF7006,All My Life,Nhẫn cưới nữ,,10,1.4,2.0,
+659,NCF7007,Definitely You,Nhẫn cưới nữ,,9,1.3,1.8,
+660,NCF7008,Destiny Half,Nhẫn cưới nữ,,11,1.4,2.0,
+661,NCF7009,Warmest Embrace,Nhẫn cưới nữ,,10,1.4,2.2,
+662,NCF7010,Tender Love,Nhẫn cưới nữ,,11,1.2,2.15,
+663,NCF8001,,Nhẫn cưới nữ,,11,1.2,4.2,
+664,NCF8002,,Nhẫn cưới nữ,,7,1.3,2.2,
+665,NCF8003,,Nhẫn cưới nữ,,10,1.3,2.5,
+666,NCF8010,,Nhẫn cưới nữ,,11,1.3,1.7,
+667,NCF9001,,Nhẫn cưới nữ,,7,1.3,3.8,
+668,NCF9002,,Nhẫn cưới nữ,,10,1.1,2.58,
+669,NCF9003,,Nhẫn cưới nữ,,9,1.3,4.1,
+670,NCF9004,,Nhẫn cưới nữ,,10,1.4,4.0,
+671,NCF9005,,Nhẫn cưới nữ,,10,1.3,3.5,
+672,NCF9006,,Nhẫn cưới nữ,,9,1.7,4.0,
+673,NCF9007,,Nhẫn cưới nữ,,9,1.3,2.8,
+674,NCF9009,,Nhẫn cưới nữ,,10,1.2,3.2,
+675,NCF9010,,Nhẫn cưới nữ,,9,2.6,3.0,
+676,NCF9011,,Nhẫn cưới nữ,,12,1.4,2.8,
+677,NCH0001,,Nhẫn cầu hôn,,12,1.3,3.8,
+678,NCH0037,Love Of Swan,Nhẫn cầu hôn,,11,1.3,1.8,
+679,NCH1003,Water Lily,Nhẫn cầu hôn,,11,1.3,1.9,
+680,NCH1004,Love Shine,Nhẫn cầu hôn,,12,1.4,2.5,
+681,NCH1005,Primrose Flower,Nhẫn cầu hôn,,12,1.5,2.0,7.5
+682,NCH1007,Double Heart,Nhẫn cầu hôn,,12,1.3,1.8,
+683,NCH1010,Petit Flower,Nhẫn cầu hôn,,10,1.3,2.0,
+684,NCH1014,Roselle Hibiscus,Nhẫn cầu hôn,,13,1.3,1.8,
+685,NCH1015,Little Love,Nhẫn cầu hôn,,8,1.3,2.0,
+686,NCH1017,Paris,Nhẫn cầu hôn,,12,1.3,2.5,
+687,NCH1018,My Day Dreams,Nhẫn cầu hôn,,10,1.8,2.2,
+688,NCH1019,Fulfill Love,Nhẫn cầu hôn,,11,1.3,2.9,
+689,NCH1020,Forever,Nhẫn cầu hôn,,12,1.3,2.16,
+690,NCH1021,Ever After,Nhẫn cầu hôn,,10,1.3,1.9,
+691,NCH1022,Always You,Nhẫn cầu hôn,,10,1.5,2.3,
 692,NCH1023,Mantilla Veil,Nhẫn cầu hôn,,11,,,
 693,NCH1024,Whisper Chiffon,Nhẫn cầu hôn,,11,,,
 694,NCH1025,Butterfly Cathedral,Nhẫn cầu hôn,,10,,,
 695,NCH1028,Lavish Veil,Nhẫn cầu hôn,,11,,,
-696,NCH1101,Aphrodite'S Blessing,Nhẫn cầu hôn,,11,13.0,18.0,74.0
-697,NCH1102,,Nhẫn cầu hôn,,11,14.0,2.0,72.0
-698,NCH1103,My Amour,Nhẫn cầu hôn,,11,13.0,18.0,58.0
-699,NCH1104,Elegant Shape,Nhẫn cầu hôn,,12,13.0,18.0,62.0
-700,NCH1105,,Nhẫn cầu hôn,,11,15.0,21.0,
-701,NCH1202,Shining Light,Nhẫn cầu hôn,,10,13.0,17.0,65.0
-702,NCH1203,Modest Love,Nhẫn cầu hôn,,11,13.0,17.0,72.0
-703,NCH1204,True Beauty,Nhẫn cầu hôn,,11,13.0,2.0,7.0
-704,NCH1206,Flaming Lines,Nhẫn cầu hôn,,11,16.0,22.0,7.0
-705,NCH1301,,Nhẫn cầu hôn,,9,13.0,2.0,
-706,NCH1302,,Nhẫn cầu hôn,,10,13.0,2.0,
-707,NCH1303,Lovely Honey,Nhẫn cầu hôn,,95,13.0,2.0,72.0
-708,NCH1304,Tiny Lovely,Nhẫn cầu hôn,,10,13.0,18.0,71.0
-709,NCH1305,,Nhẫn cầu hôn,,10,13.0,2.0,
-710,NCH1306,,Nhẫn cầu hôn,,9,13.0,2.0,
-711,NCH1307,,Nhẫn cầu hôn,,10,14.0,2.0,
-712,NCH1309,Princess Cape,Nhẫn cầu hôn,,12,18.0,23.0,
-713,NCH1310,Tiny Bauquet,Nhẫn cầu hôn,,10,13.0,18.0,67.0
-714,NCH1311,It'S You,Nhẫn cầu hôn,,11,17.0,2.0,
-715,NCH1312,My Sunlight ,Nhẫn cầu hôn,,10,14.0,2.0,
-716,NCH1313,My Start,Nhẫn cầu hôn,,11,15.0,2.0,
-717,NCH1314,Soul Mate ,Nhẫn cầu hôn,,11,16.0,21.0,
-718,NCH1315,My Blooming Love,Nhẫn cầu hôn,,10,13.0,2.0,
+696,NCH1101,Aphrodite'S Blessing,Nhẫn cầu hôn,,11,1.3,1.8,7.4
+697,NCH1102,,Nhẫn cầu hôn,,11,1.4,2.0,7.2
+698,NCH1103,My Amour,Nhẫn cầu hôn,,11,1.3,1.8,5.8
+699,NCH1104,Elegant Shape,Nhẫn cầu hôn,,12,1.3,1.8,6.2
+700,NCH1105,,Nhẫn cầu hôn,,11,1.5,2.1,
+701,NCH1202,Shining Light,Nhẫn cầu hôn,,10,1.3,1.7,6.5
+702,NCH1203,Modest Love,Nhẫn cầu hôn,,11,1.3,1.7,7.2
+703,NCH1204,True Beauty,Nhẫn cầu hôn,,11,1.3,2.0,7.0
+704,NCH1206,Flaming Lines,Nhẫn cầu hôn,,11,1.6,2.2,7.0
+705,NCH1301,,Nhẫn cầu hôn,,9,1.3,2.0,
+706,NCH1302,,Nhẫn cầu hôn,,10,1.3,2.0,
+707,NCH1303,Lovely Honey,Nhẫn cầu hôn,,95,1.3,1.8,7.2
+708,NCH1304,Tiny Lovely,Nhẫn cầu hôn,,10,1.3,1.8,7.1
+709,NCH1305,,Nhẫn cầu hôn,,10,1.3,2.0,
+710,NCH1306,,Nhẫn cầu hôn,,9,1.3,2.0,
+711,NCH1307,,Nhẫn cầu hôn,,10,1.4,2.0,
+712,NCH1309,Princess Cape,Nhẫn cầu hôn,,12,1.8,2.3,
+713,NCH1310,Tiny Bauquet,Nhẫn cầu hôn,,10,1.3,1.8,6.7
+714,NCH1311,It'S You,Nhẫn cầu hôn,,11,1.7,2.0,
+715,NCH1312,My Sunlight ,Nhẫn cầu hôn,,10,1.4,2.0,
+716,NCH1313,My Start,Nhẫn cầu hôn,,11,1.5,2.0,
+717,NCH1314,Soul Mate ,Nhẫn cầu hôn,,11,1.6,2.1,
+718,NCH1315,My Blooming Love,Nhẫn cầu hôn,,10,1.3,2.0,
 719,NCH1317,Tulle Ribbons,Nhẫn cầu hôn,,10,,,
 720,NCH1318,Svelte Waistline,Nhẫn cầu hôn,,11,,,
 721,NCH1319,Oganza Princess,Nhẫn cầu hôn,,10,,,
-722,NCH1401,,Nhẫn cầu hôn,,12,13.0,2.0,73.0
-723,NCH1402,Gentle Touch,Nhẫn cầu hôn,,11,13.0,2.0,63.0
-724,NCH1403,,Nhẫn cầu hôn,,12,13.0,2.0,
-725,NCH1404,,Nhẫn cầu hôn,,10,13.0,19.0,
-726,NCH1405,,Nhẫn cầu hôn,,10,13.0,2.0,
-727,NCH1406,,Nhẫn cầu hôn,,10,13.0,2.0,
-728,NCH1407,Trellis Blossoms ,Nhẫn cầu hôn,,10,13.0,2.0,6.0
-729,NCH1408,,Nhẫn cầu hôn,,10,14.0,18.0,
-730,NCH1409,The Only,Nhẫn cầu hôn,,11,13.0,2.0,63.0
-731,NCH1410,,Nhẫn cầu hôn,,14,16.0,3.0,
-732,NCH1411,Ladonna,Nhẫn cầu hôn,,11,13.0,18.0,
-733,NCH1412,Adelaide,Nhẫn cầu hôn,,12,14.0,23.0,
-734,NCH1413,Zoey,Nhẫn cầu hôn,,11,16.0,19.0,
-735,NCH1414,Cella,Nhẫn cầu hôn,,10,13.0,25.0,
-736,NCH1415,Adela,Nhẫn cầu hôn,,10,21.0,22.0,
-737,NCH1416,Phoebe,Nhẫn cầu hôn,,10,13.0,2.0,
-738,NCH1417,Keelin,Nhẫn cầu hôn,,11,14.0,22.0,63.0
-739,NCH1417.6.3mm,Keelin,Nhẫn cầu hôn,,10,14.0,255.0,71.0
-740,NCH1418,My Joy,Nhẫn cầu hôn,,11,13.0,2.0,67.0
-741,NCH1419,Promise You,Nhẫn cầu hôn,,13,13.0,2.0,61.0
-742,NCH1419.6.3mm,Promise You,Nhẫn cầu hôn,,10,13.0,23.0,7.0
-743,NCH1420,Be Your,Nhẫn cầu hôn,,12,13.0,28.0,
-744,NCH1421,By Yourside,Nhẫn cầu hôn,,10,13.0,2.0,
-745,NCH1422,Fairy Veil,Nhẫn cầu hôn,,11,13.0,22.0,
-746,NCH1423,Angel Wings,Nhẫn cầu hôn,,10,14.0,22.0,58.0
-747,NCH1424,Blissie Wish,Nhẫn cầu hôn,,10,13.0,2.0,
-748,NCH1425,Luna Ray,Nhẫn cầu hôn,,10,17.0,2.0,
-749,NCH1426,Fairy Gown,Nhẫn cầu hôn,,11,14.0,22.0,
-750,NCH1427,Heart Petal,Nhẫn cầu hôn,,11,14.0,2.0,
-751,NCH1501,Sweety,Nhẫn cầu hôn,,12,13.0,18.0,63.0
-752,NCH1502,Little Pretty,Nhẫn cầu hôn,,11,13.0,2.0,67.0
-753,NCH1503,Loving,Nhẫn cầu hôn,,10,13.0,18.0,65.0
-754,NCH1504,,Nhẫn cầu hôn,,11,15.0,25.0,
-755,NCH1505,,Nhẫn cầu hôn,,13,13.0,2.0,
-756,NCH1506,,Nhẫn cầu hôn,,10,13.0,22.0,
-757,NCH1507,,Nhẫn cầu hôn,,11,14.0,3.0,
-758,NCH1508,,Nhẫn cầu hôn,,10,12.0,2.0,
-759,NCH1510,,Nhẫn cầu hôn,,11,13.0,2.0,
-760,NCH1512,,Nhẫn cầu hôn,,11,12.0,22.0,
-761,NCH1513,Pretty Flora,Nhẫn cầu hôn,,12,13.0,2.0,
-762,NCH1514,,Nhẫn cầu hôn,,10,13.0,2.0,
-763,NCH1515,,Nhẫn cầu hôn,,10,13.0,24.0,
-764,NCH1601,,Nhẫn cầu hôn,,11,13.0,2.0,
-765,NCH1602,,Nhẫn cầu hôn,,12,13.0,2.0,
-766,NCH1602.6.3mm,,Nhẫn cầu hôn,,10,13.0,22.0,755.0
-767,NCH1603,,Nhẫn cầu hôn,,12,13.0,18.0,
-768,NCH1604,,Nhẫn cầu hôn,,11,12.0,25.0,
-769,NCH1605,,Nhẫn cầu hôn,,11,12.0,24.0,
-770,NCH1606,,Nhẫn cầu hôn,,11,14.0,3.0,
-771,NCH1607,,Nhẫn cầu hôn,,11,13.0,18.0,
-772,NCH1609,,Nhẫn cầu hôn,,11,13.0,22.0,
-773,NCH1610,,Nhẫn cầu hôn,,11,14.0,2.0,
-774,NCH1612,Princess Bowtie,Nhẫn cầu hôn,,12,15.0,22.0,
-775,NCH1613,Morri - Morri,Nhẫn cầu hôn,,11,13.0,184.0,
-776,NCH1616,Belle Ame,Nhẫn cầu hôn,,11,13.0,18.0,74.0
-777,NCH1617,My Destiny,Nhẫn cầu hôn,,10,13.0,2.0,
-778,NCH1618,Heaven Bird,Nhẫn cầu hôn,,11,13.0,18.0,
-779,NCH1701,Twinkle Strap,Nhẫn cầu hôn,,12,13.0,2.0,72.0
-780,NCH1702,,Nhẫn cầu hôn,,11,13.0,18.0,
-781,NCH1703,,Nhẫn cầu hôn,,11,13.0,25.0,
-782,NCH1704,,Nhẫn cầu hôn,,12,13.0,17.0,
-783,NCH1705,,Nhẫn cầu hôn,,11,13.0,2.0,
-784,NCH1706,,Nhẫn cầu hôn,,10,13.0,16.0,
-785,NCH1709,Tiny Tierra,Nhẫn cầu hôn,,11,13.0,2.0,
-786,NCH1711,Vintage Ribbon,Nhẫn cầu hôn,,12,15.0,21.0,
-787,NCH1718,Mira - Mira,Nhẫn cầu hôn,,11,13.0,2.0,
-788,NCH1719,Freya,Nhẫn cầu hôn,,10,13.0,16.0,
-789,NCH1720,Veronica,Nhẫn cầu hôn,,10,13.0,2.0,
-790,NCH1721,Adrianne,Nhẫn cầu hôn,,10,13.0,24.0,
-791,NCH1722,Cheryl,Nhẫn cầu hôn,,10,13.0,15.0,
-792,NCH1723,Olivia,Nhẫn cầu hôn,,12,18.0,23.0,
-793,NCH1724,Harmony,Nhẫn cầu hôn,,12,19.0,19.0,
-794,NCH1801,,Nhẫn cầu hôn,,12,13.0,22.0,
-795,NCH1802,,Nhẫn cầu hôn,,13,13.0,22.0,
-796,NCH1803,,Nhẫn cầu hôn,,13,13.0,2.0,
-797,NCH1804,,Nhẫn cầu hôn,,11,13.0,19.0,7.0
-798,NCH1805,,Nhẫn cầu hôn,,10,13.0,2.0,
-799,NCH1807,,Nhẫn cầu hôn,,11,13.0,18.0,
-800,NCH1808,,Nhẫn cầu hôn,,11,13.0,2.0,
-801,NCH1810,,Nhẫn cầu hôn,,10,14.0,2.0,
-802,NCH1812,Tie The Knot,Nhẫn cầu hôn,,12,2.0,19.0,
-803,NCH1901,Morning Glory,Nhẫn cầu hôn,,10,13.0,19.0,
-804,NCH1902,White Orchid,Nhẫn cầu hôn,,11,15.0,18.0,
-805,NCH1903,Katherine,Nhẫn cầu hôn,,11,13.0,17.0,
-806,NCH1905,Summerlotus,Nhẫn cầu hôn,,11,148.0,2.0,
-807,NCH1906,Pansy,Nhẫn cầu hôn,,11,13.0,18.0,
-808,NCH1907,Lily,Nhẫn cầu hôn,,10,15.0,22.0,
-809,NCH1908,Green Cloud,Nhẫn cầu hôn,,12,14.0,17.0,
-810,NCH1909,Moonlynn,Nhẫn cầu hôn,,11,15.0,22.0,
-811,NCH2001,,Nhẫn cầu hôn,,11,13.0,18.0,
-812,NCH2002,,Nhẫn cầu hôn,,10,13.0,2.0,
-813,NCH2003,,Nhẫn cầu hôn,,11,13.0,17.0,
-814,NCH2004,,Nhẫn cầu hôn,,11,13.0,2.0,
-815,NCH2005,,Nhẫn cầu hôn,,11,13.0,15.0,
-816,NCH2006,Halo Sparkling,Nhẫn cầu hôn,,11,13.0,2.0,68.0
-817,NCH2007,,Nhẫn cầu hôn,,12,13.0,23.0,8.0
-818,NCH2007.6.3mm,,Nhẫn cầu hôn,,11,13.0,23.0,845.0
-819,NCH2008,,Nhẫn cầu hôn,,11,13.0,19.0,
-820,NCH2009,,Nhẫn cầu hôn,,12,13.0,17.0,74.0
-821,NCH2011,,Nhẫn cầu hôn,,11,13.0,2.0,
-822,NCH2101,,Nhẫn cầu hôn,,12,13.0,18.0,
-823,NCH2102,,Nhẫn cầu hôn,,13,13.0,17.0,
-824,NCH2103,,Nhẫn cầu hôn,,11,13.0,16.0,
-825,NCH2104,,Nhẫn cầu hôn,,8,13.0,16.0,
-826,NCH2105,,Nhẫn cầu hôn,,11,13.0,18.0,
-827,NCH2106,,Nhẫn cầu hôn,,11,13.0,18.0,
-828,NCH2201,,Nhẫn cầu hôn,,10,13.0,18.0,
-829,NCH2202,,Nhẫn cầu hôn,,13,13.0,18.0,
-830,NCH2204,,Nhẫn cầu hôn,,10,13.0,17.0,
-831,NCH2205,,Nhẫn cầu hôn,,11,13.0,18.0,
-832,NCH2206,,Nhẫn cầu hôn,,11,13.0,18.0,
-833,NCH2402,,Nhẫn cầu hôn,,11,13.0,2.0,
-834,NCH2404,,Nhẫn cầu hôn,,10,13.0,22.0,
-835,NCH2407,Dear Darling,Nhẫn cầu hôn,,11,15.0,17.0,
-836,NCH3001,,Nhẫn cầu hôn,,12,15.0,27.0,
-837,NCH3004,Stella,Nhẫn cầu hôn,,10,13.0,2.0,
-838,NCH3101,,Nhẫn cầu hôn,,12,13.0,17.0,
-839,NCH3102,,Nhẫn cầu hôn,,11,13.0,2.0,
-840,NCH3104,,Nhẫn cầu hôn,,10,13.0,2.0,
-841,NCH3105,,Nhẫn cầu hôn,,10,13.0,2.0,
-842,NCH3201,,Nhẫn cầu hôn,,11,13.0,2.0,
-843,NCH3202,,Nhẫn cầu hôn,,11,13.0,25.0,
-844,NCH3203,,Nhẫn cầu hôn,,11,13.0,23.0,
-845,NCH3204,,Nhẫn cầu hôn,,11,13.0,25.0,
-846,NCH3205,,Nhẫn cầu hôn,,13,3.0,19.0,
-847,NCH3207,Heart Vibe,Nhẫn cầu hôn,,14,13.0,25.0,
-848,NCH3208,Dulcie,Nhẫn cầu hôn,,10,13.0,18.0,
-849,NCH3302,,Nhẫn cầu hôn,,12,13.0,2.0,
-850,NCH5301,Delicate Petal,Nhẫn cầu hôn,,11,13.0,21.0,
-851,NCH5302,Mermaid'S Shell,Nhẫn cầu hôn,,10,14.0,2.0,
-852,NCH5303,Sparkle Fin,Nhẫn cầu hôn,,10,13.0,2.0,
-853,NCH5401,White Pappilon,Nhẫn cầu hôn,,11,14.0,17.0,
-854,NCH5402,Diana Gown,Nhẫn cầu hôn,,11,15.0,29.0,
-855,NCH5404,Satin Cape,Nhẫn cầu hôn,,11,14.0,2.0,
-856,NCH5405,Enchanted Tulip,Nhẫn cầu hôn,,11,13.0,2.0,
-857,NCH5406,Princess Brooch,Nhẫn cầu hôn,,10,14.0,2.0,
-858,NCH7101,,Nhẫn cầu hôn,,11,125.0,15.0,
-859,NCH7102,Cloudy Kiss,Nhẫn cầu hôn,,11,14.0,165.0,58.0
-860,NCH7103,,Nhẫn cầu hôn,,11,13.0,15.0,61.0
-861,NCH7104,Moon Kiss,Nhẫn cầu hôn,,11,13.0,15.0,58.0
-862,NCH7105,,Nhẫn cầu hôn,,115,125.0,15.0,
-863,NCH7106,,Nhẫn cầu hôn,,115,125.0,14.0,
-864,NCH7107,,Nhẫn cầu hôn,,11,12.0,13.0,47.0
-865,NCH7108,Candy Kiss,Nhẫn cầu hôn,,10,14.0,13.0,535.0
-866,NCH7109,,Nhẫn cầu hôn,,11,12.0,13.0,56.0
-867,NCH7110,Lovely Kiss,Nhẫn cầu hôn,,10,12.0,13.0,525.0
-868,NCH7111,,Nhẫn cầu hôn,,11,12.0,13.0,585.0
-869,NCH7112,,Nhẫn cầu hôn,,10,12.0,13.0,59.0
-870,NCH8101,,Nhẫn cầu hôn,,11,14.0,21.0,
-871,NCH8102,,Nhẫn cầu hôn,,10,13.0,18.0,
+722,NCH1401,,Nhẫn cầu hôn,,12,1.3,2.0,7.3
+723,NCH1402,Gentle Touch,Nhẫn cầu hôn,,11,1.3,2.0,6.3
+724,NCH1403,,Nhẫn cầu hôn,,12,1.3,2.0,
+725,NCH1404,,Nhẫn cầu hôn,,10,1.3,1.9,
+726,NCH1405,,Nhẫn cầu hôn,,10,1.3,2.0,
+727,NCH1406,,Nhẫn cầu hôn,,10,1.3,2.0,
+728,NCH1407,Trellis Blossoms ,Nhẫn cầu hôn,,10,1.3,2.0,6.0
+729,NCH1408,,Nhẫn cầu hôn,,10,1.4,1.8,
+730,NCH1409,The Only,Nhẫn cầu hôn,,11,1.3,2.0,6.3
+731,NCH1410,,Nhẫn cầu hôn,,14,1.6,3.0,
+732,NCH1411,Ladonna,Nhẫn cầu hôn,,11,1.3,1.8,
+733,NCH1412,Adelaide,Nhẫn cầu hôn,,12,1.4,2.3,
+734,NCH1413,Zoey,Nhẫn cầu hôn,,11,1.6,1.9,
+735,NCH1414,Cella,Nhẫn cầu hôn,,10,1.3,2.5,
+736,NCH1415,Adela,Nhẫn cầu hôn,,10,2.1,2.2,
+737,NCH1416,Phoebe,Nhẫn cầu hôn,,10,1.3,2.0,
+738,NCH1417,Keelin,Nhẫn cầu hôn,,11,1.4,2.2,6.3
+739,NCH1417.6.3mm,Keelin,Nhẫn cầu hôn,,10,1.4,2.55,7.1
+740,NCH1418,My Joy,Nhẫn cầu hôn,,11,1.3,2.0,6.7
+741,NCH1419,Promise You,Nhẫn cầu hôn,,13,1.3,2.0,6.1
+742,NCH1419.6.3mm,Promise You,Nhẫn cầu hôn,,10,1.3,2.3,7.0
+743,NCH1420,Be Your,Nhẫn cầu hôn,,12,1.3,2.8,
+744,NCH1421,By Yourside,Nhẫn cầu hôn,,10,1.3,2.0,
+745,NCH1422,Fairy Veil,Nhẫn cầu hôn,,11,1.3,2.2,
+746,NCH1423,Angel Wings,Nhẫn cầu hôn,,10,1.3,1.7,5.8
+747,NCH1424,Blissie Wish,Nhẫn cầu hôn,,10,1.3,2.0,
+748,NCH1425,Luna Ray,Nhẫn cầu hôn,,10,1.7,2.0,
+749,NCH1426,Fairy Gown,Nhẫn cầu hôn,,11,1.4,2.2,
+750,NCH1427,Heart Petal,Nhẫn cầu hôn,,11,1.4,2.0,
+751,NCH1501,Sweety,Nhẫn cầu hôn,,12,1.3,1.8,6.3
+752,NCH1502,Little Pretty,Nhẫn cầu hôn,,11,1.3,2.2,6.7
+753,NCH1503,Loving,Nhẫn cầu hôn,,10,1.3,1.8,6.5
+754,NCH1504,,Nhẫn cầu hôn,,11,1.5,2.5,
+755,NCH1505,,Nhẫn cầu hôn,,13,1.3,2.0,
+756,NCH1506,,Nhẫn cầu hôn,,10,1.3,2.2,
+757,NCH1507,,Nhẫn cầu hôn,,11,1.4,3.0,
+758,NCH1508,,Nhẫn cầu hôn,,10,1.2,2.0,
+759,NCH1510,,Nhẫn cầu hôn,,11,1.3,2.0,
+760,NCH1512,,Nhẫn cầu hôn,,11,1.2,2.2,
+761,NCH1513,Pretty Flora,Nhẫn cầu hôn,,12,1.3,2.0,
+762,NCH1514,,Nhẫn cầu hôn,,10,1.3,2.0,
+763,NCH1515,,Nhẫn cầu hôn,,10,1.3,2.4,
+764,NCH1601,,Nhẫn cầu hôn,,11,1.3,2.0,
+765,NCH1602,,Nhẫn cầu hôn,,12,1.3,2.0,
+766,NCH1602.6.3mm,,Nhẫn cầu hôn,,10,1.3,2.2,7.55
+767,NCH1603,,Nhẫn cầu hôn,,12,1.3,1.8,
+768,NCH1604,,Nhẫn cầu hôn,,11,1.2,2.5,
+769,NCH1605,,Nhẫn cầu hôn,,11,1.2,2.4,
+770,NCH1606,,Nhẫn cầu hôn,,11,1.4,3.0,
+771,NCH1607,,Nhẫn cầu hôn,,11,1.3,1.8,
+772,NCH1609,,Nhẫn cầu hôn,,11,1.3,2.2,
+773,NCH1610,,Nhẫn cầu hôn,,11,1.4,2.0,
+774,NCH1612,Princess Bowtie,Nhẫn cầu hôn,,12,1.5,2.2,
+775,NCH1613,Morri - Morri,Nhẫn cầu hôn,,11,1.3,1.84,
+776,NCH1616,Belle Ame,Nhẫn cầu hôn,,11,1.3,1.8,7.4
+777,NCH1617,My Destiny,Nhẫn cầu hôn,,10,1.3,2.0,
+778,NCH1618,Heaven Bird,Nhẫn cầu hôn,,11,1.3,1.8,
+779,NCH1701,Twinkle Strap,Nhẫn cầu hôn,,12,1.3,2.0,7.2
+780,NCH1702,,Nhẫn cầu hôn,,11,1.3,1.8,
+781,NCH1703,,Nhẫn cầu hôn,,11,1.3,2.5,
+782,NCH1704,,Nhẫn cầu hôn,,12,1.3,1.7,
+783,NCH1705,,Nhẫn cầu hôn,,11,1.3,2.0,
+784,NCH1706,,Nhẫn cầu hôn,,10,1.3,1.6,
+785,NCH1709,Tiny Tierra,Nhẫn cầu hôn,,11,1.3,2.0,
+786,NCH1711,Vintage Ribbon,Nhẫn cầu hôn,,12,1.5,2.1,
+787,NCH1718,Mira - Mira,Nhẫn cầu hôn,,11,1.3,2.0,
+788,NCH1719,Freya,Nhẫn cầu hôn,,10,1.3,1.6,
+789,NCH1720,Veronica,Nhẫn cầu hôn,,10,1.3,2.0,
+790,NCH1721,Adrianne,Nhẫn cầu hôn,,10,1.3,2.4,
+791,NCH1722,Cheryl,Nhẫn cầu hôn,,10,1.3,1.5,
+792,NCH1723,Olivia,Nhẫn cầu hôn,,12,1.8,2.3,
+793,NCH1724,Harmony,Nhẫn cầu hôn,,12,1.9,1.9,
+794,NCH1801,,Nhẫn cầu hôn,,12,1.3,2.2,
+795,NCH1802,,Nhẫn cầu hôn,,13,1.3,2.2,
+796,NCH1803,,Nhẫn cầu hôn,,13,1.3,2.0,
+797,NCH1804,,Nhẫn cầu hôn,,11,1.3,1.9,7.0
+798,NCH1805,,Nhẫn cầu hôn,,10,1.3,2.0,
+799,NCH1807,,Nhẫn cầu hôn,,11,1.3,1.8,
+800,NCH1808,,Nhẫn cầu hôn,,11,1.3,2.0,
+801,NCH1810,,Nhẫn cầu hôn,,10,1.4,2.0,
+802,NCH1812,Tie The Knot,Nhẫn cầu hôn,,12,2.0,1.9,
+803,NCH1901,Morning Glory,Nhẫn cầu hôn,,10,1.3,1.9,
+804,NCH1902,White Orchid,Nhẫn cầu hôn,,11,1.5,1.8,
+805,NCH1903,Katherine,Nhẫn cầu hôn,,11,1.3,1.7,
+806,NCH1905,Summerlotus,Nhẫn cầu hôn,,11,1.48,2.0,
+807,NCH1906,Pansy,Nhẫn cầu hôn,,11,1.3,1.8,
+808,NCH1907,Lily,Nhẫn cầu hôn,,10,1.2,2.2,
+809,NCH1908,Green Cloud,Nhẫn cầu hôn,,12,1.4,1.7,
+810,NCH1909,Moonlynn,Nhẫn cầu hôn,,11,1.5,2.2,
+811,NCH2001,,Nhẫn cầu hôn,,11,1.3,1.8,
+812,NCH2002,,Nhẫn cầu hôn,,10,1.3,2.0,
+813,NCH2003,,Nhẫn cầu hôn,,11,1.3,1.7,
+814,NCH2004,,Nhẫn cầu hôn,,11,1.3,2.0,
+815,NCH2005,,Nhẫn cầu hôn,,11,1.3,1.5,
+816,NCH2006,Halo Sparkling,Nhẫn cầu hôn,,11,1.3,2.0,6.8
+817,NCH2007,,Nhẫn cầu hôn,,12,1.4,2.3,8.0
+818,NCH2007.6.3mm,,Nhẫn cầu hôn,,11,1.3,2.3,8.45
+819,NCH2008,,Nhẫn cầu hôn,,11,1.3,1.9,
+820,NCH2009,,Nhẫn cầu hôn,,12,1.3,1.7,7.4
+821,NCH2011,,Nhẫn cầu hôn,,11,1.3,2.0,
+822,NCH2101,,Nhẫn cầu hôn,,12,1.3,1.8,
+823,NCH2102,,Nhẫn cầu hôn,,13,1.3,1.7,
+824,NCH2103,,Nhẫn cầu hôn,,11,1.3,1.6,
+825,NCH2104,,Nhẫn cầu hôn,,8,1.3,1.6,
+826,NCH2105,,Nhẫn cầu hôn,,11,1.3,1.8,
+827,NCH2106,,Nhẫn cầu hôn,,11,1.3,1.8,
+828,NCH2201,,Nhẫn cầu hôn,,10,1.3,1.8,
+829,NCH2202,,Nhẫn cầu hôn,,13,1.3,1.8,
+830,NCH2204,,Nhẫn cầu hôn,,10,1.3,1.7,
+831,NCH2205,,Nhẫn cầu hôn,,11,1.3,1.8,
+832,NCH2206,,Nhẫn cầu hôn,,11,1.3,1.8,
+833,NCH2402,,Nhẫn cầu hôn,,11,1.3,2.0,
+834,NCH2404,,Nhẫn cầu hôn,,10,1.3,2.2,
+835,NCH2407,Dear Darling,Nhẫn cầu hôn,,11,1.5,1.7,
+836,NCH3001,,Nhẫn cầu hôn,,12,1.5,2.7,
+837,NCH3004,Stella,Nhẫn cầu hôn,,10,1.3,2.0,
+838,NCH3101,,Nhẫn cầu hôn,,12,1.3,1.7,
+839,NCH3102,,Nhẫn cầu hôn,,11,1.3,2.0,
+840,NCH3104,,Nhẫn cầu hôn,,10,1.3,2.0,
+841,NCH3105,,Nhẫn cầu hôn,,10,1.3,2.0,
+842,NCH3201,,Nhẫn cầu hôn,,11,1.3,2.0,
+843,NCH3202,,Nhẫn cầu hôn,,11,1.3,2.5,
+844,NCH3203,,Nhẫn cầu hôn,,11,1.3,2.3,
+845,NCH3204,,Nhẫn cầu hôn,,11,1.3,2.5,
+846,NCH3205,,Nhẫn cầu hôn,,13,3.0,1.9,
+847,NCH3207,Heart Vibe,Nhẫn cầu hôn,,14,1.3,2.5,
+848,NCH3208,Dulcie,Nhẫn cầu hôn,,10,1.3,1.8,
+849,NCH3302,,Nhẫn cầu hôn,,12,1.3,2.0,
+850,NCH5301,Delicate Petal,Nhẫn cầu hôn,,11,1.3,2.1,
+851,NCH5302,Mermaid'S Shell,Nhẫn cầu hôn,,10,1.4,2.0,
+852,NCH5303,Sparkle Fin,Nhẫn cầu hôn,,10,1.3,2.0,
+853,NCH5401,White Pappilon,Nhẫn cầu hôn,,11,1.4,1.7,
+854,NCH5402,Diana Gown,Nhẫn cầu hôn,,11,1.5,2.9,
+855,NCH5404,Satin Cape,Nhẫn cầu hôn,,11,1.4,2.0,
+856,NCH5405,Enchanted Tulip,Nhẫn cầu hôn,,11,1.3,2.0,
+857,NCH5406,Princess Brooch,Nhẫn cầu hôn,,10,1.4,2.0,
+858,NCH7101,,Nhẫn cầu hôn,,11,1.25,1.5,
+859,NCH7102,Cloudy Kiss,Nhẫn cầu hôn,,11,1.4,1.65,5.8
+860,NCH7103,,Nhẫn cầu hôn,,11,1.3,1.5,6.1
+861,NCH7104,Moon Kiss,Nhẫn cầu hôn,,11,1.3,1.5,5.8
+862,NCH7105,,Nhẫn cầu hôn,,115,1.25,1.5,
+863,NCH7106,,Nhẫn cầu hôn,,115,1.25,1.5,
+864,NCH7107,,Nhẫn cầu hôn,,11,1.2,1.3,4.7
+865,NCH7108,Candy Kiss,Nhẫn cầu hôn,,10,1.4,1.3,5.35
+866,NCH7109,,Nhẫn cầu hôn,,11,1.2,1.3,5.6
+867,NCH7110,Lovely Kiss,Nhẫn cầu hôn,,10,1.2,1.3,5.25
+868,NCH7111,,Nhẫn cầu hôn,,11,1.2,1.3,5.85
+869,NCH7112,,Nhẫn cầu hôn,,10,1.2,1.3,5.9
+870,NCH8101,,Nhẫn cầu hôn,,11,1.4,2.1,
+871,NCH8102,,Nhẫn cầu hôn,,10,1.3,1.8,
 872,NCH8108,Birdcage Blusher,Nhẫn cầu hôn,,11,,,
-873,NCH8201,,Nhẫn cầu hôn,,9,13.0,2.0,
-874,NCH8202,,Nhẫn cầu hôn,,8,13.0,18.0,54.0
-875,NCH8203,,Nhẫn cầu hôn,,8,15.0,2.0,
-876,NCH8209,,Nhẫn cầu hôn,,10,13.0,22.0,
-877,NCH8301,,Nhẫn cầu hôn,,10,13.0,17.0,
-878,NCH8401,,Nhẫn cầu hôn,,9,15.0,2.0,
-879,NCH8402,,Nhẫn cầu hôn,,12,13.0,22.0,7.0
-880,NCH8403,,Nhẫn cầu hôn,,11,13.0,2.0,
-881,NCH8405,,Nhẫn cầu hôn,,13,13.0,18.0,
-882,NCH8406,,Nhẫn cầu hôn,,9,15.0,17.0,
-883,NCH8407,,Nhẫn cầu hôn,,17,13.0,21.0,
-884,NCH8408,Chloe,Nhẫn cầu hôn,,10,14.0,2.0,
-885,NCH8409,Lovey Dovey,Nhẫn cầu hôn,,11,13.0,2.0,
-886,NCH8410,Rosalie Kiss,Nhẫn cầu hôn,,10,13.0,24.0,
-887,NCH8411,Goddess Heart,Nhẫn cầu hôn,,11,17.0,18.0,
-888,NCH8413,Sweet Pea,Nhẫn cầu hôn,,11,15.0,2.0,
+873,NCH8201,,Nhẫn cầu hôn,,9,1.3,2.0,
+874,NCH8202,,Nhẫn cầu hôn,,8,1.3,1.8,5.4
+875,NCH8203,,Nhẫn cầu hôn,,8,1.5,2.0,
+876,NCH8209,,Nhẫn cầu hôn,,10,1.3,2.2,
+877,NCH8301,,Nhẫn cầu hôn,,10,1.3,1.7,
+878,NCH8401,,Nhẫn cầu hôn,,9,1.5,2.0,
+879,NCH8402,,Nhẫn cầu hôn,,12,1.3,2.2,7.0
+880,NCH8403,,Nhẫn cầu hôn,,11,1.3,2.0,
+881,NCH8405,,Nhẫn cầu hôn,,13,1.3,1.8,
+882,NCH8406,,Nhẫn cầu hôn,,9,1.5,1.7,
+883,NCH8407,,Nhẫn cầu hôn,,17,1.3,2.1,
+884,NCH8408,Chloe,Nhẫn cầu hôn,,10,1.4,2.0,
+885,NCH8409,Lovey Dovey,Nhẫn cầu hôn,,11,1.3,2.0,
+886,NCH8410,Rosalie Kiss,Nhẫn cầu hôn,,10,1.3,2.4,
+887,NCH8411,Goddess Heart,Nhẫn cầu hôn,,11,1.7,1.8,
+888,NCH8413,Sweet Pea,Nhẫn cầu hôn,,11,1.5,2.0,
 889,NCH8414,Your Forever,Nhẫn cầu hôn,,10,,,
 890,NCH8415,Satin Plait,Nhẫn cầu hôn,,10,,,
 891,NCH8416,Radiant Chapel,Nhẫn cầu hôn,,12,,,
 892,NCH8417,Coquette Blusher,Nhẫn cầu hôn,,10,,,
-893,NCH8501,,Nhẫn cầu hôn,,11,13.0,18.0,
-894,NCH9903,,Nhẫn cầu hôn,,12,13.0,24.0,
-895,NCH9904,,Nhẫn cầu hôn,,11,12.0,24.0,
-896,NCH9909,,Nhẫn cầu hôn,,11,13.0,2.0,
-897,NCH9910,,Nhẫn cầu hôn,,11,13.0,22.0,
-898,NCH9911,,Nhẫn cầu hôn,,11,13.0,25.0,
-899,NCH9913,,Nhẫn cầu hôn,,10,13.0,25.0,
-900,NCH9920,Adore You,Nhẫn cầu hôn,,11,14.0,28.0,
-901,NCH9921,Be Mine,Nhẫn cầu hôn,,11,14.0,22.0,
-902,NCH9922,Little Lotus,Nhẫn cầu hôn,,13,13.0,18.0,
-903,NCM0001,,Nhẫn cưới nam,,18,16.0,435.0,
-904,NCM0002,,Nhẫn cưới nam,,15,14.0,45.0,
-905,NCM0003,,Nhẫn cưới nam,,18,15.0,4.0,
-906,NCM0004,,Nhẫn cưới nam,,15,13.0,41.0,
-907,NCM0005,,Nhẫn cưới nam,,16,14.0,4.0,
-908,NCM0006,,Nhẫn cưới nam,,15,14.0,4.0,
-909,NCM0007,,Nhẫn cưới nam,,15,13.0,26.0,
-910,NCM0008,,Nhẫn cưới nam,,15,14.0,4.0,
-911,NCM0009,,Nhẫn cưới nam,,15,14.0,35.0,
-912,NCM0010,,Nhẫn cưới nam,,15,14.0,4.0,
-913,NCM0011,,Nhẫn cưới nam,,19,18.0,41.0,
-914,NCM0012,,Nhẫn cưới nam,,10,14.0,39.0,
-915,NCM0013,,Nhẫn cưới nam,,165,13.0,3.0,
-916,NCM0016,,Nhẫn cưới nam,,15,14.0,3.0,
-917,NCM0017,,Nhẫn cưới nam,,18,16.0,3.0,
-918,NCM0018,,Nhẫn cưới nam,,16,15.0,3.0,
-919,NCM0022,,Nhẫn cưới nam,,16,17.0,377.0,
-920,NCM0024,,Nhẫn cưới nam,,17,15.0,38.0,
-921,NCM0027,,Nhẫn cưới nam,,13,17.0,45.0,
-922,NCM0029,Twisted Love,Nhẫn cưới nam,,15,18.0,28.0,
-923,NCM0036,,Nhẫn cưới nam,,195,15.0,3.0,
-924,NCM0040,,Nhẫn cưới nam,,19,27.0,3.0,
-925,NCM0041,,Nhẫn cưới nam,,16,17.0,45.0,
-926,NCM0042,,Nhẫn cưới nam,,185,2.0,45.0,
-927,NCM0043,,Nhẫn cưới nam,,18,18.0,41.0,
-928,NCM0044,,Nhẫn cưới nam,,18,14.0,45.0,
-929,NCM0045,,Nhẫn cưới nam,,18,14.0,421.0,
-930,NCM0046,,Nhẫn cưới nam,,18,19.0,52.0,
-931,NCM1002,,Nhẫn cưới nam,,19,15.0,23.0,
-932,NCM1003,,Nhẫn cưới nam,,20,14.0,335.0,
-933,NCM1004,,Nhẫn cưới nam,,21,18.0,18.0,
-934,NCM1005,,Nhẫn cưới nam,,185,18.0,25.0,
-935,NCM1006,,Nhẫn cưới nam,,19,13.0,24.0,
-936,NCM1007,,Nhẫn cưới nam,,20,19.0,41.0,
-937,NCM1008,,Nhẫn cưới nam,,15,18.0,4.0,
-938,NCM1009,,Nhẫn cưới nam,,16,13.0,3.0,
-939,NCM1010,,Nhẫn cưới nam,,14,16.0,38.0,
-940,NCM1011,,Nhẫn cưới nam,,22,14.0,5.0,
-941,NCM1012,,Nhẫn cưới nam,,18,14.0,43.0,
-942,NCM1013,,Nhẫn cưới nam,,18,15.0,27.0,
-943,NCM1014,,Nhẫn cưới nam,,17,13.0,24.0,
-944,NCM1015,,Nhẫn cưới nam,,17,14.0,35.0,
-945,NCM1016,,Nhẫn cưới nam,,17,15.0,34.0,
-946,NCM1017,,Nhẫn cưới nam,,17,13.0,34.0,
-947,NCM1018,,Nhẫn cưới nam,,16,13.0,25.0,
-948,NCM1019,,Nhẫn cưới nam,,22,15.0,46.0,
-949,NCM1020,,Nhẫn cưới nam,,17,16.0,36.0,
-950,NCM1021,,Nhẫn cưới nam,,16,16.0,29.0,
-951,NCM1022,,Nhẫn cưới nam,,16,15.0,25.0,
-952,NCM1023,,Nhẫn cưới nam,,18,13.0,28.0,
-953,NCM1024,,Nhẫn cưới nam,,17,13.0,25.0,
-954,NCM1025,,Nhẫn cưới nam,,17,16.0,37.0,
-955,NCM1027,,Nhẫn cưới nam,,16,14.0,38.0,
-956,NCM1028,,Nhẫn cưới nam,,17,14.0,26.0,
-957,NCM1033,,Nhẫn cưới nam,,15,16.0,32.0,
-958,NCM1036,,Nhẫn cưới nam,,185,14.0,19.0,
-959,NCM1037,,Nhẫn cưới nam,,18,18.0,31.0,
-960,NCM1038,,Nhẫn cưới nam,,15,15.0,26.0,
-961,NCM1039,,Nhẫn cưới nam,,14,16.0,27.0,
-962,NCM1040,,Nhẫn cưới nam,,14,13.0,25.0,
-963,NCM1041,,Nhẫn cưới nam,,13,14.0,34.0,
-964,NCM1042,,Nhẫn cưới nam,,16,14.0,34.0,
-965,NCM1043,,Nhẫn cưới nam,,19,13.0,2.0,
-966,NCM1044,,Nhẫn cưới nam,,19,14.0,36.0,
-967,NCM1046,,Nhẫn cưới nam,,19,14.0,16.0,
-968,NCM1047,,Nhẫn cưới nam,,19,14.0,3.0,
-969,NCM1048,,Nhẫn cưới nam,,19,14.0,4.0,
-970,NCM2001,,Nhẫn cưới nam,,16,13.0,26.0,
-971,NCM2002,,Nhẫn cưới nam,,12,13.0,45.0,
-972,NCM2003,,Nhẫn cưới nam,,18,13.0,5.0,
-973,NCM2004,,Nhẫn cưới nam,,24,15.0,34.0,
-974,NCM2005,,Nhẫn cưới nam,,18,13.0,42.0,
-975,NCM2006,,Nhẫn cưới nam,,20,14.0,35.0,
-976,NCM2007,,Nhẫn cưới nam,cm,18,133.0,4.0,
-977,NCM2008,,Nhẫn cưới nam,,16,13.0,35.0,
-978,NCM2009,,Nhẫn cưới nam,,16,15.0,37.0,
-979,NCM2010,,Nhẫn cưới nam,,18,13.0,35.0,
-980,NCM2011,,Nhẫn cưới nam,,15,13.0,35.0,
-981,NCM2012,,Nhẫn cưới nam,,17,14.0,5.0,
-982,NCM2013,,Nhẫn cưới nam,,18,13.0,495.0,
-983,NCM2014,,Nhẫn cưới nam,,18,16.0,5.0,
-984,NCM2015,,Nhẫn cưới nam,,15,139.0,4.0,
-985,NCM2016,,Nhẫn cưới nam,,20,11.0,35.0,
-986,NCM2017,,Nhẫn cưới nam,,20,16.0,42.0,
-987,NCM2018,,Nhẫn cưới nam,,16,13.0,49.0,
-988,NCM2019,,Nhẫn cưới nam,,20,17.0,55.0,
-989,NCM2020,,Nhẫn cưới nam,,20,1.0,26.0,
-990,NCM2021,,Nhẫn cưới nam,,20,22.0,53.0,
-991,NCM2022,,Nhẫn cưới nam,,20,11.0,34.0,
-992,NCM2023,,Nhẫn cưới nam,,20,11.0,34.0,
-993,NCM2024,,Nhẫn cưới nam,,20,12.0,61.0,
-994,NCM2025,,Nhẫn cưới nam,,14,14.0,45.0,
-995,NCM2026,,Nhẫn cưới nam,,21,15.0,59.0,
-996,NCM2027,,Nhẫn cưới nam,,18,14.0,4.0,
-997,NCM2028,,Nhẫn cưới nam,,15,15.0,45.0,
-998,NCM2029,,Nhẫn cưới nam,,16,13.0,31.0,
-999,NCM2030,,Nhẫn cưới nam,,16,15.0,55.0,
-1000,NCM2031,,Nhẫn cưới nam,,17,14.0,33.0,
-1001,NCM2032,,Nhẫn cưới nam,,18,17.0,43.0,
-1002,NCM2033,,Nhẫn cưới nam,,16,16.0,48.0,
-1003,NCM2034,,Nhẫn cưới nam,,18,15.0,42.0,
-1004,NCM2035,,Nhẫn cưới nam,,16,14.0,31.0,
-1005,NCM2036,,Nhẫn cưới nam,,14,145.0,37.0,
-1006,NCM2037,,Nhẫn cưới nam,,15,15.0,17.0,
-1007,NCM2038,,Nhẫn cưới nam,,16,13.0,3.0,
-1008,NCM2039,,Nhẫn cưới nam,,15,15.0,33.0,
-1009,NCM2040,,Nhẫn cưới nam,,18,13.0,3.0,
-1010,NCM2041,,Nhẫn cưới nam,,16,13.0,35.0,
-1011,NCM2042,,Nhẫn cưới nam,,14,12.0,31.0,
-1012,NCM2043,,Nhẫn cưới nam,,18,13.0,22.0,
-1013,NCM2044,,Nhẫn cưới nam,,15,14.0,3.0,
-1014,NCM2045,,Nhẫn cưới nam,,15,14.0,35.0,
-1015,NCM2047,,Nhẫn cưới nam,,14,15.0,23.0,
-1016,NCM2048,,Nhẫn cưới nam,,14,14.0,35.0,
-1017,NCM2049,,Nhẫn cưới nam,,15,15.0,25.0,
-1018,NCM2053,,Nhẫn cưới nam,,17,19.0,45.0,
-1019,NCM2054,,Nhẫn cưới nam,,15,16.0,45.0,
-1020,NCM2055,,Nhẫn cưới nam,,16,18.0,5.0,
-1021,NCM2058,,Nhẫn cưới nam,,14,18.0,5.0,
-1022,NCM2059,,Nhẫn cưới nam,,17,14.0,34.0,
-1023,NCM2061,,Nhẫn cưới nam,,17,155.0,46.0,
-1024,NCM2062,,Nhẫn cưới nam,,16,13.0,36.0,
-1025,NCM2065,,Nhẫn cưới nam,,15,14.0,32.0,
-1026,NCM2066,Star Light,Nhẫn cưới nam,,195,15.0,35.0,
-1027,NCM2070,Our Day,Nhẫn cưới nam,,195,14.0,43.0,
-1028,NCM2071,,Nhẫn cưới nam,,15,13.0,33.0,
-1029,NCM2079,,Nhẫn cưới nam,,18,14.0,32.0,
-1030,NCM2080,,Nhẫn cưới nam,,18,13.0,43.0,
-1031,NCM2081,,Nhẫn cưới nam,,18,15.0,4.0,
-1032,NCM2090,,Nhẫn cưới nam,,15,2.0,34.0,
-1033,NCM2091,,Nhẫn cưới nam,,19,14.0,3.0,
-1034,NCM2092,,Nhẫn cưới nam,,19,14.0,4.0,
-1035,NCM2093,,Nhẫn cưới nam,,185,145.0,31.0,
-1036,NCM3001,,Nhẫn cưới nam,,18,15.0,26.0,
-1037,NCM3002,,Nhẫn cưới nam,,25,15.0,5.0,
-1038,NCM3003,,Nhẫn cưới nam,,16,13.0,3.0,
-1039,NCM3004,,Nhẫn cưới nam,,16,14.0,39.0,
-1040,NCM3005,,Nhẫn cưới nam,,175,13.0,4.0,
-1041,NCM3006,,Nhẫn cưới nam,,16,13.0,24.0,
-1042,NCM3007,,Nhẫn cưới nam,,20,12.0,26.0,
-1043,NCM3008,,Nhẫn cưới nam,,20,113.0,428.0,
-1044,NCM3009,,Nhẫn cưới nam,,17,13.0,37.0,
-1045,NCM3010,,Nhẫn cưới nam,,12,13.0,37.0,
-1046,NCM3011,,Nhẫn cưới nam,,18,11.0,32.0,
-1047,NCM3012,,Nhẫn cưới nam,,15,14.0,37.0,
-1048,NCM3013,,Nhẫn cưới nam,,15,14.0,34.0,
-1049,NCM3015,,Nhẫn cưới nam,,16,15.0,4.0,
-1050,NCM3024,Love'Em,Nhẫn cưới nam,,15,15.0,56.0,
-1051,NCM3026,,Nhẫn cưới nam,,16,13.0,4.0,
-1052,NCM3030,Love Liife,Nhẫn cưới nam,,18,16.0,43.0,
-1053,NCM5001,,Nhẫn cưới nam,,18,17.0,6.0,
-1054,NCM5002,,Nhẫn cưới nam,,19,18.0,5.0,
-1055,NCM5003,,Nhẫn cưới nam,,16,16.0,51.0,
-1056,NCM5004,,Nhẫn cưới nam,,15,16.0,37.0,
-1057,NCM5005,,Nhẫn cưới nam,,15,2.0,55.0,
-1058,NCM5006,,Nhẫn cưới nam,,17,2.0,526.0,
-1059,NCM5007,,Nhẫn cưới nam,,18,16.0,46.0,
-1060,NCM5008,,Nhẫn cưới nam,,15,15.0,39.0,
-1061,NCM5009,,Nhẫn cưới nam,,12,24.0,47.0,
-1062,NCM7001,Always You ,Nhẫn cưới nam,,135,14.0,27.0,
-1063,NCM7002,Perfect Half ,Nhẫn cưới nam,,19,13.0,29.0,
-1064,NCM7003,Infinity Us,Nhẫn cưới nam,,19,14.0,25.0,
-1065,NCM7004,In My Heart,Nhẫn cưới nam,,18,14.0,21.0,
-1066,NCM7005,Mr & Mrs. Right ,Nhẫn cưới nam,,175,145.0,3.0,
-1067,NCM7006,All My Life,Nhẫn cưới nam,,18,15.0,24.0,
-1068,NCM7007,Definitely You,Nhẫn cưới nam,,18,13.0,22.0,
-1069,NCM7008,Destiny Hallf,Nhẫn cưới nam,,135,15.0,27.0,
-1070,NCM7009,Warmest Embrace,Nhẫn cưới nam,,17,14.0,22.0,
-1071,NCM7010,Tender Love,Nhẫn cưới nam,,15,14.0,26.0,
+893,NCH8501,,Nhẫn cầu hôn,,11,1.3,1.8,
+894,NCH9903,,Nhẫn cầu hôn,,12,1.3,2.4,
+895,NCH9904,,Nhẫn cầu hôn,,11,1.2,2.4,
+896,NCH9909,,Nhẫn cầu hôn,,11,1.3,2.0,
+897,NCH9910,,Nhẫn cầu hôn,,11,1.3,2.2,
+898,NCH9911,,Nhẫn cầu hôn,,11,1.3,2.5,
+899,NCH9913,,Nhẫn cầu hôn,,10,1.3,2.5,
+900,NCH9920,Adore You,Nhẫn cầu hôn,,11,1.4,2.8,
+901,NCH9921,Be Mine,Nhẫn cầu hôn,,11,1.4,2.2,
+902,NCH9922,Little Lotus,Nhẫn cầu hôn,,13,1.3,1.8,
+903,NCM0001,,Nhẫn cưới nam,,18,1.6,4.35,
+904,NCM0002,,Nhẫn cưới nam,,15,1.4,4.5,
+905,NCM0003,,Nhẫn cưới nam,,18,1.5,4.0,
+906,NCM0004,,Nhẫn cưới nam,,15,1.3,4.1,
+907,NCM0005,,Nhẫn cưới nam,,16,1.4,4.0,
+908,NCM0006,,Nhẫn cưới nam,,15,1.4,4.0,
+909,NCM0007,,Nhẫn cưới nam,,15,1.3,2.6,
+910,NCM0008,,Nhẫn cưới nam,,15,1.4,4.0,
+911,NCM0009,,Nhẫn cưới nam,,15,1.4,3.5,
+912,NCM0010,,Nhẫn cưới nam,,15,1.4,4.0,
+913,NCM0011,,Nhẫn cưới nam,,19,1.8,4.1,
+914,NCM0012,,Nhẫn cưới nam,,10,1.4,3.9,
+915,NCM0013,,Nhẫn cưới nam,,165,1.3,3.0,
+916,NCM0016,,Nhẫn cưới nam,,15,1.4,3.0,
+917,NCM0017,,Nhẫn cưới nam,,18,1.6,3.0,
+918,NCM0018,,Nhẫn cưới nam,,16,1.5,3.0,
+919,NCM0022,,Nhẫn cưới nam,,16,1.7,3.77,
+920,NCM0024,,Nhẫn cưới nam,,17,1.5,3.8,
+921,NCM0027,,Nhẫn cưới nam,,13,1.7,4.5,
+922,NCM0029,Twisted Love,Nhẫn cưới nam,,15,1.8,2.8,
+923,NCM0036,,Nhẫn cưới nam,,195,1.5,3.0,
+924,NCM0040,,Nhẫn cưới nam,,19,2.7,3.0,
+925,NCM0041,,Nhẫn cưới nam,,16,1.7,4.5,
+926,NCM0042,,Nhẫn cưới nam,,185,2.0,4.5,
+927,NCM0043,,Nhẫn cưới nam,,18,1.8,4.1,
+928,NCM0044,,Nhẫn cưới nam,,18,1.4,4.5,
+929,NCM0045,,Nhẫn cưới nam,,18,1.4,4.21,
+930,NCM0046,,Nhẫn cưới nam,,18,1.9,5.2,
+931,NCM1002,,Nhẫn cưới nam,,19,1.5,2.3,
+932,NCM1003,,Nhẫn cưới nam,,20,1.4,3.35,
+933,NCM1004,,Nhẫn cưới nam,,21,1.8,1.8,
+934,NCM1005,,Nhẫn cưới nam,,185,1.8,2.5,
+935,NCM1006,,Nhẫn cưới nam,,19,1.3,2.4,
+936,NCM1007,,Nhẫn cưới nam,,20,1.9,4.1,
+937,NCM1008,,Nhẫn cưới nam,,15,1.8,4.0,
+938,NCM1009,,Nhẫn cưới nam,,16,1.3,3.0,
+939,NCM1010,,Nhẫn cưới nam,,14,1.6,3.8,
+940,NCM1011,,Nhẫn cưới nam,,22,1.4,5.0,
+941,NCM1012,,Nhẫn cưới nam,,18,1.4,4.3,
+942,NCM1013,,Nhẫn cưới nam,,18,1.5,2.7,
+943,NCM1014,,Nhẫn cưới nam,,17,1.3,2.4,
+944,NCM1015,,Nhẫn cưới nam,,17,1.4,3.5,
+945,NCM1016,,Nhẫn cưới nam,,17,1.5,3.4,
+946,NCM1017,,Nhẫn cưới nam,,17,1.3,3.4,
+947,NCM1018,,Nhẫn cưới nam,,16,1.3,2.5,
+948,NCM1019,,Nhẫn cưới nam,,22,1.5,4.6,
+949,NCM1020,,Nhẫn cưới nam,,17,1.6,3.6,
+950,NCM1021,,Nhẫn cưới nam,,16,1.6,2.9,
+951,NCM1022,,Nhẫn cưới nam,,16,1.5,2.5,
+952,NCM1023,,Nhẫn cưới nam,,18,1.3,2.8,
+953,NCM1024,,Nhẫn cưới nam,,17,1.3,2.5,
+954,NCM1025,,Nhẫn cưới nam,,17,1.6,3.7,
+955,NCM1027,,Nhẫn cưới nam,,16,1.4,3.8,
+956,NCM1028,,Nhẫn cưới nam,,17,1.4,2.6,
+957,NCM1033,,Nhẫn cưới nam,,15,1.6,3.2,
+958,NCM1036,,Nhẫn cưới nam,,185,1.4,1.9,
+959,NCM1037,,Nhẫn cưới nam,,18,1.8,3.1,
+960,NCM1038,,Nhẫn cưới nam,,15,1.5,2.6,
+961,NCM1039,,Nhẫn cưới nam,,14,1.6,2.7,
+962,NCM1040,,Nhẫn cưới nam,,14,1.3,2.5,
+963,NCM1041,,Nhẫn cưới nam,,13,1.4,3.4,
+964,NCM1042,,Nhẫn cưới nam,,16,1.4,3.4,
+965,NCM1043,,Nhẫn cưới nam,,19,1.3,2.0,
+966,NCM1044,,Nhẫn cưới nam,,19,1.4,3.6,
+967,NCM1046,,Nhẫn cưới nam,,19,1.4,1.6,
+968,NCM1047,,Nhẫn cưới nam,,19,1.4,3.0,
+969,NCM1048,,Nhẫn cưới nam,,19,1.4,4.0,
+970,NCM2001,,Nhẫn cưới nam,,16,1.3,2.6,
+971,NCM2002,,Nhẫn cưới nam,,12,1.3,4.5,
+972,NCM2003,,Nhẫn cưới nam,,18,1.3,5.0,
+973,NCM2004,,Nhẫn cưới nam,,24,1.5,3.4,
+974,NCM2005,,Nhẫn cưới nam,,18,1.3,4.2,
+975,NCM2006,,Nhẫn cưới nam,,20,1.4,3.5,
+976,NCM2007,,Nhẫn cưới nam,cm,18,1.33,4.0,
+977,NCM2008,,Nhẫn cưới nam,,16,1.3,3.5,
+978,NCM2009,,Nhẫn cưới nam,,16,1.5,3.7,
+979,NCM2010,,Nhẫn cưới nam,,18,1.3,3.5,
+980,NCM2011,,Nhẫn cưới nam,,15,1.3,3.5,
+981,NCM2012,,Nhẫn cưới nam,,17,1.4,5.0,
+982,NCM2013,,Nhẫn cưới nam,,18,1.3,4.95,
+983,NCM2014,,Nhẫn cưới nam,,18,1.6,5.0,
+984,NCM2015,,Nhẫn cưới nam,,15,1.39,4.0,
+985,NCM2016,,Nhẫn cưới nam,,20,1.1,3.5,
+986,NCM2017,,Nhẫn cưới nam,,20,1.6,4.2,
+987,NCM2018,,Nhẫn cưới nam,,16,1.3,4.9,
+988,NCM2019,,Nhẫn cưới nam,,20,1.7,5.5,
+989,NCM2020,,Nhẫn cưới nam,,20,1.0,2.6,
+990,NCM2021,,Nhẫn cưới nam,,20,2.2,5.3,
+991,NCM2022,,Nhẫn cưới nam,,20,1.1,3.4,
+992,NCM2023,,Nhẫn cưới nam,,20,1.1,3.4,
+993,NCM2024,,Nhẫn cưới nam,,20,1.2,6.1,
+994,NCM2025,,Nhẫn cưới nam,,14,1.4,4.5,
+995,NCM2026,,Nhẫn cưới nam,,21,1.5,5.9,
+996,NCM2027,,Nhẫn cưới nam,,18,1.4,4.0,
+997,NCM2028,,Nhẫn cưới nam,,15,1.5,4.5,
+998,NCM2029,,Nhẫn cưới nam,,16,1.3,3.1,
+999,NCM2030,,Nhẫn cưới nam,,16,1.5,5.5,
+1000,NCM2031,,Nhẫn cưới nam,,17,1.4,3.3,
+1001,NCM2032,,Nhẫn cưới nam,,18,1.7,4.3,
+1002,NCM2033,,Nhẫn cưới nam,,16,1.6,4.8,
+1003,NCM2034,,Nhẫn cưới nam,,18,1.5,4.2,
+1004,NCM2035,,Nhẫn cưới nam,,16,1.4,3.1,
+1005,NCM2036,,Nhẫn cưới nam,,14,1.45,3.7,
+1006,NCM2037,,Nhẫn cưới nam,,15,1.5,1.7,
+1007,NCM2038,,Nhẫn cưới nam,,16,1.3,3.0,
+1008,NCM2039,,Nhẫn cưới nam,,15,1.5,3.3,
+1009,NCM2040,,Nhẫn cưới nam,,18,1.3,3.0,
+1010,NCM2041,,Nhẫn cưới nam,,16,1.3,3.5,
+1011,NCM2042,,Nhẫn cưới nam,,14,1.2,3.1,
+1012,NCM2043,,Nhẫn cưới nam,,18,1.3,2.2,
+1013,NCM2044,,Nhẫn cưới nam,,15,1.4,3.0,
+1014,NCM2045,,Nhẫn cưới nam,,15,1.4,3.5,
+1015,NCM2047,,Nhẫn cưới nam,,14,1.5,2.3,
+1016,NCM2048,,Nhẫn cưới nam,,14,1.4,3.5,
+1017,NCM2049,,Nhẫn cưới nam,,15,1.5,2.5,
+1018,NCM2053,,Nhẫn cưới nam,,17,1.9,4.5,
+1019,NCM2054,,Nhẫn cưới nam,,15,1.6,4.5,
+1020,NCM2055,,Nhẫn cưới nam,,16,1.8,5.0,
+1021,NCM2058,,Nhẫn cưới nam,,14,1.8,5.0,
+1022,NCM2059,,Nhẫn cưới nam,,17,1.4,3.4,
+1023,NCM2061,,Nhẫn cưới nam,,17,1.55,4.6,
+1024,NCM2062,,Nhẫn cưới nam,,16,1.3,3.6,
+1025,NCM2065,,Nhẫn cưới nam,,15,1.4,3.2,
+1026,NCM2066,Star Light,Nhẫn cưới nam,,195,1.5,3.5,
+1027,NCM2070,Our Day,Nhẫn cưới nam,,195,1.4,4.3,
+1028,NCM2071,,Nhẫn cưới nam,,15,1.3,3.3,
+1029,NCM2079,,Nhẫn cưới nam,,18,1.4,3.2,
+1030,NCM2080,,Nhẫn cưới nam,,18,1.3,4.3,
+1031,NCM2081,,Nhẫn cưới nam,,18,1.5,4.0,
+1032,NCM2090,,Nhẫn cưới nam,,15,2.0,3.4,
+1033,NCM2091,,Nhẫn cưới nam,,19,1.4,3.0,
+1034,NCM2092,,Nhẫn cưới nam,,19,1.4,4.0,
+1035,NCM2093,,Nhẫn cưới nam,,185,1.45,3.1,
+1036,NCM3001,,Nhẫn cưới nam,,18,1.5,2.6,
+1037,NCM3002,,Nhẫn cưới nam,,25,1.5,5.0,
+1038,NCM3003,,Nhẫn cưới nam,,16,1.3,3.0,
+1039,NCM3004,,Nhẫn cưới nam,,16,1.4,3.9,
+1040,NCM3005,,Nhẫn cưới nam,,175,1.3,4.0,
+1041,NCM3006,,Nhẫn cưới nam,,16,1.3,2.4,
+1042,NCM3007,,Nhẫn cưới nam,,20,1.2,2.6,
+1043,NCM3008,,Nhẫn cưới nam,,20,1.13,4.28,
+1044,NCM3009,,Nhẫn cưới nam,,17,1.3,3.7,
+1045,NCM3010,,Nhẫn cưới nam,,12,1.3,3.7,
+1046,NCM3011,,Nhẫn cưới nam,,18,1.1,3.2,
+1047,NCM3012,,Nhẫn cưới nam,,15,1.4,3.7,
+1048,NCM3013,,Nhẫn cưới nam,,15,1.4,3.4,
+1049,NCM3015,,Nhẫn cưới nam,,16,1.5,4.0,
+1050,NCM3024,Love'Em,Nhẫn cưới nam,,15,1.5,5.6,
+1051,NCM3026,,Nhẫn cưới nam,,16,1.3,4.0,
+1052,NCM3030,Love Liife,Nhẫn cưới nam,,18,1.6,4.3,
+1053,NCM5001,,Nhẫn cưới nam,,18,1.7,6.0,
+1054,NCM5002,,Nhẫn cưới nam,,19,1.8,5.0,
+1055,NCM5003,,Nhẫn cưới nam,,16,1.6,5.1,
+1056,NCM5004,,Nhẫn cưới nam,,15,1.6,3.7,
+1057,NCM5005,,Nhẫn cưới nam,,15,2.0,5.5,
+1058,NCM5006,,Nhẫn cưới nam,,17,2.0,5.26,
+1059,NCM5007,,Nhẫn cưới nam,,18,1.6,4.6,
+1060,NCM5008,,Nhẫn cưới nam,,15,1.5,3.9,
+1061,NCM5009,,Nhẫn cưới nam,,12,2.4,4.7,
+1062,NCM7001,Always You ,Nhẫn cưới nam,,135,1.4,2.7,
+1063,NCM7002,Perfect Half ,Nhẫn cưới nam,,19,1.3,2.9,
+1064,NCM7003,Infinity Us,Nhẫn cưới nam,,19,1.4,2.5,
+1065,NCM7004,In My Heart,Nhẫn cưới nam,,18,1.4,2.1,
+1066,NCM7005,Mr & Mrs. Right ,Nhẫn cưới nam,,175,1.45,3.0,
+1067,NCM7006,All My Life,Nhẫn cưới nam,,18,1.5,2.4,
+1068,NCM7007,Definitely You,Nhẫn cưới nam,,18,1.3,2.2,
+1069,NCM7008,Destiny Hallf,Nhẫn cưới nam,,135,1.5,2.7,
+1070,NCM7009,Warmest Embrace,Nhẫn cưới nam,,17,1.4,2.2,
+1071,NCM7010,Tender Love,Nhẫn cưới nam,,15,1.4,2.6,
 1072,"NCM8001
-",,Nhẫn cưới nam,,16,15.0,5.0,
-1073,NCM8002,,Nhẫn cưới nam,,14,12.0,42.0,
-1074,NCM8003,,Nhẫn cưới nam,,14,13.0,41.0,
-1075,NCM8010,,Nhẫn cưới nam,,18,17.0,4.0,
-1076,NCM9001,,Nhẫn cưới nam,,15,13.0,45.0,
-1077,NCM9002,,Nhẫn cưới nam,,20,11.0,262.0,
-1078,NCM9003,,Nhẫn cưới nam,,18,16.0,47.0,
-1079,NCM9004,,Nhẫn cưới nam,,18,14.0,45.0,
-1080,NCM9005,,Nhẫn cưới nam,,17,13.0,4.0,
-1081,NCM9006,,Nhẫn cưới nam,,19,18.0,6.0,
-1082,NCM9007,,Nhẫn cưới nam,,15,13.0,32.0,
-1083,NCM9009,,Nhẫn cưới nam,,15,13.0,32.0,
-1084,NCM9010,,Nhẫn cưới nam,,15,18.0,45.0,
-1085,NCM9011,,Nhẫn cưới nam,,18,17.0,36.0,
+",,Nhẫn cưới nam,,16,1.5,5.0,
+1073,NCM8002,,Nhẫn cưới nam,,14,1.2,4.2,
+1074,NCM8003,,Nhẫn cưới nam,,14,1.3,4.1,
+1075,NCM8010,,Nhẫn cưới nam,,18,1.7,4.0,
+1076,NCM9001,,Nhẫn cưới nam,,15,1.3,4.5,
+1077,NCM9002,,Nhẫn cưới nam,,20,1.1,2.62,
+1078,NCM9003,,Nhẫn cưới nam,,18,1.6,4.7,
+1079,NCM9004,,Nhẫn cưới nam,,18,1.4,4.5,
+1080,NCM9005,,Nhẫn cưới nam,,17,1.3,4.0,
+1081,NCM9006,,Nhẫn cưới nam,,19,1.8,6.0,
+1082,NCM9007,,Nhẫn cưới nam,,15,1.3,3.2,
+1083,NCM9009,,Nhẫn cưới nam,,15,1.3,3.2,
+1084,NCM9010,,Nhẫn cưới nam,,15,1.8,4.5,
+1085,NCM9011,,Nhẫn cưới nam,,18,1.7,3.6,
 1086,NCS0003,,Nhẫn cưới,,M.18-F.7.5,,,
 1087,NCS0004,,Nhẫn cưới,,M.15-F.11.5,,,
 1088,NCS0008,,Nhẫn cưới,,M.15-F.8.5,,,
@@ -1145,366 +1145,366 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 1141,NCS9001,,Nhẫn cưới,,M.16-F.09,,,
 1142,NCS9002,,Nhẫn cưới,,M.20-F.10,,,
 1143,NCS9005,,Nhẫn cưới,,M.17-F.11,,,
-1144,NFS0003,,Nhẫn cưới nữ,,75,14.0,24.0,
-1145,NFS0004,,Nhẫn cưới nữ,,115,14.0,22.0,
+1144,NFS0003,,Nhẫn cưới nữ,,75,1.4,2.4,
+1145,NFS0004,,Nhẫn cưới nữ,,115,1.4,2.2,
 1146,NFS0008,,Nhẫn cưới nữ,,85,,,
-1147,NFS0009,,Nhẫn cưới nữ,,85,13.0,2.0,
-1148,NFS1002,,Nhẫn cưới nữ,,85,13.0,21.0,
-1149,NFS1012,,Nhẫn cưới nữ,,10,14.0,28.0,
-1150,NFS1013,,Nhẫn cưới nữ,,10,15.0,25.0,
-1151,NFS1033,,Nhẫn cưới nữ,,85,145.0,235.0,
-1152,NFS2002,,Nhẫn cưới nữ,,7,12.0,405.0,
-1153,NFS2003,,Nhẫn cưới nữ,,11,13.0,43.0,
-1154,NFS2005,,Nhẫn cưới nữ,,12,13.0,38.0,
-1155,NFS2007,,Nhẫn cưới nữ,,11,13.0,35.0,
-1156,NFS2009,,Nhẫn cưới nữ,,9,145.0,25.0,
-1157,NFS2010,,Nhẫn cưới nữ,,85,13.0,25.0,
-1158,NFS2011,,Nhẫn cưới nữ,,85,13.0,29.0,
-1159,NFS2012,,Nhẫn cưới nữ,,11,14.0,38.0,
-1160,NFS2013,,Nhẫn cưới nữ,,10,13.0,44.0,
-1161,NFS2015,,Nhẫn cưới nữ,,85,13.0,3.0,
-1162,NFS2017,,Nhẫn cưới nữ,,10,14.0,345.0,
-1163,NFS2018,,Nhẫn cưới nữ,,8,13.0,38.0,
-1164,NFS2019,,Nhẫn cưới nữ,,10,18.0,385.0,
-1165,NFS2020,,Nhẫn cưới nữ,,10,12.0,245.0,
-1166,NFS2022,,Nhẫn cưới nữ,,10,12.0,32.0,
-1167,NFS2023,,Nhẫn cưới nữ,,10,12.0,22.0,
-1168,NFS2025,,Nhẫn cưới nữ,,6,13.0,335.0,
-1169,NFS2026,,Nhẫn cưới nữ,,10,14.0,61.0,
-1170,NFS2027,,Nhẫn cưới nữ,,10,14.0,32.0,
-1171,NFS2029,,Nhẫn cưới nữ,,8,13.0,265.0,
-1172,NFS2031,,Nhẫn cưới nữ,,11,13.0,235.0,
-1173,NFS2033,,Nhẫn cưới nữ,,9,18.0,4.0,
-1174,NFS2034,,Nhẫn cưới nữ,,14,14.0,23.0,
-1175,NFS2035,,Nhẫn cưới nữ,,75,13.0,26.0,
-1176,NFS2036,,Nhẫn cưới nữ,,14,135.0,355.0,
-1177,NFS2038,,Nhẫn cưới nữ,,9,13.0,28.0,
-1178,NFS2040,,Nhẫn cưới nữ,,8,13.0,26.0,
-1179,NFS2041,,Nhẫn cưới nữ,,85,13.0,25.0,
-1180,NFS2044,,Nhẫn cưới nữ,,10,125.0,295.0,
-1181,NFS2045,,Nhẫn cưới nữ,,10,12.0,295.0,
-1182,NFS2048,,Nhẫn cưới nữ,,10,12.0,27.0,
+1147,NFS0009,,Nhẫn cưới nữ,,85,1.3,2.0,
+1148,NFS1002,,Nhẫn cưới nữ,,85,1.3,2.1,
+1149,NFS1012,,Nhẫn cưới nữ,,10,1.4,2.8,
+1150,NFS1013,,Nhẫn cưới nữ,,10,1.5,2.5,
+1151,NFS1033,,Nhẫn cưới nữ,,85,1.45,2.35,
+1152,NFS2002,,Nhẫn cưới nữ,,7,1.2,4.05,
+1153,NFS2003,,Nhẫn cưới nữ,,11,1.3,4.3,
+1154,NFS2005,,Nhẫn cưới nữ,,12,1.3,3.8,
+1155,NFS2007,,Nhẫn cưới nữ,,11,1.3,3.5,
+1156,NFS2009,,Nhẫn cưới nữ,,9,1.45,2.5,
+1157,NFS2010,,Nhẫn cưới nữ,,85,1.3,2.5,
+1158,NFS2011,,Nhẫn cưới nữ,,85,1.3,2.9,
+1159,NFS2012,,Nhẫn cưới nữ,,11,1.4,3.8,
+1160,NFS2013,,Nhẫn cưới nữ,,10,1.3,4.4,
+1161,NFS2015,,Nhẫn cưới nữ,,85,1.3,3.0,
+1162,NFS2017,,Nhẫn cưới nữ,,10,1.4,3.45,
+1163,NFS2018,,Nhẫn cưới nữ,,8,1.3,3.8,
+1164,NFS2019,,Nhẫn cưới nữ,,10,1.8,3.85,
+1165,NFS2020,,Nhẫn cưới nữ,,10,1.2,2.45,
+1166,NFS2022,,Nhẫn cưới nữ,,10,1.2,3.2,
+1167,NFS2023,,Nhẫn cưới nữ,,10,1.2,2.2,
+1168,NFS2025,,Nhẫn cưới nữ,,6,1.3,3.35,
+1169,NFS2026,,Nhẫn cưới nữ,,10,1.4,6.1,
+1170,NFS2027,,Nhẫn cưới nữ,,10,1.4,3.2,
+1171,NFS2029,,Nhẫn cưới nữ,,8,1.3,2.65,
+1172,NFS2031,,Nhẫn cưới nữ,,11,1.3,2.35,
+1173,NFS2033,,Nhẫn cưới nữ,,9,1.8,4.0,
+1174,NFS2034,,Nhẫn cưới nữ,,14,1.4,2.3,
+1175,NFS2035,,Nhẫn cưới nữ,,75,1.3,2.6,
+1176,NFS2036,,Nhẫn cưới nữ,,14,1.35,3.55,
+1177,NFS2038,,Nhẫn cưới nữ,,9,1.3,2.8,
+1178,NFS2040,,Nhẫn cưới nữ,,8,1.3,2.6,
+1179,NFS2041,,Nhẫn cưới nữ,,85,1.3,2.5,
+1180,NFS2044,,Nhẫn cưới nữ,,10,1.25,2.95,
+1181,NFS2045,,Nhẫn cưới nữ,,10,1.2,2.95,
+1182,NFS2048,,Nhẫn cưới nữ,,10,1.2,2.7,
 1183,NFS2053,,Nhẫn cưới nữ,,12,2.0,4.0,
-1184,NFS2061,,Nhẫn cưới nữ,,11,14.0,4.0,
-1185,NFS2062,,Nhẫn cưới nữ,,11,13.0,27.0,
-1186,NFS2066,,Nhẫn cưới nữ,,12,13.0,26.0,
-1187,NFS2070,,Nhẫn cưới nữ,,13,13.0,38.0,
-1188,NFS2080,,Nhẫn cưới nữ,,12,12.0,34.0,
-1189,NFS3001,,Nhẫn cưới nữ,,10,14.0,23.0,
-1190,NFS3003,,Nhẫn cưới nữ,,11,13.0,29.0,
-1191,NFS3004,,Nhẫn cưới nữ,,9,13.0,35.0,
-1192,NFS3006,,Nhẫn cưới nữ,,85,13.0,17.0,
-1193,NFS3007,,Nhẫn cưới nữ,,10,12.0,23.0,
-1194,NFS3009,,Nhẫn cưới nữ,,85,13.0,34.0,
-1195,NFS3012,,Nhẫn cưới nữ,,85,13.0,315.0,
-1196,NFS3015,,Nhẫn cưới nữ,,11,13.0,3.0,
-1197,NFS3024,,Nhẫn cưới nữ,,12,13.0,56.0,
-1198,NFS5007,,Nhẫn cưới nữ,,10,14.0,34.0,
-1199,NFS9001,,Nhẫn cưới nữ,,9,13.0,38.0,
-1200,NFS9002,,Nhẫn cưới nữ,,10,1.0,24.0,
-1201,NFS9005,,Nhẫn cưới nữ,,11,13.0,35.0,
-1202,CHS1017,,Nhẫn cầu hôn,,12,13.0,25.0,73.0
-1203,CHS1314,,Nhẫn cầu hôn,,10,16.0,21.0,78.0
-1204,CHS1504,,Nhẫn cầu hôn,,10,15.0,25.0,66.0
-1205,CHS1507,,Nhẫn cầu hôn,,11,14.0,3.0,68.0
-1206,CHS3001,,Nhẫn cầu hôn,,12,15.0,27.0,7.0
-1207,CHS3202,,Nhẫn cầu hôn,,11,13.0,25.0,68.0
-1208,CHS9910,,Nhẫn cầu hôn,,11,13.0,22.0,7.0
-1209,CHS9911,,Nhẫn cầu hôn,,11,13.0,25.0,83.0
-1210,CHS9920,,Nhẫn cầu hôn,,12,14.0,28.0,74.0
-1211,CHS9921,,Nhẫn cầu hôn,,12,14.0,22.0,79.0
-1212,NKC0003,Satin Heart,Nhẫn kim cương,,10,13.0,2.0,36.0
-1213,NKC0005,,Nhẫn kim cương,,11,13.0,2.0,62.0
-1214,NKC0007,Twin Flowers,Nhẫn kim cương,,11,15.0,22.0,54.0
-1215,NKC0008,Fancy Wide Band,Nhẫn kim cương,,12,13.0,21.0,55.0
-1216,NKC0009,Diamond Bowtie,Nhẫn kim cương,,12,13.0,25.0,66.0
-1217,NKC0011,White Camelia Diamond Ring,Nhẫn kim cương,,11,13.0,19.0,68.0
-1218,NKC0012,Plumeria Diamond Lady Ring,Nhẫn kim cương,,11,13.0,18.0,74.0
-1219,NKC0014,,Nhẫn kim cương,,14,14.0,36.0,74.0
-1220,NKC0015,,Nhẫn kim cương,,14,13.0,32.0,65.0
-1221,NKC1001,Tender Of Flower ,Nhẫn kim cương,,12,14.0,22.0,89.0
-1222,NKC1003,Fully Heart,Nhẫn kim cương,,13,13.0,26.0,66.0
-1223,NKC1008,,Nhẫn kim cương, ,11,13.0,23.0,63.0
-1224,NKC1009,,Nhẫn kim cương, ,12,15.0,18.0,89.0
-1225,NKC1125,,Nhẫn kim cương,,11,13.0,23.0,625.0
-1226,NKC1201,,Nhẫn kim cương,,11,21.0,22.0,84.0
-1227,NKC1201.6.3mm,,Nhẫn kim cương,,11,21.0,22.0,84.0
-1228,NKC1205,,Nhẫn kim cương,,11,15.0,56.0,77.0
-1229,NKC1207,Basket Diamond & Wide Band ,Nhẫn kim cương,,12,13.0,25.0,93.0
-1230,NKC1308,,Nhẫn kim cương,,11,13.0,24.0,91.0
-1231,NKC1308.6.3mm,,Nhẫn kim cương,,11,145.0,25.0,92.0
-1232,NKC1316,,Nhẫn kim cương,,11,13.0,247.0,67.0
-1233,NKC1428,,Nhẫn kim cương,,11,14.0,21.0,67.0
-1234,NKC1511,,Nhẫn kim cương,,11,15.0,24.0,84.0
-1235,NKC1608,,Nhẫn kim cương,,11,13.0,19.0,86.0
-1236,NKC1608.6.3mm,,Nhẫn kim cương,,11,13.0,2.0,87.0
-1237,NKC1611,,Nhẫn kim cương,,115,13.0,26.0,89.0
-1238,NKC1712,,Nhẫn kim cương,,10,13.0,17.0,43.0
-1239,NKC1801,Shining Love ,Nhẫn kim cương,,13,13.0,21.0,79.0
-1240,NKC2002,Décor Cushion Shape ,Nhẫn kim cương,,13,16.0,27.0,73.0
-1241,NKC2003,Queenie Butterfly,Nhẫn kim cương,,13,21.0,38.0,96.0
-1242,NKC2006,Tournesol Bleu,Nhẫn kim cương,,12,13.0,27.0,83.0
-1243,NKC2008,Anne Queen'S Lace Diamond Lady Ring ,Nhẫn kim cương,,11,13.0,24.0,104.0
-1244,NKC2010,Custom Halo With Rhombus Bridge Accent ,Nhẫn kim cương,,11,13.0,33.0,91.0
-1245,NKC2012,Royal Migraine  Pattern,Nhẫn kim cương,,11,13.0,3.0,63.0
-1246,NKC2013,,Nhẫn kim cương,,11,13.0,44.0,85.0
-1247,NKC2014,,Nhẫn kim cương,,11,13.0,25.0,64.0
-1248,NKC2015,Full Of Light ,Nhẫn kim cương,,12,13.0,24.0,73.0
-1249,NKC2015.6.3mm,Full Of Light ,Nhẫn kim cương,,13,13.0,25.0,73.0
-1250,NKC2017,Migranie Wide Band,Nhẫn kim cương,,10,13.0,31.0,72.0
-1251,NKC2102,Vintage Butterfly,Nhẫn kim cương,,13,14.0,32.0,84.0
-1252,NKC2203,,Nhẫn kim cương,,11,13.0,21.0,68.0
-1253,NKC2301,,Nhẫn kim cương,,11,13.0,25.0,101.0
-1254,NKC2302,,Nhẫn kim cương,,11,13.0,28.0,73.0
-1255,NKC2303,,Nhẫn kim cương,,11,13.0,23.0,64.0
-1256,NKC2304,,Nhẫn kim cương,,11,13.0,17.0,76.0
-1257,NKC2305,Double Halo Wide Band,Nhẫn kim cương,,11,13.0,4.0,8.0
-1258,NKC2306,Rose Gold Papillon,Nhẫn kim cương,,13,13.0,27.0,75.0
+1184,NFS2061,,Nhẫn cưới nữ,,11,1.4,4.0,
+1185,NFS2062,,Nhẫn cưới nữ,,11,1.3,2.7,
+1186,NFS2066,,Nhẫn cưới nữ,,12,1.3,2.6,
+1187,NFS2070,,Nhẫn cưới nữ,,13,1.3,3.8,
+1188,NFS2080,,Nhẫn cưới nữ,,12,1.2,3.4,
+1189,NFS3001,,Nhẫn cưới nữ,,10,1.4,2.3,
+1190,NFS3003,,Nhẫn cưới nữ,,11,1.3,2.9,
+1191,NFS3004,,Nhẫn cưới nữ,,9,1.3,3.5,
+1192,NFS3006,,Nhẫn cưới nữ,,85,1.3,1.7,
+1193,NFS3007,,Nhẫn cưới nữ,,10,1.2,2.3,
+1194,NFS3009,,Nhẫn cưới nữ,,85,1.3,3.4,
+1195,NFS3012,,Nhẫn cưới nữ,,85,1.3,3.15,
+1196,NFS3015,,Nhẫn cưới nữ,,11,1.3,3.0,
+1197,NFS3024,,Nhẫn cưới nữ,,12,1.3,5.6,
+1198,NFS5007,,Nhẫn cưới nữ,,10,1.4,3.4,
+1199,NFS9001,,Nhẫn cưới nữ,,9,1.3,3.8,
+1200,NFS9002,,Nhẫn cưới nữ,,10,1.0,2.4,
+1201,NFS9005,,Nhẫn cưới nữ,,11,1.3,3.5,
+1202,CHS1017,,Nhẫn cầu hôn,,12,1.3,2.5,7.3
+1203,CHS1314,,Nhẫn cầu hôn,,10,1.6,2.1,7.8
+1204,CHS1504,,Nhẫn cầu hôn,,10,1.5,2.5,6.6
+1205,CHS1507,,Nhẫn cầu hôn,,11,1.4,3.0,6.8
+1206,CHS3001,,Nhẫn cầu hôn,,12,1.5,2.7,7.0
+1207,CHS3202,,Nhẫn cầu hôn,,11,1.3,2.5,6.8
+1208,CHS9910,,Nhẫn cầu hôn,,11,1.3,2.2,7.0
+1209,CHS9911,,Nhẫn cầu hôn,,11,1.3,2.5,8.3
+1210,CHS9920,,Nhẫn cầu hôn,,12,1.4,2.8,7.4
+1211,CHS9921,,Nhẫn cầu hôn,,12,1.4,2.2,7.9
+1212,NKC0003,Satin Heart,Nhẫn kim cương,,10,1.3,2.0,3.6
+1213,NKC0005,,Nhẫn kim cương,,11,1.3,2.0,6.2
+1214,NKC0007,Twin Flowers,Nhẫn kim cương,,11,1.5,2.2,5.4
+1215,NKC0008,Fancy Wide Band,Nhẫn kim cương,,12,1.3,2.1,5.5
+1216,NKC0009,Diamond Bowtie,Nhẫn kim cương,,12,1.3,2.5,6.6
+1217,NKC0011,White Camelia Diamond Ring,Nhẫn kim cương,,11,1.3,1.9,6.8
+1218,NKC0012,Plumeria Diamond Lady Ring,Nhẫn kim cương,,11,1.3,1.8,7.4
+1219,NKC0014,,Nhẫn kim cương,,14,1.4,3.6,7.4
+1220,NKC0015,,Nhẫn kim cương,,14,1.3,3.2,6.5
+1221,NKC1001,Tender Of Flower ,Nhẫn kim cương,,12,1.4,2.2,8.9
+1222,NKC1003,Fully Heart,Nhẫn kim cương,,13,1.3,2.6,6.6
+1223,NKC1008,,Nhẫn kim cương, ,11,1.3,2.3,6.3
+1224,NKC1009,,Nhẫn kim cương, ,12,1.5,1.8,8.9
+1225,NKC1125,,Nhẫn kim cương,,11,1.3,2.3,6.25
+1226,NKC1201,,Nhẫn kim cương,,11,2.1,2.2,8.4
+1227,NKC1201.6.3mm,,Nhẫn kim cương,,11,2.1,2.2,8.4
+1228,NKC1205,,Nhẫn kim cương,,11,1.5,5.6,7.7
+1229,NKC1207,Basket Diamond & Wide Band ,Nhẫn kim cương,,12,1.3,2.5,9.3
+1230,NKC1308,,Nhẫn kim cương,,11,1.3,2.4,9.1
+1231,NKC1308.6.3mm,,Nhẫn kim cương,,11,1.45,2.5,9.2
+1232,NKC1316,,Nhẫn kim cương,,11,1.3,2.47,6.7
+1233,NKC1428,,Nhẫn kim cương,,11,1.4,2.1,6.7
+1234,NKC1511,,Nhẫn kim cương,,11,1.5,2.4,8.4
+1235,NKC1608,,Nhẫn kim cương,,11,1.3,1.9,8.6
+1236,NKC1608.6.3mm,,Nhẫn kim cương,,11,1.3,2.0,8.7
+1237,NKC1611,,Nhẫn kim cương,,115,1.3,2.6,8.9
+1238,NKC1712,,Nhẫn kim cương,,10,1.3,1.7,4.3
+1239,NKC1801,Shining Love ,Nhẫn kim cương,,13,1.3,2.1,7.9
+1240,NKC2002,Décor Cushion Shape ,Nhẫn kim cương,,13,1.6,2.7,7.3
+1241,NKC2003,Queenie Butterfly,Nhẫn kim cương,,13,2.1,3.8,9.6
+1242,NKC2006,Tournesol Bleu,Nhẫn kim cương,,12,1.3,2.7,8.3
+1243,NKC2008,Anne Queen'S Lace Diamond Lady Ring ,Nhẫn kim cương,,11,1.3,2.4,1.04
+1244,NKC2010,Custom Halo With Rhombus Bridge Accent ,Nhẫn kim cương,,11,1.3,3.3,9.1
+1245,NKC2012,Royal Migraine  Pattern,Nhẫn kim cương,,11,1.3,3.0,6.3
+1246,NKC2013,,Nhẫn kim cương,,11,1.3,4.4,8.5
+1247,NKC2014,,Nhẫn kim cương,,11,1.3,2.5,6.4
+1248,NKC2015,Full Of Light ,Nhẫn kim cương,,12,1.3,2.4,7.3
+1249,NKC2015.6.3mm,Full Of Light ,Nhẫn kim cương,,13,1.3,2.5,7.3
+1250,NKC2017,Migranie Wide Band,Nhẫn kim cương,,10,1.3,3.1,7.2
+1251,NKC2102,Vintage Butterfly,Nhẫn kim cương,,13,1.4,3.2,8.4
+1252,NKC2203,,Nhẫn kim cương,,11,1.3,2.1,6.8
+1253,NKC2301,,Nhẫn kim cương,,11,1.3,2.5,1.01
+1254,NKC2302,,Nhẫn kim cương,,11,1.3,2.8,7.3
+1255,NKC2303,,Nhẫn kim cương,,11,1.3,2.3,6.4
+1256,NKC2304,,Nhẫn kim cương,,11,1.3,1.7,7.6
+1257,NKC2305,Double Halo Wide Band,Nhẫn kim cương,,11,1.3,4.0,8.0
+1258,NKC2306,Rose Gold Papillon,Nhẫn kim cương,,13,1.3,2.7,7.5
 1259,NKC2308,,Nhẫn kim cương,,12,,,
-1260,NKC2401,,Nhẫn kim cương,,11,13.0,18.0,66.0
-1261,NKC2403,,Nhẫn kim cương,,,18.0,21.0,75.0
-1262,NKC2405,,Nhẫn kim cương,,11,13.0,19.0,85.0
-1263,NKC2405.6.3mm,,Nhẫn kim cương,,11,135.0,175.0,805.0
-1264,NKC2406,Halo Twisted  Band ,Nhẫn kim cương,,10,13.0,21.0,64.0
-1265,NKC2408,Vintage Twisted Buds,Nhẫn kim cương,,11,19.0,21.0,76.0
-1266,NKC2501,,Nhẫn kim cương,,12,15.0,25.0,85.0
-1267,NKC2502,,Nhẫn kim cương, ,105,16.0,19.0,9.0
-1268,NKC2504,,Nhẫn kim cương,,11,13.0,3.0,98.0
-1269,NKC2505,,Nhẫn kim cương,,11,13.0,27.0,67.0
-1270,NKC2508,,Nhẫn kim cương,,11,13.0,18.0,58.0
-1271,NKC2509,,Nhẫn kim cương,,11,14.0,2.0,56.0
-1272,NKC2514,Fancy Sunflower,Nhẫn kim cương,,13,13.0,27.0,77.0
-1273,NKC3005,,Nhẫn kim cương,,11,135.0,22.0,66.0
-1274,NKC3103,,Nhẫn kim cương,,11,13.0,25.0,55.0
-1275,NKC3206,,Nhẫn kim cương,,10,15.0,15.0,72.0
-1276,NKC3301,Five Stone With Bridge Accent Stone ,Nhẫn kim cương,,11,13.0,2.0,69.0
-1277,NKC3302,Art Deco Three Stone,Nhẫn kim cương,,12,13.0,22.0,72.0
-1278,NKC4110,,Nhẫn kim cương,,12,14.0,395.0,131.0
-1279,NKC4111,,Nhẫn kim cương,,11,13.0,29.0,104.0
-1280,NKC4112,,Nhẫn kim cương,,12,14.0,265.0,94.0
-1281,NKC4113,,Nhẫn kim cương,,10,13.0,27.0,102.0
-1282,NKC4114,,Nhẫn kim cương,,10,13.0,26.0,112.0
-1283,NKC4117,,Nhẫn kim cương,,10,14.0,4.0,99.0
-1284,NKC4118,,Nhẫn kim cương,,12,13.0,25.0,85.0
-1285,NKC4119,,Nhẫn kim cương,,12,13.0,31.0,114.0
-1286,NKC4120,,Nhẫn kim cương,,12,13.0,24.0,129.0
-1287,NKC4121,,Nhẫn kim cương,,11,13.0,37.0,105.0
-1288,NKC4201,Lotus Of Clear Moon,Nhẫn kim cương,,13,13.0,26.0,75.0
-1289,NKC8101,La Reine ,Nhẫn kim cương,,13,139.0,436.0,983.0
-1290,NKC8103,Princess Cut With Royal Pattern ,Nhẫn kim cương,,13,14.0,2.0,363.0
-1291,NKC8204,Emerald And Split Diamond Band ,Nhẫn kim cương,,11,13.0,22.0,73.0
-1292,NKC8205,Emerald And Twisted Diamond Band ,Nhẫn kim cương,,9,13.0,25.0,71.0
-1293,NKC8207,Shape Of Emerald ,Nhẫn kim cương,,14,13.0,21.0,64.0
-1294,NKC8210,,Nhẫn kim cương,,11,13.0,18.0,66.0
-1295,NKC8211,Radiant Cut And Décor Split Shank ,Nhẫn kim cương,,11,13.0,2.0,66.0
-1296,NKC8302,Custom Pear Cut,Nhẫn kim cương,,5,13.0,14.0,39.0
-1297,NKC8402,You'Re My Treasure,Nhẫn kim cương,,12,16.0,3.0,84.0
-1298,NKC8503,Five Stone With Bridge Accent Stone,Nhẫn kim cương,,11,14.0,19.0,
-1299,NKC8505,Princess Modern Oval,Nhẫn kim cương,,11,21.0,33.0,48.0
-1300,NKC9901,The Fleur,Nhẫn kim cương,,11,14.0,26.0,65.0
-1301,NKC9902,,Nhẫn kim cương,,11,13.0,3.0,73.0
-1302,NKC9905,,Nhẫn kim cương,,10,13.0,25.0,75.0
-1303,NKC9906,,Nhẫn kim cương,,10,15.0,2.0,83.0
-1304,NKC9907,,Nhẫn kim cương,,10,13.0,32.0,8.0
-1305,NKC9908,,Nhẫn kim cương,,10,13.0,25.0,84.0
-1306,NKC9914,,Nhẫn kim cương,,11,14.0,28.0,88.0
-1307,NKC9915,,Nhẫn kim cương,,11,13.0,25.0,69.0
-1308,NKC9916,,Nhẫn kim cương,,10,13.0,3.0,81.0
-1309,NKC9917,,Nhẫn kim cương,,11,13.0,26.0,77.0
-1310,NMS0003,,Nhẫn cưới nam,,18,15.0,4.0,
-1311,NMS0004,,Nhẫn cưới nam,,15,13.0,41.0,
+1260,NKC2401,,Nhẫn kim cương,,11,1.3,1.8,6.6
+1261,NKC2403,,Nhẫn kim cương,,,1.8,2.1,7.5
+1262,NKC2405,,Nhẫn kim cương,,11,1.3,1.9,8.5
+1263,NKC2405.6.3mm,,Nhẫn kim cương,,11,1.35,1.75,8.05
+1264,NKC2406,Halo Twisted  Band ,Nhẫn kim cương,,10,1.3,2.1,6.4
+1265,NKC2408,Vintage Twisted Buds,Nhẫn kim cương,,11,1.9,2.1,7.6
+1266,NKC2501,,Nhẫn kim cương,,12,1.5,2.5,8.5
+1267,NKC2502,,Nhẫn kim cương, ,105,1.6,1.9,9.0
+1268,NKC2504,,Nhẫn kim cương,,11,1.3,3.0,9.8
+1269,NKC2505,,Nhẫn kim cương,,11,1.3,2.7,6.7
+1270,NKC2508,,Nhẫn kim cương,,11,1.3,1.8,5.8
+1271,NKC2509,,Nhẫn kim cương,,11,1.4,2.0,5.6
+1272,NKC2514,Fancy Sunflower,Nhẫn kim cương,,13,1.3,2.7,7.7
+1273,NKC3005,,Nhẫn kim cương,,11,1.35,2.2,6.6
+1274,NKC3103,,Nhẫn kim cương,,11,1.3,2.5,5.5
+1275,NKC3206,,Nhẫn kim cương,,10,1.5,1.5,7.2
+1276,NKC3301,Five Stone With Bridge Accent Stone ,Nhẫn kim cương,,11,1.3,2.0,6.9
+1277,NKC3302,Art Deco Three Stone,Nhẫn kim cương,,12,1.3,2.2,7.2
+1278,NKC4110,,Nhẫn kim cương,,12,1.4,3.95,1.31
+1279,NKC4111,,Nhẫn kim cương,,11,1.3,2.9,1.04
+1280,NKC4112,,Nhẫn kim cương,,12,1.4,2.65,9.4
+1281,NKC4113,,Nhẫn kim cương,,10,1.3,2.7,1.02
+1282,NKC4114,,Nhẫn kim cương,,10,1.3,2.6,1.12
+1283,NKC4117,,Nhẫn kim cương,,10,1.4,4.0,9.9
+1284,NKC4118,,Nhẫn kim cương,,12,1.3,2.5,8.5
+1285,NKC4119,,Nhẫn kim cương,,12,1.3,3.1,1.14
+1286,NKC4120,,Nhẫn kim cương,,12,1.3,2.4,1.29
+1287,NKC4121,,Nhẫn kim cương,,11,1.3,3.7,1.05
+1288,NKC4201,Lotus Of Clear Moon,Nhẫn kim cương,,13,1.3,2.6,7.5
+1289,NKC8101,La Reine ,Nhẫn kim cương,,13,1.39,4.36,9.83
+1290,NKC8103,Princess Cut With Royal Pattern ,Nhẫn kim cương,,13,1.4,2.0,3.63
+1291,NKC8204,Emerald And Split Diamond Band ,Nhẫn kim cương,,11,1.3,2.2,7.3
+1292,NKC8205,Emerald And Twisted Diamond Band ,Nhẫn kim cương,,9,1.3,2.5,7.1
+1293,NKC8207,Shape Of Emerald ,Nhẫn kim cương,,14,1.3,2.1,6.4
+1294,NKC8210,,Nhẫn kim cương,,11,1.3,1.8,6.6
+1295,NKC8211,Radiant Cut And Décor Split Shank ,Nhẫn kim cương,,11,1.3,2.0,6.6
+1296,NKC8302,Custom Pear Cut,Nhẫn kim cương,,5,1.3,1.4,3.9
+1297,NKC8402,You'Re My Treasure,Nhẫn kim cương,,12,1.6,3.0,8.4
+1298,NKC8503,Five Stone With Bridge Accent Stone,Nhẫn kim cương,,11,1.4,1.9,
+1299,NKC8505,Princess Modern Oval,Nhẫn kim cương,,11,2.1,3.3,4.8
+1300,NKC9901,The Fleur,Nhẫn kim cương,,11,1.4,2.6,6.5
+1301,NKC9902,,Nhẫn kim cương,,11,1.3,3.0,7.3
+1302,NKC9905,,Nhẫn kim cương,,10,1.3,2.5,7.5
+1303,NKC9906,,Nhẫn kim cương,,10,1.5,2.0,8.3
+1304,NKC9907,,Nhẫn kim cương,,10,1.3,3.2,8.0
+1305,NKC9908,,Nhẫn kim cương,,10,1.3,2.5,8.4
+1306,NKC9914,,Nhẫn kim cương,,11,1.4,2.8,8.8
+1307,NKC9915,,Nhẫn kim cương,,11,1.3,2.5,6.9
+1308,NKC9916,,Nhẫn kim cương,,10,1.3,3.0,8.1
+1309,NKC9917,,Nhẫn kim cương,,11,1.3,2.6,7.7
+1310,NMS0003,,Nhẫn cưới nam,,18,1.5,4.0,
+1311,NMS0004,,Nhẫn cưới nam,,15,1.3,4.1,
 1312,NMS0008,,Nhẫn cưới nam,,15,,,
-1313,NMS0009,,Nhẫn cưới nam,,15,14.0,35.0,
-1314,NMS1002,,Nhẫn cưới nam,,15,15.0,23.0,
-1315,NMS1012,,Nhẫn cưới nam,,17,15.0,43.0,
-1316,NMS1013,,Nhẫn cưới nam,,15,15.0,27.0,
-1317,NMS1033,,Nhẫn cưới nam,,15,16.0,31.0,
-1318,NMS2002,,Nhẫn cưới nam,,12,12.0,45.0,
-1319,NMS2003,,Nhẫn cưới nam,,18,13.0,5.0,
-1320,NMS2005,,Nhẫn cưới nam,,18,13.0,425.0,
-1321,NMS2007,,Nhẫn cưới nam,,18,13.0,4.0,
-1322,NMS2009,,Nhẫn cưới nam,,16,145.0,37.0,
-1323,NMS2010,,Nhẫn cưới nam,,15,13.0,35.0,
-1324,NMS2011,,Nhẫn cưới nam,,15,13.0,35.0,
-1325,NMS2012,,Nhẫn cưới nam,,17,14.0,5.0,
-1326,NMS2013,,Nhẫn cưới nam,,18,13.0,48.0,
-1327,NMS2015,,Nhẫn cưới nam,,15,13.0,4.0,
-1328,NMS2017,,Nhẫn cưới nam,,20,15.0,42.0,
-1329,NMS2018,,Nhẫn cưới nam,,16,13.0,49.0,
-1330,NMS2019,,Nhẫn cưới nam,,20,19.0,54.0,
-1331,NMS2020,,Nhẫn cưới nam,,20,12.0,26.0,
-1332,NMS2022,,Nhẫn cưới nam,,20,12.0,385.0,
-1333,NMS2023,,Nhẫn cưới nam,,20,12.0,33.0,
-1334,NMS2025,,Nhẫn cưới nam,,14,13.0,435.0,
-1335,NMS2026,,Nhẫn cưới nam,,21,14.0,595.0,
-1336,NMS2027,,Nhẫn cưới nam,,18,14.0,4.0,
-1337,NMS2029,,Nhẫn cưới nam,,16,13.0,32.0,
-1338,NMS2031,,Nhẫn cưới nam,,16,13.0,32.0,
-1339,NMS2033,,Nhẫn cưới nam,,15,16.0,485.0,
-1340,NMS2034,,Nhẫn cưới nam,,17,14.0,405.0,
-1341,NMS2035,,Nhẫn cưới nam,,157,14.0,3.0,
-1342,NMS2036,,Nhẫn cưới nam,,18,14.0,335.0,
-1343,NMS2038,,Nhẫn cưới nam,,15,13.0,3.0,
-1344,NMS2039,,Nhẫn cưới nam,,15,15.0,33.0,
-1345,NMS2040,,Nhẫn cưới nam,,15,135.0,335.0,
-1346,NMS2041,,Nhẫn cưới nam,,15,13.0,35.0,
-1347,NMS2044,,Nhẫn cưới nam,,15,14.0,295.0,
-1348,NMS2045,,Nhẫn cưới nam,,15,13.0,35.0,
-1349,NMS2048,,Nhẫn cưới nam,,15,13.0,34.0,
-1350,NMS2053,,Nhẫn cưới nam,,17,19.0,45.0,
-1351,NMS2061,,Nhẫn cưới nam,,17,14.0,45.0,
-1352,NMS2062,,Nhẫn cưới nam,,17,13.0,36.0,
-1353,NMS2066,,Nhẫn cưới nam,,20,14.0,33.0,
-1354,NMS2070,,Nhẫn cưới nam,,20,14.0,43.0,
-1355,NMS2080,,Nhẫn cưới nam,,18,13.0,44.0,
-1356,NMS3001,,Nhẫn cưới nam,,18,15.0,26.0,
-1357,NMS3003,,Nhẫn cưới nam,,17,14.0,3.0,
-1358,NMS3004,,Nhẫn cưới nam,,15,14.0,39.0,
-1359,NMS3006,,Nhẫn cưới nam,,155,13.0,245.0,
-1360,NMS3007,,Nhẫn cưới nam,,19,12.0,26.0,
-1361,NMS3009,,Nhẫn cưới nam,,155,13.0,37.0,
-1362,NMS3012,,Nhẫn cưới nam,,15,14.0,37.0,
-1363,NMS3015,,Nhẫn cưới nam,,17,15.0,4.0,
-1364,NMS3024,,Nhẫn cưới nam,,15,14.0,56.0,
-1365,NMS5007,,Nhẫn cưới nam,,18,15.0,45.0,
-1366,NMS8001,,Nhẫn cưới nam,,16,15.0,5.0,
-1367,NMS8002,,Nhẫn cưới nam,,14,12.0,42.0,
-1368,NMS9001,,Nhẫn cưới nam,,16,13.0,45.0,
-1369,NMS9002,,Nhẫn cưới nam,,20,12.0,24.0,
-1370,NMS9005,,Nhẫn cưới nam,,17,13.0,4.0,
-1371,NNA1401,,Nhẫn nam,,205,14.0,8.0,
-1372,NNA2101,,Nhẫn nam,,20,13.0,64.0,
-1373,NNA2102,,Nhẫn nam,,20,14.0,58.0,
-1374,NNA2103,,Nhẫn nam,,205,14.0,43.0,
-1375,NNA2104,,Nhẫn nam,,20,14.0,45.0,
-1376,NNA2105,,Nhẫn nam,,20,13.0,45.0,
-1377,NNA2106,Constantia,Nhẫn nam,,20,14.0,26.0,
-1378,NNA2107,Sapientia,Nhẫn nam,,18,15.0,46.0,
-1379,NNA2108,Fortitudo,Nhẫn nam,,18,17.0,45.0,
-1380,NNA2201,,Nhẫn nam,,16,13.0,55.0,
-1381,NNA2202,,Nhẫn nam,,20,14.0,56.0,4.0
-1382,NNA2204,Calmitas,Nhẫn nam,,198,13.0,42.0,
-1383,NNA2205,Prima,Nhẫn nam,,18,14.0,24.0,
-1384,NNA2206,Decisio,Nhẫn nam,,18,15.0,32.0,
-1385,NNA2207,Mens,Nhẫn nam,,18,15.0,32.0,
-1386,NNA2301,,Nhẫn nam,,20,13.0,6.0,
-1387,NNA2302,,Nhẫn nam,,19,13.0,6.0,
-1388,NNA2303,,Nhẫn nam,,18,13.0,66.0,
-1389,NNA2304,,Nhẫn nam,,16,13.0,64.0,
-1390,NNA2305,,Nhẫn nam,,20,145.0,53.0,
-1391,NNA2306,,Nhẫn nam,,20,145.0,61.0,
-1392,NNA2307,,Nhẫn nam,,20,145.0,6.0,
-1393,NNA2308,,Nhẫn nam,,20,145.0,55.0,
-1394,NNA2309,,Nhẫn nam,,19,13.0,485.0,
-1395,NNA2310,,Nhẫn nam,,20,135.0,525.0,
-1396,NNA2311,,Nhẫn nam,,18,13.0,485.0,
-1397,NNA2313,,Nhẫn nam,,20,13.0,58.0,
-1398,NNA2315,Fides,Nhẫn nam,,18,14.0,535.0,
-1399,NNA2316,Clementia,Nhẫn nam,,18,14.0,395.0,425.0
-1400,NNA2317,Regius,Nhẫn nam,,198,14.0,295.0,
-1401,NNA3101,,Nhẫn nam,,18,14.0,82.0,61.0
-1402,NNA3102,,Nhẫn nam,,18,14.0,765.0,685.0
-1403,NNA3103,,Nhẫn nam,,20,14.0,71.0,56.0
-1404,NNA3104,,Nhẫn nam,,17,135.0,455.0,425.0
-1405,NNA3105,,Nhẫn nam,,155,13.0,54.0,63.0
-1406,NNA3106,,Nhẫn nam,,16,14.0,4.0,58.0
-1407,NNA3107,,Nhẫn nam,,15,145.0,71.0,625.0
-1408,NNA3108,,Nhẫn nam,,19,135.0,7.0,585.0
-1409,NNA3109,,Nhẫn nam,,20,14.0,615.0,57.0
-1410,NNA3110,,Nhẫn nam,,20,14.0,54.0,56.0
-1411,NNA3111,,Nhẫn nam,,16,14.0,585.0,57.0
+1313,NMS0009,,Nhẫn cưới nam,,15,1.4,3.5,
+1314,NMS1002,,Nhẫn cưới nam,,15,1.5,2.3,
+1315,NMS1012,,Nhẫn cưới nam,,17,1.5,4.3,
+1316,NMS1013,,Nhẫn cưới nam,,15,1.5,2.7,
+1317,NMS1033,,Nhẫn cưới nam,,15,1.6,3.1,
+1318,NMS2002,,Nhẫn cưới nam,,12,1.2,4.5,
+1319,NMS2003,,Nhẫn cưới nam,,18,1.3,5.0,
+1320,NMS2005,,Nhẫn cưới nam,,18,1.3,4.25,
+1321,NMS2007,,Nhẫn cưới nam,,18,1.3,4.0,
+1322,NMS2009,,Nhẫn cưới nam,,16,1.45,3.7,
+1323,NMS2010,,Nhẫn cưới nam,,15,1.3,3.5,
+1324,NMS2011,,Nhẫn cưới nam,,15,1.3,3.5,
+1325,NMS2012,,Nhẫn cưới nam,,17,1.4,5.0,
+1326,NMS2013,,Nhẫn cưới nam,,18,1.3,4.8,
+1327,NMS2015,,Nhẫn cưới nam,,15,1.3,4.0,
+1328,NMS2017,,Nhẫn cưới nam,,20,1.5,4.2,
+1329,NMS2018,,Nhẫn cưới nam,,16,1.3,4.9,
+1330,NMS2019,,Nhẫn cưới nam,,20,1.9,5.4,
+1331,NMS2020,,Nhẫn cưới nam,,20,1.2,2.6,
+1332,NMS2022,,Nhẫn cưới nam,,20,1.2,3.85,
+1333,NMS2023,,Nhẫn cưới nam,,20,1.2,3.3,
+1334,NMS2025,,Nhẫn cưới nam,,14,1.3,4.35,
+1335,NMS2026,,Nhẫn cưới nam,,21,1.4,5.95,
+1336,NMS2027,,Nhẫn cưới nam,,18,1.4,4.0,
+1337,NMS2029,,Nhẫn cưới nam,,16,1.3,3.2,
+1338,NMS2031,,Nhẫn cưới nam,,16,1.3,3.2,
+1339,NMS2033,,Nhẫn cưới nam,,15,1.6,4.85,
+1340,NMS2034,,Nhẫn cưới nam,,17,1.4,4.05,
+1341,NMS2035,,Nhẫn cưới nam,,157,1.4,3.0,
+1342,NMS2036,,Nhẫn cưới nam,,18,1.4,3.35,
+1343,NMS2038,,Nhẫn cưới nam,,15,1.3,3.0,
+1344,NMS2039,,Nhẫn cưới nam,,15,1.5,3.3,
+1345,NMS2040,,Nhẫn cưới nam,,15,1.35,3.35,
+1346,NMS2041,,Nhẫn cưới nam,,15,1.3,3.5,
+1347,NMS2044,,Nhẫn cưới nam,,15,1.4,2.95,
+1348,NMS2045,,Nhẫn cưới nam,,15,1.3,3.5,
+1349,NMS2048,,Nhẫn cưới nam,,15,1.3,3.4,
+1350,NMS2053,,Nhẫn cưới nam,,17,1.9,4.5,
+1351,NMS2061,,Nhẫn cưới nam,,17,1.4,4.5,
+1352,NMS2062,,Nhẫn cưới nam,,17,1.3,3.6,
+1353,NMS2066,,Nhẫn cưới nam,,20,1.4,3.3,
+1354,NMS2070,,Nhẫn cưới nam,,20,1.4,4.3,
+1355,NMS2080,,Nhẫn cưới nam,,18,1.3,4.4,
+1356,NMS3001,,Nhẫn cưới nam,,18,1.5,2.6,
+1357,NMS3003,,Nhẫn cưới nam,,17,1.4,3.0,
+1358,NMS3004,,Nhẫn cưới nam,,15,1.4,3.9,
+1359,NMS3006,,Nhẫn cưới nam,,155,1.3,2.45,
+1360,NMS3007,,Nhẫn cưới nam,,19,1.2,2.6,
+1361,NMS3009,,Nhẫn cưới nam,,155,1.3,3.7,
+1362,NMS3012,,Nhẫn cưới nam,,15,1.4,3.7,
+1363,NMS3015,,Nhẫn cưới nam,,17,1.5,4.0,
+1364,NMS3024,,Nhẫn cưới nam,,15,1.4,5.6,
+1365,NMS5007,,Nhẫn cưới nam,,18,1.5,4.5,
+1366,NMS8001,,Nhẫn cưới nam,,16,1.5,5.0,
+1367,NMS8002,,Nhẫn cưới nam,,14,1.2,4.2,
+1368,NMS9001,,Nhẫn cưới nam,,16,1.3,4.5,
+1369,NMS9002,,Nhẫn cưới nam,,20,1.2,2.4,
+1370,NMS9005,,Nhẫn cưới nam,,17,1.3,4.0,
+1371,NNA1401,,Nhẫn nam,,205,1.4,8.0,
+1372,NNA2101,,Nhẫn nam,,20,1.3,6.4,
+1373,NNA2102,,Nhẫn nam,,20,1.4,5.8,
+1374,NNA2103,,Nhẫn nam,,205,1.4,4.3,
+1375,NNA2104,,Nhẫn nam,,20,1.4,4.5,
+1376,NNA2105,,Nhẫn nam,,20,1.3,4.5,
+1377,NNA2106,Constantia,Nhẫn nam,,20,1.4,2.6,
+1378,NNA2107,Sapientia,Nhẫn nam,,18,1.5,4.6,
+1379,NNA2108,Fortitudo,Nhẫn nam,,18,1.7,4.5,
+1380,NNA2201,,Nhẫn nam,,16,1.3,5.5,
+1381,NNA2202,,Nhẫn nam,,20,1.4,5.6,4.0
+1382,NNA2204,Calmitas,Nhẫn nam,,198,1.3,4.2,
+1383,NNA2205,Prima,Nhẫn nam,,18,1.4,2.4,
+1384,NNA2206,Decisio,Nhẫn nam,,18,1.5,3.2,
+1385,NNA2207,Mens,Nhẫn nam,,18,1.5,3.2,
+1386,NNA2301,,Nhẫn nam,,20,1.3,6.0,
+1387,NNA2302,,Nhẫn nam,,19,1.3,6.0,
+1388,NNA2303,,Nhẫn nam,,18,1.3,6.6,
+1389,NNA2304,,Nhẫn nam,,16,1.3,6.4,
+1390,NNA2305,,Nhẫn nam,,20,1.45,5.3,
+1391,NNA2306,,Nhẫn nam,,20,1.45,6.1,
+1392,NNA2307,,Nhẫn nam,,20,1.45,6.0,
+1393,NNA2308,,Nhẫn nam,,20,1.45,5.5,
+1394,NNA2309,,Nhẫn nam,,19,1.3,4.85,
+1395,NNA2310,,Nhẫn nam,,20,1.35,5.25,
+1396,NNA2311,,Nhẫn nam,,18,1.3,4.85,
+1397,NNA2313,,Nhẫn nam,,20,1.3,5.8,
+1398,NNA2315,Fides,Nhẫn nam,,18,1.4,5.35,
+1399,NNA2316,Clementia,Nhẫn nam,,18,1.4,3.95,4.25
+1400,NNA2317,Regius,Nhẫn nam,,198,1.4,2.95,
+1401,NNA3101,,Nhẫn nam,,18,1.4,8.2,6.1
+1402,NNA3102,,Nhẫn nam,,18,1.4,7.65,6.85
+1403,NNA3103,,Nhẫn nam,,20,1.4,7.1,5.6
+1404,NNA3104,,Nhẫn nam,,17,1.35,4.55,4.25
+1405,NNA3105,,Nhẫn nam,,155,1.3,5.4,6.3
+1406,NNA3106,,Nhẫn nam,,16,1.4,4.0,5.8
+1407,NNA3107,,Nhẫn nam,,15,1.45,7.1,6.25
+1408,NNA3108,,Nhẫn nam,,19,1.35,7.0,5.85
+1409,NNA3109,,Nhẫn nam,,20,1.4,6.15,5.7
+1410,NNA3110,,Nhẫn nam,,20,1.4,5.4,5.6
+1411,NNA3111,,Nhẫn nam,,16,1.4,5.85,5.7
 1412,NNA3112,,Nhẫn nam,,15,,,
-1413,NNA3114,,Nhẫn nam,,20,14.0,6.0,59.0
-1414,NNA3115,,Nhẫn nam,,21,14.0,6.0,615.0
-1415,NNA3116,,Nhẫn nam,,21,14.0,74.0,415.0
-1416,NNA3117,,Nhẫn nam,,15,135.0,54.0,55.0
-1417,NNA3118,,Nhẫn nam,,20,14.0,585.0,59.0
-1418,NNA3119,,Nhẫn nam,,20,14.0,6.0,445.0
-1419,NNA3120,,Nhẫn nam,,19,14.0,735.0,72.0
-1420,NNA3121,,Nhẫn nam,,28,15.0,92.0,828.0
-1421,NNA3122,,Nhẫn nam,,18,145.0,555.0,55.0
-1422,NNA3123,,Nhẫn nam,,17,14.0,57.0,61.0
-1423,NNA3201,,Nhẫn nam,,15,16.0,43.0,435.0
-1424,NNA3202,,Nhẫn nam,,20,14.0,6.0,55.0
-1425,NNA3203,,Nhẫn nam,,20,14.0,7.0,62.0
-1426,NNA3204,,Nhẫn nam,,19,14.0,5.0,5.0
-1427,NNA3401,,Nhẫn nam,,16,15.0,6.0,71.0
-1428,NNA3402,,Nhẫn nam,,16,135.0,465.0,465.0
-1429,NNA3403,,Nhẫn nam,,16,135.0,55.0,42.0
-1430,NNA3404,,Nhẫn nam,,16,14.0,63.0,735.0
-1431,NNA3405,,Nhẫn nam,,16,15.0,61.0,635.0
-1432,NNA3406,,Nhẫn nam,,16,145.0,555.0,55.0
-1433,NNA3407,,Nhẫn nam,,18,13.0,62.0,49.0
-1434,NNA3408,,Nhẫn nam,,19,14.0,715.0,77.0
-1435,NNA3501,,Nhẫn nam,,19,13.0,415.0,445.0
-1436,NNA3801,,Nhẫn nam,,19,13.0,48.0,555.0
-1437,NNA3802,,Nhẫn nam,,18,14.0,605.0,59.0
-1438,NNA3803,,Nhẫn nam,,20,14.0,87.0,525.0
+1413,NNA3114,,Nhẫn nam,,20,1.4,6.0,5.9
+1414,NNA3115,,Nhẫn nam,,21,1.4,6.0,6.15
+1415,NNA3116,,Nhẫn nam,,21,1.4,7.4,4.15
+1416,NNA3117,,Nhẫn nam,,15,1.35,5.4,5.5
+1417,NNA3118,,Nhẫn nam,,20,1.4,5.85,5.9
+1418,NNA3119,,Nhẫn nam,,20,1.4,6.0,4.45
+1419,NNA3120,,Nhẫn nam,,19,1.4,7.35,7.2
+1420,NNA3121,,Nhẫn nam,,28,1.5,9.2,8.28
+1421,NNA3122,,Nhẫn nam,,18,1.45,5.55,5.5
+1422,NNA3123,,Nhẫn nam,,17,1.4,5.7,6.1
+1423,NNA3201,,Nhẫn nam,,15,1.6,4.3,4.35
+1424,NNA3202,,Nhẫn nam,,20,1.4,6.0,5.5
+1425,NNA3203,,Nhẫn nam,,20,1.4,7.0,6.2
+1426,NNA3204,,Nhẫn nam,,19,1.4,5.0,4.0
+1427,NNA3401,,Nhẫn nam,,16,1.5,6.0,7.1
+1428,NNA3402,,Nhẫn nam,,16,1.35,4.65,4.65
+1429,NNA3403,,Nhẫn nam,,16,1.35,5.5,4.2
+1430,NNA3404,,Nhẫn nam,,16,1.4,6.3,7.35
+1431,NNA3405,,Nhẫn nam,,16,1.5,6.1,6.35
+1432,NNA3406,,Nhẫn nam,,16,1.45,5.55,5.5
+1433,NNA3407,,Nhẫn nam,,18,1.3,6.2,4.9
+1434,NNA3408,,Nhẫn nam,,19,1.4,7.15,7.7
+1435,NNA3501,,Nhẫn nam,,19,1.3,4.15,4.45
+1436,NNA3801,,Nhẫn nam,,19,1.3,4.8,5.55
+1437,NNA3802,,Nhẫn nam,,18,1.4,6.05,5.9
+1438,NNA3803,,Nhẫn nam,,20,1.4,8.7,5.25
 1439,NNA3901,,Nhẫn nam,,16,,,
-1440,NNA3902,,Nhẫn nam,,18,13.0,6.0,6.0
-1441,NNA3903,,Nhẫn nam,,20,14.0,695.0,6.0
-1442,NNA3904,,Nhẫn nam,,18,13.0,635.0,
-1443,NNA3905,,Nhẫn nam,,19,14.0,61.0,6.0
-1444,NNA3906,,Nhẫn nam,,18,13.0,45.0,445.0
-1445,NNA3907,,Nhẫn nam,,18,14.0,62.0,626.0
-1446,NNA3908,,Nhẫn nam,,21,13.0,47.0,52.0
-1447,NNA3909,,Nhẫn nam,,18,14.0,585.0,65.0
-1448,NNA3910,,Nhẫn nam,,18,14.0,685.0,58.0
-1449,NNA3911,,Nhẫn nam,,20,14.0,61.0,55.0
-1450,NNA3912,,Nhẫn nam,,20,14.0,625.0,5.0
-1451,NNA3913,,Nhẫn nam,,18,14.0,6.0,52.0
-1452,NNA3914,,Nhẫn nam,,18,14.0,645.0,6.0
-1453,NNA3915,,Nhẫn nam,,18,14.0,46.0,59.0
-1454,NNA3916,,Nhẫn nam,,19,14.0,62.0,638.0
-1455,NNA4001,,Nhẫn nam,,17,14.0,53.0,
-1456,NNA4101,,Nhẫn nam,,12,15.0,515.0,45.0
-1457,NNA4102,,Nhẫn nam,,20,14.0,615.0,53.0
-1458,NNA4104,,Nhẫn nam,,25,14.0,845.0,58.0
-1459,NNA4105,,Nhẫn nam,,20,14.0,6.0,465.0
-1460,NNA4106,,Nhẫn nam,,20,14.0,625.0,43.0
-1461,NNA4107,,Nhẫn nam,,20,145.0,5.0,56.0
-1462,NNA4108,,Nhẫn nam,,18,14.0,73.0,5.0
-1463,NNA4109,,Nhẫn nam,,20,145.0,675.0,47.0
-1464,NNA4110,,Nhẫn nam,,20,165.0,555.0,53.0
-1465,NNA4111,,Nhẫn nam,,20,145.0,8.0,
-1466,NNA4112,,Nhẫn nam,,20,145.0,8.0,
-1467,NNA4113,,Nhẫn nam,,20,145.0,8.0,
-1468,NNA4114,,Nhẫn nam,,20,14.0,585.0,445.0
-1469,NNA4115,,Nhẫn nam,,20,145.0,515.0,45.0
-1470,NNA4201,,Nhẫn nam,,19,145.0,44.0,56.0
-1471,NNA4202,,Nhẫn nam,,20,145.0,6.0,4.0
-1472,NNA4203,,Nhẫn nam,,20,145.0,475.0,55.0
-1473,NNA4204,,Nhẫn nam,,20,145.0,6.0,54.0
-1474,NNA4205,,Nhẫn nam,,20,145.0,44.0,555.0
-1475,NNA4207,,Nhẫn nam,,20,14.0,635.0,435.0
+1440,NNA3902,,Nhẫn nam,,18,1.3,6.0,6.0
+1441,NNA3903,,Nhẫn nam,,20,1.4,6.95,6.0
+1442,NNA3904,,Nhẫn nam,,18,1.3,6.35,
+1443,NNA3905,,Nhẫn nam,,19,1.4,6.1,6.0
+1444,NNA3906,,Nhẫn nam,,18,1.3,4.5,4.45
+1445,NNA3907,,Nhẫn nam,,18,1.4,6.2,6.26
+1446,NNA3908,,Nhẫn nam,,21,1.3,4.7,5.2
+1447,NNA3909,,Nhẫn nam,,18,1.4,5.85,6.5
+1448,NNA3910,,Nhẫn nam,,18,1.4,6.85,5.8
+1449,NNA3911,,Nhẫn nam,,20,1.4,6.1,5.5
+1450,NNA3912,,Nhẫn nam,,20,1.4,6.25,5.0
+1451,NNA3913,,Nhẫn nam,,18,1.4,6.0,5.2
+1452,NNA3914,,Nhẫn nam,,18,1.4,6.45,6.0
+1453,NNA3915,,Nhẫn nam,,18,1.4,4.6,5.9
+1454,NNA3916,,Nhẫn nam,,19,1.4,6.2,6.38
+1455,NNA4001,,Nhẫn nam,,17,1.4,5.3,
+1456,NNA4101,,Nhẫn nam,,12,1.5,5.15,4.5
+1457,NNA4102,,Nhẫn nam,,20,1.4,6.15,5.3
+1458,NNA4104,,Nhẫn nam,,25,1.4,8.45,5.8
+1459,NNA4105,,Nhẫn nam,,20,1.4,6.0,4.65
+1460,NNA4106,,Nhẫn nam,,20,1.4,6.25,4.3
+1461,NNA4107,,Nhẫn nam,,20,1.45,5.0,5.6
+1462,NNA4108,,Nhẫn nam,,18,1.4,7.3,5.0
+1463,NNA4109,,Nhẫn nam,,20,1.45,6.75,4.7
+1464,NNA4110,,Nhẫn nam,,20,1.65,5.55,5.3
+1465,NNA4111,,Nhẫn nam,,20,1.45,8.0,
+1466,NNA4112,,Nhẫn nam,,20,1.45,8.0,
+1467,NNA4113,,Nhẫn nam,,20,1.45,8.0,
+1468,NNA4114,,Nhẫn nam,,20,1.5,5.85,4.45
+1469,NNA4115,,Nhẫn nam,,20,1.45,5.15,4.5
+1470,NNA4201,,Nhẫn nam,,19,1.45,4.4,5.6
+1471,NNA4202,,Nhẫn nam,,20,1.45,6.0,4.0
+1472,NNA4203,,Nhẫn nam,,20,1.45,4.75,5.5
+1473,NNA4204,,Nhẫn nam,,20,1.45,6.0,5.4
+1474,NNA4205,,Nhẫn nam,,20,1.45,4.4,5.55
+1475,NNA4207,,Nhẫn nam,,20,1.4,6.35,4.35
 1476,NNA4208,,Nhẫn nam,,20,,,
-1477,NNA4209,,Nhẫn nam,,20,14.0,675.0,465.0
-1478,NNA4301,,Nhẫn nam,,20,145.0,5.0,42.0
-1479,NNA4302,,Nhẫn nam,,20,14.0,575.0,605.0
-1480,NNA4303,,Nhẫn nam,,20,145.0,685.0,525.0
-1481,NNA4304,,Nhẫn nam,,19,135.0,52.0,515.0
-1482,NNA4401,,Nhẫn nam,,18,14.0,545.0,59.0
-1483,NNA8001,,Nhẫn nam,,20,24.0,8.0,
-1484,NNA8002,,Nhẫn nam,,20,14.0,65.0,
-1485,NNA8003,,Nhẫn nam,,16,245.0,93.0,
-1486,NNA8004,,Nhẫn nam,,19,21.0,8.0,
-1487,NNA8005,,Nhẫn nam,,20,19.0,77.0,
-1488,NNA8006,,Nhẫn nam,,15,135.0,435.0,575.0
-1489,NNA8007,,Nhẫn nam,,17,215.0,63.0,
-1490,NNA8008,,Nhẫn nam,,17,14.0,98.0,
-1491,NNA8009,,Nhẫn nam,,18,21.0,10.0,
-1492,NNA8010,,Nhẫn nam,,18,18.0,92.0,
-1493,NNA8011,,Nhẫn nam,,18,17.0,73.0,
+1477,NNA4209,,Nhẫn nam,,20,1.4,6.75,4.65
+1478,NNA4301,,Nhẫn nam,,20,1.45,5.0,4.2
+1479,NNA4302,,Nhẫn nam,,20,1.4,5.75,6.05
+1480,NNA4303,,Nhẫn nam,,20,1.45,6.85,5.25
+1481,NNA4304,,Nhẫn nam,,19,1.35,5.2,5.15
+1482,NNA4401,,Nhẫn nam,,18,1.4,5.45,5.9
+1483,NNA8001,,Nhẫn nam,,20,2.4,8.0,
+1484,NNA8002,,Nhẫn nam,,20,1.4,6.5,
+1485,NNA8003,,Nhẫn nam,,16,2.45,9.3,
+1486,NNA8004,,Nhẫn nam,,19,2.1,8.0,
+1487,NNA8005,,Nhẫn nam,,20,1.9,7.7,
+1488,NNA8006,,Nhẫn nam,,15,1.35,4.35,5.75
+1489,NNA8007,,Nhẫn nam,,17,2.15,6.3,
+1490,NNA8008,,Nhẫn nam,,17,1.4,9.8,
+1491,NNA8009,,Nhẫn nam,,18,2.1,10.0,
+1492,NNA8010,,Nhẫn nam,,18,1.8,9.2,
+1493,NNA8011,,Nhẫn nam,,18,1.7,7.3,
 1494,NNA8012,,Nhẫn nam,,18,,,
-1495,NNA8013,,Nhẫn nam,,17,15.0,65.0,
-1496,NNA8014,,Nhẫn nam,,18,18.0,8.0,
-1497,NNA8015,,Nhẫn nam,,20,2.0,51.0,
-1498,NNA8016,,Nhẫn nam,,20,23.0,55.0,
-1499,NNA8017,,Nhẫn nam,,20,17.0,75.0,
-1500,NNA8018,,Nhẫn nam,,20,17.0,73.0,
-1501,NNA8019,,Nhẫn nam,,23,24.0,117.0,
-1502,NNA8020,,Nhẫn nam,,21,27.0,58.0,
-1503,NNA8021,,Nhẫn nam,,17,24.0,67.0,
+1495,NNA8013,,Nhẫn nam,,17,1.5,6.5,
+1496,NNA8014,,Nhẫn nam,,18,1.8,8.0,
+1497,NNA8015,,Nhẫn nam,,20,2.0,5.1,
+1498,NNA8016,,Nhẫn nam,,20,2.3,5.5,
+1499,NNA8017,,Nhẫn nam,,20,1.7,7.5,
+1500,NNA8018,,Nhẫn nam,,20,1.7,7.3,
+1501,NNA8019,,Nhẫn nam,,23,2.4,11.7,
+1502,NNA8020,,Nhẫn nam,,21,2.7,5.8,
+1503,NNA8021,,Nhẫn nam,,17,2.4,6.7,
 1504,NPT3107,,Nhẫn phong thủy,,18,,,
 1505,NPT3116,,Nhẫn phong thủy,,16,,,
 1506,NPT3119,,Nhẫn phong thủy,,20,,,
@@ -1515,21 +1515,21 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 1511,NPT4209,,Nhẫn phong thủy,,18,,,
 1512,NPT4304,,Nhẫn phong thủy,,18,,,
 1513,NPT4305,,Nhẫn phong thủy,,175,,,
-1514,NTT1201,,Nhẫn thời trang,,8,12.0,125.0,
-1515,NTT1202,,Nhẫn thời trang,,8,12.0,1.0,
-1516,NTT1203,,Nhẫn thời trang,,8,125.0,75.0,
-1517,NTT1204,,Nhẫn thời trang,,10,14.0,18.0,
-1518,NTT1205,,Nhẫn thời trang,,10,13.0,17.0,
-1519,NTT1206,,Nhẫn thời trang,,11,12.0,12.0,
-1520,NTT1207,,Nhẫn thời trang,,11,12.0,125.0,
-1521,NTT1208,,Nhẫn thời trang,,10,13.0,13.0,
-1522,NTT1801,,Nhẫn thời trang,,10,13.0,2.0,
-1523,NTT1802,,Nhẫn thời trang,,10,13.0,2.0,
-1524,NTT1803,,Nhẫn thời trang,,10,13.0,21.0,
-1525,NTT1804,,Nhẫn thời trang,,10,12.0,13.0,
-1526,NTT1805,,Nhẫn thời trang,,11,12.0,17.0,
-1527,NTT1806,,Nhẫn thời trang,,11,12.0,125.0,
-1528,NTT1901,,Nhẫn thời trang,,10,12.0,13.0,
+1514,NTT1201,,Nhẫn thời trang,,8,1.2,1.25,
+1515,NTT1202,,Nhẫn thời trang,,8,1.2,1.0,
+1516,NTT1203,,Nhẫn thời trang,,8,1.25,7.5,
+1517,NTT1204,,Nhẫn thời trang,,10,1.4,1.8,
+1518,NTT1205,,Nhẫn thời trang,,10,1.3,1.7,
+1519,NTT1206,,Nhẫn thời trang,,11,1.2,1.2,
+1520,NTT1207,,Nhẫn thời trang,,11,1.2,1.25,
+1521,NTT1208,,Nhẫn thời trang,,10,1.3,1.3,
+1522,NTT1801,,Nhẫn thời trang,,10,1.3,2.0,
+1523,NTT1802,,Nhẫn thời trang,,10,1.3,2.0,
+1524,NTT1803,,Nhẫn thời trang,,10,1.3,2.1,
+1525,NTT1804,,Nhẫn thời trang,,10,1.2,1.3,
+1526,NTT1805,,Nhẫn thời trang,,11,1.2,1.7,
+1527,NTT1806,,Nhẫn thời trang,,11,1.2,1.25,
+1528,NTT1901,,Nhẫn thời trang,,10,1.2,1.3,
 1529,NTT5101,Xuân Đào,Nhẫn thời trang,,85,,,
 1530,NTT5102,Nút Thắt Tường An ,Nhẫn thời trang,,95,,,
 1531,NTT5103,"Tường Vân "" Phúc """,Nhẫn thời trang,,11,,,
