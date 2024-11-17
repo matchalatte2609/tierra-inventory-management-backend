@@ -12963,9 +12963,9 @@
     "ProductId": "1441",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 6.0 ",
-    "gold_18k_weight": " 8.36 ",
-    "gold_14k_weight": " 6.99 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 10.91 ",
+    "gold_14k_weight": " 9.12 ",
+    "plat_900_weight": " 14.62 ",
     "surface_plain_pattern": " Plain "
   },
   {
@@ -14328,15 +14328,6 @@
     "surface_plain_pattern": ""
   },
   {
-    "ProductId": "1593",
-    "main_gemstone_shape": "",
-    "main_gemstone_size": "",
-    "gold_18k_weight": "",
-    "gold_14k_weight": "",
-    "plat_900_weight": "",
-    "surface_plain_pattern": ""
-  },
-  {
     "ProductId": "1594",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
@@ -14383,6 +14374,69 @@
   },
   {
     "ProductId": "1599",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": ""
+  },
+  {
+    "ProductId": "1600",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": ""
+  },
+  {
+    "ProductId": "1601",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": ""
+  },
+  {
+    "ProductId": "1602",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": ""
+  },
+  {
+    "ProductId": "1603",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": ""
+  },
+  {
+    "ProductId": "1604",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": ""
+  },
+  {
+    "ProductId": "1605",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": ""
+  },
+  {
+    "ProductId": "1606",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": "",

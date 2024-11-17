@@ -1439,7 +1439,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 1438,Round, 5.4 , 20.97 , 17.53 ,   , Plain 
 1439,Round, 5.4 , 9.93 , 8.30 ,   , Plain 
 1440,Round, 6.0 , 9.97 , 8.33 ,   , Pattern 
-1441,Round, 6.0 , 8.36 , 6.99 ,   , Plain 
+1441,Round, 6.0 , 10.91 , 9.12 , 14.62 , Plain 
 1442,Round, 4.1 , 12.22 , 11.39 ,   , Plain 
 1443,Round, 5.4 , 10.19 , 8.52 ,   , Plain 
 1444,Round, 6.3 , 9.18 , 7.67 ,   , Plain 
@@ -1591,10 +1591,16 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 1590,,   , 18.63 , 17.37 ,   , Plain 
 1591,,   , 18.63 , 17.37 ,   , Plain 
 1592,,,,,,
-1593,,,,,,
 1594,,,,,,
 1595,,,,,,
 1596,,,,,,
 1597,,,,,,
 1598,,,,,,
 1599,,,,,,
+1600,,,,,,
+1601,,,,,,
+1602,,,,,,
+1603,,,,,,
+1604,,,,,,
+1605,,,,,,
+1606,,,,,,
