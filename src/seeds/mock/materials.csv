@@ -887,7 +887,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 886,Heart, 5.4*5.8 , 4.49 , 4.18 ,   , Plain 
 887,Heart, 5.4 , 2.23 , 2.08 ,   , Plain 
 888,Heart, 5.5 , 3.03 , 2.82 , 4.06 , Pattern 
-889,Round, 5.0 , 2.12 , 1.77 ,, Pattern 
+889,Heart, 5.0 , 2.12 , 1.77 ,, Pattern 
 890,Heart, 5.0 , 2.42 , 2.02 ,, Plain 
 891,Heart, 5.0 , 2.52 , 2.10 ,, Plain 
 892,Heart, 5.0 , 2.00 , 1.84 ,, Plain 

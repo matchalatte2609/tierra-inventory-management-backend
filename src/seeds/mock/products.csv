@@ -691,12 +691,12 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 688,NCH1019,Fulfill Love ,Nhẫn cầu hôn,,11,1.3,2.9,
 689,NCH1020,Forever  ,Nhẫn cầu hôn,,12,1.3,2.16,
 690,NCH1021,Ever After ,Nhẫn cầu hôn,,10,1.3,1.9,
-691,NCH1022,Always You ,Nhẫn cầu hôn,,10,1.5,2.3,
+691,NCH1022,Aphrodite's Blessing,Nhẫn cầu hôn,,10,1.5,2.3,
 692,NCH1023,Mantilla Veil,Nhẫn cầu hôn,,11,,,
 693,NCH1024,Whisper Chiffon,Nhẫn cầu hôn,,11,,,
 694,NCH1025,Butterfly Cathedral,Nhẫn cầu hôn,,10,,,
 695,NCH1028,Lavish Veil,Nhẫn cầu hôn,,11,,,
-696,NCH1101,Aphrodite'S Blessing,Nhẫn cầu hôn,,11,1.3,1.8,7.4
+696,NCH1101,Always You,Nhẫn cầu hôn,,11,1.3,1.8,7.4
 697,NCH1102,,Nhẫn cầu hôn,,11,1.4,2.0,7.2
 698,NCH1103,My Amour,Nhẫn cầu hôn,,11,1.3,1.8,5.8
 699,NCH1104,Elegant Shape,Nhẫn cầu hôn,,12,1.3,1.8,6.2
@@ -721,7 +721,7 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 718,NCH1315,My Blooming Love,Nhẫn cầu hôn,,10,1.3,2.0,
 719,NCH1317,Tulle Ribbon,Nhẫn cầu hôn,,10,,,
 720,NCH1318,Svelte Waistline,Nhẫn cầu hôn,,11,,,
-721,NCH1319,Organja Princess,Nhẫn cầu hôn,,10,,,
+721,NCH1319,Organza Princess,Nhẫn cầu hôn,,10,,,
 722,NCH1401,,Nhẫn cầu hôn,,12,1.3,2.0,7.3
 723,NCH1402,Gentle Touch,Nhẫn cầu hôn,,11,1.3,2.0,6.3
 724,NCH1403,,Nhẫn cầu hôn,,12,1.3,2.0,
@@ -806,7 +806,7 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 803,NCH1901,Morning Glory,Nhẫn cầu hôn,,10,1.3,1.9,
 804,NCH1902,White Orchid,Nhẫn cầu hôn,,11,1.5,1.8,
 805,NCH1903,Katherine,Nhẫn cầu hôn,,11,1.3,1.7,
-806,NCH1905,Summerlotus,Nhẫn cầu hôn,,11,1.48,2.0,
+806,NCH1905,Summer Lotus,Nhẫn cầu hôn,,11,1.48,2.0,
 807,NCH1906,Pansy,Nhẫn cầu hôn,,11,1.3,1.8,
 808,NCH1907,Lily,Nhẫn cầu hôn,,10,1.2,2.2,
 809,NCH1908,Green Cloud,Nhẫn cầu hôn,,12,1.4,1.7,
@@ -1064,7 +1064,7 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 1061,NCM5009,,Nhẫn cưới nam,,12,2.4,4.7,
 1062,NCM7001,Always You ,Nhẫn cưới nam,,13.5,1.4,2.7,
 1063,NCM7002,Perfect Half ,Nhẫn cưới nam,,19,1.3,2.9,
-1064,NCM7003,Infinity Us,Nhẫn cưới nam,,19,1.4,2.5,
+1064,NCM7003,Infinite Us,Nhẫn cưới nam,,19,1.4,2.5,
 1065,NCM7004,In My Heart,Nhẫn cưới nam,,18,1.4,2.1,
 1066,NCM7005,Mr & Mrs. Right ,Nhẫn cưới nam,,17.5,1.45,3.0,
 1067,NCM7006,All My Life,Nhẫn cưới nam,,18,1.5,2.4,
@@ -1279,16 +1279,16 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 1275,NKC3206,,Nhẫn kim cương,,10,1.5,1.5,7.2
 1276,NKC3301,Five Stone With Bridge Accent Stone ,Nhẫn kim cương,,11,1.3,2.0,6.9
 1277,NKC3302,Art Deco Three Stone,Nhẫn kim cương,,12,1.3,2.2,7.2
-1278,NKC4110,,Nhẫn kim cương,,12,1.4,3.95,1.31
-1279,NKC4111,,Nhẫn kim cương,,11,1.3,2.9,1.04
-1280,NKC4112,,Nhẫn kim cương,,12,1.4,2.65,9.4
-1281,NKC4113,,Nhẫn kim cương,,10,1.3,2.7,1.02
-1282,NKC4114,,Nhẫn kim cương,,10,1.3,2.6,1.12
-1283,NKC4117,,Nhẫn kim cương,,10,1.4,4.0,9.9
-1284,NKC4118,,Nhẫn kim cương,,12,1.3,2.5,8.5
-1285,NKC4119,,Nhẫn kim cương,,12,1.3,3.1,1.14
-1286,NKC4120,,Nhẫn kim cương,,12,1.3,2.4,1.29
-1287,NKC4121,,Nhẫn kim cương,,11,1.3,3.7,1.05
+1278,NKC4110,Spring Peony,Nhẫn kim cương,,12,1.4,3.95,1.31
+1279,NKC4111,Spring Dandelion,Nhẫn kim cương,,11,1.3,2.9,1.04
+1280,NKC4112,Spring Willow,Nhẫn kim cương,,12,1.4,2.65,9.4
+1281,NKC4113,Joy of Spring,Nhẫn kim cương,,10,1.3,2.7,1.02
+1282,NKC4114,Spring Sunflower,Nhẫn kim cương,,10,1.3,2.6,1.12
+1283,NKC4117,Spring Light,Nhẫn kim cương,,10,1.4,4.0,9.9
+1284,NKC4118,Love of Spring,Nhẫn kim cương,,12,1.3,2.5,8.5
+1285,NKC4119,Dream's Spring,Nhẫn kim cương,,12,1.3,3.1,1.14
+1286,NKC4120,Spring Muse,Nhẫn kim cương,,12,1.3,2.4,1.29
+1287,NKC4121,Radiant Spring,Nhẫn kim cương,,11,1.3,3.7,1.05
 1288,NKC4201,Lotus Of Clear Moon,Nhẫn kim cương,,13,1.3,2.6,7.5
 1289,NKC8101,La Reine ,Nhẫn kim cương,,13,1.39,4.36,9.83
 1290,NKC8103,Princess Cut With Royal Pattern ,Nhẫn kim cương,,13,1.4,2.0,3.63
