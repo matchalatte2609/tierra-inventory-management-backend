@@ -3280,7 +3280,7 @@
   {
     "ProductId": "299",
     "design_code": "NCC0042",
-    "name": "Petal of Joy ",
+    "name": "Petal of Joy",
     "category": "Nhẫn cưới",
     "diameter": "",
     "ring_size": "M.18,5-F.12",
@@ -3291,7 +3291,7 @@
   {
     "ProductId": "300",
     "design_code": "NCC0043",
-    "name": "Petal of Joy ",
+    "name": "Petal of Joy",
     "category": "Nhẫn cưới",
     "diameter": "",
     "ring_size": "M.18-F.12",
@@ -3302,7 +3302,7 @@
   {
     "ProductId": "301",
     "design_code": "NCC0044",
-    "name": "Petal of Love ",
+    "name": "Petal of Love",
     "category": "Nhẫn cưới",
     "diameter": "",
     "ring_size": "M.18-F.11",
@@ -3313,7 +3313,7 @@
   {
     "ProductId": "302",
     "design_code": "NCC0045",
-    "name": "Petal of Love ",
+    "name": "Petal of Love",
     "category": "Nhẫn cưới",
     "diameter": "",
     "ring_size": "M.18-F.11",
@@ -3324,7 +3324,7 @@
   {
     "ProductId": "303",
     "design_code": "NCC0046",
-    "name": "Petal of Happiness ",
+    "name": "Petal of Happiness",
     "category": "Nhẫn cưới",
     "diameter": "",
     "ring_size": "M.18-F.11",
@@ -5220,7 +5220,7 @@
     "category": "Nhẫn cưới nữ",
     "diameter": "",
     "ring_size": "11",
-    "base_thickness": "1.5",
+    "base_thickness": "1.6",
     "base_width": "2.77",
     "prongs_height": ""
   },
@@ -5293,11 +5293,11 @@
   {
     "ProductId": "482",
     "design_code": "NCF0042",
-    "name": "Petal of Joy 1 ",
+    "name": "Petal of Joy 1",
     "category": "Nhẫn cưới nữ",
     "diameter": "",
     "ring_size": "12",
-    "base_thickness": "1.5",
+    "base_thickness": "1.2",
     "base_width": "4.3",
     "prongs_height": ""
   },
@@ -5315,7 +5315,7 @@
   {
     "ProductId": "484",
     "design_code": "NCF0044",
-    "name": "Petal of Love 2 ",
+    "name": "Petal of Love 2",
     "category": "Nhẫn cưới nữ",
     "diameter": "",
     "ring_size": "11",
@@ -7460,7 +7460,7 @@
   {
     "ProductId": "679",
     "design_code": "NCH1003",
-    "name": "Water Lily ",
+    "name": "Water Lily",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
@@ -7471,7 +7471,7 @@
   {
     "ProductId": "680",
     "design_code": "NCH1004",
-    "name": "Love Shine ",
+    "name": "Love Shine",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "12",
@@ -7482,7 +7482,7 @@
   {
     "ProductId": "681",
     "design_code": "NCH1005",
-    "name": "Primrose Flower   ",
+    "name": "Primrose Flower",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "12",
@@ -7504,7 +7504,7 @@
   {
     "ProductId": "683",
     "design_code": "NCH1010",
-    "name": "Petit Flower ",
+    "name": "Roselle Hibiscus",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "10",
@@ -7515,7 +7515,7 @@
   {
     "ProductId": "684",
     "design_code": "NCH1014",
-    "name": "Roselle Hibiscus  ",
+    "name": "Little Love",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "13",
@@ -7526,7 +7526,7 @@
   {
     "ProductId": "685",
     "design_code": "NCH1015",
-    "name": "Little Love ",
+    "name": "Paris",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "8",
@@ -7537,7 +7537,7 @@
   {
     "ProductId": "686",
     "design_code": "NCH1017",
-    "name": "Paris ",
+    "name": "My Day Dreams",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "12",
@@ -7548,7 +7548,7 @@
   {
     "ProductId": "687",
     "design_code": "NCH1018",
-    "name": "My Day Dreams",
+    "name": "Fulfill Love",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "10",
@@ -7559,7 +7559,7 @@
   {
     "ProductId": "688",
     "design_code": "NCH1019",
-    "name": "Fulfill Love ",
+    "name": "Forever",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
@@ -7570,7 +7570,7 @@
   {
     "ProductId": "689",
     "design_code": "NCH1020",
-    "name": "Forever  ",
+    "name": "Ever After",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "12",
@@ -7581,7 +7581,7 @@
   {
     "ProductId": "690",
     "design_code": "NCH1021",
-    "name": "Ever After ",
+    "name": "Always You",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "10",
@@ -7724,7 +7724,7 @@
   {
     "ProductId": "703",
     "design_code": "NCH1204",
-    "name": "True Beauty ",
+    "name": "True Beauty",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
@@ -7856,7 +7856,7 @@
   {
     "ProductId": "715",
     "design_code": "NCH1312",
-    "name": "My Sunlight ",
+    "name": "My Sunlight",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "10",
@@ -7878,7 +7878,7 @@
   {
     "ProductId": "717",
     "design_code": "NCH1314",
-    "name": "Soul Mate ",
+    "name": "Soul Mate",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
@@ -7999,7 +7999,7 @@
   {
     "ProductId": "728",
     "design_code": "NCH1407",
-    "name": "Trellis Blossoms ",
+    "name": "Trellis Blossoms",
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "10",
@@ -9180,7 +9180,7 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
-    "base_thickness": "1.5",
+    "base_thickness": "1.6",
     "base_width": "1.7",
     "prongs_height": ""
   },
@@ -10177,7 +10177,7 @@
   {
     "ProductId": "926",
     "design_code": "NCM0042",
-    "name": "Petal of Joy 1 ",
+    "name": "Petal of Joy 1",
     "category": "Nhẫn cưới nam",
     "diameter": "",
     "ring_size": "18.5",
@@ -10199,7 +10199,7 @@
   {
     "ProductId": "928",
     "design_code": "NCM0044",
-    "name": "Petal of Love 2 ",
+    "name": "Petal of Love 2",
     "category": "Nhẫn cưới nam",
     "diameter": "",
     "ring_size": "18",
@@ -11299,7 +11299,7 @@
   {
     "ProductId": "1028",
     "design_code": "NCM2071",
-    "name": "OUR DAY",
+    "name": "Our Day",
     "category": "Nhẫn cưới nam",
     "diameter": "",
     "ring_size": "15",
@@ -17650,6 +17650,83 @@
     "category": "Dây chuyền",
     "diameter": "",
     "ring_size": "42-45",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1607",
+    "design_code": "BTA0022",
+    "name": "Thần tài 2025",
+    "category": "Bông tai",
+    "diameter": "",
+    "ring_size": "",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1608",
+    "design_code": "NTT5112",
+    "name": "Thần tài 2025",
+    "category": "Nhẫn thời trang",
+    "diameter": "",
+    "ring_size": "",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1609",
+    "design_code": "NTT5113",
+    "name": "Thần tài 2025",
+    "category": "Nhẫn thời trang",
+    "diameter": "",
+    "ring_size": "",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1610",
+    "design_code": "MDA0022",
+    "name": "Thần tài 2025",
+    "category": "Mặt dây",
+    "diameter": "",
+    "ring_size": "",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1611",
+    "design_code": "MDA0021",
+    "name": "Thần tài 2025",
+    "category": "Mặt dây",
+    "diameter": "",
+    "ring_size": "",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1612",
+    "design_code": "VTA0010",
+    "name": "Thần tài 2025",
+    "category": "Vòng tay",
+    "diameter": "",
+    "ring_size": "",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1613",
+    "design_code": "VTA0012",
+    "name": "Thần tài 2025",
+    "category": "Vòng tay",
+    "diameter": "",
+    "ring_size": "",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""

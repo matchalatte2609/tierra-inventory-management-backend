@@ -69,6 +69,7 @@ if __name__ == "__main__":
             # 'Vàng 14k': 'gold_14k_weight',
             # 'Pt900': 'plat_900_weight',
             # 'Plain/Pattern': 'surface_plain_pattern',
+            # 'Màu sắc mặc định Catalogue': 'catalogue_color',
             # 'Dia+18K': 'diamond_gold_18k',
             # 'Dia+14K': 'diamond_gold_14k',
             # 'Dia+Pt900': 'diamond_plat_900',
