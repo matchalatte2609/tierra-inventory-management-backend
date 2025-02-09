@@ -2312,7 +2312,7 @@
   {
     "ProductId": "211",
     "design_code": "MDA0011",
-    "name": "Heart Cube",
+    "name": "Sweet Cherry",
     "category": "Mặt dây chuyền",
     "diameter": "",
     "ring_size": "",
@@ -18081,6 +18081,171 @@
     "ring_size": "17",
     "base_thickness": "0.8",
     "base_width": "1.5",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1645",
+    "design_code": "BNC0012",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.14-F.5.5",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1646",
+    "design_code": "BNC1002",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.18-F.11",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1647",
+    "design_code": "BNC1042",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.16-F.11",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1648",
+    "design_code": "BNC2004",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.16-F.11",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1649",
+    "design_code": "BNC2009",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.17-F.11",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1650",
+    "design_code": "BNC2016",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.14-F.10",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1651",
+    "design_code": "BNC2023",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.17-F.10",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1652",
+    "design_code": "BNC2024",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.19.5-F.10",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1653",
+    "design_code": "BNC2031",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.19-F.11",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1654",
+    "design_code": "BNC2043",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.18-F.11",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1655",
+    "design_code": "BNC2054",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.19-F.11",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1656",
+    "design_code": "BNC2070",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.19-F.11",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1657",
+    "design_code": "BNC3002",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.15-F.11",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1658",
+    "design_code": "BNC3011",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.19-F.11",
+    "base_thickness": "",
+    "base_width": "",
+    "prongs_height": ""
+  },
+  {
+    "ProductId": "1659",
+    "design_code": "BNC3024",
+    "name": "",
+    "category": "Nhẫn cưới",
+    "diameter": "",
+    "ring_size": "M.17-F.11",
+    "base_thickness": "",
+    "base_width": "",
     "prongs_height": ""
   }
 ]
