@@ -14536,6 +14536,42 @@
   },
   {
     "ProductId": "1615.0",
+    "diamond_gold_18k": "",
+    "diamond_gold_14k": "",
+    "diamond_plat_900": "",
+    "cz_gold_18k": "",
+    "cz_gold_14k": "",
+    "cz_plat_900": ""
+  },
+  {
+    "ProductId": "1616.0",
+    "diamond_gold_18k": "",
+    "diamond_gold_14k": "",
+    "diamond_plat_900": "",
+    "cz_gold_18k": "",
+    "cz_gold_14k": "",
+    "cz_plat_900": ""
+  },
+  {
+    "ProductId": "1617.0",
+    "diamond_gold_18k": "",
+    "diamond_gold_14k": "",
+    "diamond_plat_900": "",
+    "cz_gold_18k": "",
+    "cz_gold_14k": "",
+    "cz_plat_900": ""
+  },
+  {
+    "ProductId": "1618.0",
+    "diamond_gold_18k": "",
+    "diamond_gold_14k": "",
+    "diamond_plat_900": "",
+    "cz_gold_18k": "",
+    "cz_gold_14k": "",
+    "cz_plat_900": ""
+  },
+  {
+    "ProductId": "1619.0",
     "diamond_gold_18k": " 10,350,000 ",
     "diamond_gold_14k": " 8,220,000 ",
     "diamond_plat_900": " - ",
@@ -14544,7 +14580,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1616.0",
+    "ProductId": "1620.0",
     "diamond_gold_18k": " 9,630,000 ",
     "diamond_gold_14k": " 6,870,000 ",
     "diamond_plat_900": " - ",
@@ -14553,7 +14589,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1617.0",
+    "ProductId": "1621.0",
     "diamond_gold_18k": " 19,700,000 ",
     "diamond_gold_14k": " 16,340,000 ",
     "diamond_plat_900": " - ",
@@ -14562,7 +14598,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1618.0",
+    "ProductId": "1622.0",
     "diamond_gold_18k": " 15,120,000 ",
     "diamond_gold_14k": " 11,400,000 ",
     "diamond_plat_900": " - ",
@@ -14571,7 +14607,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1619.0",
+    "ProductId": "1623.0",
     "diamond_gold_18k": " 13,050,000 ",
     "diamond_gold_14k": " 10,480,000 ",
     "diamond_plat_900": " - ",
@@ -14580,7 +14616,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1620.0",
+    "ProductId": "1624.0",
     "diamond_gold_18k": " 12,040,000 ",
     "diamond_gold_14k": " 9,310,000 ",
     "diamond_plat_900": " - ",
@@ -14589,7 +14625,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1621.0",
+    "ProductId": "1625.0",
     "diamond_gold_18k": " 23,010,000 ",
     "diamond_gold_14k": " 20,260,000 ",
     "diamond_plat_900": " - ",
@@ -14598,7 +14634,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1622.0",
+    "ProductId": "1626.0",
     "diamond_gold_18k": " 13,410,000 ",
     "diamond_gold_14k": " 10,640,000 ",
     "diamond_plat_900": " - ",
@@ -14607,7 +14643,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1623.0",
+    "ProductId": "1627.0",
     "diamond_gold_18k": " 15,910,000 ",
     "diamond_gold_14k": " 12,580,000 ",
     "diamond_plat_900": " - ",
@@ -14616,7 +14652,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1624.0",
+    "ProductId": "1628.0",
     "diamond_gold_18k": " 10,890,000 ",
     "diamond_gold_14k": " 8,140,000 ",
     "diamond_plat_900": " - ",
@@ -14625,7 +14661,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1625.0",
+    "ProductId": "1629.0",
     "diamond_gold_18k": " 10,560,000 ",
     "diamond_gold_14k": " 7,730,000 ",
     "diamond_plat_900": " - ",
@@ -14634,7 +14670,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1626.0",
+    "ProductId": "1630.0",
     "diamond_gold_18k": " 12,580,000 ",
     "diamond_gold_14k": " 8,650,000 ",
     "diamond_plat_900": " - ",
@@ -14643,7 +14679,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1627.0",
+    "ProductId": "1631.0",
     "diamond_gold_18k": " 12,570,000 ",
     "diamond_gold_14k": " 8,910,000 ",
     "diamond_plat_900": " - ",
@@ -14652,7 +14688,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1628.0",
+    "ProductId": "1632.0",
     "diamond_gold_18k": " 11,010,000 ",
     "diamond_gold_14k": " 7,490,000 ",
     "diamond_plat_900": " - ",
@@ -14661,7 +14697,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1629.0",
+    "ProductId": "1633.0",
     "diamond_gold_18k": " 20,120,000 ",
     "diamond_gold_14k": " 16,380,000 ",
     "diamond_plat_900": " - ",
@@ -14670,7 +14706,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1630.0",
+    "ProductId": "1634.0",
     "diamond_gold_18k": " 17,100,000 ",
     "diamond_gold_14k": " 11,770,000 ",
     "diamond_plat_900": " - ",
@@ -14679,7 +14715,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1631.0",
+    "ProductId": "1635.0",
     "diamond_gold_18k": " 10,830,000 ",
     "diamond_gold_14k": " 8,030,000 ",
     "diamond_plat_900": " - ",
@@ -14688,7 +14724,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1632.0",
+    "ProductId": "1636.0",
     "diamond_gold_18k": " 17,220,000 ",
     "diamond_gold_14k": " 12,770,000 ",
     "diamond_plat_900": " - ",
@@ -14697,7 +14733,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1633.0",
+    "ProductId": "1637.0",
     "diamond_gold_18k": " 12,240,000 ",
     "diamond_gold_14k": " 9,850,000 ",
     "diamond_plat_900": " - ",
@@ -14706,7 +14742,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1634.0",
+    "ProductId": "1638.0",
     "diamond_gold_18k": " 11,540,000 ",
     "diamond_gold_14k": " 7,810,000 ",
     "diamond_plat_900": " - ",
@@ -14715,7 +14751,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1635.0",
+    "ProductId": "1639.0",
     "diamond_gold_18k": " 17,960,000 ",
     "diamond_gold_14k": " 15,110,000 ",
     "diamond_plat_900": " - ",
@@ -14724,7 +14760,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1636.0",
+    "ProductId": "1640.0",
     "diamond_gold_18k": " 11,230,000 ",
     "diamond_gold_14k": " 7,620,000 ",
     "diamond_plat_900": " - ",
@@ -14733,7 +14769,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1637.0",
+    "ProductId": "1641.0",
     "diamond_gold_18k": " 11,640,000 ",
     "diamond_gold_14k": " 9,120,000 ",
     "diamond_plat_900": " - ",
@@ -14742,7 +14778,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1638.0",
+    "ProductId": "1642.0",
     "diamond_gold_18k": " 15,190,000 ",
     "diamond_gold_14k": " 11,470,000 ",
     "diamond_plat_900": " - ",
@@ -14751,7 +14787,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1639.0",
+    "ProductId": "1643.0",
     "diamond_gold_18k": " 23,230,000 ",
     "diamond_gold_14k": " 19,880,000 ",
     "diamond_plat_900": " - ",
@@ -14760,7 +14796,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1640.0",
+    "ProductId": "1644.0",
     "diamond_gold_18k": " 13,290,000 ",
     "diamond_gold_14k": " 9,820,000 ",
     "diamond_plat_900": " - ",
@@ -14769,7 +14805,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1641.0",
+    "ProductId": "1645.0",
     "diamond_gold_18k": " 30,580,000 ",
     "diamond_gold_14k": " 26,920,000 ",
     "diamond_plat_900": " - ",
@@ -14778,16 +14814,16 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1642.0",
-    "diamond_gold_18k": " 35,360,000 ",
-    "diamond_gold_14k": " 30,960,000 ",
+    "ProductId": "1646.0",
+    "diamond_gold_18k": " 25,790,000 ",
+    "diamond_gold_14k": " 20,380,000 ",
     "diamond_plat_900": " - ",
-    "cz_gold_18k": " 19,640,000 ",
-    "cz_gold_14k": " 15,240,000 ",
+    "cz_gold_18k": " 16,180,000 ",
+    "cz_gold_14k": " 10,770,000 ",
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1643.0",
+    "ProductId": "1647.0",
     "diamond_gold_18k": " 20,560,000 ",
     "diamond_gold_14k": " 16,870,000 ",
     "diamond_plat_900": " - ",
@@ -14796,7 +14832,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1644.0",
+    "ProductId": "1648.0",
     "diamond_gold_18k": " 28,680,000 ",
     "diamond_gold_14k": " 25,240,000 ",
     "diamond_plat_900": " - ",
@@ -14805,7 +14841,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1645.0",
+    "ProductId": "1649.0",
     "diamond_gold_18k": " 19,980,000 ",
     "diamond_gold_14k": " 15,090,000 ",
     "diamond_plat_900": " - ",
@@ -14814,7 +14850,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1646.0",
+    "ProductId": "1650.0",
     "diamond_gold_18k": " 34,820,000 ",
     "diamond_gold_14k": " 27,740,000 ",
     "diamond_plat_900": " - ",
@@ -14823,7 +14859,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1647.0",
+    "ProductId": "1651.0",
     "diamond_gold_18k": " 25,090,000 ",
     "diamond_gold_14k": " 19,790,000 ",
     "diamond_plat_900": " - ",
@@ -14832,7 +14868,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1648.0",
+    "ProductId": "1652.0",
     "diamond_gold_18k": " 36,420,000 ",
     "diamond_gold_14k": " 30,900,000 ",
     "diamond_plat_900": " - ",
@@ -14841,7 +14877,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1649.0",
+    "ProductId": "1653.0",
     "diamond_gold_18k": " 26,800,000 ",
     "diamond_gold_14k": " 20,720,000 ",
     "diamond_plat_900": " - ",
@@ -14850,7 +14886,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1650.0",
+    "ProductId": "1654.0",
     "diamond_gold_18k": " 23,140,000 ",
     "diamond_gold_14k": " 16,380,000 ",
     "diamond_plat_900": " - ",
@@ -14859,7 +14895,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1651.0",
+    "ProductId": "1655.0",
     "diamond_gold_18k": " 23,580,000 ",
     "diamond_gold_14k": " 16,400,000 ",
     "diamond_plat_900": " - ",
@@ -14868,7 +14904,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1652.0",
+    "ProductId": "1656.0",
     "diamond_gold_18k": " 37,220,000 ",
     "diamond_gold_14k": " 28,150,000 ",
     "diamond_plat_900": " - ",
@@ -14877,7 +14913,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1653.0",
+    "ProductId": "1657.0",
     "diamond_gold_18k": " 28,050,000 ",
     "diamond_gold_14k": " 20,800,000 ",
     "diamond_plat_900": " - ",
@@ -14886,7 +14922,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1654.0",
+    "ProductId": "1658.0",
     "diamond_gold_18k": " 23,780,000 ",
     "diamond_gold_14k": " 17,660,000 ",
     "diamond_plat_900": " - ",
@@ -14895,7 +14931,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1655.0",
+    "ProductId": "1659.0",
     "diamond_gold_18k": " 29,190,000 ",
     "diamond_gold_14k": " 22,730,000 ",
     "diamond_plat_900": " - ",
@@ -14904,7 +14940,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1656.0",
+    "ProductId": "1660.0",
     "diamond_gold_18k": " 26,830,000 ",
     "diamond_gold_14k": " 20,590,000 ",
     "diamond_plat_900": " - ",
@@ -14913,7 +14949,7 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1657.0",
+    "ProductId": "1661.0",
     "diamond_gold_18k": " 36,520,000 ",
     "diamond_gold_14k": " 29,700,000 ",
     "diamond_plat_900": " - ",
@@ -14922,16 +14958,16 @@
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1658.0",
-    "diamond_gold_18k": " 65,940,000 ",
-    "diamond_gold_14k": " 57,880,000 ",
+    "ProductId": "1662.0",
+    "diamond_gold_18k": " 56,370,000 ",
+    "diamond_gold_14k": " 47,300,000 ",
     "diamond_plat_900": " - ",
-    "cz_gold_18k": " 37,130,000 ",
-    "cz_gold_14k": " 29,080,000 ",
+    "cz_gold_18k": " 33,670,000 ",
+    "cz_gold_14k": " 24,610,000 ",
     "cz_plat_900": " - "
   },
   {
-    "ProductId": "1659.0",
+    "ProductId": "1663.0",
     "diamond_gold_18k": " 49,240,000 ",
     "diamond_gold_14k": " 42,110,000 ",
     "diamond_plat_900": " - ",

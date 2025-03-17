@@ -16153,6 +16153,46 @@
     "ProductId": "1615.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": "",
+    "catalogue_color": ""
+  },
+  {
+    "ProductId": "1616.0",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": "",
+    "catalogue_color": ""
+  },
+  {
+    "ProductId": "1617.0",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": "",
+    "catalogue_color": ""
+  },
+  {
+    "ProductId": "1618.0",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": "",
+    "catalogue_color": ""
+  },
+  {
+    "ProductId": "1619.0",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
     "gold_18k_weight": " 1.46 ",
     "gold_14k_weight": " 1.22 ",
     "plat_900_weight": "",
@@ -16160,7 +16200,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1616.0",
+    "ProductId": "1620.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 1.90 ",
@@ -16170,7 +16210,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1617.0",
+    "ProductId": "1621.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.04 ",
@@ -16180,7 +16220,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1618.0",
+    "ProductId": "1622.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.44 ",
@@ -16190,7 +16230,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1619.0",
+    "ProductId": "1623.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 1.76 ",
@@ -16200,7 +16240,7 @@
     "catalogue_color": " Vàng "
   },
   {
-    "ProductId": "1620.0",
+    "ProductId": "1624.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 1.87 ",
@@ -16210,7 +16250,7 @@
     "catalogue_color": " Vàng "
   },
   {
-    "ProductId": "1621.0",
+    "ProductId": "1625.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 1.89 ",
@@ -16220,7 +16260,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1622.0",
+    "ProductId": "1626.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 1.91 ",
@@ -16230,7 +16270,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1623.0",
+    "ProductId": "1627.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.01 ",
@@ -16240,7 +16280,7 @@
     "catalogue_color": " Vàng "
   },
   {
-    "ProductId": "1624.0",
+    "ProductId": "1628.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 1.89 ",
@@ -16250,7 +16290,7 @@
     "catalogue_color": " Vàng "
   },
   {
-    "ProductId": "1625.0",
+    "ProductId": "1629.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 1.94 ",
@@ -16260,7 +16300,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1626.0",
+    "ProductId": "1630.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.38 ",
@@ -16270,7 +16310,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1627.0",
+    "ProductId": "1631.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.22 ",
@@ -16280,7 +16320,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1628.0",
+    "ProductId": "1632.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.13 ",
@@ -16290,7 +16330,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1629.0",
+    "ProductId": "1633.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.46 ",
@@ -16300,7 +16340,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1630.0",
+    "ProductId": "1634.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 3.06 ",
@@ -16310,7 +16350,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1631.0",
+    "ProductId": "1635.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 1.91 ",
@@ -16320,7 +16360,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1632.0",
+    "ProductId": "1636.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.92 ",
@@ -16330,7 +16370,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1633.0",
+    "ProductId": "1637.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 1.64 ",
@@ -16340,7 +16380,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1634.0",
+    "ProductId": "1638.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.25 ",
@@ -16350,7 +16390,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1635.0",
+    "ProductId": "1639.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 1.96 ",
@@ -16360,7 +16400,7 @@
     "catalogue_color": " Vàng "
   },
   {
-    "ProductId": "1636.0",
+    "ProductId": "1640.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.18 ",
@@ -16370,7 +16410,7 @@
     "catalogue_color": " Vàng "
   },
   {
-    "ProductId": "1637.0",
+    "ProductId": "1641.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 1.75 ",
@@ -16380,7 +16420,7 @@
     "catalogue_color": " Vàng "
   },
   {
-    "ProductId": "1638.0",
+    "ProductId": "1642.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.44 ",
@@ -16390,7 +16430,7 @@
     "catalogue_color": " Vàng "
   },
   {
-    "ProductId": "1639.0",
+    "ProductId": "1643.0",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 4.5 ",
     "gold_18k_weight": " 2.03 ",
@@ -16400,7 +16440,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1640.0",
+    "ProductId": "1644.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.11 ",
@@ -16410,7 +16450,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1641.0",
+    "ProductId": "1645.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.41 ",
@@ -16420,17 +16460,17 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1642.0",
+    "ProductId": "1646.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
-    "gold_18k_weight": " 2.90 ",
-    "gold_14k_weight": " 2.43 ",
+    "gold_18k_weight": " 3.10 ",
+    "gold_14k_weight": " 2.59 ",
     "plat_900_weight": "",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1643.0",
+    "ProductId": "1647.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.22 ",
@@ -16440,7 +16480,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1644.0",
+    "ProductId": "1648.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": " 2.08 ",
@@ -16450,17 +16490,7 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1645.0",
-    "main_gemstone_shape": "",
-    "main_gemstone_size": "",
-    "gold_18k_weight": "",
-    "gold_14k_weight": "",
-    "plat_900_weight": "",
-    "surface_plain_pattern": "",
-    "catalogue_color": ""
-  },
-  {
-    "ProductId": "1646.0",
+    "ProductId": "1649.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
     "gold_18k_weight": "",
@@ -16470,36 +16500,6 @@
     "catalogue_color": " Trắng "
   },
   {
-    "ProductId": "1647.0",
-    "main_gemstone_shape": "",
-    "main_gemstone_size": "",
-    "gold_18k_weight": "",
-    "gold_14k_weight": "",
-    "plat_900_weight": "",
-    "surface_plain_pattern": "",
-    "catalogue_color": ""
-  },
-  {
-    "ProductId": "1648.0",
-    "main_gemstone_shape": "",
-    "main_gemstone_size": "",
-    "gold_18k_weight": "",
-    "gold_14k_weight": "",
-    "plat_900_weight": "",
-    "surface_plain_pattern": "",
-    "catalogue_color": ""
-  },
-  {
-    "ProductId": "1649.0",
-    "main_gemstone_shape": "",
-    "main_gemstone_size": "",
-    "gold_18k_weight": "",
-    "gold_14k_weight": "",
-    "plat_900_weight": "",
-    "surface_plain_pattern": "",
-    "catalogue_color": ""
-  },
-  {
     "ProductId": "1650.0",
     "main_gemstone_shape": "",
     "main_gemstone_size": "",
@@ -16507,7 +16507,7 @@
     "gold_14k_weight": "",
     "plat_900_weight": "",
     "surface_plain_pattern": "",
-    "catalogue_color": ""
+    "catalogue_color": " Trắng "
   },
   {
     "ProductId": "1651.0",
@@ -16517,7 +16517,7 @@
     "gold_14k_weight": "",
     "plat_900_weight": "",
     "surface_plain_pattern": "",
-    "catalogue_color": ""
+    "catalogue_color": " Vàng "
   },
   {
     "ProductId": "1652.0",
@@ -16527,7 +16527,7 @@
     "gold_14k_weight": "",
     "plat_900_weight": "",
     "surface_plain_pattern": "",
-    "catalogue_color": ""
+    "catalogue_color": " Trắng "
   },
   {
     "ProductId": "1653.0",
@@ -16537,7 +16537,7 @@
     "gold_14k_weight": "",
     "plat_900_weight": "",
     "surface_plain_pattern": "",
-    "catalogue_color": ""
+    "catalogue_color": " Vàng "
   },
   {
     "ProductId": "1654.0",
@@ -16547,7 +16547,7 @@
     "gold_14k_weight": "",
     "plat_900_weight": "",
     "surface_plain_pattern": "",
-    "catalogue_color": ""
+    "catalogue_color": " Trắng "
   },
   {
     "ProductId": "1655.0",
@@ -16557,7 +16557,7 @@
     "gold_14k_weight": "",
     "plat_900_weight": "",
     "surface_plain_pattern": "",
-    "catalogue_color": ""
+    "catalogue_color": " Trắng "
   },
   {
     "ProductId": "1656.0",
@@ -16567,7 +16567,7 @@
     "gold_14k_weight": "",
     "plat_900_weight": "",
     "surface_plain_pattern": "",
-    "catalogue_color": ""
+    "catalogue_color": " Trắng "
   },
   {
     "ProductId": "1657.0",
@@ -16577,7 +16577,7 @@
     "gold_14k_weight": "",
     "plat_900_weight": "",
     "surface_plain_pattern": "",
-    "catalogue_color": ""
+    "catalogue_color": " Trắng "
   },
   {
     "ProductId": "1658.0",
@@ -16587,7 +16587,7 @@
     "gold_14k_weight": "",
     "plat_900_weight": "",
     "surface_plain_pattern": "",
-    "catalogue_color": ""
+    "catalogue_color": " Trắng "
   },
   {
     "ProductId": "1659.0",
@@ -16597,6 +16597,46 @@
     "gold_14k_weight": "",
     "plat_900_weight": "",
     "surface_plain_pattern": "",
-    "catalogue_color": ""
+    "catalogue_color": " Vàng "
+  },
+  {
+    "ProductId": "1660.0",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": "",
+    "catalogue_color": " Vàng "
+  },
+  {
+    "ProductId": "1661.0",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": "",
+    "catalogue_color": " Trắng "
+  },
+  {
+    "ProductId": "1662.0",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": "",
+    "catalogue_color": " Trắng "
+  },
+  {
+    "ProductId": "1663.0",
+    "main_gemstone_shape": "",
+    "main_gemstone_size": "",
+    "gold_18k_weight": "",
+    "gold_14k_weight": "",
+    "plat_900_weight": "",
+    "surface_plain_pattern": "",
+    "catalogue_color": " Trắng "
   }
 ]
