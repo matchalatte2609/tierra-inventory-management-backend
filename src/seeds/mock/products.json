@@ -100,7 +100,7 @@
   },
   {
     "ProductId": "10",
-    "design_code": "BTA1101",
+    "design_code": "BBT1101",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -111,7 +111,7 @@
   },
   {
     "ProductId": "11",
-    "design_code": "BTA1102",
+    "design_code": "BBT1102",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -122,7 +122,7 @@
   },
   {
     "ProductId": "12",
-    "design_code": "BTA1103",
+    "design_code": "BBT1103",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -133,7 +133,7 @@
   },
   {
     "ProductId": "13",
-    "design_code": "BTA1104",
+    "design_code": "BBT1104",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -144,7 +144,7 @@
   },
   {
     "ProductId": "14",
-    "design_code": "BTA1105",
+    "design_code": "BBT1105",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -155,7 +155,7 @@
   },
   {
     "ProductId": "15",
-    "design_code": "BTA1106",
+    "design_code": "BBT1106",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -177,7 +177,7 @@
   },
   {
     "ProductId": "17",
-    "design_code": "BTA1108",
+    "design_code": "BBT1108",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -188,7 +188,7 @@
   },
   {
     "ProductId": "18",
-    "design_code": "BTA1109",
+    "design_code": "BBT1109",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -199,7 +199,7 @@
   },
   {
     "ProductId": "19",
-    "design_code": "BTA1110",
+    "design_code": "BBT1110",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -210,7 +210,7 @@
   },
   {
     "ProductId": "20",
-    "design_code": "BTA1111",
+    "design_code": "BBT1111",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -221,7 +221,7 @@
   },
   {
     "ProductId": "21",
-    "design_code": "BTA1112",
+    "design_code": "BBT1112",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -1145,7 +1145,7 @@
   },
   {
     "ProductId": "105",
-    "design_code": "BTA4116",
+    "design_code": "BBT4116",
     "name": "",
     "category": "Bông tai",
     "diameter": "",
@@ -2278,7 +2278,7 @@
   },
   {
     "ProductId": "208",
-    "design_code": "MDA0010",
+    "design_code": "BMD0010",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2289,7 +2289,7 @@
   },
   {
     "ProductId": "209",
-    "design_code": "MDA0010",
+    "design_code": "BMD0010",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2300,7 +2300,7 @@
   },
   {
     "ProductId": "210",
-    "design_code": "MDA0010",
+    "design_code": "BMD0010",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2322,7 +2322,7 @@
   },
   {
     "ProductId": "212",
-    "design_code": "MDA0012",
+    "design_code": "BMD0012",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2498,7 +2498,7 @@
   },
   {
     "ProductId": "228",
-    "design_code": "MDA1101",
+    "design_code": "BMD1101",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2509,7 +2509,7 @@
   },
   {
     "ProductId": "229",
-    "design_code": "MDA1102",
+    "design_code": "BMD1102",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2531,7 +2531,7 @@
   },
   {
     "ProductId": "231",
-    "design_code": "MDA1104",
+    "design_code": "BMD1104",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2542,7 +2542,7 @@
   },
   {
     "ProductId": "232",
-    "design_code": "MDA1105",
+    "design_code": "BMD1105",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2553,7 +2553,7 @@
   },
   {
     "ProductId": "233",
-    "design_code": "MDA1106",
+    "design_code": "BMD1106",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2564,7 +2564,7 @@
   },
   {
     "ProductId": "234",
-    "design_code": "MDA1107",
+    "design_code": "BMD1107",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2575,7 +2575,7 @@
   },
   {
     "ProductId": "235",
-    "design_code": "MDA1108",
+    "design_code": "BMD1108",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2586,7 +2586,7 @@
   },
   {
     "ProductId": "236",
-    "design_code": "MDA1109",
+    "design_code": "BMD1109",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2597,7 +2597,7 @@
   },
   {
     "ProductId": "237",
-    "design_code": "MDA1110",
+    "design_code": "BMD1110",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2608,7 +2608,7 @@
   },
   {
     "ProductId": "238",
-    "design_code": "MDA1111",
+    "design_code": "BMD1111",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2619,7 +2619,7 @@
   },
   {
     "ProductId": "239",
-    "design_code": "MDA1112",
+    "design_code": "BMD1112",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2630,7 +2630,7 @@
   },
   {
     "ProductId": "240",
-    "design_code": "MDA1113",
+    "design_code": "BMD1113",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -2982,7 +2982,7 @@
   },
   {
     "ProductId": "272",
-    "design_code": "MDA3105",
+    "design_code": "BMD3105",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -3015,7 +3015,7 @@
   },
   {
     "ProductId": "275",
-    "design_code": "MDA4103",
+    "design_code": "BMD4103",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -3026,7 +3026,7 @@
   },
   {
     "ProductId": "276",
-    "design_code": "MDA4104",
+    "design_code": "BMD4104",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -3048,7 +3048,7 @@
   },
   {
     "ProductId": "278",
-    "design_code": "MDA8110",
+    "design_code": "BMD8110",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -3202,7 +3202,7 @@
   },
   {
     "ProductId": "292",
-    "design_code": "MDA8127",
+    "design_code": "BMD8127",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -3246,7 +3246,7 @@
   },
   {
     "ProductId": "296",
-    "design_code": "MDA8136",
+    "design_code": "BMD8136",
     "name": "",
     "category": "Mặt dây chuyền",
     "diameter": "",
@@ -3290,7 +3290,7 @@
   },
   {
     "ProductId": "300",
-    "design_code": "MDA8147",
+    "design_code": "BMD8147",
     "name": "Rosie Heart",
     "category": "Mặt dây chuyền",
     "diameter": " ",
@@ -3301,7 +3301,7 @@
   },
   {
     "ProductId": "301",
-    "design_code": "MDA8148",
+    "design_code": "BMD8148",
     "name": "Heart Of Venus",
     "category": "Mặt dây chuyền",
     "diameter": " ",
@@ -3312,7 +3312,7 @@
   },
   {
     "ProductId": "302",
-    "design_code": "MDA8149",
+    "design_code": "BMD8149",
     "name": "Tender Heart",
     "category": "Mặt dây chuyền",
     "diameter": " ",
@@ -3334,7 +3334,7 @@
   },
   {
     "ProductId": "304",
-    "design_code": "MDA8151",
+    "design_code": "BMD8151",
     "name": "Adorable Heart",
     "category": "Mặt dây chuyền",
     "diameter": " ",
@@ -17902,7 +17902,7 @@
     "name": "",
     "category": "Nhẫn cưới nam",
     "diameter": "",
-    "ring_size": "17",
+    "ring_size": "18",
     "base_thickness": "0.8",
     "base_width": "1.5",
     "prongs_height": ""
@@ -18177,7 +18177,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "M.17-F.11",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18298,9 +18298,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18309,9 +18309,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "19",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18320,9 +18320,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11.5",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18331,9 +18331,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "19",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18342,9 +18342,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18353,9 +18353,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18364,9 +18364,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18375,9 +18375,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18386,9 +18386,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18397,9 +18397,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "19",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18430,9 +18430,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18441,9 +18441,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "19.5",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18452,9 +18452,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18463,9 +18463,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "19.5",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18474,9 +18474,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18485,9 +18485,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "19.5",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18496,9 +18496,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18507,9 +18507,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "19.5",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18518,9 +18518,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18529,9 +18529,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "19.5",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18540,9 +18540,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18551,9 +18551,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "19",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18562,9 +18562,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18573,9 +18573,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18584,9 +18584,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18595,9 +18595,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18606,9 +18606,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "9",
+    "base_thickness": "0.9",
+    "base_width": "1.6",
     "prongs_height": ""
   },
   {
@@ -18617,9 +18617,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.9",
+    "base_width": "1.6",
     "prongs_height": ""
   },
   {
@@ -18628,9 +18628,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "10",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18639,9 +18639,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18650,9 +18650,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18661,9 +18661,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18672,9 +18672,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18683,9 +18683,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18694,9 +18694,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18705,9 +18705,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18716,9 +18716,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18727,9 +18727,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18738,9 +18738,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18749,9 +18749,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18760,9 +18760,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18771,9 +18771,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.7",
     "prongs_height": ""
   },
   {
@@ -18782,9 +18782,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "11",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18793,9 +18793,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "18",
+    "base_thickness": "0.8",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18804,9 +18804,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "12.5",
+    "base_thickness": "1.3",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18815,9 +18815,9 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
-    "base_thickness": "",
-    "base_width": "",
+    "ring_size": "20",
+    "base_thickness": "1.4",
+    "base_width": "1.5",
     "prongs_height": ""
   },
   {
@@ -18826,7 +18826,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.19.5-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18837,7 +18837,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.19.5-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18848,7 +18848,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.19.5-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18859,7 +18859,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.19-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18870,7 +18870,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.19.5-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18881,7 +18881,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.19-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18892,7 +18892,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18903,7 +18903,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18925,7 +18925,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.19.5-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18936,7 +18936,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.19-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18947,7 +18947,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.19-F.11.5",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18958,7 +18958,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.9",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18969,7 +18969,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18980,7 +18980,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.10",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -18991,7 +18991,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -19002,7 +19002,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -19013,7 +19013,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -19024,7 +19024,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -19035,7 +19035,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -19046,7 +19046,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -19057,7 +19057,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -19068,7 +19068,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.20-F.12.5",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -19079,7 +19079,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.18-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
