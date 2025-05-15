@@ -5924,7 +5924,7 @@
     "category": "Nhẫn cưới nữ",
     "diameter": "",
     "ring_size": "9",
-    "base_thickness": "1.5",
+    "base_thickness": "1.55",
     "base_width": "1.4",
     "prongs_height": ""
   },
@@ -6574,7 +6574,7 @@
     "diameter": "",
     "ring_size": "12",
     "base_thickness": "1.5",
-    "base_width": "2.0",
+    "base_width": "2.1",
     "prongs_height": "7.5"
   },
   {
@@ -6585,8 +6585,8 @@
     "diameter": "",
     "ring_size": "12",
     "base_thickness": "1.3",
-    "base_width": "1.8",
-    "prongs_height": ""
+    "base_width": "2.0",
+    "prongs_height": "5.9"
   },
   {
     "ProductId": "600",
@@ -6683,9 +6683,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "10",
-    "base_thickness": "1.5",
+    "base_thickness": "1.4",
     "base_width": "2.3",
-    "prongs_height": ""
+    "prongs_height": "6.5"
   },
   {
     "ProductId": "609",
@@ -6694,9 +6694,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
-    "base_thickness": "",
-    "base_width": "",
-    "prongs_height": ""
+    "base_thickness": "1.3",
+    "base_width": "1.7",
+    "prongs_height": "5.8"
   },
   {
     "ProductId": "610",
@@ -6705,9 +6705,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
-    "base_thickness": "",
-    "base_width": "",
-    "prongs_height": ""
+    "base_thickness": "1.3",
+    "base_width": "1.5",
+    "prongs_height": "6.0"
   },
   {
     "ProductId": "611",
@@ -6716,9 +6716,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "10",
-    "base_thickness": "",
-    "base_width": "",
-    "prongs_height": ""
+    "base_thickness": "1.5",
+    "base_width": "1.4",
+    "prongs_height": "6.3"
   },
   {
     "ProductId": "612",
@@ -6727,9 +6727,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
-    "base_thickness": "",
-    "base_width": "",
-    "prongs_height": ""
+    "base_thickness": "1.3",
+    "base_width": "1.8",
+    "prongs_height": "6.7"
   },
   {
     "ProductId": "613",
@@ -6784,7 +6784,7 @@
     "ring_size": "11",
     "base_thickness": "1.5",
     "base_width": "2.1",
-    "prongs_height": ""
+    "prongs_height": "7.0"
   },
   {
     "ProductId": "618",
@@ -6795,7 +6795,7 @@
     "ring_size": "10",
     "base_thickness": "1.3",
     "base_width": "1.7",
-    "prongs_height": "6.5"
+    "prongs_height": "6.3"
   },
   {
     "ProductId": "619",
@@ -6827,8 +6827,8 @@
     "diameter": "",
     "ring_size": "11",
     "base_thickness": "1.6",
-    "base_width": "2.2",
-    "prongs_height": "7.0"
+    "base_width": "2.3",
+    "prongs_height": "7.1"
   },
   {
     "ProductId": "622",
@@ -6839,7 +6839,7 @@
     "ring_size": "9",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.3"
   },
   {
     "ProductId": "623",
@@ -6849,8 +6849,8 @@
     "diameter": "",
     "ring_size": "10",
     "base_thickness": "1.3",
-    "base_width": "2.0",
-    "prongs_height": ""
+    "base_width": "1.9",
+    "prongs_height": "7.1"
   },
   {
     "ProductId": "624",
@@ -6914,9 +6914,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "12",
-    "base_thickness": "1.8",
-    "base_width": "2.3",
-    "prongs_height": ""
+    "base_thickness": "1.7",
+    "base_width": "2.2",
+    "prongs_height": "8.4"
   },
   {
     "ProductId": "630",
@@ -6949,7 +6949,7 @@
     "ring_size": "10",
     "base_thickness": "1.4",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.7"
   },
   {
     "ProductId": "633",
@@ -6991,9 +6991,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "10",
-    "base_thickness": "",
-    "base_width": "",
-    "prongs_height": ""
+    "base_thickness": "1.1",
+    "base_width": "1.3",
+    "prongs_height": "5.9"
   },
   {
     "ProductId": "637",
@@ -7002,9 +7002,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
-    "base_thickness": "",
-    "base_width": "",
-    "prongs_height": ""
+    "base_thickness": "1.5",
+    "base_width": "1.7",
+    "prongs_height": "6.5"
   },
   {
     "ProductId": "638",
@@ -7013,9 +7013,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "10",
-    "base_thickness": "",
-    "base_width": "",
-    "prongs_height": ""
+    "base_thickness": "1.1",
+    "base_width": "1.9",
+    "prongs_height": "6.4"
   },
   {
     "ProductId": "639",
@@ -7048,7 +7048,7 @@
     "ring_size": "12",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.3"
   },
   {
     "ProductId": "642",
@@ -7191,7 +7191,7 @@
     "ring_size": "10",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.6"
   },
   {
     "ProductId": "655",
@@ -7222,7 +7222,7 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
-    "base_thickness": "1.3",
+    "base_thickness": "1.4",
     "base_width": "2.0",
     "prongs_height": "6.7"
   },
@@ -7288,8 +7288,8 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "10",
-    "base_thickness": "1.3",
-    "base_width": "1.7",
+    "base_thickness": "1.4",
+    "base_width": "2.2",
     "prongs_height": "5.8"
   },
   {
@@ -7312,7 +7312,7 @@
     "ring_size": "10",
     "base_thickness": "1.7",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.5"
   },
   {
     "ProductId": "666",
@@ -7323,7 +7323,7 @@
     "ring_size": "11",
     "base_thickness": "1.4",
     "base_width": "2.2",
-    "prongs_height": ""
+    "prongs_height": "6.5"
   },
   {
     "ProductId": "667",
@@ -7333,8 +7333,8 @@
     "diameter": "",
     "ring_size": "11",
     "base_thickness": "1.4",
-    "base_width": "2.0",
-    "prongs_height": ""
+    "base_width": "2.1",
+    "prongs_height": "6.7"
   },
   {
     "ProductId": "668",
@@ -7355,7 +7355,7 @@
     "diameter": "",
     "ring_size": "11",
     "base_thickness": "1.3",
-    "base_width": "2.2",
+    "base_width": "2.0",
     "prongs_height": "6.7"
   },
   {
@@ -7422,7 +7422,7 @@
     "ring_size": "10",
     "base_thickness": "1.2",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "5.8"
   },
   {
     "ProductId": "676",
@@ -7477,7 +7477,7 @@
     "ring_size": "10",
     "base_thickness": "1.3",
     "base_width": "2.4",
-    "prongs_height": ""
+    "prongs_height": "6.8"
   },
   {
     "ProductId": "681",
@@ -7618,7 +7618,7 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
-    "base_thickness": "1.3",
+    "base_thickness": "1.5",
     "base_width": "1.8",
     "prongs_height": "7.4"
   },
@@ -7631,7 +7631,7 @@
     "ring_size": "10",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "7.0"
   },
   {
     "ProductId": "695",
@@ -7642,7 +7642,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "6.1"
   },
   {
     "ProductId": "696",
@@ -7651,7 +7651,7 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "12",
-    "base_thickness": "1.3",
+    "base_thickness": "1.4",
     "base_width": "2.0",
     "prongs_height": "7.2"
   },
@@ -7926,9 +7926,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
-    "base_thickness": "1.5",
+    "base_thickness": "1.4",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "6.8"
   },
   {
     "ProductId": "722",
@@ -7938,8 +7938,8 @@
     "diameter": "",
     "ring_size": "11",
     "base_thickness": "1.3",
-    "base_width": "1.7",
-    "prongs_height": ""
+    "base_width": "1.8",
+    "prongs_height": "6.2"
   },
   {
     "ProductId": "723",
@@ -7948,9 +7948,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "11",
-    "base_thickness": "1.48",
+    "base_thickness": "1.4",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.6"
   },
   {
     "ProductId": "724",
@@ -7961,7 +7961,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "6.0"
   },
   {
     "ProductId": "725",
@@ -8005,7 +8005,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "5.8"
   },
   {
     "ProductId": "729",
@@ -8027,7 +8027,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "1.7",
-    "prongs_height": ""
+    "prongs_height": "6.8"
   },
   {
     "ProductId": "731",
@@ -8060,7 +8060,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": "6.8"
+    "prongs_height": "6.9"
   },
   {
     "ProductId": "734",
@@ -8069,9 +8069,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "12",
-    "base_thickness": "1.4",
+    "base_thickness": "1.3",
     "base_width": "2.3",
-    "prongs_height": "8.0"
+    "prongs_height": "7.9"
   },
   {
     "ProductId": "735",
@@ -8126,7 +8126,7 @@
     "ring_size": "12",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "6.6"
   },
   {
     "ProductId": "740",
@@ -8191,8 +8191,8 @@
     "diameter": "",
     "ring_size": "10",
     "base_thickness": "1.3",
-    "base_width": "1.8",
-    "prongs_height": ""
+    "base_width": "1.7",
+    "prongs_height": "8.0"
   },
   {
     "ProductId": "746",
@@ -8213,8 +8213,8 @@
     "diameter": "",
     "ring_size": "10",
     "base_thickness": "1.3",
-    "base_width": "1.7",
-    "prongs_height": ""
+    "base_width": "1.8",
+    "prongs_height": "7.8"
   },
   {
     "ProductId": "748",
@@ -8236,7 +8236,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "6.4"
   },
   {
     "ProductId": "750",
@@ -8302,7 +8302,7 @@
     "ring_size": "12",
     "base_thickness": "1.3",
     "base_width": "1.7",
-    "prongs_height": ""
+    "prongs_height": "5.0"
   },
   {
     "ProductId": "756",
@@ -8357,7 +8357,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "2.5",
-    "prongs_height": ""
+    "prongs_height": "6.8"
   },
   {
     "ProductId": "761",
@@ -8412,7 +8412,7 @@
     "ring_size": "10",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "7.1"
   },
   {
     "ProductId": "766",
@@ -8423,7 +8423,7 @@
     "ring_size": "12",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.1"
   },
   {
     "ProductId": "767",
@@ -8434,7 +8434,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "2.1",
-    "prongs_height": ""
+    "prongs_height": "6.3"
   },
   {
     "ProductId": "768",
@@ -8687,7 +8687,7 @@
     "ring_size": "9",
     "base_thickness": "1.3",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "4.8"
   },
   {
     "ProductId": "791",
@@ -8731,7 +8731,7 @@
     "ring_size": "10",
     "base_thickness": "1.3",
     "base_width": "1.7",
-    "prongs_height": ""
+    "prongs_height": "5.8"
   },
   {
     "ProductId": "795",
@@ -8752,7 +8752,7 @@
     "diameter": "",
     "ring_size": "12",
     "base_thickness": "1.3",
-    "base_width": "2.2",
+    "base_width": "1.8",
     "prongs_height": "7.0"
   },
   {
@@ -8775,7 +8775,7 @@
     "ring_size": "13",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "7.0"
   },
   {
     "ProductId": "799",
@@ -8808,7 +8808,7 @@
     "ring_size": "10",
     "base_thickness": "1.4",
     "base_width": "2.0",
-    "prongs_height": ""
+    "prongs_height": "6.3"
   },
   {
     "ProductId": "802",
@@ -8872,9 +8872,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": "",
     "ring_size": "10",
-    "base_thickness": "",
-    "base_width": "",
-    "prongs_height": ""
+    "base_thickness": "1.2",
+    "base_width": "1.8",
+    "prongs_height": "7.0"
   },
   {
     "ProductId": "808",
@@ -8907,7 +8907,7 @@
     "ring_size": "11",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "6.6"
   },
   {
     "ProductId": "811",
@@ -9006,7 +9006,7 @@
     "ring_size": "13",
     "base_thickness": "1.3",
     "base_width": "1.8",
-    "prongs_height": ""
+    "prongs_height": "6.56"
   },
   {
     "ProductId": "820",
@@ -9796,7 +9796,7 @@
     "category": "Nhẫn cưới nam",
     "diameter": "",
     "ring_size": "15",
-    "base_thickness": "1.5",
+    "base_thickness": "1.6",
     "base_width": "1.7",
     "prongs_height": ""
   },
@@ -10815,7 +10815,7 @@
   {
     "ProductId": "984",
     "design_code": "NCC2066",
-    "name": "",
+    "name": "Star Light",
     "category": "Nhẫn cưới",
     "diameter": "",
     "ring_size": "M.20-F.12",
@@ -10826,7 +10826,7 @@
   {
     "ProductId": "985",
     "design_code": "NCC2070",
-    "name": "",
+    "name": "Our Day",
     "category": "Nhẫn cưới",
     "diameter": "",
     "ring_size": "M.20-F.13",
@@ -10837,7 +10837,7 @@
   {
     "ProductId": "986",
     "design_code": "NCC2080",
-    "name": "",
+    "name": "Petal of Joy ",
     "category": "Nhẫn cưới",
     "diameter": "",
     "ring_size": "M.18-F.12",
@@ -10936,7 +10936,7 @@
   {
     "ProductId": "995",
     "design_code": "NCC3024",
-    "name": "",
+    "name": "Love'Em",
     "category": "Nhẫn cưới",
     "diameter": "",
     "ring_size": "M.15-F.12",
@@ -11453,7 +11453,7 @@
   {
     "ProductId": "1042",
     "design_code": "NCF2066",
-    "name": "",
+    "name": "Star Light",
     "category": "Nhẫn cưới nữ",
     "diameter": "",
     "ring_size": "12",
@@ -11464,7 +11464,7 @@
   {
     "ProductId": "1043",
     "design_code": "NCF2070",
-    "name": "",
+    "name": "Our Day",
     "category": "Nhẫn cưới nữ",
     "diameter": "",
     "ring_size": "13",
@@ -11475,7 +11475,7 @@
   {
     "ProductId": "1044",
     "design_code": "NCF2080",
-    "name": "",
+    "name": "Petal of Joy 4",
     "category": "Nhẫn cưới nữ",
     "diameter": "",
     "ring_size": "12",
@@ -11574,7 +11574,7 @@
   {
     "ProductId": "1053",
     "design_code": "NCF3024",
-    "name": "",
+    "name": "Love'Em",
     "category": "Nhẫn cưới nữ",
     "diameter": "",
     "ring_size": "12",
@@ -13158,7 +13158,7 @@
   {
     "ProductId": "1197",
     "design_code": "NCM2066",
-    "name": "",
+    "name": "Star Light",
     "category": "Nhẫn cưới nam",
     "diameter": "",
     "ring_size": "20",
@@ -13169,7 +13169,7 @@
   {
     "ProductId": "1198",
     "design_code": "NCM2070",
-    "name": "",
+    "name": "Our Day",
     "category": "Nhẫn cưới nam",
     "diameter": "",
     "ring_size": "20",
@@ -13180,7 +13180,7 @@
   {
     "ProductId": "1199",
     "design_code": "NCM2080",
-    "name": "",
+    "name": "Petal of Joy 4",
     "category": "Nhẫn cưới nam",
     "diameter": "",
     "ring_size": "18",
@@ -13279,7 +13279,7 @@
   {
     "ProductId": "1208",
     "design_code": "NCM3024",
-    "name": "",
+    "name": "Love'Em",
     "category": "Nhẫn cưới nam",
     "diameter": "",
     "ring_size": "15",
@@ -16483,7 +16483,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -16494,7 +16494,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "19",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""
@@ -16989,7 +16989,7 @@
     "name": "",
     "category": "Nhẫn cưới",
     "diameter": "",
-    "ring_size": "",
+    "ring_size": "M.19-F.11",
     "base_thickness": "",
     "base_width": "",
     "prongs_height": ""

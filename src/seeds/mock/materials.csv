@@ -315,7 +315,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 314,,   ,   ,   ,   , Plain , Hồng 
 315,,   ,   ,   ,   , Pattern , Trắng 
 316,,   ,   ,   ,   , Pattern , Hồng 
-317,,   ,   ,   ,   , Pattern , Phối màu 
+317,,   ,   ,   ,   , Pattern , Phốimàu 
 318,,   ,   ,   ,   , Plain , Trắng 
 319,,   ,   ,   ,   , Pattern , Trắng 
 320,,   ,   ,   ,   , Plain , Trắng 
@@ -323,8 +323,8 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 322,,   ,   ,   ,   , Pattern , Trắng 
 323,,   ,   ,   ,   , Pattern , Hồng 
 324,,   ,   ,   ,   , Pattern , Trắng-Hồng 
-325,,   ,   ,   ,   , Pattern , Phối màu 
-326,,   ,   ,   ,   , Pattern , Phối màu 
+325,,   ,   ,   ,   , Pattern , Phốimàu 
+326,,   ,   ,   ,   , Pattern , Phốimàu 
 327,,   ,   ,   ,   , Pattern , Trắng-Hồng 
 328,,   ,   ,   ,   , F.Pattern-M.Plain , Trắng-Vàng 
 329,,   ,   ,   ,   , Pattern , Hồng 
@@ -332,12 +332,12 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 331,,   ,   ,   ,   , Pattern , Hồng 
 332,,   ,   ,   ,   , Pattern , Hồng 
 333,,   ,   ,   ,   , Pattern , Hồng 
-334,,   ,   ,   ,   , Plain , Phối màu 
-335,,   ,   ,   ,   , Pattern , Phối màu 
+334,,   ,   ,   ,   , Plain , Phốimàu 
+335,,   ,   ,   ,   , Pattern , Phốimàu 
 336,,   ,   ,   ,   , Pattern , Hồng 
 337,,   ,   ,   ,   , Plain , Hồng 
 338,,   ,   ,   ,   , Pattern , Hồng 
-339,,   ,   ,   ,   , Plain , Phối màu 
+339,,   ,   ,   ,   , Plain , Phốimàu 
 340,,   ,   ,   ,   , Pattern , Hồng 
 341,,   ,   ,   ,   , F.Pattern-M.Plain , Trắng 
 342,,   ,   ,   ,   , Plain , Trắng 
@@ -354,7 +354,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 353,,   ,   ,   ,   , Pattern , Vàng 
 354,,   ,   ,   ,   , Plain , Trắng-Vàng 
 355,,   ,   ,   ,   , Plain , Trắng-Vàng 
-356,,   ,   ,   ,   , Plain , Phối màu 
+356,,   ,   ,   ,   , Plain , Phốimàu 
 357,,   ,   ,   ,   , Pattern , Trắng-Vàng 
 358,,   ,   ,   ,   , Pattern , Trắng-Vàng 
 359,,   ,   ,   ,   , Pattern , Vàng 
@@ -365,7 +365,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 364,,   ,   ,   ,   , Pattern , Trắng-Vàng 
 365,,   ,   ,   ,   , Plain , Trắng-Hồng 
 366,,   ,   ,   ,   , Pattern , Hồng 
-367,,   ,   ,   ,   , Plain , Phối màu 
+367,,   ,   ,   ,   , Plain , Phốimàu 
 368,,   ,   ,   ,   , Plain , Trắng 
 369,,   ,   ,   ,   , Plain , Vàng 
 370,,   ,   ,   ,   , Plain , Trắng-Hồng 
@@ -375,18 +375,18 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 374,,   ,   ,   ,   , Plain , Trắng-Hồng 
 375,,   ,   ,   ,   , Plain , Trắng 
 376,,   ,   ,   ,   , Plain , Trắng 
-377,,   ,   ,   ,   , Plain , Phối màu 
+377,,   ,   ,   ,   , Plain , Phốimàu 
 378,,   ,   ,   ,   , Plain , Trắng 
 379,,   ,   ,   ,   , Plain , Trắng 
 380,,   ,   ,   ,   , Plain , Trắng 
 381,,   ,   ,   ,   , Plain , Trắng 
-382,,   ,   ,   ,   , Plain , Phối màu 
+382,,   ,   ,   ,   , Plain , Phốimàu 
 383,,   ,   ,   ,   , Pattern , Trắng-Vàng-Hồng 
 384,,   ,   ,   ,   , Pattern , Trắng-Vàng 
 385,,   ,   ,   ,   , Pattern , Hồng 
 386,,   ,   ,   ,   , Pattern , Trắng 
 387,,   ,   ,   ,   , Pattern , Hồng 
-388,,   ,   ,   ,   , Pattern , Phối màu 
+388,,   ,   ,   ,   , Pattern , Phốimàu 
 389,,   ,   ,   ,   , Pattern , Trắng-Vàng 
 390,,   ,   ,   ,   , Pattern , Trắng 
 391,,   ,   ,   ,   , Pattern , Trắng-Vàng 
@@ -395,7 +395,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 394,,   ,   ,   ,   , Plain , Hồng 
 395,,   ,   ,   ,   , Pattern , Trắng-Hồng 
 396,,   ,   ,   ,   , Pattern , Trắng 
-397,,   ,   ,   ,   , Plain , Phối màu 
+397,,   ,   ,   ,   , Plain , Phốimàu 
 398,,   ,   ,   ,   , Pattern , Trắng 
 399,,   ,   ,   ,   , Pattern , Trắng-Hồng 
 400,,   ,   ,   ,   , Pattern , Trắng-Hồng 
@@ -410,8 +410,8 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 409,,   ,   ,   ,   , Plain , Trắng-Hồng 
 410,,   ,   ,   ,   , Plain , Vàng 
 411,,   ,   ,   ,   , Pattern , Trắng-Vàng 
-412,,   ,   ,   ,   , Plain , Phối màu 
-413,,   ,   ,   ,   , Plain , Phối màu 
+412,,   ,   ,   ,   , Plain , Phốimàu 
+413,,   ,   ,   ,   , Plain , Phốimàu 
 414,,   ,   ,   ,   , Plain , Trắng-Hồng 
 415,,   ,   ,   ,   , Pattern , Vàng 
 416,,   ,   ,   ,   , Plain , Trắng 
@@ -421,7 +421,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 420,,   ,   ,   ,   , Pattern , Hồng 
 421,,   ,   ,   ,   , F.Pattern-M.Plain , Hồng 
 422,,   ,   ,   ,   , Plain , Trắng 
-423,,   ,   ,   ,   , Pattern , Phối màu 
+423,,   ,   ,   ,   , Pattern , Phốimàu 
 424,,   ,   ,   ,   , Pattern , Hồng 
 425,,   ,   ,   ,   , Plain , Hồng 
 426,,   ,   ,   ,   , Plain , Hồng 
@@ -594,11 +594,11 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 593,,   , 4.98 , 4.64 ,   , Pattern , Trắng-Vàng 
 594,Round, 5.4 , 3.99 , 3.33 ,   , Plain , Trắng 
 595,Round, 4.5 , 2.63 , 2.20 ,   , Pattern , Trắng 
-596,Round, 5.4 , 3.36 , 3.08 , 4.43 , Plain , Trắng 
-597,Round, 6.3 , 3.74 , 3.43 , 4.93 , Pattern , Trắng-Hồng 
+596,Round, 5.4 , 2.60 , 2.17 , 3.43 , Plain , Trắng 
+597,Round, 6.3 , 2.56 , 2.14 , 3.38 , Pattern , Trắng-Hồng 
 598,Round, 5.4 , 2.78 , 2.33 , -   , Plain , Trắng-Hồng 
-599,Round, 5.4 , 3.25 , 2.98 , 4.29 , Plain , Trắng 
-600,Round, 5.4 , 2.93 , 2.69 , 3.87 , Plain , Trắng 
+599,Round, 5.4 , 2.57 , 2.15 , 3.39 , Plain , Trắng 
+600,Round, 5.4 , 2.27 , 1.89 , 3.00 , Plain , Trắng 
 601,Round, 6.4 , 3.06 , 2.56 ,   , Plain , Trắng 
 602,Round, 5.0 , 3.28 , 2.74 ,   , Pattern , Trắng 
 603,Round, 5.4 , 4.10 , 3.00 ,   , Pattern , Hồng 
@@ -607,45 +607,45 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 606,Round, 5.4 , 3.36 , 3.14 ,   , Pattern , Vàng 
 607,Round, 5.4 , 3.23 , 3.01 , 4.11 , Pattern , Trắng 
 608,Round, 5.4 , 2.34 , 1.96 , 3.09 , Plain , Trắng 
-609,Round, 5.0 , 2.23 , 1.86 ,, Plain , Trắng-Hồng 
+609,Round, 5.0 , 1.96 , 1.64 ,, Plain , Trắng-Hồng 
 610,Round, 5.4 , 1.71 , 1.43 , - , Plain , Trắng-Hồng 
-611,Round, 5.4 , 2.18 , 1.82 ,, Pattern , Trắng-Hồng 
+611,Round, 5.4 , 2.09 , 1.74 ,, Pattern , Trắng-Hồng 
 612,Round, 5.4 , 2.03 , 1.70 , - , Pattern , Trắng-Vàng 
 613,Round, 5.4 , 3.14 , 2.93 ,   , Plain , Trắng 
 614,Round, 5.4 , 3.00 , 2.80 ,   , Plain , Trắng 
 615,Round, 5.4 , 2.74 , 2.51 , 3.61 , Plain , Trắng 
-616,Round, 5.4 , 2.74 , 2.51 , 3.61 , Plain , Trắng 
-617,Round, 5.4 , 3.48 , 3.19 , 4.59 , Plain , Trắng 
-618,Round, 5.4 , 1.87 , 1.56 , 2.47 , Plain , Trắng 
+616,Round, 5.4 , 2.12 , 1.77 , 2.80 , Plain , Trắng 
+617,Round, 5.4 , 2.45 , 2.05 , 3.23 , Plain , Trắng 
+618,Round, 4.5 , 1.87 , 1.56 , 2.47 , Plain , Trắng 
 619,Round, 5.4 , 2.27 , 1.90 , 3.00 , Plain , Trắng 
-620,Round, 5.4 , 3.31 , 3.04 , 4.37 , Plain , Trắng 
-621,Round, 5.4 , 3.18 , 2.92 , 4.20 , Plain , Trắng 
-622,Round, 6.3 , 2.74 , 2.51 ,   , Plain , Trắng 
-623,Round, 5.4 , 2.43 , 2.23 , 3.12 , Pattern , Trắng 
+620,Round, 5.4 , 2.49 , 2.08 , 3.29 , Plain , Trắng 
+621,Round, 5.4 , 2.51 , 2.10 , 3.31 , Plain , Trắng 
+622,Round, 6.3 , 2.44 , 2.04 , 3.22 , Plain , Trắng 
+623,Round, 5.4 , 1.94 , 1.62 , 2.56 , Pattern , Trắng 
 624,Round, 5.4 , 2.93 , 2.69 , 3.87 , Plain , Trắng 
 625,Round, 4.5 , 2.12 , 1.77 , 2.80 , Plain , Trắng 
 626,Round, 5.4 , 3.66 , 3.36 ,   , Plain , Trắng 
 627,Round, 5.4 , 3.92 , 3.65 ,   , Plain , Trắng 
 628,Round, 7.2 , 3.54 , 3.25 ,   , Plain , Trắng 
-629,Round, 7.2 , 6.78 , 6.32 ,   , Plain , Trắng-Hồng 
-630,Round, 5.4 , 3.10 , 2.85 , 4.09 , Plain , Trắng 
+629,Round, 7.2 , 3.71 , 3.10 , 4.90 , Plain , Trắng-Hồng 
+630,Round, 5.4 , 2.12 , 1.78 , 2.80 , Plain , Trắng 
 631,Round, 5.4 , 3.79 , 3.53 ,   , Plain , Trắng 
 632,Round, 5.4 , 2.25 , 1.88 , 2.97 , Plain , Vàng 
 633,Round, 5.4 , 5.30 , 4.87 ,   , Pattern , Trắng-Vàng 
 634,Round, 5.4 , 3.58 , 3.29 ,   , Pattern , Trắng-Hồng 
 635,Round, 5.4 , 3.16 , 2.90 , 4.17 , Plain , Trắng-Hồng 
-636,Round, 5.4 , 1.76 , 1.64 ,, Plain , Trắng 
-637,Round, 5.4 , 1.78 , 1.49 , - , Pattern , Trắng-Hồng 
-638,Round, 5.4 , 1.80 , 1.50 , - , Plain , Trắng-Hồng 
+636,Round, 5.4 , 1.64 , 1.37 , -   , Plain , Trắng 
+637,Round, 5.4 , 1.78 , 1.49 , -   , Pattern , Trắng-Hồng 
+638,Round, 5.4 , 1.80 , 1.50 , -   , Plain , Trắng-Hồng 
 639,Round, 5.4 , 3.02 , 2.77 , 3.99 , Plain , Trắng 
 640,Round, 5.4 , 3.15 , 2.89 , 4.16 , Plain , Trắng 
-641,Round, 5.4 , 3.35 , 3.08 , 4.43 , Plain , Trắng 
+641,Round, 5.4 , 2.86 , 2.39 , 3.78 , Plain , Trắng 
 642,Round, 6.3 , 2.37 , 2.18 ,   , Plain , Trắng 
 643,Round, 5.4 , 3.04 , 2.79 ,   , Plain , Trắng 
 644,Round, 5.4 , 3.04 , 2.79 ,   , Plain , Trắng 
-645,Round, 5.4 , 3.12 , 2.86 , 4.12 , Plain , Trắng 
+645,Round, 5.4 , 2.30 , 1.92 , 3.04 , Plain , Trắng 
 646,Round, 5.4 , 6.16 , 5.68 ,   , Plain , Trắng 
-647,Round, 5.4 , 3.57 , 3.28 , 4.72 , Plain , Trắng 
+647,Round, 5.4 , 2.72 , 2.27 , 3.59 , Plain , Trắng 
 648,Round, 5.4 , 4.38 , 4.08 ,   , Plain , Trắng 
 649,Round, 5.4 , 3.11 , 2.60 ,   , Pattern , Trắng 
 650,Round, 5.4 , 3.55 , 3.31 ,   , Plain , Trắng 
@@ -653,27 +653,27 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 652,Round, 5.4 , 3.68 , 3.38 , 4.85 , Plain , Trắng 
 653,Princess, 5.0 , 4.10 , 3.43 ,   , Pattern , Trắng 
 654,Round, 5.4 , 2.10 , 1.75 , 2.77 , Plain , Trắng 
-655,Round, 5.4 , 2.57 , 2.36 , 3.40 , Plain , Trắng 
+655,Round, 5.4 , 2.11 , 1.76 , 2.79 , Plain , Trắng 
 656,Round, 6.3 , 2.95 , 2.71 , 3.90 , Plain , Trắng 
-657,Round, 5.4 , 2.66 , 2.48 ,   , Pattern , Trắng 
-658,Round, 5.4 , 3.84 , 3.53 , 5.07 , Plain , Trắng 
+657,Round, 5.4 , 2.37 , 1.98 , 3.13 , Pattern , Trắng 
+658,Round, 5.4 , 2.58 , 2.16 , 3.41 , Plain , Trắng 
 659,Round, 6.3 , 3.58 , 3.29 , 4.73 , Plain , Trắng 
 660,Round, 5.4 , 3.05 , 2.55 ,   , Plain , Trắng 
 661,Round, 5.4 , 2.86 , 2.39 ,   , Plain , Trắng 
 662,Round, 5.4 , 2.28 , 2.10 ,   , Plain , Trắng 
 663,Round, 5.4 , 2.14 , 1.79 , 2.82 , Plain , Trắng 
 664,Round, 5.4 , 2.59 , 2.41 ,   , Pattern , Trắng 
-665,Round, 5.4 , 2.59 , 2.42 ,   , Plain , Trắng 
-666,Round, 5.4 , 2.29 , 2.13 ,   , Plain , Trắng-Hồng 
-667,Round, 5.4 , 2.61 , 2.39 , 3.44 , Pattern , Trắng-Hồng 
+665,Round, 5.4 , 2.53 , 2.12 , 3.34 , Plain , Trắng 
+666,Round, 5.4 , 2.19 , 1.83 , 2.89 , Plain , Trắng-Hồng 
+667,Round, 5.4 , 2.16 , 1.80 , 2.85 , Pattern , Trắng-Hồng 
 668,Round, 4.5 , 2.91 , 2.67 , 3.84 , Plain , Trắng 
-669,Round, 5.4 , 2.91 , 2.72 ,   , Pattern , Trắng 
+669,Round, 5.4 , 2.32 , 1.94 , 3.06 , Pattern , Trắng 
 670,Round, 5.4 , 2.60 , 2.39 , 3.43 , Plain , Trắng 
 671,Round, 5.4 , 3.38 , 3.11 ,   , Pattern , Trắng 
 672,Round, 5.0 , 3.41 , 3.18 , 4.58 , Plain , Trắng 
 673,Round, 5.4 , 3.66 , 3.36 ,   , Pattern , Trắng 
 674,Round, 5.4 , 5.10 , 4.68 ,   , Plain , Trắng 
-675,Round, 4.5 , 2.66 , 2.44 ,   , Pattern , Trắng 
+675,Round, 4.5 , 2.17 , 1.82 , 2.86 , Pattern , Trắng 
 676,Round, 5.4 , 3.50 , 3.27 ,   , Plain , Trắng 
 677,Round, 5.4 , 4.99 , 4.66 ,   , Plain , Trắng 
 678,Round, 5.4 , 3.28 , 3.01 , 4.32 , Plain , Trắng 
@@ -692,7 +692,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 691,Round, 5.4 , 5.47 , 5.02 , 7.22 , Plain , Trắng-Hồng 
 692,Round, 5.4 , 3.54 , 3.30 ,   , Pattern , Trắng 
 693,Round, 5.4 , 2.87 , 2.40 , 3.79 , Pattern , Hồng 
-694,Round, 5.4 , 2.82 , 2.59 , 3.72 , Pattern , Trắng 
+694,Round, 5.4 , 2.28 , 1.90 , 3.01 , Pattern , Trắng 
 695,Round, 5.4 , 2.11 , 1.76 , 2.79 , Pattern , Trắng 
 696,Round, 5.4 , 2.65 , 2.21 , 3.50 , Plain , Trắng 
 697,Round, 5.4 , 3.10 , 2.84 ,   , Plain , Trắng 
@@ -719,53 +719,53 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 718,Round, 5.0 , 2.37 , 2.17 , 3.12 , Plain , Trắng 
 719,Round, 5.4 , 3.85 , 3.54 , 5.09 , Plain , Trắng-Hồng 
 720,Round, 5.4 , 3.01 , 2.76 ,   , Pattern , Trắng-Vàng 
-721,Round, 5.4 , 2.18 , 2.00 ,   , Pattern , Trắng 
+721,Round, 5.4 , 1.82 , 1.52 , -   , Pattern , Trắng 
 722,Round, 5.4 , 2.09 , 1.75 , 2.76 , Plain , Trắng 
-723,Round, 5.4 , 2.52 , 2.32 ,   , Pattern , Trắng-Vàng 
+723,Round, 5.4 , 2.20 , 1.84 , -   , Pattern , Trắng-Vàng 
 724,Round, 5.4 , 1.88 , 1.57 , -   , Plain , Trắng 
 725,Round, 5.4 , 3.16 , 2.90 ,   , Pattern , Trắng-Vàng 
 726,Round, 5.4 , 2.85 , 2.61 , 3.77 , Pattern , Trắng 
 727,Round, 5.4 , 2.96 , 2.72 , 3.96 , Pattern , Trắng-Hồng 
-728,Round, 4.5 , 2.91 , 2.67 , 3.84 , Plain , Trắng 
+728,Round, 4.5 , 2.18 , 1.83 , 2.88 , Plain , Trắng 
 729,Round, 4.5 , 3.05 , 2.80 ,   , Plain , Trắng 
-730,Round, 4.5 , 3.03 , 2.78 , 4.00 , Plain , Trắng 
+730,Round, 4.5 , 2.30 , 1.92 , 3.04 , Plain , Trắng 
 731,Round, 5.4 , 3.59 , 3.30 ,   , Plain , Trắng 
 732,Round, 5.4 , 3.09 , 2.83 ,   , Plain , Trắng 
 733,Round, 5.0 , 2.58 , 2.16 , 3.41 , Plain , Trắng 
 734,Round, 5.4 , 2.92 , 2.44 , 3.85 , Plain , Trắng 
 735,Round, 6.3 , 3.55 , 3.31 , 4.76 , Plain , Trắng 
 736,Round, 5.4 , 3.61 , 3.37 ,   , Plain , Trắng 
-737,Round, 4.5 , 2.92 , 2.68 , 3.85 , Plain , Trắng 
+737,Round, 4.5 , 2.58 , 2.16 , 3.41 , Plain , Trắng 
 738,Round, 5.4 , 3.54 , 3.30 ,   , Pattern , Trắng 
-739,Round, 5.4 , 3.24 , 2.97 , 4.28 , Plain , Trắng 
+739,Round, 5.4 , 2.47 , 2.07 , 3.26 , Plain , Trắng 
 740,Round, 5.4 , 3.67 , 3.37 ,   , Plain , Trắng 
 741,Round, 5.4 , 3.02 , 2.81 ,   , Plain , Trắng 
 742,Round, 4.5 , 2.51 , 2.31 ,   , Plain , Trắng 
 743,Round, 5.4 , 2.91 , 2.86 ,   , Plain , Trắng 
 744,Round, 5.4 , 3.10 , 2.85 ,   , Plain , Trắng 
-745,Round, 5.4 , 3.41 , 2.84 , 4.50 , Plain , Trắng 
+745,Round, 5.4 , 2.77 , 2.31 , 3.66 , Plain , Trắng 
 746,Round, 5.4 , 3.67 , 3.37 ,   , Pattern , Trắng 
 747,Round, 5.4 , 2.87 , 2.40 , 3.79 , Plain , Trắng 
 748,Round, 5.4 , 1.98 , 1.85 ,   , Plain , Trắng 
-749,Round, 5.4 , 2.37 , 2.18 ,   , Plain , Trắng 
+749,Round, 5.4 , 2.37 , 1.98 , 3.13 , Plain , Trắng 
 750,Round, 5.0 , 2.86 , 2.30 , 3.77 , Plain , Trắng 
 751,Round, 5.4 , 4.07 , 3.80 ,   , Plain , Trắng 
 752,Round, 5.0 , 2.42 , 2.22 ,   , Plain , Trắng-Hồng 
 753,Round, 6.4 , 5.02 , 4.68 ,   , Plain , Trắng 
 754,Round, 5.4 , 3.78 , 3.47 , 4.99 , Plain , Trắng 
-755,Round, 5.4 , 2.95 , 2.37 , 3.90 , Plain , Trắng 
+755,Round, 5.4 , 2.55 , 2.13 , 3.37 , Plain , Trắng 
 756,Round, 5.4 , 3.38 , 3.15 ,   , Plain , Trắng 
 757,Round, 4.5 , 3.40 , 3.17 ,   , Plain , Trắng 
 758,Round, 4.5 , 2.79 , 2.56 ,   , Plain , Trắng 
 759,Round, 5.4 , 2.78 , 2.59 ,   , Plain , Trắng 
-760,Round, 5.4 , 3.87 , 3.55 , 5.10 , Plain , Trắng 
+760,Round, 5.4 , 2.90 , 2.42 , 3.83 , Plain , Trắng 
 761,Round, 5.4 , 3.59 , 3.35 ,   , Plain , Trắng 
 762,Round, 5.4 , 4.23 , 3.95 ,   , Plain , Trắng 
 763,Round, 5.4 , 3.02 , 2.82 ,   , Plain , Trắng 
 764,Round, 5.0 , 4.26 , 3.91 , 5.63 , Plain , Trắng 
-765,Round, 5.4 , 3.54 , 3.30 ,   , Plain , Trắng 
-766,Round, 5.4 , 3.64 , 3.35 , 4.81 , Plain , Trắng 
-767,Round, 5.4 , 2.48 , 2.31 ,   , Plain , Trắng 
+765,Round, 5.4 , 2.98 , 2.49 , 3.93 , Plain , Trắng 
+766,Round, 5.4 , 2.76 , 2.31 , 3.64 , Plain , Trắng 
+767,Round, 5.4 , 2.00 , 1.67 , 2.64 , Plain , Trắng 
 768,Round, 5.4 , 2.80 , 2.57 ,   , Pattern , Trắng 
 769,Round, 5.4 , 2.94 , 2.74 ,   , Pattern , Vàng 
 770,Round, 5.4 , 2.53 , 2.36 ,   , Pattern , Trắng 
@@ -788,27 +788,27 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 787,Princess, 5.0 , 2.48 , 2.32 ,   , Plain , Trắng 
 788,Princess, 5.4 , 2.83 , 2.59 , 3.73 , Plain , Hồng 
 789,Princess, 5.0 , 2.47 , 2.07 ,, Plain , Trắng 
-790,Emerald, 7.0*5.0 , 3.12 , 2.86 , 4.11 , Plain , Trắng 
+790,Emerald, 7.0*5.0 , 2.42 , 2.03 , 3.19 , Plain , Trắng 
 791,Emerald, 6.0*4.0 , 3.03 , 2.82 ,   , Plain , Trắng 
 792,Emerald, 12.4*8.4 , 4.18 , 3.90 ,   , Plain , Trắng 
 793,Emerald, 9.0*7.0 , 3.27 , 3.05 ,   , Plain , Trắng 
-794,Pear, 6.0*6.0 , 2.93 , 2.69 , 3.86 , Plain , Trắng 
+794,Pear, 6.0*4.0 , 2.41 , 2.01 , 3.18 , Plain , Trắng 
 795,Heart, 6.0 , 2.99 , 2.74 , 3.94 , Plain , Trắng 
-796,Heart, 5.4*6.6 , 3.78 , 3.47 , 4.99 , Plain , Trắng 
+796,Heart, 5.4*6.6 , 3.08 , 2.58 , 4.07 , Plain , Trắng 
 797,Heart, 5.4*4.8 , 2.72 , 2.54 ,   , Plain , Trắng 
-798,Heart, 5.0*6.4 , 2.49 , 2.32 ,   , Plain , Trắng 
+798,Heart, 5.0*6.4 , 2.33 , 1.95 , 3.08 , Plain , Trắng 
 799,Heart, 6.3 , 1.92 , 1.79 ,   , Plain , Trắng 
 800,Heart, 6.5*6.96 , 3.50 , 3.26 ,   , Plain , Trắng 
-801,Heart, 5.5 , 3.42 , 2.86 ,   , Plain , Hồng 
-802,Heart, 5.5 , 3.09 , 2.84 , 4.08 , Plain , Trắng 
+801,Heart, 6.0*6.0 , 3.26 , 2.73 , 4.30 , Plain , Hồng 
+802,Heart, 5.5*5.5 , 3.09 , 2.84 , 4.08 , Plain , Trắng 
 803,Heart, 5.4*5.8 , 4.49 , 4.18 ,   , Plain , Hồng 
 804,Heart, 5.4 , 2.23 , 2.08 ,   , Plain , Trắng 
 805,Heart, 5.5 , 3.03 , 2.82 , 4.06 , Pattern , Trắng-Hồng 
 806,Heart, 5.0 , 2.12 , 1.77 ,, Pattern , Trắng-Hồng 
-807,Heart, 5.0 , 2.42 , 2.02 ,, Plain , Trắng 
+807,Heart, 5.0 , 2.02 , 1.69 , -   , Plain , Trắng 
 808,Heart, 5.0 , 2.52 , 2.10 ,, Plain , Trắng 
 809,Heart, 5.0 , 2.00 , 1.84 ,, Plain , Trắng 
-810,Oval, 8.0*6.0 , 2.31 , 2.15 ,   , Plain , Trắng 
+810,Oval, 8.0*6.0 , 2.70 , 2.25 , 3.56 , Plain , Trắng 
 811,Round, 5.4 , 3.78 , 3.52 ,   , Plain , Trắng 
 812,Round, 5.4 , 3.41 , 3.18 ,   , Pattern , Trắng 
 813,Round, 5.4 , 3.47 , 3.24 ,   , Plain , Trắng 
@@ -817,7 +817,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 816,Round, 5.4 , 5.06 , 4.65 ,   , Pattern , Trắng 
 817,Round, 5.4 , 4.65 , 4.34 ,   , Plain , Hồng 
 818,Round, 6.3 , 4.46 , 4.15 ,   , Plain , Hồng 
-819,Round, 5.4 , 3.98 , 3.66 , 5.26 , Plain , Trắng 
+819,Round, 5.4 , 2.47 , 2.06 , 3.26 , Plain , Trắng 
 820,,   , 5.88 , 5.40 , 7.76 , Plain , Trắng 
 821,,   , 5.58 , 5.47 , 4.72 , Pattern , Trắng 
 822,,   , 5.34 , 4.90 , 7.05 , Plain , Trắng 
@@ -951,15 +951,15 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 950,,   ,   ,   ,   ,   , Trắng 
 951,,   ,   ,   ,   ,   , Hồng 
 952,,   ,   ,   ,   ,   , Trắng 
-953,,   ,   ,   ,   ,   , Phối màu 
-954,,   ,   ,   ,   ,   , Phối màu 
+953,,   ,   ,   ,   ,   , Phốimàu 
+954,,   ,   ,   ,   ,   , Phốimàu 
 955,,   ,   ,   ,   ,   , Trắng 
 956,,   ,   ,   ,   ,   , Trắng 
 957,,   ,   ,   ,   ,   , Hồng 
 958,,   ,   ,   ,   ,   , Hồng 
 959,,   ,   ,   ,   ,   , Trắng 
 960,,   ,   ,   ,   ,   , Trắng 
-961,,   ,   ,   ,   ,   , Phối màu 
+961,,   ,   ,   ,   ,   , Phốimàu 
 962,,   ,   ,   ,   ,   , Hồng 
 963,,   ,   ,   ,   ,   , Trắng 
 964,,   ,   ,   ,   ,   , Trắng 
@@ -968,11 +968,11 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 967,,   ,   ,   ,   ,   , Hồng 
 968,,   ,   ,   ,   ,   , Trắng 
 969,,   ,   ,   ,   ,   , Trắng 
-970,,   ,   ,   ,   ,   , Phối màu 
+970,,   ,   ,   ,   ,   , Phốimàu 
 971,,   ,   ,   ,   ,   , Hồng 
-972,,   ,   ,   ,   ,   , Phối màu 
+972,,   ,   ,   ,   ,   , Phốimàu 
 973,,   ,   ,   ,   ,   , Hồng 
-974,,   ,   ,   ,   ,   , Phối màu 
+974,,   ,   ,   ,   ,   , Phốimàu 
 975,,   ,   ,   ,   ,   , Trắng 
 976,,   ,   ,   ,   ,   , Hồng 
 977,,   ,   ,   ,   ,   , Trắng 
@@ -982,11 +982,11 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 981,,   ,   ,   ,   ,   , Trắng-Hồng 
 982,,   ,   ,   ,   ,   , Trắng 
 983,,   ,   ,   ,   ,   , Trắng 
-984,,   ,   ,   ,   ,   , Phối màu 
+984,,   ,   ,   ,   ,   , Phốimàu 
 985,,   ,   ,   ,   ,   , Hồng 
 986,,   ,   ,   ,   ,   , Trắng 
 987,,   ,   ,   ,   ,   , Trắng 
-988,,   ,   ,   ,   ,   , Phối màu 
+988,,   ,   ,   ,   ,   , Phốimàu 
 989,,   ,   ,   ,   ,   , Vàng 
 990,,   ,   ,   ,   ,   , Trắng 
 991,,   ,   ,   ,   ,   , Trắng 
@@ -997,7 +997,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 996,,   ,   ,   ,   ,   , Trắng 
 997,,   ,   ,   ,   ,   , Hồng 
 998,,   ,   ,   ,   ,   , Vàng 
-999,,   ,   ,   ,   ,   , Phối màu 
+999,,   ,   ,   ,   ,   , Phốimàu 
 1000,,   , 2.45 , 2.25 , 3.23 , Plain , Hồng 
 1001,,   , 2.27 , 2.08 , 2.99 , Pattern , -   
 1002,,   , 3.28 , 3.01 , 4.32 , Pattern , Trắng 
@@ -1527,8 +1527,8 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 1526,,, 3.25 , 2.72 , 4.36 , Pattern , Vàng 
 1527,,, 2.05 , 1.71 , 2.75 , Pattern , Trắng 
 1528,,, 2.72 , 2.27 , 3.64 , Pattern , Trắng 
-1529,,, 2.25 , 1.88 , 3.01 , Plain , -   
-1530,,, 2.69 , 2.25 , 3.61 , Plain , -   
+1529,,, 2.25 , 1.88 , 3.01 , Plain , Trắng 
+1530,,, 2.69 , 2.25 , 3.61 , Plain , Trắng 
 1531,,, 2.13 , 1.78 , 2.86 , Pattern , Vàng 
 1532,,, 2.73 , 2.28 , 3.66 , Pattern , Vàng 
 1533,,, 2.89 , 2.41 , 3.87 , Pattern , Trắng 
@@ -1555,7 +1555,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 1554,,,,,,, Trắng 
 1555,,,,,,, Vàng 
 1556,,,,,,, Trắng 
-1557,,,,,,, -   
+1557,,,,,,, Trắng 
 1558,,,,,,, Vàng 
 1559,,,,,,, Trắng 
 1560,,,,,,, Vàng 
