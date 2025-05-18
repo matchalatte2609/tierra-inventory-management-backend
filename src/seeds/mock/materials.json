@@ -3167,7 +3167,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Pattern ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "318",
@@ -3247,7 +3247,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Pattern ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "326",
@@ -3257,7 +3257,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Pattern ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "327",
@@ -3337,7 +3337,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Plain ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "335",
@@ -3347,7 +3347,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Pattern ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "336",
@@ -3387,7 +3387,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Plain ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "340",
@@ -3557,7 +3557,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Plain ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "357",
@@ -3667,7 +3667,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Plain ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "368",
@@ -3767,7 +3767,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Plain ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "378",
@@ -3817,7 +3817,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Plain ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "383",
@@ -3877,7 +3877,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Pattern ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "389",
@@ -3967,7 +3967,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Plain ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "398",
@@ -4117,7 +4117,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Plain ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "413",
@@ -4127,7 +4127,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Plain ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "414",
@@ -4227,7 +4227,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Pattern ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "424",
@@ -6033,9 +6033,9 @@
     "ProductId": "604",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 2.56 ",
-    "gold_14k_weight": " 2.28 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.28 ",
+    "gold_14k_weight": " 1.91 ",
+    "plat_900_weight": " 3.01 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Hồng "
   },
@@ -6063,9 +6063,9 @@
     "ProductId": "607",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.23 ",
-    "gold_14k_weight": " 3.01 ",
-    "plat_900_weight": " 4.11 ",
+    "gold_18k_weight": " 2.57 ",
+    "gold_14k_weight": " 2.15 ",
+    "plat_900_weight": " 3.39 ",
     "surface_plain_pattern": " Pattern ",
     "catalogue_color": " Trắng "
   },
@@ -6273,9 +6273,9 @@
     "ProductId": "628",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 7.2 ",
-    "gold_18k_weight": " 3.54 ",
-    "gold_14k_weight": " 3.25 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 3.51 ",
+    "gold_14k_weight": " 2.93 ",
+    "plat_900_weight": " 4.63 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -6343,9 +6343,9 @@
     "ProductId": "635",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.16 ",
-    "gold_14k_weight": " 2.90 ",
-    "plat_900_weight": " 4.17 ",
+    "gold_18k_weight": " 2.41 ",
+    "gold_14k_weight": " 2.01 ",
+    "plat_900_weight": " 3.18 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng-Hồng "
   },
@@ -6423,9 +6423,9 @@
     "ProductId": "643",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.04 ",
-    "gold_14k_weight": " 2.79 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.45 ",
+    "gold_14k_weight": " 2.05 ",
+    "plat_900_weight": " 3.23 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -6513,9 +6513,9 @@
     "ProductId": "652",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.68 ",
-    "gold_14k_weight": " 3.38 ",
-    "plat_900_weight": " 4.85 ",
+    "gold_18k_weight": " 2.94 ",
+    "gold_14k_weight": " 2.46 ",
+    "plat_900_weight": " 3.88 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -6593,9 +6593,9 @@
     "ProductId": "660",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.05 ",
-    "gold_14k_weight": " 2.55 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.59 ",
+    "gold_14k_weight": " 2.16 ",
+    "plat_900_weight": " 3.42 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -6713,9 +6713,9 @@
     "ProductId": "672",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.0 ",
-    "gold_18k_weight": " 3.41 ",
-    "gold_14k_weight": " 3.18 ",
-    "plat_900_weight": " 4.58 ",
+    "gold_18k_weight": " 2.66 ",
+    "gold_14k_weight": " 2.22 ",
+    "plat_900_weight": " 3.51 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -6733,9 +6733,9 @@
     "ProductId": "674",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 5.10 ",
-    "gold_14k_weight": " 4.68 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 3.15 ",
+    "gold_14k_weight": " 2.64 ",
+    "plat_900_weight": " 4.16 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -6753,9 +6753,9 @@
     "ProductId": "676",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.50 ",
-    "gold_14k_weight": " 3.27 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.64 ",
+    "gold_14k_weight": " 2.21 ",
+    "plat_900_weight": " 3.48 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -6773,9 +6773,9 @@
     "ProductId": "678",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.28 ",
-    "gold_14k_weight": " 3.01 ",
-    "plat_900_weight": " 4.32 ",
+    "gold_18k_weight": " 2.48 ",
+    "gold_14k_weight": " 2.07 ",
+    "plat_900_weight": " 3.27 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -6783,9 +6783,9 @@
     "ProductId": "679",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 2.97 ",
-    "gold_14k_weight": " 2.77 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.59 ",
+    "gold_14k_weight": " 2.17 ",
+    "plat_900_weight": " 3.42 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -6833,9 +6833,9 @@
     "ProductId": "684",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 2.79 ",
-    "gold_14k_weight": " 2.56 ",
-    "plat_900_weight": " 3.68 ",
+    "gold_18k_weight": " 2.35 ",
+    "gold_14k_weight": " 1.97 ",
+    "plat_900_weight": " 3.10 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -6893,8 +6893,8 @@
     "ProductId": "690",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.25 ",
-    "gold_14k_weight": " 2.98 ",
+    "gold_18k_weight": " 2.56 ",
+    "gold_14k_weight": " 2.14 ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
@@ -6903,9 +6903,9 @@
     "ProductId": "691",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 5.47 ",
-    "gold_14k_weight": " 5.02 ",
-    "plat_900_weight": " 7.22 ",
+    "gold_18k_weight": " 4.11 ",
+    "gold_14k_weight": " 3.43 ",
+    "plat_900_weight": " 5.43 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng-Hồng "
   },
@@ -7003,9 +7003,9 @@
     "ProductId": "701",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 4.96 ",
-    "gold_14k_weight": " 4.56 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 3.48 ",
+    "gold_14k_weight": " 2.91 ",
+    "plat_900_weight": " 4.59 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -7043,9 +7043,9 @@
     "ProductId": "705",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.80 ",
-    "gold_14k_weight": " 3.17 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 3.02 ",
+    "gold_14k_weight": " 2.52 ",
+    "plat_900_weight": " 3.99 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -7163,9 +7163,9 @@
     "ProductId": "717",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.05 ",
-    "gold_14k_weight": " 2.85 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.63 ",
+    "gold_14k_weight": " 2.20 ",
+    "plat_900_weight": " 3.47 ",
     "surface_plain_pattern": " Pattern ",
     "catalogue_color": " Trắng "
   },
@@ -7373,9 +7373,9 @@
     "ProductId": "738",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.54 ",
-    "gold_14k_weight": " 3.30 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 3.12 ",
+    "gold_14k_weight": " 2.61 ",
+    "plat_900_weight": " 4.12 ",
     "surface_plain_pattern": " Pattern ",
     "catalogue_color": " Trắng "
   },
@@ -7392,10 +7392,10 @@
   {
     "ProductId": "740",
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.67 ",
-    "gold_14k_weight": " 3.37 ",
-    "plat_900_weight": "   ",
+    "main_gemstone_size": "5.4",
+    "gold_18k_weight": " 2.59 ",
+    "gold_14k_weight": " 2.16 ",
+    "plat_900_weight": " 3.42 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -7453,9 +7453,9 @@
     "ProductId": "746",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.67 ",
-    "gold_14k_weight": " 3.37 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.31 ",
+    "gold_14k_weight": " 1.93 ",
+    "plat_900_weight": " 3.05 ",
     "surface_plain_pattern": " Pattern ",
     "catalogue_color": " Trắng "
   },
@@ -7473,9 +7473,9 @@
     "ProductId": "748",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 1.98 ",
-    "gold_14k_weight": " 1.85 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.39 ",
+    "gold_14k_weight": " 2.00 ",
+    "plat_900_weight": " 3.15 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -7583,9 +7583,9 @@
     "ProductId": "759",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 2.78 ",
-    "gold_14k_weight": " 2.59 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.76 ",
+    "gold_14k_weight": " 2.31 ",
+    "plat_900_weight": " 3.64 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
@@ -7683,9 +7683,9 @@
     "ProductId": "769",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 2.94 ",
-    "gold_14k_weight": " 2.74 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.33 ",
+    "gold_14k_weight": " 1.95 ",
+    "plat_900_weight": " 3.08 ",
     "surface_plain_pattern": " Pattern ",
     "catalogue_color": " Vàng "
   },
@@ -7693,9 +7693,9 @@
     "ProductId": "770",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 2.53 ",
-    "gold_14k_weight": " 2.36 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.19 ",
+    "gold_14k_weight": " 1.83 ",
+    "plat_900_weight": " 2.89 ",
     "surface_plain_pattern": " Pattern ",
     "catalogue_color": " Trắng "
   },
@@ -7713,9 +7713,9 @@
     "ProductId": "772",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 3.08 ",
-    "gold_14k_weight": " 2.88 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 2.57 ",
+    "gold_14k_weight": " 2.15 ",
+    "plat_900_weight": " 3.39 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng-Hồng "
   },
@@ -7725,7 +7725,7 @@
     "main_gemstone_size": " 5.4 ",
     "gold_18k_weight": " 2.63 ",
     "gold_14k_weight": " 2.45 ",
-    "plat_900_weight": "   ",
+    "plat_900_weight": " 3.47 ",
     "surface_plain_pattern": " Pattern ",
     "catalogue_color": " Trắng "
   },
@@ -8033,19 +8033,19 @@
     "ProductId": "804",
     "main_gemstone_shape": "Heart",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 2.23 ",
-    "gold_14k_weight": " 2.08 ",
-    "plat_900_weight": "   ",
+    "gold_18k_weight": " 1.86 ",
+    "gold_14k_weight": " 1.55 ",
+    "plat_900_weight": " 2.46 ",
     "surface_plain_pattern": " Plain ",
     "catalogue_color": " Trắng "
   },
   {
     "ProductId": "805",
     "main_gemstone_shape": "Heart",
-    "main_gemstone_size": " 5.5 ",
-    "gold_18k_weight": " 3.03 ",
-    "gold_14k_weight": " 2.82 ",
-    "plat_900_weight": " 4.06 ",
+    "main_gemstone_size": "5",
+    "gold_18k_weight": " 2.47 ",
+    "gold_14k_weight": " 2.07 ",
+    "plat_900_weight": " 3.26 ",
     "surface_plain_pattern": " Pattern ",
     "catalogue_color": " Trắng-Hồng "
   },
@@ -8143,9 +8143,9 @@
     "ProductId": "815",
     "main_gemstone_shape": "Round",
     "main_gemstone_size": " 5.4 ",
-    "gold_18k_weight": " 4.50 ",
-    "gold_14k_weight": " 3.76 ",
-    "plat_900_weight": " 6.04 ",
+    "gold_18k_weight": " 3.15 ",
+    "gold_14k_weight": " 2.63 ",
+    "plat_900_weight": " 4.16 ",
     "surface_plain_pattern": " Pattern ",
     "catalogue_color": " Trắng "
   },
@@ -9527,7 +9527,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": "   ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "954",
@@ -9537,7 +9537,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": "   ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "955",
@@ -9607,7 +9607,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": "   ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "962",
@@ -9697,7 +9697,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": "   ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "971",
@@ -9717,7 +9717,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": "   ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "973",
@@ -9737,7 +9737,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": "   ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "975",
@@ -9837,7 +9837,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": "   ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "985",
@@ -9877,7 +9877,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": "   ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "989",
@@ -9987,7 +9987,7 @@
     "gold_14k_weight": "   ",
     "plat_900_weight": "   ",
     "surface_plain_pattern": "   ",
-    "catalogue_color": " Phốimàu "
+    "catalogue_color": " Phối màu "
   },
   {
     "ProductId": "1000",

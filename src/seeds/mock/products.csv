@@ -602,10 +602,10 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 601,NCH1014,Little Love,Nhẫn cầu hôn,,13,1.3,1.8,
 602,NCH1015,Paris,Nhẫn cầu hôn,,8,1.3,2.0,
 603,NCH1017,My Day Dreams,Nhẫn cầu hôn,,12,1.3,2.5,
-604,NCH1018,Fulfill Love,Nhẫn cầu hôn,,10,1.8,2.2,
+604,NCH1018,Fulfill Love,Nhẫn cầu hôn,,11,1.8,2.2,6.7
 605,NCH1019,Forever,Nhẫn cầu hôn,,11,1.3,2.9,
 606,NCH1020,Ever After,Nhẫn cầu hôn,,12,1.3,2.16,
-607,NCH1021,Always You,Nhẫn cầu hôn,,10,1.3,1.9,
+607,NCH1021,Always You,Nhẫn cầu hôn,,10,1.3,1.9,6.5
 608,NCH1022,Aphrodite's Blessing,Nhẫn cầu hôn,,10,1.4,2.3,6.5
 609,NCH1023,Mantilla Veil,Nhẫn cầu hôn,,11,1.3,1.7,5.8
 610,NCH1024,Whisper Chiffon,Nhẫn cầu hôn,,11,1.3,1.5,6.0
@@ -626,14 +626,14 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 625,NCH1304,Tiny Lovely,Nhẫn cầu hôn,,10,1.3,1.8,7.1
 626,NCH1305,,Nhẫn cầu hôn,,10,1.3,2.0,
 627,NCH1306,,Nhẫn cầu hôn,,9,1.3,2.0,
-628,NCH1307,,Nhẫn cầu hôn,,10,1.4,2.0,
+628,NCH1307,,Nhẫn cầu hôn,,10,1.4,2.0,7.8
 629,NCH1309,Princess Cape,Nhẫn cầu hôn,,12,1.7,2.2,8.4
 630,NCH1310,Tiny Bauquet,Nhẫn cầu hôn,,10,1.3,1.8,6.7
 631,NCH1311,It'S You,Nhẫn cầu hôn,,11,1.7,2.0,
 632,NCH1312,My Sunlight,Nhẫn cầu hôn,,10,1.4,2.0,6.7
 633,NCH1313,My Start,Nhẫn cầu hôn,,11,1.5,2.0,
 634,NCH1314,Soulmate,Nhẫn cầu hôn,,11,1.6,2.1,
-635,NCH1315,My Blooming Love,Nhẫn cầu hôn,,10,1.3,2.0,
+635,NCH1315,My Blooming Love,Nhẫn cầu hôn,,10,1.3,2.0,6.7
 636,NCH1317,Tulle Ribbon,Nhẫn cầu hôn,,10,1.1,1.3,5.9
 637,NCH1318,Svelte Waistline,Nhẫn cầu hôn,,11,1.5,1.7,6.5
 638,NCH1319,Organza Princess,Nhẫn cầu hôn,,10,1.1,1.9,6.4
@@ -641,7 +641,7 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 640,BCH1402,Gentle Touch,Nhẫn cầu hôn,,11,1.3,2.0,6.3
 641,NCH1403,,Nhẫn cầu hôn,,12,1.3,2.0,6.3
 642,NCH1404,,Nhẫn cầu hôn,,10,1.3,1.9,
-643,NCH1405,,Nhẫn cầu hôn,,10,1.3,2.0,
+643,NCH1405,,Nhẫn cầu hôn,,10,1.3,2.0,5.9
 644,NCH1406,,Nhẫn cầu hôn,,10,1.3,2.0,
 645,NCH1407,Trellis Blossoms,Nhẫn cầu hôn,,10,1.3,2.0,6.0
 646,NCH1408,,Nhẫn cầu hôn,,10,1.4,1.8,
@@ -650,7 +650,7 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 649,NCH1411,Ladonna,Nhẫn cầu hôn,,11,1.3,1.8,
 650,NCH1412,Adelaide,Nhẫn cầu hôn,,12,1.4,2.3,
 651,NCH1413,Zoey,Nhẫn cầu hôn,,11,1.6,1.9,
-652,NCH1414,Cella,Nhẫn cầu hôn,,10,1.3,2.5,
+652,NCH1414,Cella,Nhẫn cầu hôn,,10,1.3,2.5,6.8
 653,NCH1415,Adela,Nhẫn cầu hôn,,10,2.1,2.2,
 654,NCH1416,Phoebe,Nhẫn cầu hôn,,10,1.3,2.0,6.6
 655,NCH1417,Keelin,Nhẫn cầu hôn,,11,1.4,2.2,6.3
@@ -658,7 +658,7 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 657,NCH1418,My Joy,Nhẫn cầu hôn,,11,1.4,2.0,6.7
 658,NCH1419,Promise You,Nhẫn cầu hôn,,13,1.3,2.0,6.1
 659,NCH1419 6.3mm,Promise You,Nhẫn cầu hôn,,10,1.3,2.3,7.0
-660,NCH1420,Be Your,Nhẫn cầu hôn,,12,1.3,2.8,
+660,NCH1420,Be Your,Nhẫn cầu hôn,,12,1.3,2.8,6.5
 661,NCH1421,By Yourside,Nhẫn cầu hôn,,10,1.3,2.0,
 662,NCH1422,Fairy Veil,Nhẫn cầu hôn,,11,1.3,2.2,
 663,NCH1423,Angel Wings,Nhẫn cầu hôn,,10,1.4,2.2,5.8
@@ -670,26 +670,26 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 669,NCH1502,Little Pretty,Nhẫn cầu hôn,,11,1.3,2.0,6.7
 670,BCH1503,Loving,Nhẫn cầu hôn,,10,1.3,1.8,6.5
 671,NCH1504,,Nhẫn cầu hôn,,11,1.5,2.5,
-672,NCH1505,,Nhẫn cầu hôn,,13,1.3,2.0,
+672,NCH1505,,Nhẫn cầu hôn,,13,1.4,2.0,6.9
 673,NCH1506,,Nhẫn cầu hôn,,10,1.3,2.2,
-674,NCH1507,,Nhẫn cầu hôn,,11,1.4,3.0,
+674,NCH1507,,Nhẫn cầu hôn,,11,1.4,3.0,6.8
 675,NCH1508,,Nhẫn cầu hôn,,10,1.2,2.0,5.8
-676,NCH1510,,Nhẫn cầu hôn,,11,1.3,2.0,
+676,NCH1510,,Nhẫn cầu hôn,,11,1.3,2.0,7.3
 677,NCH1512,,Nhẫn cầu hôn,,11,1.2,2.2,
-678,NCH1513,Pretty Flora,Nhẫn cầu hôn,,12,1.3,2.0,
-679,NCH1514,,Nhẫn cầu hôn,,10,1.3,2.0,
+678,NCH1513,Pretty Flora,Nhẫn cầu hôn,,12,1.3,2.0,5.7
+679,NCH1514,,Nhẫn cầu hôn,,10,1.3,2.0,6.0
 680,NCH1515,,Nhẫn cầu hôn,,10,1.3,2.4,6.8
 681,BCH1601,,Nhẫn cầu hôn,,11,1.3,2.0,
 682,BCH1602,,Nhẫn cầu hôn,,12,1.3,2.0,
 683,NCH1602 6.3mm,,Nhẫn cầu hôn,,10,1.3,2.2,7.55
-684,NCH1603,,Nhẫn cầu hôn,,12,1.3,1.8,
+684,NCH1603,,Nhẫn cầu hôn,,12,1.3,1.8,6.9
 685,NCH1604,,Nhẫn cầu hôn,,11,1.2,2.5,
 686,NCH1605,,Nhẫn cầu hôn,,11,1.2,2.4,
 687,NCH1606,,Nhẫn cầu hôn,,11,1.4,3.0,
 688,NCH1607,,Nhẫn cầu hôn,,11,1.3,1.8,
 689,NCH1609,,Nhẫn cầu hôn,,11,1.3,2.2,
-690,NCH1610,,Nhẫn cầu hôn,,11,1.4,2.0,
-691,NCH1612,Princess Bowtie,Nhẫn cầu hôn,,12,1.5,2.2,
+690,NCH1610,,Nhẫn cầu hôn,,11,1.3,1.9,6.6
+691,NCH1612,Princess Bowtie,Nhẫn cầu hôn,,12,1.5,2.3,7.2
 692,NCH1613,Morri - Morri,Nhẫn cầu hôn,,11,1.3,1.84,
 693,NCH1616,Belle Ame,Nhẫn cầu hôn,,11,1.5,1.8,7.4
 694,NCH1617,My Destiny,Nhẫn cầu hôn,,10,1.3,2.0,7.0
@@ -699,11 +699,11 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 698,NCH1703,,Nhẫn cầu hôn,,11,1.3,2.5,
 699,NCH1704,,Nhẫn cầu hôn,,12,1.3,1.7,
 700,NCH1705,,Nhẫn cầu hôn,,11,1.3,2.0,
-701,NCH1706,,Nhẫn cầu hôn,,10,1.3,1.6,
+701,NCH1706,,Nhẫn cầu hôn,,10,1.3,1.8,7.1
 702,NCH1709,Tiny Tierra,Nhẫn cầu hôn,,11,1.3,2.0,
 703,NCH1711,Vintage Ribbon,Nhẫn cầu hôn,,12,1.5,2.1,
 704,NCH1718,Mira - Mira,Nhẫn cầu hôn,,11,1.3,2.0,
-705,NCH1719,Freya,Nhẫn cầu hôn,,10,1.3,1.6,
+705,NCH1719,Freya,Nhẫn cầu hôn,,10,1.3,1.6,6.6
 706,NCH1720,Veronica,Nhẫn cầu hôn,,10,1.3,2.0,
 707,NCH1721,Adrianne,Nhẫn cầu hôn,,10,1.3,2.4,
 708,NCH1722,Cheryl,Nhẫn cầu hôn,,10,1.3,1.5,
@@ -715,7 +715,7 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 714,NCH1804,,Nhẫn cầu hôn,,11,1.3,1.9,7.0
 715,NCH1805,,Nhẫn cầu hôn,,10,1.3,2.0,
 716,NCH1807,,Nhẫn cầu hôn,,11,1.3,1.8,
-717,NCH1808,,Nhẫn cầu hôn,,11,1.3,2.0,
+717,NCH1808,,Nhẫn cầu hôn,,11,1.3,2.0,6.4
 718,NCH1810,,Nhẫn cầu hôn,,10,1.4,2.0,
 719,NCH1812,Tie The Knot,Nhẫn cầu hôn,,12,2.0,1.9,
 720,NCH1901,Morning Glory,Nhẫn cầu hôn,,10,1.3,1.9,
@@ -736,17 +736,17 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 735,NCH2007 6.3mm,,Nhẫn cầu hôn,,11,1.3,2.3,8.45
 736,NCH2008,,Nhẫn cầu hôn,,11,1.3,1.9,
 737,NCH2009,,Nhẫn cầu hôn,,12,1.3,1.7,7.4
-738,NCH2011,,Nhẫn cầu hôn,,11,1.3,2.0,
+738,NCH2011,,Nhẫn cầu hôn,,11,1.3,2.0,7.0
 739,NCH2101,,Nhẫn cầu hôn,,12,1.3,1.8,6.6
-740,NCH2102,,Nhẫn cầu hôn,,13,1.3,1.7,
+740,NCH2102,,Nhẫn cầu hôn,,13,1.3,1.7,6.5
 741,NCH2103,,Nhẫn cầu hôn,,11,1.3,1.6,
 742,NCH2104,,Nhẫn cầu hôn,,8,1.3,1.6,
 743,NCH2105,,Nhẫn cầu hôn,,11,1.3,1.8,
 744,NCH2106,,Nhẫn cầu hôn,,11,1.3,1.8,
 745,NCH2201,,Nhẫn cầu hôn,,10,1.3,1.7,8.0
-746,NCH2202,,Nhẫn cầu hôn,,13,1.3,1.8,
+746,NCH2202,,Nhẫn cầu hôn,,13,1.3,1.8,5.7
 747,NCH2204,,Nhẫn cầu hôn,,10,1.3,1.8,7.8
-748,NCH2205,,Nhẫn cầu hôn,,11,1.3,1.8,
+748,NCH2205,,Nhẫn cầu hôn,,11,1.3,1.8,6.6
 749,NCH2206,,Nhẫn cầu hôn,,11,1.3,1.8,6.4
 750,NCH2402,,Nhẫn cầu hôn,,11,1.3,2.0,
 751,NCH2404,,Nhẫn cầu hôn,,10,1.3,2.2,
@@ -757,7 +757,7 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 756,NCH3102,,Nhẫn cầu hôn,,11,1.3,2.0,
 757,NCH3104,,Nhẫn cầu hôn,,10,1.3,2.0,
 758,NCH3105,,Nhẫn cầu hôn,,10,1.3,2.0,
-759,NCH3201,,Nhẫn cầu hôn,,11,1.3,2.0,
+759,NCH3201,,Nhẫn cầu hôn,,11,1.3,2.0,5.7
 760,NCH3202,,Nhẫn cầu hôn,,11,1.3,2.5,6.8
 761,NCH3203,,Nhẫn cầu hôn,,11,1.3,2.3,
 762,NCH3204,,Nhẫn cầu hôn,,11,1.3,2.5,
@@ -767,10 +767,10 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 766,NCH3302,,Nhẫn cầu hôn,,12,1.3,2.0,6.1
 767,NCH5301,Delicate Petal,Nhẫn cầu hôn,,11,1.3,2.1,6.3
 768,NCH5302,Mermaid'S Shell,Nhẫn cầu hôn,,10,1.4,2.0,
-769,NCH5303,Sparkle Fin,Nhẫn cầu hôn,,10,1.3,2.0,
-770,NCH5401,White Pappilon,Nhẫn cầu hôn,,11,1.4,1.7,
+769,NCH5303,Sparkle Fin,Nhẫn cầu hôn,,10,1.3,2.0,5.7
+770,NCH5401,White Pappilon,Nhẫn cầu hôn,,11,1.4,1.8,5.1
 771,NCH5402,Diana Gown,Nhẫn cầu hôn,,11,1.5,2.9,
-772,NCH5404,Satin Cape,Nhẫn cầu hôn,,11,1.4,2.0,
+772,NCH5404,Satin Cape,Nhẫn cầu hôn,,11,1.4,2.0,6.5
 773,NCH5405,Enchanted Tulip,Nhẫn cầu hôn,,11,1.3,2.0,
 774,NCH5406,Princess Brooch,Nhẫn cầu hôn,,10,1.4,2.0,
 775,BCH7101,Bubble Kiss,Nhẫn cầu hôn,,11,1.25,1.5,
@@ -802,8 +802,8 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 801,NCH8408,Chloe,Nhẫn cầu hôn,,10,1.4,2.0,6.3
 802,NCH8409,Lovey Dovey,Nhẫn cầu hôn,,11,1.3,2.0,
 803,NCH8410,Rosalie Kiss,Nhẫn cầu hôn,,10,1.3,2.4,
-804,NCH8411,Goddess Heart,Nhẫn cầu hôn,,11,1.7,1.8,
-805,NCH8413,Sweet Pea,Nhẫn cầu hôn,,11,1.5,2.0,
+804,NCH8411,Goddess Heart,Nhẫn cầu hôn,,11,1.7,1.8,6.9
+805,NCH8413,Sweet Pea,Nhẫn cầu hôn,,11,1.6,2.1,6.1
 806,NCH8414,Yours Forever,Nhẫn cầu hôn,,10,,,
 807,NCH8415,Satin Plait,Nhẫn cầu hôn,,10,1.2,1.8,7.0
 808,NCH8416,Radiant Chapel,Nhẫn cầu hôn,,12,,,
@@ -813,7 +813,7 @@ ProductId,design_code,name,category,diameter,ring_size,base_thickness,base_width
 812,NCH9904,,Nhẫn cầu hôn,,11,1.2,2.4,
 813,NCH9909,,Nhẫn cầu hôn,,11,1.3,2.0,
 814,NCH9910,,Nhẫn cầu hôn,,11,1.3,2.2,
-815,NCH9911,,Nhẫn cầu hôn,,11,1.3,2.5,
+815,NCH9911,,Nhẫn cầu hôn,,11,1.3,2.5,8.2
 816,NCH9913,,Nhẫn cầu hôn,,10,1.3,2.5,
 817,NCH9920,Adore You,Nhẫn cầu hôn,,11,1.4,2.8,
 818,NCH9921,Be Mine,Nhẫn cầu hôn,,11,1.4,2.2,
