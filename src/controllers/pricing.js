@@ -7,6 +7,6 @@ export const getProductPricingById = async (req, res, next) => {
 		'utf-8'
 	);
 	const products = JSON.parse(fileData);
-	const result = products.find((item) => item.ProductId === id) || null;
+	const result = products.find((item) => item.ProductId == id) || null;
 	res.json(result);
 };
