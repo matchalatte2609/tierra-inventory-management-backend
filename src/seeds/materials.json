@@ -11352,7 +11352,7 @@
   {
     "ProductId": 1136,
     "main_gemstone_shape": "Emerald",
-    "main_gemstone_size": 8,
+    "main_gemstone_size": "8,0*6,8",
     "gold_18k_weight": 5.4,
     "gold_14k_weight": 4.94,
     "plat_900_weight": "",

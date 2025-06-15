@@ -43,18 +43,33 @@ const ensureDirectoryExists = (dirPath) => {
 };
 
 // Utility function to clean and convert data
-const cleanValue = (value) => {
+const cleanValue = (value, isPricing = false) => {
   if (value === undefined || value === null || value === '') {
     return null;
   }
   
-  // Try to convert to number if it's a numeric string
+  // Handle string values
   if (typeof value === 'string') {
     const trimmed = value.trim();
-    const num = parseFloat(trimmed);
-    if (!isNaN(num) && isFinite(num)) {
-      return num;
+    
+    // Special handling for pricing data (contains commas as thousand separators)
+    if (isPricing && trimmed.includes(',')) {
+      // Remove all commas and convert to number
+      const cleanedPrice = trimmed.replace(/,/g, '');
+      const num = parseFloat(cleanedPrice);
+      if (!isNaN(num) && isFinite(num)) {
+        return num;
+      }
     }
+    
+    // Try to convert to number if it's a numeric string (without commas)
+    if (!trimmed.includes(',')) {
+      const num = parseFloat(trimmed);
+      if (!isNaN(num) && isFinite(num)) {
+        return num;
+      }
+    }
+    
     return trimmed;
   }
   
@@ -129,7 +144,10 @@ const processDataset = (datasetName, mapping, parsedData, actualHeaders) => {
           }
         }
         
-        filteredRow[outputCol] = cleanValue(actualValue);
+        // Check if this is a pricing column
+        const isPricing = datasetName === 'pricing' && outputCol !== 'ProductId';
+        
+        filteredRow[outputCol] = cleanValue(actualValue, isPricing);
       });
       
       data.push(filteredRow);

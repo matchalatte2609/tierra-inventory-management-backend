@@ -1134,7 +1134,7 @@ ProductId,main_gemstone_shape,main_gemstone_size,gold_18k_weight,gold_14k_weight
 1133,Round,5.4,7.34,6.85,,,Trắng
 1134,Cushion,8,9.46,8.82,,,Trắng
 1135,Princess,4,3.42,3.19,,,Trắng
-1136,Emerald,8,5.4,4.94,,,Trắng
+1136,Emerald,"8,0*6,8",5.4,4.94,,,Trắng
 1137,Emerald,6.88,4.89,4.56,,,Trắng
 1138,Emerald,7.5,5.49,4.64,,,Trắng
 1139,Emerald,7.3,4.6,4.29,,,Trắng
