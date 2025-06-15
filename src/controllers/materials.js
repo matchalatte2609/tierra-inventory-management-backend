@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 export const getAllProductsMaterials = async (req, res, next) => {
-	fs.readFile('src/seeds/mock/materials.json', 'utf8', (err, data) => {
+	fs.readFile('src/seeds/materials.json', 'utf8', (err, data) => {
 		if (err) {
 			res.status(500).send('Error reading the JSON file');
 		} else {
