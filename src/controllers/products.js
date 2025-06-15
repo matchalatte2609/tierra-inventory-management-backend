@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 export const getAllProducts = async (req, res, next) => {
-	fs.readFile('src/seeds/mock/products.json', 'utf8', (err, data) => {
+	fs.readFile('src/seeds/products.json', 'utf8', (err, data) => {
 		if (err) {
 			res.status(500).send('Error reading the JSON file');
 		} else {
@@ -14,10 +14,10 @@ export const getAllProducts = async (req, res, next) => {
 export const getProductById = async (req, res, next) => {
 	const { id } = req.params;
 	const fileData = await fs.promises.readFile(
-		'src/seeds/mock/products.json',
+		'src/seeds/products.json',
 		'utf-8'
 	);
 	const products = JSON.parse(fileData);
-	const result = products.find((item) => item.ProductId === id) || null;
+	const result = products.find((item) => item.ProductId == id) || null;
 	res.json(result);
 };

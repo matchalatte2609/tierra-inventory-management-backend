@@ -14,7 +14,7 @@ export const getAllProductsMaterials = async (req, res, next) => {
 export const getProductMaterialsById = async (req, res, next) => {
 	const { id } = req.params;
 	const fileData = await fs.promises.readFile(
-		'src/seeds/mock/materials.json',
+		'src/seeds/materials.json',
 		'utf-8'
 	);
 	const products = JSON.parse(fileData);
