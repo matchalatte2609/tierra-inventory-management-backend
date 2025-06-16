@@ -76,7 +76,52 @@ const cleanValue = (value, isPricing = false) => {
   return value;
 };
 
-// Function to read and properly parse the CSV with complex headers
+// Function to normalize header names for better matching
+const normalizeHeader = (header) => {
+  if (!header || typeof header !== 'string') return '';
+  
+  return header
+    .trim()                    // Remove leading/trailing whitespace
+    .replace(/"/g, '')         // Remove double quotes
+    .replace(/'/g, '')         // Remove single quotes
+    .replace(/\r\n/g, ' ')     // Replace line breaks with space
+    .replace(/\n/g, ' ')       // Replace newlines with space
+    .replace(/\s+/g, ' ')      // Replace multiple spaces with single space
+    .trim();                   // Trim again after replacements
+};
+
+// Function to find matching header with fuzzy matching
+const findMatchingHeader = (targetColumn, actualHeaders) => {
+  const normalizedTarget = normalizeHeader(targetColumn);
+  
+  // First try exact match after normalization
+  for (const [detectedField, vietnameseHeader] of Object.entries(actualHeaders)) {
+    const normalizedHeader = normalizeHeader(vietnameseHeader);
+    if (normalizedHeader === normalizedTarget) {
+      return detectedField;
+    }
+  }
+  
+  // If no exact match, try partial matching for common cases
+  for (const [detectedField, vietnameseHeader] of Object.entries(actualHeaders)) {
+    const normalizedHeader = normalizeHeader(vietnameseHeader);
+    
+    // Special cases for known problematic headers
+    if (normalizedTarget === 'Plain/Pattern' && 
+        (normalizedHeader.includes('Plain') || normalizedHeader.includes('Pattern'))) {
+      return detectedField;
+    }
+    
+    // Add more special cases as needed
+    if (normalizedTarget.includes('Kích thước') && normalizedHeader.includes('Kích thước')) {
+      if (normalizedTarget.includes('ĐÁY') && normalizedHeader.includes('ĐÁY')) {
+        return detectedField;
+      }
+    }
+  }
+  
+  return null;
+};
 const readMasterFile = () => {
   try {
     const fileContent = fs.readFileSync(CONFIG.masterFile, 'utf8');
@@ -101,7 +146,7 @@ const readMasterFile = () => {
     parsed.meta.fields.forEach((field, index) => {
       const actualHeader = Object.values(firstRow)[index];
       if (actualHeader && typeof actualHeader === 'string') {
-        actualHeaders[field] = actualHeader.trim();
+        actualHeaders[field] = normalizeHeader(actualHeader);
       }
     });
     
@@ -134,13 +179,18 @@ const processDataset = (datasetName, mapping, parsedData, actualHeaders) => {
         const outputCol = mapping.outputColumns[mappingIndex];
         
         // Find the actual column key that corresponds to our input column
+        const matchingField = findMatchingHeader(inputCol, actualHeaders);
         let actualValue = null;
         
-        // Look for the column by matching the Vietnamese header name
-        for (const [detectedField, vietnameseHeader] of Object.entries(actualHeaders)) {
-          if (vietnameseHeader === inputCol || vietnameseHeader.trim() === inputCol.trim()) {
-            actualValue = row[detectedField];
-            break;
+        if (matchingField) {
+          actualValue = row[matchingField];
+        } else {
+          // Fallback to old method if new method doesn't find a match
+          for (const [detectedField, vietnameseHeader] of Object.entries(actualHeaders)) {
+            if (vietnameseHeader === inputCol || vietnameseHeader.trim() === inputCol.trim()) {
+              actualValue = row[detectedField];
+              break;
+            }
           }
         }
         
