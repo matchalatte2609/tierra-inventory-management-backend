@@ -17723,7 +17723,7 @@
     "SL2": 2,
     "Shape3": "Round",
     "Size3": 1.5,
-    "SL3": null,
+    "SL3": 1,
     "Shape4": null,
     "Size4": null,
     "SL4": null,
@@ -32195,7 +32195,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": "-"
+    "new_ver": 1
   },
   {
     "ProductId": 948,
@@ -35089,9 +35089,9 @@
   },
   {
     "ProductId": 1033,
-    "Shape1": null,
-    "Size1": null,
-    "SL1": null,
+    "Shape1": "Round",
+    "Size1": 1.3,
+    "SL1": 20,
     "Shape2": null,
     "Size2": null,
     "SL2": null,
@@ -35738,9 +35738,9 @@
     "Shape1": "Round",
     "Size1": 1.1,
     "SL1": 6,
-    "Shape2": null,
-    "Size2": null,
-    "SL2": null,
+    "Shape2": "Heart",
+    "Size2": 3,
+    "SL2": 1,
     "Shape3": null,
     "Size3": null,
     "SL3": null,
