@@ -2,7 +2,7 @@
   {
     "ProductId": 1,
     "design_code": "BTA0007",
-    "name": "Sweet Heart Cube",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -14,7 +14,7 @@
   {
     "ProductId": 2,
     "design_code": "BTA0008",
-    "name": "Choco Bar",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -26,7 +26,7 @@
   {
     "ProductId": 3,
     "design_code": "BTA0009",
-    "name": "Choco Bar Earring With Round",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -38,7 +38,7 @@
   {
     "ProductId": 4,
     "design_code": "BTA0010",
-    "name": "Choco Cube & Heart",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -74,7 +74,7 @@
   {
     "ProductId": 7,
     "design_code": "BTA0020",
-    "name": "Mini Teddy Huggie",
+    "name": null,
     "category": "Bông tai",
     "diameter": "",
     "ring_size": "",
@@ -86,7 +86,7 @@
   {
     "ProductId": 8,
     "design_code": "BTA0021",
-    "name": "Heart Candy",
+    "name": null,
     "category": "Bông tai",
     "diameter": "",
     "ring_size": "",
@@ -98,7 +98,7 @@
   {
     "ProductId": 9,
     "design_code": "BTA0022",
-    "name": "Hoàng Mai Chiêu Lộc",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -662,7 +662,7 @@
   {
     "ProductId": 56,
     "design_code": "BTA2135",
-    "name": "Vintage Flower",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -698,7 +698,7 @@
   {
     "ProductId": 59,
     "design_code": "BTA2138",
-    "name": "Square Petal",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -794,7 +794,7 @@
   {
     "ProductId": 67,
     "design_code": "BTA2146",
-    "name": "Plumeria",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -830,7 +830,7 @@
   {
     "ProductId": 70,
     "design_code": "BTA2149",
-    "name": "Geometric Sunflower",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -842,7 +842,7 @@
   {
     "ProductId": 71,
     "design_code": "BTA2150",
-    "name": "Lovely Button",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -890,7 +890,7 @@
   {
     "ProductId": 75,
     "design_code": "BTA2154",
-    "name": "Vintage Start",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -902,7 +902,7 @@
   {
     "ProductId": 76,
     "design_code": "BTA2155",
-    "name": "Double Halo Cushion",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -914,7 +914,7 @@
   {
     "ProductId": 77,
     "design_code": "BTA2156",
-    "name": "Little Start",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -926,7 +926,7 @@
   {
     "ProductId": 78,
     "design_code": "BTA2157",
-    "name": "Round & Baguette",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -938,7 +938,7 @@
   {
     "ProductId": 79,
     "design_code": "BTA2158",
-    "name": "Marquise Halo",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1382,7 +1382,7 @@
   {
     "ProductId": 116,
     "design_code": "BTA4131",
-    "name": "Vintage Retangle",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1394,7 +1394,7 @@
   {
     "ProductId": 117,
     "design_code": "BTA4132",
-    "name": "Anne Queen'S Lace",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1406,7 +1406,7 @@
   {
     "ProductId": 118,
     "design_code": "BTA5101",
-    "name": "Anne Queen'S Lace",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1490,7 +1490,7 @@
   {
     "ProductId": 125,
     "design_code": "BTA7007",
-    "name": "The Armour",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1742,7 +1742,7 @@
   {
     "ProductId": 146,
     "design_code": "BTA8117",
-    "name": "Lavender Love",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1814,7 +1814,7 @@
   {
     "ProductId": 152,
     "design_code": "BTA8127",
-    "name": "Twisted Flower",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1886,7 +1886,7 @@
   {
     "ProductId": 158,
     "design_code": "BTA8134",
-    "name": "Snow Flower",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1898,7 +1898,7 @@
   {
     "ProductId": 159,
     "design_code": "BTA8135",
-    "name": "Truly",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1910,7 +1910,7 @@
   {
     "ProductId": 160,
     "design_code": "BTA8136",
-    "name": "Custom With Fancy Shape",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1922,7 +1922,7 @@
   {
     "ProductId": 161,
     "design_code": "BTA8137",
-    "name": "The Flower",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1934,7 +1934,7 @@
   {
     "ProductId": 162,
     "design_code": "BTA8138",
-    "name": "Stunning Flaze",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1946,7 +1946,7 @@
   {
     "ProductId": 163,
     "design_code": "BTA8139",
-    "name": "Autumn Leaves",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1958,7 +1958,7 @@
   {
     "ProductId": 164,
     "design_code": "BTA8140",
-    "name": "Glorious Emerald",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1970,7 +1970,7 @@
   {
     "ProductId": 165,
     "design_code": "BTA8141",
-    "name": "Emerald Shape & Half Maquise Halo",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1982,7 +1982,7 @@
   {
     "ProductId": 166,
     "design_code": "BTA8142",
-    "name": "Custom Cushion",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -1994,7 +1994,7 @@
   {
     "ProductId": 167,
     "design_code": "BTA8143",
-    "name": "Bowtie & Pear Cut",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -2006,7 +2006,7 @@
   {
     "ProductId": 168,
     "design_code": "BTA8144",
-    "name": "Sweet Heart Earring",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -2018,7 +2018,7 @@
   {
     "ProductId": 169,
     "design_code": "BTA8145",
-    "name": "Plumeria Custom",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -2030,7 +2030,7 @@
   {
     "ProductId": 170,
     "design_code": "BTA8146",
-    "name": "Plumeria Custom",
+    "name": null,
     "category": "Bông tai",
     "diameter": null,
     "ring_size": null,
@@ -2042,7 +2042,7 @@
   {
     "ProductId": 171,
     "design_code": "BTA8147",
-    "name": "Rosie Heart",
+    "name": null,
     "category": "Bông tai",
     "diameter": "",
     "ring_size": "",
@@ -2054,7 +2054,7 @@
   {
     "ProductId": 172,
     "design_code": "BTA8148",
-    "name": "Heart Of Venus",
+    "name": null,
     "category": "Bông tai",
     "diameter": "",
     "ring_size": "",
@@ -2066,7 +2066,7 @@
   {
     "ProductId": 173,
     "design_code": "BTA8149",
-    "name": "Tender Heart",
+    "name": null,
     "category": "Bông tai",
     "diameter": "",
     "ring_size": "",
@@ -2078,7 +2078,7 @@
   {
     "ProductId": 174,
     "design_code": "BTA8150",
-    "name": "Dazzling Heart",
+    "name": null,
     "category": "Bông tai",
     "diameter": "",
     "ring_size": "",
@@ -2090,7 +2090,7 @@
   {
     "ProductId": 175,
     "design_code": "BTA8151",
-    "name": "Adorable Heart",
+    "name": null,
     "category": "Bông tai",
     "diameter": "",
     "ring_size": "",
@@ -2258,7 +2258,7 @@
   {
     "ProductId": 189,
     "design_code": "DCA1111",
-    "name": "Mắt xích tròn",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2270,7 +2270,7 @@
   {
     "ProductId": 190,
     "design_code": "DCA1112",
-    "name": "Mắt xích tròn",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2282,7 +2282,7 @@
   {
     "ProductId": 191,
     "design_code": "DCA1122.42",
-    "name": "Mắt xích tròn",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2294,7 +2294,7 @@
   {
     "ProductId": 192,
     "design_code": "DCA1122.45",
-    "name": "Mắt xích tròn",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 45,
@@ -2306,7 +2306,7 @@
   {
     "ProductId": 193,
     "design_code": "DCA1312",
-    "name": "Mắt xích tròn",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2318,7 +2318,7 @@
   {
     "ProductId": 194,
     "design_code": "DCA1322",
-    "name": "Mắt xích tròn",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2330,7 +2330,7 @@
   {
     "ProductId": 195,
     "design_code": "DCA1332",
-    "name": "Mắt xích tròn",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2342,7 +2342,7 @@
   {
     "ProductId": 196,
     "design_code": "DCA2311",
-    "name": "Mắt xích hộp",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 45,
@@ -2354,7 +2354,7 @@
   {
     "ProductId": 197,
     "design_code": "DCA3113.42",
-    "name": "Chuỗi sóng nước",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2366,7 +2366,7 @@
   {
     "ProductId": 198,
     "design_code": "DCA3113.45",
-    "name": "Chuỗi sóng nước",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 45,
@@ -2378,7 +2378,7 @@
   {
     "ProductId": 199,
     "design_code": "DCA4311",
-    "name": "Mắc tre",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2390,7 +2390,7 @@
   {
     "ProductId": 200,
     "design_code": "DCA5331",
-    "name": "Mắt xích tròn",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2402,7 +2402,7 @@
   {
     "ProductId": 201,
     "design_code": "DCA6312",
-    "name": "Mắt xích hộp",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2414,7 +2414,7 @@
   {
     "ProductId": 202,
     "design_code": "DCA6332",
-    "name": "Mắt xích hộp",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2426,7 +2426,7 @@
   {
     "ProductId": 203,
     "design_code": "DCA7112.42",
-    "name": "Khác",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 42,
@@ -2438,7 +2438,7 @@
   {
     "ProductId": 204,
     "design_code": "DCA7112.45",
-    "name": "Khác",
+    "name": null,
     "category": "Dây chuyền",
     "diameter": null,
     "ring_size": 45,
@@ -2450,7 +2450,7 @@
   {
     "ProductId": 205,
     "design_code": "MDA0007",
-    "name": "Choco Orange",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -2462,7 +2462,7 @@
   {
     "ProductId": 206,
     "design_code": "MDA0008",
-    "name": "Dry Orange",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -2474,7 +2474,7 @@
   {
     "ProductId": 207,
     "design_code": "MDA0009",
-    "name": "Heart Cube",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -2522,7 +2522,7 @@
   {
     "ProductId": 211,
     "design_code": "MDA0011",
-    "name": "Sweet Cherry",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -2558,7 +2558,7 @@
   {
     "ProductId": 214,
     "design_code": "MDA0016",
-    "name": "Sweet Cherry",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -2570,7 +2570,7 @@
   {
     "ProductId": 215,
     "design_code": "MDA0017",
-    "name": "Nút Thắt Tường An",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -2582,7 +2582,7 @@
   {
     "ProductId": 216,
     "design_code": "MDA0020",
-    "name": "Xuân Đào",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -2594,7 +2594,7 @@
   {
     "ProductId": 217,
     "design_code": "MDA0021",
-    "name": "Kim Xà Chiêu Phúc",
+    "name": null,
     "category": "Mặt dây",
     "diameter": null,
     "ring_size": null,
@@ -2606,7 +2606,7 @@
   {
     "ProductId": 218,
     "design_code": "MDA0022",
-    "name": "Hoàng Mai Chiêu Lộc",
+    "name": null,
     "category": "Mặt dây",
     "diameter": null,
     "ring_size": null,
@@ -2618,7 +2618,7 @@
   {
     "ProductId": 219,
     "design_code": "MDA0024",
-    "name": "Teddy Huggie",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": "",
     "ring_size": "",
@@ -2630,7 +2630,7 @@
   {
     "ProductId": 220,
     "design_code": "MDA0025",
-    "name": "Cheese Donut",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": "",
     "ring_size": "",
@@ -2642,7 +2642,7 @@
   {
     "ProductId": 221,
     "design_code": "MDA0101",
-    "name": "Piece Of Choco",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -2654,7 +2654,7 @@
   {
     "ProductId": 222,
     "design_code": "MDA0102",
-    "name": "Choco Heart",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -2666,7 +2666,7 @@
   {
     "ProductId": 223,
     "design_code": "MDA0103",
-    "name": "Choco Letter",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -2678,7 +2678,7 @@
   {
     "ProductId": 224,
     "design_code": "MDA0104",
-    "name": "Choco Pie",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -2690,7 +2690,7 @@
   {
     "ProductId": 225,
     "design_code": "MDA0108",
-    "name": "Cookie Bear",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": "",
     "ring_size": "",
@@ -2702,7 +2702,7 @@
   {
     "ProductId": 226,
     "design_code": "MDA0109",
-    "name": "Waffle Honey Cake",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": "",
     "ring_size": "",
@@ -2714,7 +2714,7 @@
   {
     "ProductId": 227,
     "design_code": "MDA0110",
-    "name": "Bear Candy",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": "",
     "ring_size": "",
@@ -2990,7 +2990,7 @@
   {
     "ProductId": 250,
     "design_code": "MDA2111",
-    "name": "Hoa Bốn Cánh",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3002,7 +3002,7 @@
   {
     "ProductId": 251,
     "design_code": "MDA2112",
-    "name": "Blossom Flower",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3026,7 +3026,7 @@
   {
     "ProductId": 253,
     "design_code": "MDA2117",
-    "name": "Tiny Heart",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3050,7 +3050,7 @@
   {
     "ProductId": 255,
     "design_code": "MDA2120",
-    "name": "Vintage Retangle",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3062,7 +3062,7 @@
   {
     "ProductId": 256,
     "design_code": "MDA2121",
-    "name": "Vintage Star",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3074,7 +3074,7 @@
   {
     "ProductId": 257,
     "design_code": "MDA2122",
-    "name": "Double Halo Cushion Shape",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3086,7 +3086,7 @@
   {
     "ProductId": 258,
     "design_code": "MDA2123",
-    "name": "Mixing Double Halo",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3122,7 +3122,7 @@
   {
     "ProductId": 261,
     "design_code": "MDA2126",
-    "name": "Tournesol Bleu",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3134,7 +3134,7 @@
   {
     "ProductId": 262,
     "design_code": "MDA2127",
-    "name": "White Camellia Pendant",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3350,7 +3350,7 @@
   {
     "ProductId": 280,
     "design_code": "MDA8115",
-    "name": "Bowtie And Pear Cut",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3362,7 +3362,7 @@
   {
     "ProductId": 281,
     "design_code": "MDA8116",
-    "name": "Fancy Shape",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3374,7 +3374,7 @@
   {
     "ProductId": 282,
     "design_code": "MDA8117",
-    "name": "The Flower",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3386,7 +3386,7 @@
   {
     "ProductId": 283,
     "design_code": "MDA8118",
-    "name": "Autumn Leaves",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3398,7 +3398,7 @@
   {
     "ProductId": 284,
     "design_code": "MDA8119",
-    "name": "Glorious Emerald",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3410,7 +3410,7 @@
   {
     "ProductId": 285,
     "design_code": "MDA8120",
-    "name": "Emerald Shape And Half Masquise Halo",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3422,7 +3422,7 @@
   {
     "ProductId": 286,
     "design_code": "MDA8121",
-    "name": "Custom Cushion",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3434,7 +3434,7 @@
   {
     "ProductId": 287,
     "design_code": "MDA8122",
-    "name": "Lotus Of Clear Moon",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3446,7 +3446,7 @@
   {
     "ProductId": 288,
     "design_code": "MDA8123",
-    "name": "Stunning Flaze",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3458,7 +3458,7 @@
   {
     "ProductId": 289,
     "design_code": "MDA8124",
-    "name": "White Camellia Necklace",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3554,7 +3554,7 @@
   {
     "ProductId": 297,
     "design_code": "MDA8137",
-    "name": "Love Of Swan",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3566,7 +3566,7 @@
   {
     "ProductId": 298,
     "design_code": "MDA8144",
-    "name": "Sweet Heart Necklace",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": null,
@@ -3590,7 +3590,7 @@
   {
     "ProductId": 300,
     "design_code": "BMD8147",
-    "name": "Rosie Heart",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": "",
     "ring_size": "",
@@ -3602,7 +3602,7 @@
   {
     "ProductId": 301,
     "design_code": "BMD8148",
-    "name": "Heart Of Venus",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": "",
     "ring_size": "",
@@ -3614,7 +3614,7 @@
   {
     "ProductId": 302,
     "design_code": "BMD8149",
-    "name": "Tender Heart",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": "",
     "ring_size": "",
@@ -3626,7 +3626,7 @@
   {
     "ProductId": 303,
     "design_code": "MDA8150",
-    "name": "Dazzling Heart",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": "",
     "ring_size": "",
@@ -3638,7 +3638,7 @@
   {
     "ProductId": 304,
     "design_code": "BMD8151",
-    "name": "Adorable Heart",
+    "name": null,
     "category": "Mặt dây chuyền",
     "diameter": "",
     "ring_size": "",
@@ -3830,7 +3830,7 @@
   {
     "ProductId": 320,
     "design_code": "NCC0029",
-    "name": "Twisted Love",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.15-F.9",
@@ -3878,7 +3878,7 @@
   {
     "ProductId": 324,
     "design_code": "NCC0042",
-    "name": "Petal of Joy",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18,5-F.12",
@@ -3890,7 +3890,7 @@
   {
     "ProductId": 325,
     "design_code": "NCC0043",
-    "name": "Petal of Joy",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.12",
@@ -3902,7 +3902,7 @@
   {
     "ProductId": 326,
     "design_code": "NCC0044",
-    "name": "Petal of Love",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.11",
@@ -3914,7 +3914,7 @@
   {
     "ProductId": 327,
     "design_code": "NCC0045",
-    "name": "Petal of Love",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.11",
@@ -3926,7 +3926,7 @@
   {
     "ProductId": 328,
     "design_code": "NCC0046",
-    "name": "Petal of Happiness",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.11",
@@ -4646,7 +4646,7 @@
   {
     "ProductId": 388,
     "design_code": "NCC2079",
-    "name": "Petal of Joy",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.12",
@@ -4658,7 +4658,7 @@
   {
     "ProductId": 389,
     "design_code": "NCC2081",
-    "name": "Petal of Happiness",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.11",
@@ -4802,7 +4802,7 @@
   {
     "ProductId": 401,
     "design_code": "NCC3030",
-    "name": "Love Life",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.11.5",
@@ -4910,7 +4910,7 @@
   {
     "ProductId": 410,
     "design_code": "BNC7001",
-    "name": "Always You",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.13.5-F.11",
@@ -4922,7 +4922,7 @@
   {
     "ProductId": 411,
     "design_code": "NCC7002",
-    "name": "Perfect Half",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.19-F.11",
@@ -4934,7 +4934,7 @@
   {
     "ProductId": 412,
     "design_code": "NCC7003",
-    "name": "Infinity Us",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.19-F.11",
@@ -4946,7 +4946,7 @@
   {
     "ProductId": 413,
     "design_code": "NCC7004",
-    "name": "In My Heart",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.11.5",
@@ -4958,7 +4958,7 @@
   {
     "ProductId": 414,
     "design_code": "BNC7005",
-    "name": "Mr & Mrs. Right",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.17.5-F.11",
@@ -4970,7 +4970,7 @@
   {
     "ProductId": 415,
     "design_code": "BNC7006",
-    "name": "All My Life",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.10",
@@ -4982,7 +4982,7 @@
   {
     "ProductId": 416,
     "design_code": "BNC7007",
-    "name": "Definitely You",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.09",
@@ -4994,7 +4994,7 @@
   {
     "ProductId": 417,
     "design_code": "BNC7008",
-    "name": "Destiny Hallf",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.13.5-F.11",
@@ -5006,7 +5006,7 @@
   {
     "ProductId": 418,
     "design_code": "BNC7009",
-    "name": "Warmest Embrace",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.17-F.10",
@@ -5018,7 +5018,7 @@
   {
     "ProductId": 419,
     "design_code": "BNC7010",
-    "name": "Tender Love",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.15-F.11",
@@ -5066,7 +5066,7 @@
   {
     "ProductId": 423,
     "design_code": "NCC8010",
-    "name": "Petal of Happiness",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.11",
@@ -5150,7 +5150,7 @@
   {
     "ProductId": 430,
     "design_code": "NCC9011",
-    "name": "Petal of Happiness",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.12",
@@ -5366,7 +5366,7 @@
   {
     "ProductId": 448,
     "design_code": "NCF0029",
-    "name": "Twisted Love",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 9,
@@ -5414,7 +5414,7 @@
   {
     "ProductId": 452,
     "design_code": "NCF0042",
-    "name": "Petal of Joy 1",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 12,
@@ -5426,7 +5426,7 @@
   {
     "ProductId": 453,
     "design_code": "NCF0043",
-    "name": "Petal of Joy 2",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 12,
@@ -5438,7 +5438,7 @@
   {
     "ProductId": 454,
     "design_code": "NCF0044",
-    "name": "Petal of Love 2",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -5450,7 +5450,7 @@
   {
     "ProductId": 455,
     "design_code": "NCF0045",
-    "name": "Petal of Love 1",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -5462,7 +5462,7 @@
   {
     "ProductId": 456,
     "design_code": "NCF0046",
-    "name": "Petal of Happyness 3",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -6590,7 +6590,7 @@
   {
     "ProductId": 550,
     "design_code": "NCF2079",
-    "name": "Petal of Joy 3",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 12,
@@ -6602,7 +6602,7 @@
   {
     "ProductId": 551,
     "design_code": "NCF2081",
-    "name": "Petal of Happyness 2",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -6758,7 +6758,7 @@
   {
     "ProductId": 564,
     "design_code": "NCF3030",
-    "name": "Love Life",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -6866,7 +6866,7 @@
   {
     "ProductId": 573,
     "design_code": "BCF7001",
-    "name": "Always You",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -6878,7 +6878,7 @@
   {
     "ProductId": 574,
     "design_code": "NCF7002",
-    "name": "Perfect Half",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -6890,7 +6890,7 @@
   {
     "ProductId": 575,
     "design_code": "NCF7003",
-    "name": "Infinity Us",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -6902,7 +6902,7 @@
   {
     "ProductId": 576,
     "design_code": "NCF7004",
-    "name": "In My Heart",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11.5,
@@ -6914,7 +6914,7 @@
   {
     "ProductId": 577,
     "design_code": "BCF7005",
-    "name": "Mr. & Mrs.Right",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -6926,7 +6926,7 @@
   {
     "ProductId": 578,
     "design_code": "BCF7006",
-    "name": "All My Life",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 10,
@@ -6938,7 +6938,7 @@
   {
     "ProductId": 579,
     "design_code": "BCF7007",
-    "name": "Definitely You",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 9,
@@ -6950,7 +6950,7 @@
   {
     "ProductId": 580,
     "design_code": "BCF7008",
-    "name": "Destiny Half",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -6962,7 +6962,7 @@
   {
     "ProductId": 581,
     "design_code": "BCF7009",
-    "name": "Warmest Embrace",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 10,
@@ -6974,7 +6974,7 @@
   {
     "ProductId": 582,
     "design_code": "BCF7010",
-    "name": "Tender Love",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -7022,7 +7022,7 @@
   {
     "ProductId": 586,
     "design_code": "NCF8010",
-    "name": "Petal of Happyness 1",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
@@ -7106,7 +7106,7 @@
   {
     "ProductId": 593,
     "design_code": "NCF9011",
-    "name": "Petal of Happyness 4",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 12,
@@ -7130,7 +7130,7 @@
   {
     "ProductId": 595,
     "design_code": "NCH0037",
-    "name": "Love Of Swan",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7142,7 +7142,7 @@
   {
     "ProductId": 596,
     "design_code": "NCH1003",
-    "name": "Water Lily",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7154,7 +7154,7 @@
   {
     "ProductId": 597,
     "design_code": "NCH1004",
-    "name": "Love Shine",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -7166,7 +7166,7 @@
   {
     "ProductId": 598,
     "design_code": "NCH1005",
-    "name": "Primrose Flower",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -7178,7 +7178,7 @@
   {
     "ProductId": 599,
     "design_code": "NCH1007",
-    "name": "Double Heart",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -7190,7 +7190,7 @@
   {
     "ProductId": 600,
     "design_code": "NCH1010",
-    "name": "Roselle Hibiscus",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7202,7 +7202,7 @@
   {
     "ProductId": 601,
     "design_code": "NCH1014",
-    "name": "Little Love",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 13,
@@ -7214,7 +7214,7 @@
   {
     "ProductId": 602,
     "design_code": "NCH1015",
-    "name": "Paris",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 8,
@@ -7226,7 +7226,7 @@
   {
     "ProductId": 603,
     "design_code": "NCH1017",
-    "name": "My Day Dreams",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -7238,7 +7238,7 @@
   {
     "ProductId": 604,
     "design_code": "NCH1018",
-    "name": "Fulfill Love",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7250,7 +7250,7 @@
   {
     "ProductId": 605,
     "design_code": "NCH1019",
-    "name": "Forever",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7262,7 +7262,7 @@
   {
     "ProductId": 606,
     "design_code": "NCH1020",
-    "name": "Ever After",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -7274,7 +7274,7 @@
   {
     "ProductId": 607,
     "design_code": "NCH1021",
-    "name": "Always You",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7286,7 +7286,7 @@
   {
     "ProductId": 608,
     "design_code": "NCH1022",
-    "name": "Aphrodite's Blessing",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7298,7 +7298,7 @@
   {
     "ProductId": 609,
     "design_code": "NCH1023",
-    "name": "Mantilla Veil",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7310,7 +7310,7 @@
   {
     "ProductId": 610,
     "design_code": "NCH1024",
-    "name": "Whisper Chiffon",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7322,7 +7322,7 @@
   {
     "ProductId": 611,
     "design_code": "NCH1025",
-    "name": "Butterfly Cathedral",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7334,7 +7334,7 @@
   {
     "ProductId": 612,
     "design_code": "NCH1028",
-    "name": "Lavish Veil",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7346,7 +7346,7 @@
   {
     "ProductId": 613,
     "design_code": "BCH1101",
-    "name": "Always You",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7370,7 +7370,7 @@
   {
     "ProductId": 615,
     "design_code": "BCH1103",
-    "name": "My Amour",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7382,7 +7382,7 @@
   {
     "ProductId": 616,
     "design_code": "NCH1104",
-    "name": "Elegant Shape",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -7406,7 +7406,7 @@
   {
     "ProductId": 618,
     "design_code": "NCH1202",
-    "name": "Shining Light",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7418,7 +7418,7 @@
   {
     "ProductId": 619,
     "design_code": "NCH1203",
-    "name": "Modest Love",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7430,7 +7430,7 @@
   {
     "ProductId": 620,
     "design_code": "NCH1204",
-    "name": "True Beauty",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7442,7 +7442,7 @@
   {
     "ProductId": 621,
     "design_code": "NCH1206",
-    "name": "Flaming Lines",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7478,7 +7478,7 @@
   {
     "ProductId": 624,
     "design_code": "BCH1303",
-    "name": "Lovely Honey",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 9.5,
@@ -7490,7 +7490,7 @@
   {
     "ProductId": 625,
     "design_code": "NCH1304",
-    "name": "Tiny Lovely",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7538,7 +7538,7 @@
   {
     "ProductId": 629,
     "design_code": "NCH1309",
-    "name": "Princess Cape",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -7550,7 +7550,7 @@
   {
     "ProductId": 630,
     "design_code": "NCH1310",
-    "name": "Tiny Bauquet",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7562,7 +7562,7 @@
   {
     "ProductId": 631,
     "design_code": "NCH1311",
-    "name": "It'S You",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7574,7 +7574,7 @@
   {
     "ProductId": 632,
     "design_code": "NCH1312",
-    "name": "My Sunlight",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7586,7 +7586,7 @@
   {
     "ProductId": 633,
     "design_code": "NCH1313",
-    "name": "My Start",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7598,7 +7598,7 @@
   {
     "ProductId": 634,
     "design_code": "NCH1314",
-    "name": "Soulmate",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7610,7 +7610,7 @@
   {
     "ProductId": 635,
     "design_code": "NCH1315",
-    "name": "My Blooming Love",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7622,7 +7622,7 @@
   {
     "ProductId": 636,
     "design_code": "NCH1317",
-    "name": "Tulle Ribbon",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7634,7 +7634,7 @@
   {
     "ProductId": 637,
     "design_code": "NCH1318",
-    "name": "Svelte Waistline",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7646,7 +7646,7 @@
   {
     "ProductId": 638,
     "design_code": "NCH1319",
-    "name": "Organza Princess",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7670,7 +7670,7 @@
   {
     "ProductId": 640,
     "design_code": "BCH1402",
-    "name": "Gentle Touch",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7730,7 +7730,7 @@
   {
     "ProductId": 645,
     "design_code": "NCH1407",
-    "name": "Trellis Blossoms",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7754,7 +7754,7 @@
   {
     "ProductId": 647,
     "design_code": "NCH1409",
-    "name": "The Only",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7778,7 +7778,7 @@
   {
     "ProductId": 649,
     "design_code": "NCH1411",
-    "name": "Ladonna",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7790,7 +7790,7 @@
   {
     "ProductId": 650,
     "design_code": "NCH1412",
-    "name": "Adelaide",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -7802,7 +7802,7 @@
   {
     "ProductId": 651,
     "design_code": "NCH1413",
-    "name": "Zoey",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7814,7 +7814,7 @@
   {
     "ProductId": 652,
     "design_code": "NCH1414",
-    "name": "Cella",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7826,7 +7826,7 @@
   {
     "ProductId": 653,
     "design_code": "NCH1415",
-    "name": "Adela",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7838,7 +7838,7 @@
   {
     "ProductId": 654,
     "design_code": "NCH1416",
-    "name": "Phoebe",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7850,7 +7850,7 @@
   {
     "ProductId": 655,
     "design_code": "NCH1417",
-    "name": "Keelin",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7862,7 +7862,7 @@
   {
     "ProductId": 656,
     "design_code": "NCH1417 6.3mm",
-    "name": "Keelin",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7874,7 +7874,7 @@
   {
     "ProductId": 657,
     "design_code": "NCH1418",
-    "name": "My Joy",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7886,7 +7886,7 @@
   {
     "ProductId": 658,
     "design_code": "NCH1419",
-    "name": "Promise You",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 13,
@@ -7898,7 +7898,7 @@
   {
     "ProductId": 659,
     "design_code": "NCH1419 6.3mm",
-    "name": "Promise You",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7910,7 +7910,7 @@
   {
     "ProductId": 660,
     "design_code": "NCH1420",
-    "name": "Be Your",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -7922,7 +7922,7 @@
   {
     "ProductId": 661,
     "design_code": "NCH1421",
-    "name": "By Yourside",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7934,7 +7934,7 @@
   {
     "ProductId": 662,
     "design_code": "NCH1422",
-    "name": "Fairy Veil",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7946,7 +7946,7 @@
   {
     "ProductId": 663,
     "design_code": "NCH1423",
-    "name": "Angel Wings",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7958,7 +7958,7 @@
   {
     "ProductId": 664,
     "design_code": "NCH1424",
-    "name": "Blissie Wish",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7970,7 +7970,7 @@
   {
     "ProductId": 665,
     "design_code": "NCH1425",
-    "name": "Luna Ray",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -7982,7 +7982,7 @@
   {
     "ProductId": 666,
     "design_code": "NCH1426",
-    "name": "Fairy Gown",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -7994,7 +7994,7 @@
   {
     "ProductId": 667,
     "design_code": "NCH1427",
-    "name": "Heart Petal",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8006,7 +8006,7 @@
   {
     "ProductId": 668,
     "design_code": "BCH1501",
-    "name": "Sweety",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -8018,7 +8018,7 @@
   {
     "ProductId": 669,
     "design_code": "BCH1502",
-    "name": "Little Pretty",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8030,7 +8030,7 @@
   {
     "ProductId": 670,
     "design_code": "BCH1503",
-    "name": "Loving",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -8126,7 +8126,7 @@
   {
     "ProductId": 678,
     "design_code": "NCH1513",
-    "name": "Pretty Flora",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -8282,7 +8282,7 @@
   {
     "ProductId": 691,
     "design_code": "NCH1612",
-    "name": "Princess Bowtie",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -8294,7 +8294,7 @@
   {
     "ProductId": 692,
     "design_code": "NCH1613",
-    "name": "Morri - Morri",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8306,7 +8306,7 @@
   {
     "ProductId": 693,
     "design_code": "NCH1616",
-    "name": "Belle Ame",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8318,7 +8318,7 @@
   {
     "ProductId": 694,
     "design_code": "NCH1617",
-    "name": "My Destiny",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -8330,7 +8330,7 @@
   {
     "ProductId": 695,
     "design_code": "NCH1618",
-    "name": "Heaven Bird",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8342,7 +8342,7 @@
   {
     "ProductId": 696,
     "design_code": "NCH1701",
-    "name": "Twinkle Strap",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -8414,7 +8414,7 @@
   {
     "ProductId": 702,
     "design_code": "NCH1709",
-    "name": "Tiny Tierra",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8426,7 +8426,7 @@
   {
     "ProductId": 703,
     "design_code": "NCH1711",
-    "name": "Vintage Ribbon",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -8438,7 +8438,7 @@
   {
     "ProductId": 704,
     "design_code": "NCH1718",
-    "name": "Mira - Mira",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8450,7 +8450,7 @@
   {
     "ProductId": 705,
     "design_code": "NCH1719",
-    "name": "Freya",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -8462,7 +8462,7 @@
   {
     "ProductId": 706,
     "design_code": "NCH1720",
-    "name": "Veronica",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -8474,7 +8474,7 @@
   {
     "ProductId": 707,
     "design_code": "NCH1721",
-    "name": "Adrianne",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -8486,7 +8486,7 @@
   {
     "ProductId": 708,
     "design_code": "NCH1722",
-    "name": "Cheryl",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -8498,7 +8498,7 @@
   {
     "ProductId": 709,
     "design_code": "NCH1723",
-    "name": "Olivia",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -8510,7 +8510,7 @@
   {
     "ProductId": 710,
     "design_code": "NCH1724",
-    "name": "Harmony",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -8618,7 +8618,7 @@
   {
     "ProductId": 719,
     "design_code": "NCH1812",
-    "name": "Tie The Knot",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -8630,7 +8630,7 @@
   {
     "ProductId": 720,
     "design_code": "NCH1901",
-    "name": "Morning Glory",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -8642,7 +8642,7 @@
   {
     "ProductId": 721,
     "design_code": "NCH1902",
-    "name": "White Orchid",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8654,7 +8654,7 @@
   {
     "ProductId": 722,
     "design_code": "NCH1903",
-    "name": "Katherine",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8666,7 +8666,7 @@
   {
     "ProductId": 723,
     "design_code": "NCH1905",
-    "name": "Summer Lotus",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8678,7 +8678,7 @@
   {
     "ProductId": 724,
     "design_code": "NCH1906",
-    "name": "Pansy",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8690,7 +8690,7 @@
   {
     "ProductId": 725,
     "design_code": "NCH1907",
-    "name": "Lily",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -8702,7 +8702,7 @@
   {
     "ProductId": 726,
     "design_code": "NCH1908",
-    "name": "Green Cloud",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -8714,7 +8714,7 @@
   {
     "ProductId": 727,
     "design_code": "NCH1909",
-    "name": "Moonlynn",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8762,7 +8762,7 @@
   {
     "ProductId": 731,
     "design_code": "NCH2004",
-    "name": "Summer Bloom",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -8786,7 +8786,7 @@
   {
     "ProductId": 733,
     "design_code": "NCH2006",
-    "name": "Halo Sparkling",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9014,7 +9014,7 @@
   {
     "ProductId": 752,
     "design_code": "NCH2407",
-    "name": "Dear Darling",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9038,7 +9038,7 @@
   {
     "ProductId": 754,
     "design_code": "NCH3004",
-    "name": "Stella",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9158,7 +9158,7 @@
   {
     "ProductId": 764,
     "design_code": "NCH3207",
-    "name": "Heart Vibe",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 14,
@@ -9170,7 +9170,7 @@
   {
     "ProductId": 765,
     "design_code": "NCH3208",
-    "name": "Dulcie",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9194,7 +9194,7 @@
   {
     "ProductId": 767,
     "design_code": "NCH5301",
-    "name": "Delicate Petal",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9206,7 +9206,7 @@
   {
     "ProductId": 768,
     "design_code": "NCH5302",
-    "name": "Mermaid'S Shell",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9218,7 +9218,7 @@
   {
     "ProductId": 769,
     "design_code": "NCH5303",
-    "name": "Sparkle Fin",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9230,7 +9230,7 @@
   {
     "ProductId": 770,
     "design_code": "NCH5401",
-    "name": "White Pappilon",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9242,7 +9242,7 @@
   {
     "ProductId": 771,
     "design_code": "NCH5402",
-    "name": "Diana Gown",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9254,7 +9254,7 @@
   {
     "ProductId": 772,
     "design_code": "NCH5404",
-    "name": "Satin Cape",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9266,7 +9266,7 @@
   {
     "ProductId": 773,
     "design_code": "NCH5405",
-    "name": "Enchanted Tulip",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9278,7 +9278,7 @@
   {
     "ProductId": 774,
     "design_code": "NCH5406",
-    "name": "Princess Brooch",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9290,7 +9290,7 @@
   {
     "ProductId": 775,
     "design_code": "BCH7101",
-    "name": "Bubble Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9302,7 +9302,7 @@
   {
     "ProductId": 776,
     "design_code": "BCH7102",
-    "name": "Cloudy Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9314,7 +9314,7 @@
   {
     "ProductId": 777,
     "design_code": "BCH7103",
-    "name": "Butterfly Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9326,7 +9326,7 @@
   {
     "ProductId": 778,
     "design_code": "BCH7104",
-    "name": "Moon Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9338,7 +9338,7 @@
   {
     "ProductId": 779,
     "design_code": "BCH7105",
-    "name": "Sun Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11.5,
@@ -9350,7 +9350,7 @@
   {
     "ProductId": 780,
     "design_code": "BCH7106",
-    "name": "Sweet Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11.5,
@@ -9362,7 +9362,7 @@
   {
     "ProductId": 781,
     "design_code": "BCH7107",
-    "name": "Rainbow Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9374,7 +9374,7 @@
   {
     "ProductId": 782,
     "design_code": "BCH7108",
-    "name": "Candy Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9386,7 +9386,7 @@
   {
     "ProductId": 783,
     "design_code": "BCH7109",
-    "name": "Veil Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9398,7 +9398,7 @@
   {
     "ProductId": 784,
     "design_code": "BCH7110",
-    "name": "Lovely Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9410,7 +9410,7 @@
   {
     "ProductId": 785,
     "design_code": "BCH7111",
-    "name": "Retro Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9422,7 +9422,7 @@
   {
     "ProductId": 786,
     "design_code": "BCH7112",
-    "name": "Ribbon Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9458,7 +9458,7 @@
   {
     "ProductId": 789,
     "design_code": "NCH8108",
-    "name": "Birdcage Blusher",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9554,7 +9554,7 @@
   {
     "ProductId": 797,
     "design_code": "NCH8403",
-    "name": "Heart Of Princess",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9602,7 +9602,7 @@
   {
     "ProductId": 801,
     "design_code": "NCH8408",
-    "name": "Chloe",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9614,7 +9614,7 @@
   {
     "ProductId": 802,
     "design_code": "NCH8409",
-    "name": "Lovey Dovey",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9626,7 +9626,7 @@
   {
     "ProductId": 803,
     "design_code": "NCH8410",
-    "name": "Rosalie Kiss",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9638,7 +9638,7 @@
   {
     "ProductId": 804,
     "design_code": "NCH8411",
-    "name": "Goddess Heart",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9650,7 +9650,7 @@
   {
     "ProductId": 805,
     "design_code": "NCH8413",
-    "name": "Sweet Pea",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9662,7 +9662,7 @@
   {
     "ProductId": 806,
     "design_code": "NCH8414",
-    "name": "Yours Forever",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9674,7 +9674,7 @@
   {
     "ProductId": 807,
     "design_code": "NCH8415",
-    "name": "Satin Plait",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9686,7 +9686,7 @@
   {
     "ProductId": 808,
     "design_code": "NCH8416",
-    "name": "Radiant Chapel",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 12,
@@ -9698,7 +9698,7 @@
   {
     "ProductId": 809,
     "design_code": "NCH8417",
-    "name": "Coguette Blusher",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 10,
@@ -9794,7 +9794,7 @@
   {
     "ProductId": 817,
     "design_code": "NCH9920",
-    "name": "Adore You",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9806,7 +9806,7 @@
   {
     "ProductId": 818,
     "design_code": "NCH9921",
-    "name": "Be Mine",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -9818,7 +9818,7 @@
   {
     "ProductId": 819,
     "design_code": "NCH9922",
-    "name": "Little Lotus",
+    "name": null,
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 13,
@@ -10010,7 +10010,7 @@
   {
     "ProductId": 835,
     "design_code": "NCM0029",
-    "name": "Twisted Love",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 15,
@@ -10058,7 +10058,7 @@
   {
     "ProductId": 839,
     "design_code": "NCM0042",
-    "name": "Petal of Joy 1",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18.5,
@@ -10070,7 +10070,7 @@
   {
     "ProductId": 840,
     "design_code": "NCM0043",
-    "name": "Petal of Joy 2",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -10082,7 +10082,7 @@
   {
     "ProductId": 841,
     "design_code": "NCM0044",
-    "name": "Petal of Love 2",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -10094,7 +10094,7 @@
   {
     "ProductId": 842,
     "design_code": "NCM0045",
-    "name": "Petal of Love 1",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -10106,7 +10106,7 @@
   {
     "ProductId": 843,
     "design_code": "NCM0046",
-    "name": "Petal of Happyness 3",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -10802,7 +10802,7 @@
   {
     "ProductId": 901,
     "design_code": "NCM2071",
-    "name": "Our Day",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 15,
@@ -10814,7 +10814,7 @@
   {
     "ProductId": 902,
     "design_code": "NCM2079",
-    "name": "Petal of Joy 3",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -10826,7 +10826,7 @@
   {
     "ProductId": 903,
     "design_code": "NCM2081",
-    "name": "Petal of Happyness 2",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -10970,7 +10970,7 @@
   {
     "ProductId": 915,
     "design_code": "NCM3030",
-    "name": "Love Liife",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -11078,7 +11078,7 @@
   {
     "ProductId": 924,
     "design_code": "BCM7001",
-    "name": "Always You",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 13.5,
@@ -11090,7 +11090,7 @@
   {
     "ProductId": 925,
     "design_code": "NCM7002",
-    "name": "Perfect Half",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19,
@@ -11102,7 +11102,7 @@
   {
     "ProductId": 926,
     "design_code": "NCM7003",
-    "name": "Infinite Us",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19,
@@ -11114,7 +11114,7 @@
   {
     "ProductId": 927,
     "design_code": "NCM7004",
-    "name": "In My Heart",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -11126,7 +11126,7 @@
   {
     "ProductId": 928,
     "design_code": "BCM7005",
-    "name": "Mr & Mrs. Right",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 17.5,
@@ -11138,7 +11138,7 @@
   {
     "ProductId": 929,
     "design_code": "BCM7006",
-    "name": "All My Life",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -11150,7 +11150,7 @@
   {
     "ProductId": 930,
     "design_code": "BCM7007",
-    "name": "Definitely You",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -11162,7 +11162,7 @@
   {
     "ProductId": 931,
     "design_code": "BCM7008",
-    "name": "Destiny Hallf",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 13.5,
@@ -11174,7 +11174,7 @@
   {
     "ProductId": 932,
     "design_code": "BCM7009",
-    "name": "Warmest Embrace",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 17,
@@ -11186,7 +11186,7 @@
   {
     "ProductId": 933,
     "design_code": "BCM7010",
-    "name": "Tender Love",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 15,
@@ -11210,7 +11210,7 @@
   {
     "ProductId": 935,
     "design_code": "NCM8010",
-    "name": "Petal of Happyness 1",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -11294,7 +11294,7 @@
   {
     "ProductId": 942,
     "design_code": "NCM9011",
-    "name": "Petal of Happyness 4",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -11798,7 +11798,7 @@
   {
     "ProductId": 984,
     "design_code": "NCC2066",
-    "name": "Star Light",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.20-F.12",
@@ -11810,7 +11810,7 @@
   {
     "ProductId": 985,
     "design_code": "NCC2070",
-    "name": "Our Day",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.20-F.13",
@@ -11822,7 +11822,7 @@
   {
     "ProductId": 986,
     "design_code": "NCC2080",
-    "name": "Petal of Joy",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.18-F.12",
@@ -11930,7 +11930,7 @@
   {
     "ProductId": 995,
     "design_code": "NCC3024",
-    "name": "Love'Em",
+    "name": null,
     "category": "Nhẫn cưới",
     "diameter": null,
     "ring_size": "M.15-F.12",
@@ -12494,7 +12494,7 @@
   {
     "ProductId": 1042,
     "design_code": "NCF2066",
-    "name": "Star Light",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 12,
@@ -12506,7 +12506,7 @@
   {
     "ProductId": 1043,
     "design_code": "NCF2070",
-    "name": "Our Day",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 13,
@@ -12518,7 +12518,7 @@
   {
     "ProductId": 1044,
     "design_code": "NCF2080",
-    "name": "Petal of Joy 4",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 12,
@@ -12626,7 +12626,7 @@
   {
     "ProductId": 1053,
     "design_code": "NCF3024",
-    "name": "Love'Em",
+    "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 12,
@@ -12686,7 +12686,7 @@
   {
     "ProductId": 1058,
     "design_code": "NKC0003",
-    "name": "Satin Heart",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 10,
@@ -12710,7 +12710,7 @@
   {
     "ProductId": 1060,
     "design_code": "NKC0007",
-    "name": "Twin Flowers",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -12722,7 +12722,7 @@
   {
     "ProductId": 1061,
     "design_code": "NKC0008",
-    "name": "Fancy Wide Band",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -12734,7 +12734,7 @@
   {
     "ProductId": 1062,
     "design_code": "NKC0009",
-    "name": "Diamond Bowtie",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -12746,7 +12746,7 @@
   {
     "ProductId": 1063,
     "design_code": "NKC0011",
-    "name": "White Camelia Diamond Ring",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -12758,7 +12758,7 @@
   {
     "ProductId": 1064,
     "design_code": "NKC0012",
-    "name": "Plumeria Diamond Lady Ring",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -12794,7 +12794,7 @@
   {
     "ProductId": 1067,
     "design_code": "NKC1001",
-    "name": "Tender Of Flower",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -12806,7 +12806,7 @@
   {
     "ProductId": 1068,
     "design_code": "NKC1003",
-    "name": "Fully Heart",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 13,
@@ -12890,7 +12890,7 @@
   {
     "ProductId": 1075,
     "design_code": "NKC1207",
-    "name": "Basket Diamond & Wide Band",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -13010,7 +13010,7 @@
   {
     "ProductId": 1085,
     "design_code": "NKC1801",
-    "name": "Shining Love",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 13,
@@ -13022,7 +13022,7 @@
   {
     "ProductId": 1086,
     "design_code": "NKC2002",
-    "name": "Décor Cushion Shape",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 13,
@@ -13034,7 +13034,7 @@
   {
     "ProductId": 1087,
     "design_code": "NKC2003",
-    "name": "Queenie Butterfly",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 13,
@@ -13046,7 +13046,7 @@
   {
     "ProductId": 1088,
     "design_code": "NKC2006",
-    "name": "Tournesol Bleu",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -13058,7 +13058,7 @@
   {
     "ProductId": 1089,
     "design_code": "NKC2008",
-    "name": "Anne Queen'S Lace Diamond Lady Ring",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13070,7 +13070,7 @@
   {
     "ProductId": 1090,
     "design_code": "NKC2010",
-    "name": "Custom Halo With Rhombus Bridge Accent",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13082,7 +13082,7 @@
   {
     "ProductId": 1091,
     "design_code": "NKC2012",
-    "name": "Royal Milgrain Pattern",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13118,7 +13118,7 @@
   {
     "ProductId": 1094,
     "design_code": "NKC2015",
-    "name": "Full Of Light",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -13130,7 +13130,7 @@
   {
     "ProductId": 1095,
     "design_code": "NKC2015 6.3mm",
-    "name": "Full Of Light",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 13,
@@ -13142,7 +13142,7 @@
   {
     "ProductId": 1096,
     "design_code": "NKC2017",
-    "name": "Migranie Wide Band",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 10,
@@ -13154,7 +13154,7 @@
   {
     "ProductId": 1097,
     "design_code": "NKC2102",
-    "name": "Vintage Butterfly",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 13,
@@ -13226,7 +13226,7 @@
   {
     "ProductId": 1103,
     "design_code": "NKC2305",
-    "name": "Double Halo Wide Band",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13238,7 +13238,7 @@
   {
     "ProductId": 1104,
     "design_code": "NKC2306",
-    "name": "Rose Gold Papillon",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 13,
@@ -13298,7 +13298,7 @@
   {
     "ProductId": 1109,
     "design_code": "NKC2406",
-    "name": "Halo Twisted  Band",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 10,
@@ -13310,7 +13310,7 @@
   {
     "ProductId": 1110,
     "design_code": "NKC2408",
-    "name": "Vintage Twisted Buds",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13394,7 +13394,7 @@
   {
     "ProductId": 1117,
     "design_code": "NKC2514",
-    "name": "Fancy Sunflower",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 13,
@@ -13442,7 +13442,7 @@
   {
     "ProductId": 1121,
     "design_code": "NKC3301",
-    "name": "Five Stone With Bridge Accent Stone",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13454,7 +13454,7 @@
   {
     "ProductId": 1122,
     "design_code": "NKC3302",
-    "name": "Art Deco Three Stone",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -13466,7 +13466,7 @@
   {
     "ProductId": 1123,
     "design_code": "NKC4110",
-    "name": "Spring Peony",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -13478,7 +13478,7 @@
   {
     "ProductId": 1124,
     "design_code": "NKC4111",
-    "name": "Spring Dandelion",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13490,7 +13490,7 @@
   {
     "ProductId": 1125,
     "design_code": "NKC4112",
-    "name": "Spring Willow",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -13502,7 +13502,7 @@
   {
     "ProductId": 1126,
     "design_code": "NKC4113",
-    "name": "Joy of Spring",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 10,
@@ -13514,7 +13514,7 @@
   {
     "ProductId": 1127,
     "design_code": "NKC4114",
-    "name": "Spring Sunflower",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 10,
@@ -13526,7 +13526,7 @@
   {
     "ProductId": 1128,
     "design_code": "NKC4117",
-    "name": "Spring Light",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 10,
@@ -13538,7 +13538,7 @@
   {
     "ProductId": 1129,
     "design_code": "NKC4118",
-    "name": "Love of Spring",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -13550,7 +13550,7 @@
   {
     "ProductId": 1130,
     "design_code": "NKC4119",
-    "name": "Dream's Spring",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -13562,7 +13562,7 @@
   {
     "ProductId": 1131,
     "design_code": "NKC4120",
-    "name": "Spring Muse",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -13574,7 +13574,7 @@
   {
     "ProductId": 1132,
     "design_code": "NKC4121",
-    "name": "Radiant Spring",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13586,7 +13586,7 @@
   {
     "ProductId": 1133,
     "design_code": "NKC4201",
-    "name": "Lotus Of Clear Moon",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 13,
@@ -13598,7 +13598,7 @@
   {
     "ProductId": 1134,
     "design_code": "NKC8101",
-    "name": "La Reine",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 13,
@@ -13610,7 +13610,7 @@
   {
     "ProductId": 1135,
     "design_code": "NKC8103",
-    "name": "Princess Cut With Royal Pattern",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 13,
@@ -13622,7 +13622,7 @@
   {
     "ProductId": 1136,
     "design_code": "NKC8204",
-    "name": "Emerald And Split Diamond Band",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13634,7 +13634,7 @@
   {
     "ProductId": 1137,
     "design_code": "NKC8205",
-    "name": "Emerald And Twisted Diamond Band",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 9,
@@ -13646,7 +13646,7 @@
   {
     "ProductId": 1138,
     "design_code": "NKC8207",
-    "name": "Shape Of Emerald",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 14,
@@ -13670,7 +13670,7 @@
   {
     "ProductId": 1140,
     "design_code": "NKC8211",
-    "name": "Radiant Cut And Décor Split Shank",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13682,7 +13682,7 @@
   {
     "ProductId": 1141,
     "design_code": "NKC8302",
-    "name": "Custom Pear Cut",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 5,
@@ -13694,7 +13694,7 @@
   {
     "ProductId": 1142,
     "design_code": "NKC8402",
-    "name": "You'Re My Treasure",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 12,
@@ -13706,7 +13706,7 @@
   {
     "ProductId": 1143,
     "design_code": "NKC8503",
-    "name": "Five Stone With Bridge Accent Stone",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13718,7 +13718,7 @@
   {
     "ProductId": 1144,
     "design_code": "NKC8505",
-    "name": "Princess Modern Oval",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -13730,7 +13730,7 @@
   {
     "ProductId": 1145,
     "design_code": "NKC9901",
-    "name": "The Fleur",
+    "name": null,
     "category": "Nhẫn kim cương",
     "diameter": null,
     "ring_size": 11,
@@ -14354,7 +14354,7 @@
   {
     "ProductId": 1197,
     "design_code": "NCM2066",
-    "name": "Star Light",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 20,
@@ -14366,7 +14366,7 @@
   {
     "ProductId": 1198,
     "design_code": "NCM2070",
-    "name": "Our Day",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 20,
@@ -14378,7 +14378,7 @@
   {
     "ProductId": 1199,
     "design_code": "NCM2080",
-    "name": "Petal of Joy 4",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
@@ -14486,7 +14486,7 @@
   {
     "ProductId": 1208,
     "design_code": "NCM3024",
-    "name": "Love'Em",
+    "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 15,
@@ -14642,7 +14642,7 @@
   {
     "ProductId": 1221,
     "design_code": "NNA2106",
-    "name": "Constantia",
+    "name": null,
     "category": "Nhẫn nam",
     "diameter": null,
     "ring_size": 20,
@@ -14654,7 +14654,7 @@
   {
     "ProductId": 1222,
     "design_code": "NNA2107",
-    "name": "Sapientia",
+    "name": null,
     "category": "Nhẫn nam",
     "diameter": null,
     "ring_size": 18,
@@ -14666,7 +14666,7 @@
   {
     "ProductId": 1223,
     "design_code": "NNA2108",
-    "name": "Fortitudo",
+    "name": null,
     "category": "Nhẫn nam",
     "diameter": null,
     "ring_size": 18,
@@ -14702,7 +14702,7 @@
   {
     "ProductId": 1226,
     "design_code": "NNA2204",
-    "name": "Calmitas",
+    "name": null,
     "category": "Nhẫn nam",
     "diameter": null,
     "ring_size": 20,
@@ -14714,7 +14714,7 @@
   {
     "ProductId": 1227,
     "design_code": "NNA2205",
-    "name": "Prima",
+    "name": null,
     "category": "Nhẫn nam",
     "diameter": null,
     "ring_size": 18,
@@ -14726,7 +14726,7 @@
   {
     "ProductId": 1228,
     "design_code": "NNA2206",
-    "name": "Decisio",
+    "name": null,
     "category": "Nhẫn nam",
     "diameter": null,
     "ring_size": 18,
@@ -14738,7 +14738,7 @@
   {
     "ProductId": 1229,
     "design_code": "NNA2207",
-    "name": "Mens",
+    "name": null,
     "category": "Nhẫn nam",
     "diameter": null,
     "ring_size": 18,
@@ -14894,7 +14894,7 @@
   {
     "ProductId": 1242,
     "design_code": "NNA2315",
-    "name": "Fides",
+    "name": null,
     "category": "Nhẫn nam",
     "diameter": null,
     "ring_size": 18,
@@ -14906,7 +14906,7 @@
   {
     "ProductId": 1243,
     "design_code": "NNA2316",
-    "name": "Clementia",
+    "name": null,
     "category": "Nhẫn nam",
     "diameter": null,
     "ring_size": 18,
@@ -14918,7 +14918,7 @@
   {
     "ProductId": 1244,
     "design_code": "NNA2317",
-    "name": "Regius",
+    "name": null,
     "category": "Nhẫn nam",
     "diameter": null,
     "ring_size": 20,
@@ -16466,7 +16466,7 @@
   {
     "ProductId": 1373,
     "design_code": "NTT5101",
-    "name": "Xuân Đào",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 8.5,
@@ -16478,7 +16478,7 @@
   {
     "ProductId": 1374,
     "design_code": "NTT5102",
-    "name": "Nút Thắt Tường An",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 9.5,
@@ -16490,7 +16490,7 @@
   {
     "ProductId": 1375,
     "design_code": "NTT5103",
-    "name": "Tường Vân \" Phúc \"",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 11,
@@ -16502,7 +16502,7 @@
   {
     "ProductId": 1376,
     "design_code": "NTT5104",
-    "name": "Tường Vân \" Lộc \"",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 11,
@@ -16514,7 +16514,7 @@
   {
     "ProductId": 1377,
     "design_code": "NTT5106",
-    "name": "Mini Teddy Huggie",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 6.5,
@@ -16526,7 +16526,7 @@
   {
     "ProductId": 1378,
     "design_code": "NTT5107",
-    "name": "Teddy Huggie",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 11,
@@ -16538,7 +16538,7 @@
   {
     "ProductId": 1379,
     "design_code": "NTT5108",
-    "name": "Heart Candy",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 11,
@@ -16550,7 +16550,7 @@
   {
     "ProductId": 1380,
     "design_code": "NTT5109",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 11,
@@ -16562,7 +16562,7 @@
   {
     "ProductId": 1381,
     "design_code": "NTT5109",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 13,
@@ -16574,7 +16574,7 @@
   {
     "ProductId": 1382,
     "design_code": "NTT5109",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 16,
@@ -16586,7 +16586,7 @@
   {
     "ProductId": 1383,
     "design_code": "NTT5109",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 19,
@@ -16598,7 +16598,7 @@
   {
     "ProductId": 1384,
     "design_code": "NTT5110",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 11,
@@ -16610,7 +16610,7 @@
   {
     "ProductId": 1385,
     "design_code": "NTT5110",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 13,
@@ -16622,7 +16622,7 @@
   {
     "ProductId": 1386,
     "design_code": "NTT5110",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 16,
@@ -16634,7 +16634,7 @@
   {
     "ProductId": 1387,
     "design_code": "NTT5110",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 19,
@@ -16646,7 +16646,7 @@
   {
     "ProductId": 1388,
     "design_code": "NTT5111",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 11,
@@ -16658,7 +16658,7 @@
   {
     "ProductId": 1389,
     "design_code": "NTT5111",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 13,
@@ -16670,7 +16670,7 @@
   {
     "ProductId": 1390,
     "design_code": "NTT5111",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 16,
@@ -16682,7 +16682,7 @@
   {
     "ProductId": 1391,
     "design_code": "NTT5111",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 19,
@@ -16694,7 +16694,7 @@
   {
     "ProductId": 1392,
     "design_code": "NTT5112",
-    "name": "Kim Tiền Chiêu Tài",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": null,
@@ -16706,7 +16706,7 @@
   {
     "ProductId": 1393,
     "design_code": "NTT5113",
-    "name": "Kim Tiền Chiêu An",
+    "name": null,
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": null,
@@ -16778,7 +16778,7 @@
   {
     "ProductId": 1399,
     "design_code": "VTA0007",
-    "name": "Cát Long",
+    "name": null,
     "category": "Vòng tay",
     "diameter": null,
     "ring_size": null,
@@ -16790,7 +16790,7 @@
   {
     "ProductId": 1400,
     "design_code": "VTA0008",
-    "name": "Khánh Phúc",
+    "name": null,
     "category": "Vòng tay",
     "diameter": null,
     "ring_size": null,
@@ -16802,7 +16802,7 @@
   {
     "ProductId": 1401,
     "design_code": "VTA0009",
-    "name": "Khánh Lộc",
+    "name": null,
     "category": "Vòng tay",
     "diameter": null,
     "ring_size": null,
@@ -16814,7 +16814,7 @@
   {
     "ProductId": 1402,
     "design_code": "VTA0010",
-    "name": "Kim Xà Chiêu Phúc",
+    "name": null,
     "category": "Vòng tay",
     "diameter": null,
     "ring_size": null,
@@ -16826,7 +16826,7 @@
   {
     "ProductId": 1403,
     "design_code": "VTA0012",
-    "name": "Tiểu Kim Xà Chiêu Phúc",
+    "name": null,
     "category": "Vòng tay",
     "diameter": null,
     "ring_size": null,
@@ -17090,7 +17090,7 @@
   {
     "ProductId": 1425,
     "design_code": "VTA5104",
-    "name": "Queen Anne'S Lace Bracelet",
+    "name": null,
     "category": "Vòng tay",
     "diameter": null,
     "ring_size": null,
@@ -17102,7 +17102,7 @@
   {
     "ProductId": 1426,
     "design_code": "VTA5105",
-    "name": "Plumeria Bracelet",
+    "name": null,
     "category": "Vòng tay",
     "diameter": null,
     "ring_size": null,
@@ -17198,7 +17198,7 @@
   {
     "ProductId": 1434,
     "design_code": "VTA8118",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Vòng tay",
     "diameter": null,
     "ring_size": null,
@@ -17210,7 +17210,7 @@
   {
     "ProductId": 1435,
     "design_code": "VTA8118.2024",
-    "name": "Kim Tiền",
+    "name": null,
     "category": "Vòng tay",
     "diameter": null,
     "ring_size": null,
@@ -17676,7 +17676,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1474,
+    "ProductId": "u",
     "design_code": "BNC0012",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17859,7 +17859,7 @@
     "ProductId": 1489,
     "design_code": "BCF2002",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -17871,7 +17871,7 @@
     "ProductId": 1490,
     "design_code": "BCM2002",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19,
     "base_thickness": 0.8,
@@ -17883,7 +17883,7 @@
     "ProductId": 1491,
     "design_code": "BCF3005",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11.5,
     "base_thickness": 0.8,
@@ -17895,7 +17895,7 @@
     "ProductId": 1492,
     "design_code": "BCM3005",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19,
     "base_thickness": 0.8,
@@ -17907,7 +17907,7 @@
     "ProductId": 1493,
     "design_code": "BCF2007",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -17919,7 +17919,7 @@
     "ProductId": 1494,
     "design_code": "BCM2007",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -17931,7 +17931,7 @@
     "ProductId": 1495,
     "design_code": "BCF2008",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -17943,7 +17943,7 @@
     "ProductId": 1496,
     "design_code": "BCM2008",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -17955,7 +17955,7 @@
     "ProductId": 1497,
     "design_code": "BCF2055",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -17967,7 +17967,7 @@
     "ProductId": 1498,
     "design_code": "BCM2055",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19,
     "base_thickness": 0.8,
@@ -17979,7 +17979,7 @@
     "ProductId": 1499,
     "design_code": "BCF2022",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": null,
@@ -17991,7 +17991,7 @@
     "ProductId": 1500,
     "design_code": "BCM2022",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19,
     "base_thickness": null,
@@ -18003,7 +18003,7 @@
     "ProductId": 1501,
     "design_code": "BCF0001",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18015,7 +18015,7 @@
     "ProductId": 1502,
     "design_code": "BCM0001",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19.5,
     "base_thickness": 0.8,
@@ -18027,7 +18027,7 @@
     "ProductId": 1503,
     "design_code": "BCF2010",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18039,7 +18039,7 @@
     "ProductId": 1504,
     "design_code": "BCM2010",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19.5,
     "base_thickness": 0.8,
@@ -18051,7 +18051,7 @@
     "ProductId": 1505,
     "design_code": "BCF1003",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18063,7 +18063,7 @@
     "ProductId": 1506,
     "design_code": "BCM1003",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19.5,
     "base_thickness": 0.8,
@@ -18075,7 +18075,7 @@
     "ProductId": 1507,
     "design_code": "BCF1015",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18087,7 +18087,7 @@
     "ProductId": 1508,
     "design_code": "BCM1015",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19.5,
     "base_thickness": 0.8,
@@ -18099,7 +18099,7 @@
     "ProductId": 1509,
     "design_code": "BCF2003",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18111,7 +18111,7 @@
     "ProductId": 1510,
     "design_code": "BCM2003",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19.5,
     "base_thickness": 0.8,
@@ -18123,7 +18123,7 @@
     "ProductId": 1511,
     "design_code": "BCF2005",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18135,7 +18135,7 @@
     "ProductId": 1512,
     "design_code": "BCM2005",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 19,
     "base_thickness": 0.8,
@@ -18147,7 +18147,7 @@
     "ProductId": 1513,
     "design_code": "BCF2012",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18159,7 +18159,7 @@
     "ProductId": 1514,
     "design_code": "BCM2012",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -18171,7 +18171,7 @@
     "ProductId": 1515,
     "design_code": "BCF3007",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18183,7 +18183,7 @@
     "ProductId": 1516,
     "design_code": "BCM3007",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -18195,7 +18195,7 @@
     "ProductId": 1517,
     "design_code": "BCF0006",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 9,
     "base_thickness": 0.9,
@@ -18207,7 +18207,7 @@
     "ProductId": 1518,
     "design_code": "BCM0006",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.9,
@@ -18219,7 +18219,7 @@
     "ProductId": 1519,
     "design_code": "BCF2013",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 0.8,
@@ -18231,7 +18231,7 @@
     "ProductId": 1520,
     "design_code": "BCM2013",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -18243,7 +18243,7 @@
     "ProductId": 1521,
     "design_code": "BCF2014",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18255,7 +18255,7 @@
     "ProductId": 1522,
     "design_code": "BCM2014",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -18267,7 +18267,7 @@
     "ProductId": 1523,
     "design_code": "BCF2015",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18279,7 +18279,7 @@
     "ProductId": 1524,
     "design_code": "BCM2015",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -18291,7 +18291,7 @@
     "ProductId": 1525,
     "design_code": "BCF2018",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18303,7 +18303,7 @@
     "ProductId": 1526,
     "design_code": "BCM2018",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -18315,7 +18315,7 @@
     "ProductId": 1527,
     "design_code": "BCF2019",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18327,7 +18327,7 @@
     "ProductId": 1528,
     "design_code": "BCM2019",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -18339,7 +18339,7 @@
     "ProductId": 1529,
     "design_code": "BCF2020",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18351,7 +18351,7 @@
     "ProductId": 1530,
     "design_code": "BCM2020",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -18363,7 +18363,7 @@
     "ProductId": 1531,
     "design_code": "BCF2025",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18375,7 +18375,7 @@
     "ProductId": 1532,
     "design_code": "BCM2025",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -18387,7 +18387,7 @@
     "ProductId": 1533,
     "design_code": "BCF2017",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18399,7 +18399,7 @@
     "ProductId": 1534,
     "design_code": "BCM2017",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 18,
     "base_thickness": 0.8,
@@ -18411,7 +18411,7 @@
     "ProductId": 1535,
     "design_code": "BCF2066",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 12.5,
     "base_thickness": 1.3,
@@ -18423,7 +18423,7 @@
     "ProductId": 1536,
     "design_code": "BCM2066",
     "name": null,
-    "category": "Nhẫn cưới",
+    "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 20,
     "base_thickness": 1.4,
@@ -18729,7 +18729,7 @@
     "base_thickness": null,
     "base_width": null,
     "prongs_height": null,
-    "status": null
+    "status": "Active"
   },
   {
     "ProductId": 1562,
@@ -18741,7 +18741,7 @@
     "base_thickness": null,
     "base_width": null,
     "prongs_height": null,
-    "status": null
+    "status": "Active"
   },
   {
     "ProductId": 1563,
@@ -18753,13 +18753,325 @@
     "base_thickness": null,
     "base_width": null,
     "prongs_height": null,
-    "status": null
+    "status": "Active"
   },
   {
     "ProductId": 1564,
     "design_code": "DLN2502",
     "name": null,
     "category": "Nhẫn kim cương",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1565,
+    "design_code": "DLB1101",
+    "name": null,
+    "category": "Bông tai",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1566,
+    "design_code": "DLB1102",
+    "name": null,
+    "category": "Bông tai",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1567,
+    "design_code": "DLB1103",
+    "name": null,
+    "category": "Bông tai",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1568,
+    "design_code": "DLM8101",
+    "name": null,
+    "category": "Mặt dây chuyền",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1569,
+    "design_code": "DLM2103",
+    "name": null,
+    "category": "Mặt dây chuyền",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1570,
+    "design_code": "DLM8102",
+    "name": null,
+    "category": "Mặt dây chuyền",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1571,
+    "design_code": "DLM8103",
+    "name": null,
+    "category": "Mặt dây chuyền",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1572,
+    "design_code": "DLM8104",
+    "name": null,
+    "category": "Mặt dây chuyền",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1573,
+    "design_code": "DLM8107",
+    "name": null,
+    "category": "Mặt dây chuyền",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1574,
+    "design_code": "DLV5101",
+    "name": null,
+    "category": "Vòng tay",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1575,
+    "design_code": "DLV5102",
+    "name": null,
+    "category": "Vòng tay",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1576,
+    "design_code": "DLN1001",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1577,
+    "design_code": "DLN1002",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1578,
+    "design_code": "DLN1003",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1579,
+    "design_code": "DLN2001",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1580,
+    "design_code": "DLN2002",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1581,
+    "design_code": "DLN2003",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1582,
+    "design_code": "DLN2004",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1583,
+    "design_code": "DLN2005",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1584,
+    "design_code": "DLN2006",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1585,
+    "design_code": "DLN2102",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1586,
+    "design_code": "DLN4102",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1587,
+    "design_code": "DLN4101",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1588,
+    "design_code": "DLN3101",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1589,
+    "design_code": "DLN2201",
+    "name": null,
+    "category": null,
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1590,
+    "design_code": "DLN2103",
+    "name": null,
+    "category": null,
     "diameter": null,
     "ring_size": null,
     "base_thickness": null,
