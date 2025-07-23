@@ -5886,7 +5886,7 @@
     "category": "Nhẫn thời trang",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": 1.2,
+    "base_thickness": 1.9,
     "base_width": 1.95,
     "prongs_height": null,
     "status": "Active"
@@ -6055,7 +6055,7 @@
     "diameter": null,
     "ring_size": 8,
     "base_thickness": 1.3,
-    "base_width": 1.9,
+    "base_width": 2,
     "prongs_height": null,
     "status": "Active"
   },
@@ -7267,8 +7267,8 @@
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.3,
-    "base_width": 2.16,
-    "prongs_height": null,
+    "base_width": 2,
+    "prongs_height": 6.3,
     "status": "Inactive"
   },
   {
@@ -7795,7 +7795,7 @@
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.4,
-    "base_width": 2.3,
+    "base_width": 2,
     "prongs_height": null,
     "status": "Inactive"
   },
@@ -10279,7 +10279,7 @@
     "diameter": null,
     "ring_size": 17,
     "base_thickness": 1.3,
-    "base_width": 3.4,
+    "base_width": 3,
     "prongs_height": null,
     "status": "Active"
   },
@@ -12235,7 +12235,7 @@
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.2,
-    "base_width": 2.45,
+    "base_width": 2.5,
     "prongs_height": null,
     "status": "Active"
   },
@@ -12246,8 +12246,8 @@
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 10,
-    "base_thickness": 1.2,
-    "base_width": 3.2,
+    "base_thickness": 1.1,
+    "base_width": 4.35,
     "prongs_height": null,
     "status": "Active"
   },
@@ -12258,8 +12258,8 @@
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 10,
-    "base_thickness": 1.2,
-    "base_width": 2.2,
+    "base_thickness": 1.15,
+    "base_width": 2.36,
     "prongs_height": null,
     "status": "Active"
   },
@@ -12307,7 +12307,7 @@
     "diameter": null,
     "ring_size": 8,
     "base_thickness": 1.3,
-    "base_width": 2.65,
+    "base_width": 2.6,
     "prongs_height": null,
     "status": "Active"
   },
@@ -12318,7 +12318,7 @@
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": 1.3,
+    "base_thickness": 1.4,
     "base_width": 2.35,
     "prongs_height": null,
     "status": "Active"
@@ -12403,7 +12403,7 @@
     "diameter": null,
     "ring_size": 8,
     "base_thickness": 1.3,
-    "base_width": 2.6,
+    "base_width": 2.3,
     "prongs_height": null,
     "status": "Active"
   },
@@ -12450,7 +12450,7 @@
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 10,
-    "base_thickness": 1.2,
+    "base_thickness": 1.3,
     "base_width": 2.7,
     "prongs_height": null,
     "status": "Active"
@@ -12666,8 +12666,8 @@
     "category": "Nhẫn cưới nữ",
     "diameter": null,
     "ring_size": 10,
-    "base_thickness": 1,
-    "base_width": 2.4,
+    "base_thickness": 1.1,
+    "base_width": 2.5,
     "prongs_height": null,
     "status": "Active"
   },
@@ -14106,8 +14106,8 @@
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 20,
-    "base_thickness": 1.2,
-    "base_width": 3.85,
+    "base_thickness": 1.1,
+    "base_width": 5.15,
     "prongs_height": null,
     "status": "Active"
   },
@@ -14118,8 +14118,8 @@
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 20,
-    "base_thickness": 1.2,
-    "base_width": 3.3,
+    "base_thickness": 1.15,
+    "base_width": 3.45,
     "prongs_height": null,
     "status": "Active"
   },
@@ -14167,7 +14167,7 @@
     "diameter": null,
     "ring_size": 16,
     "base_thickness": 1.3,
-    "base_width": 3.2,
+    "base_width": 3.1,
     "prongs_height": null,
     "status": "Active"
   },
@@ -14178,8 +14178,8 @@
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 16,
-    "base_thickness": 1.3,
-    "base_width": 3.2,
+    "base_thickness": 1.4,
+    "base_width": 2.5,
     "prongs_height": null,
     "status": "Active"
   },
@@ -14262,8 +14262,8 @@
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 15,
-    "base_thickness": 1.35,
-    "base_width": 3.35,
+    "base_thickness": 1.3,
+    "base_width": 3,
     "prongs_height": null,
     "status": "Active"
   },
@@ -14310,8 +14310,8 @@
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 15,
-    "base_thickness": 1.3,
-    "base_width": 3.4,
+    "base_thickness": 1.4,
+    "base_width": 3.5,
     "prongs_height": null,
     "status": "Active"
   },
@@ -14550,8 +14550,8 @@
     "category": "Nhẫn cưới nam",
     "diameter": null,
     "ring_size": 20,
-    "base_thickness": 1.2,
-    "base_width": 2.4,
+    "base_thickness": 1.1,
+    "base_width": 2.5,
     "prongs_height": null,
     "status": "Active"
   },

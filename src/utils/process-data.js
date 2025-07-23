@@ -43,6 +43,7 @@ const ensureDirectoryExists = (dirPath) => {
 };
 
 // Utility function to clean and convert data
+// Utility function to clean and convert data
 const cleanValue = (value, isPricing = false) => {
   if (value === undefined || value === null || value === '') {
     return null;
@@ -62,8 +63,13 @@ const cleanValue = (value, isPricing = false) => {
       }
     }
     
-    // Try to convert to number if it's a numeric string (without commas)
-    if (!trimmed.includes(',')) {
+    // Check if it's a dimension string (contains '*' or 'x')
+    if (trimmed.includes('*') || trimmed.includes('x') || trimmed.includes('X')) {
+      return trimmed; // Preserve dimension strings as-is
+    }
+    
+    // Try to convert to number if it's a pure numeric string (without commas or dimension indicators)
+    if (!trimmed.includes(',') && !trimmed.includes('*') && !trimmed.includes('x') && !trimmed.includes('X')) {
       const num = parseFloat(trimmed);
       if (!isNaN(num) && isFinite(num)) {
         return num;
