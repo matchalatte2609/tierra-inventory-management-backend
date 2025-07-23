@@ -5952,7 +5952,7 @@
   {
     "ProductId": 596,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.6,
     "gold_14k_weight": 2.17,
     "plat_900_weight": 3.43,
@@ -5962,7 +5962,7 @@
   {
     "ProductId": 597,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 6.3,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.56,
     "gold_14k_weight": 2.14,
     "plat_900_weight": 3.38,
@@ -5972,7 +5972,7 @@
   {
     "ProductId": 598,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.78,
     "gold_14k_weight": 2.33,
     "plat_900_weight": "-",
@@ -5982,7 +5982,7 @@
   {
     "ProductId": 599,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.57,
     "gold_14k_weight": 2.15,
     "plat_900_weight": 3.39,
@@ -5992,7 +5992,7 @@
   {
     "ProductId": 600,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.27,
     "gold_14k_weight": 1.89,
     "plat_900_weight": 3,
@@ -6092,7 +6092,7 @@
   {
     "ProductId": 610,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 1.71,
     "gold_14k_weight": 1.43,
     "plat_900_weight": "-",
@@ -6102,7 +6102,7 @@
   {
     "ProductId": 611,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.09,
     "gold_14k_weight": 1.74,
     "plat_900_weight": null,
@@ -6112,7 +6112,7 @@
   {
     "ProductId": 612,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.03,
     "gold_14k_weight": 1.7,
     "plat_900_weight": "-",
@@ -6172,7 +6172,7 @@
   {
     "ProductId": 618,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 4.5,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 1.87,
     "gold_14k_weight": 1.56,
     "plat_900_weight": 2.47,
@@ -6212,7 +6212,7 @@
   {
     "ProductId": 622,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.44,
     "gold_14k_weight": 2.04,
     "plat_900_weight": 3.22,
@@ -6222,7 +6222,7 @@
   {
     "ProductId": 623,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 1.94,
     "gold_14k_weight": 1.62,
     "plat_900_weight": 2.56,
@@ -6272,7 +6272,7 @@
   {
     "ProductId": 628,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 7.2,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.51,
     "gold_14k_weight": 2.93,
     "plat_900_weight": 4.63,
@@ -6282,7 +6282,7 @@
   {
     "ProductId": 629,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 7.2,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.71,
     "gold_14k_weight": 3.1,
     "plat_900_weight": 4.9,
@@ -6292,7 +6292,7 @@
   {
     "ProductId": 630,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.12,
     "gold_14k_weight": 1.78,
     "plat_900_weight": 2.8,
@@ -6332,7 +6332,7 @@
   {
     "ProductId": 634,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.58,
     "gold_14k_weight": 3.29,
     "plat_900_weight": "",
@@ -6352,7 +6352,7 @@
   {
     "ProductId": 636,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 1.64,
     "gold_14k_weight": 1.37,
     "plat_900_weight": "-",
@@ -6362,7 +6362,7 @@
   {
     "ProductId": 637,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 1.78,
     "gold_14k_weight": 1.49,
     "plat_900_weight": "-",
@@ -6372,7 +6372,7 @@
   {
     "ProductId": 638,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 1.8,
     "gold_14k_weight": 1.5,
     "plat_900_weight": "-",
@@ -6402,7 +6402,7 @@
   {
     "ProductId": 641,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.86,
     "gold_14k_weight": 2.39,
     "plat_900_weight": 3.78,
@@ -6412,7 +6412,7 @@
   {
     "ProductId": 642,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 6.3,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.22,
     "gold_14k_weight": 1.85,
     "plat_900_weight": 2.93,
@@ -6422,7 +6422,7 @@
   {
     "ProductId": 643,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.45,
     "gold_14k_weight": 2.05,
     "plat_900_weight": 3.23,
@@ -6432,7 +6432,7 @@
   {
     "ProductId": 644,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.48,
     "gold_14k_weight": 2.07,
     "plat_900_weight": 3.27,
@@ -6452,7 +6452,7 @@
   {
     "ProductId": 646,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 6.16,
     "gold_14k_weight": 5.68,
     "plat_900_weight": "",
@@ -6482,7 +6482,7 @@
   {
     "ProductId": 649,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.11,
     "gold_14k_weight": 2.6,
     "plat_900_weight": "",
@@ -6502,7 +6502,7 @@
   {
     "ProductId": 651,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.63,
     "gold_14k_weight": 2.2,
     "plat_900_weight": "",
@@ -6512,7 +6512,7 @@
   {
     "ProductId": 652,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.94,
     "gold_14k_weight": 2.46,
     "plat_900_weight": 3.88,
@@ -6532,7 +6532,7 @@
   {
     "ProductId": 654,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.1,
     "gold_14k_weight": 1.75,
     "plat_900_weight": 2.77,
@@ -6732,7 +6732,7 @@
   {
     "ProductId": 674,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.15,
     "gold_14k_weight": 2.64,
     "plat_900_weight": 4.16,
@@ -6752,7 +6752,7 @@
   {
     "ProductId": 676,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.64,
     "gold_14k_weight": 2.21,
     "plat_900_weight": 3.48,
@@ -6772,7 +6772,7 @@
   {
     "ProductId": 678,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.48,
     "gold_14k_weight": 2.07,
     "plat_900_weight": 3.27,
@@ -6782,7 +6782,7 @@
   {
     "ProductId": 679,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.59,
     "gold_14k_weight": 2.17,
     "plat_900_weight": 3.42,
@@ -6832,7 +6832,7 @@
   {
     "ProductId": 684,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.35,
     "gold_14k_weight": 1.97,
     "plat_900_weight": 3.1,
@@ -6892,7 +6892,7 @@
   {
     "ProductId": 690,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.56,
     "gold_14k_weight": 2.14,
     "plat_900_weight": "",
@@ -6902,7 +6902,7 @@
   {
     "ProductId": 691,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 4.11,
     "gold_14k_weight": 3.43,
     "plat_900_weight": 5.43,
@@ -6912,7 +6912,7 @@
   {
     "ProductId": 692,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.54,
     "gold_14k_weight": 3.3,
     "plat_900_weight": "",
@@ -6932,7 +6932,7 @@
   {
     "ProductId": 694,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.28,
     "gold_14k_weight": 1.9,
     "plat_900_weight": 3.01,
@@ -6952,7 +6952,7 @@
   {
     "ProductId": 696,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.65,
     "gold_14k_weight": 2.21,
     "plat_900_weight": 3.5,
@@ -7002,7 +7002,7 @@
   {
     "ProductId": 701,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.48,
     "gold_14k_weight": 2.91,
     "plat_900_weight": 4.59,
@@ -7012,7 +7012,7 @@
   {
     "ProductId": 702,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.32,
     "gold_14k_weight": 3.05,
     "plat_900_weight": 4.38,
@@ -7032,7 +7032,7 @@
   {
     "ProductId": 704,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.06,
     "gold_14k_weight": 2.55,
     "plat_900_weight": "",
@@ -7042,7 +7042,7 @@
   {
     "ProductId": 705,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.02,
     "gold_14k_weight": 2.52,
     "plat_900_weight": 3.99,
@@ -7082,7 +7082,7 @@
   {
     "ProductId": 709,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.68,
     "gold_14k_weight": 2.24,
     "plat_900_weight": 3.54,
@@ -7132,7 +7132,7 @@
   {
     "ProductId": 714,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.35,
     "gold_14k_weight": 2.19,
     "plat_900_weight": 3.15,
@@ -7152,7 +7152,7 @@
   {
     "ProductId": 716,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.18,
     "gold_14k_weight": 1.83,
     "plat_900_weight": 2.88,
@@ -7162,7 +7162,7 @@
   {
     "ProductId": 717,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.63,
     "gold_14k_weight": 2.2,
     "plat_900_weight": 3.47,
@@ -7182,7 +7182,7 @@
   {
     "ProductId": 719,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.85,
     "gold_14k_weight": 3.54,
     "plat_900_weight": 5.09,
@@ -7302,7 +7302,7 @@
   {
     "ProductId": 731,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.59,
     "gold_14k_weight": 3.3,
     "plat_900_weight": "",
@@ -7312,7 +7312,7 @@
   {
     "ProductId": 732,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.09,
     "gold_14k_weight": 2.83,
     "plat_900_weight": "",
@@ -7332,7 +7332,7 @@
   {
     "ProductId": 734,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.92,
     "gold_14k_weight": 2.44,
     "plat_900_weight": 3.85,
@@ -7372,7 +7372,7 @@
   {
     "ProductId": 738,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.12,
     "gold_14k_weight": 2.61,
     "plat_900_weight": 4.12,
@@ -7382,7 +7382,7 @@
   {
     "ProductId": 739,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.47,
     "gold_14k_weight": 2.07,
     "plat_900_weight": 3.26,
@@ -7392,7 +7392,7 @@
   {
     "ProductId": 740,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.59,
     "gold_14k_weight": 2.16,
     "plat_900_weight": 3.42,
@@ -7442,7 +7442,7 @@
   {
     "ProductId": 745,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.77,
     "gold_14k_weight": 2.31,
     "plat_900_weight": 3.66,
@@ -7452,7 +7452,7 @@
   {
     "ProductId": 746,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.31,
     "gold_14k_weight": 1.93,
     "plat_900_weight": 3.05,
@@ -7462,7 +7462,7 @@
   {
     "ProductId": 747,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.87,
     "gold_14k_weight": 2.4,
     "plat_900_weight": 3.79,
@@ -7472,7 +7472,7 @@
   {
     "ProductId": 748,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.39,
     "gold_14k_weight": 2,
     "plat_900_weight": 3.15,
@@ -7502,7 +7502,7 @@
   {
     "ProductId": 751,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 4.07,
     "gold_14k_weight": 3.8,
     "plat_900_weight": "",
@@ -7522,7 +7522,7 @@
   {
     "ProductId": 753,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 6.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.13,
     "gold_14k_weight": 2.61,
     "plat_900_weight": 4.13,
@@ -7532,7 +7532,7 @@
   {
     "ProductId": 754,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.78,
     "gold_14k_weight": 3.47,
     "plat_900_weight": 4.99,
@@ -7542,7 +7542,7 @@
   {
     "ProductId": 755,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.55,
     "gold_14k_weight": 2.13,
     "plat_900_weight": 3.37,
@@ -7592,7 +7592,7 @@
   {
     "ProductId": 760,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.9,
     "gold_14k_weight": 2.42,
     "plat_900_weight": 3.83,
@@ -7602,7 +7602,7 @@
   {
     "ProductId": 761,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.59,
     "gold_14k_weight": 3.35,
     "plat_900_weight": "",
@@ -7622,7 +7622,7 @@
   {
     "ProductId": 763,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.02,
     "gold_14k_weight": 2.82,
     "plat_900_weight": "",
@@ -7642,7 +7642,7 @@
   {
     "ProductId": 765,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.98,
     "gold_14k_weight": 2.49,
     "plat_900_weight": 3.93,
@@ -7652,7 +7652,7 @@
   {
     "ProductId": 766,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.76,
     "gold_14k_weight": 2.31,
     "plat_900_weight": 3.64,
@@ -8002,7 +8002,7 @@
   {
     "ProductId": 801,
     "main_gemstone_shape": "Heart",
-    "main_gemstone_size": 6,
+    "main_gemstone_size": 5.5,
     "gold_18k_weight": 3.26,
     "gold_14k_weight": 2.73,
     "plat_900_weight": 4.3,
@@ -8042,7 +8042,7 @@
   {
     "ProductId": 805,
     "main_gemstone_shape": "Heart",
-    "main_gemstone_size": 5,
+    "main_gemstone_size": 5.5,
     "gold_18k_weight": 2.47,
     "gold_14k_weight": 2.07,
     "plat_900_weight": 3.26,
@@ -8102,7 +8102,7 @@
   {
     "ProductId": 811,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.96,
     "gold_14k_weight": 2.47,
     "plat_900_weight": 3.91,
@@ -8132,7 +8132,7 @@
   {
     "ProductId": 814,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.85,
     "gold_14k_weight": 3.59,
     "plat_900_weight": "",
@@ -8142,7 +8142,7 @@
   {
     "ProductId": 815,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 3.15,
     "gold_14k_weight": 2.63,
     "plat_900_weight": 4.16,
@@ -8152,7 +8152,7 @@
   {
     "ProductId": 816,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 5.06,
     "gold_14k_weight": 4.65,
     "plat_900_weight": "",
@@ -8162,7 +8162,7 @@
   {
     "ProductId": 817,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 4.65,
     "gold_14k_weight": 4.34,
     "plat_900_weight": "",
@@ -8182,7 +8182,7 @@
   {
     "ProductId": 819,
     "main_gemstone_shape": "Round",
-    "main_gemstone_size": 5.4,
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.47,
     "gold_14k_weight": 2.06,
     "plat_900_weight": 3.26,
@@ -14433,8 +14433,8 @@
     "ProductId": 1444,
     "main_gemstone_shape": null,
     "main_gemstone_size": null,
-    "gold_18k_weight": 1.46,
-    "gold_14k_weight": 1.22,
+    "gold_18k_weight": 1.73,
+    "gold_14k_weight": 1.44,
     "plat_900_weight": null,
     "surface_plain_pattern": "Pattern",
     "catalogue_color": "Trắng"
@@ -15601,18 +15601,18 @@
   },
   {
     "ProductId": 1561,
-    "main_gemstone_shape": 5,
-    "main_gemstone_size": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 5,
     "gold_18k_weight": 2.1,
     "gold_14k_weight": 1.75,
-    "plat_900_weight": 2.81,
+    "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1562,
-    "main_gemstone_shape": 3.6,
-    "main_gemstone_size": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 3.6,
     "gold_18k_weight": 1.73,
     "gold_14k_weight": 1.45,
     "plat_900_weight": null,
@@ -15621,72 +15621,72 @@
   },
   {
     "ProductId": 1563,
-    "main_gemstone_shape": 5.4,
-    "main_gemstone_size": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 5.4,
     "gold_18k_weight": 3.24,
     "gold_14k_weight": 2.71,
-    "plat_900_weight": 4.34,
+    "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1564,
-    "main_gemstone_shape": 5.4,
-    "main_gemstone_size": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 5.4,
     "gold_18k_weight": 3.23,
     "gold_14k_weight": 2.7,
-    "plat_900_weight": 4.33,
+    "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1565,
-    "main_gemstone_shape": 3.6,
-    "main_gemstone_size": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 3.6,
     "gold_18k_weight": 2.96,
     "gold_14k_weight": 2.47,
     "plat_900_weight": 3.97,
-    "surface_plain_pattern": null,
+    "surface_plain_pattern": "Pattern",
     "catalogue_color": null
   },
   {
     "ProductId": 1566,
-    "main_gemstone_shape": 3.6,
-    "main_gemstone_size": null,
-    "gold_18k_weight": 1.04,
-    "gold_14k_weight": 0.87,
-    "plat_900_weight": 1.39,
-    "surface_plain_pattern": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 3.6,
+    "gold_18k_weight": 2.45,
+    "gold_14k_weight": 2.05,
+    "plat_900_weight": 1.82,
+    "surface_plain_pattern": "Pattern",
     "catalogue_color": null
   },
   {
     "ProductId": 1567,
-    "main_gemstone_shape": 3.6,
-    "main_gemstone_size": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 3.6,
     "gold_18k_weight": 2.67,
     "gold_14k_weight": 2.23,
     "plat_900_weight": 3.57,
-    "surface_plain_pattern": null,
+    "surface_plain_pattern": "Pattern",
     "catalogue_color": null
   },
   {
     "ProductId": 1568,
-    "main_gemstone_shape": 3.6,
-    "main_gemstone_size": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 3.6,
     "gold_18k_weight": 1.25,
     "gold_14k_weight": 1.05,
     "plat_900_weight": 1.68,
-    "surface_plain_pattern": null,
+    "surface_plain_pattern": "Pattern",
     "catalogue_color": null
   },
   {
     "ProductId": 1569,
-    "main_gemstone_shape": 4,
-    "main_gemstone_size": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 4,
     "gold_18k_weight": 1.95,
     "gold_14k_weight": 1.63,
     "plat_900_weight": null,
-    "surface_plain_pattern": null,
+    "surface_plain_pattern": "Pattern",
     "catalogue_color": null
   },
   {
@@ -15696,7 +15696,7 @@
     "gold_18k_weight": 0.77,
     "gold_14k_weight": 0.65,
     "plat_900_weight": null,
-    "surface_plain_pattern": null,
+    "surface_plain_pattern": "Pattern",
     "catalogue_color": null
   },
   {
@@ -15706,7 +15706,7 @@
     "gold_18k_weight": 0.96,
     "gold_14k_weight": 0.81,
     "plat_900_weight": 1.29,
-    "surface_plain_pattern": null,
+    "surface_plain_pattern": "Pattern",
     "catalogue_color": null
   },
   {
@@ -15716,17 +15716,27 @@
     "gold_18k_weight": 1.29,
     "gold_14k_weight": 1.08,
     "plat_900_weight": 1.73,
-    "surface_plain_pattern": null,
+    "surface_plain_pattern": "Pattern",
     "catalogue_color": null
   },
   {
     "ProductId": 1573,
-    "main_gemstone_shape": 4,
+    "main_gemstone_shape": null,
     "main_gemstone_size": null,
+    "gold_18k_weight": 1.65,
+    "gold_14k_weight": 1.38,
+    "plat_900_weight": null,
+    "surface_plain_pattern": "Pattern",
+    "catalogue_color": null
+  },
+  {
+    "ProductId": 1574,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 4,
     "gold_18k_weight": 3.12,
     "gold_14k_weight": 2.61,
     "plat_900_weight": null,
-    "surface_plain_pattern": null,
+    "surface_plain_pattern": "Pattern",
     "catalogue_color": null
   },
   {
@@ -15741,8 +15751,8 @@
   },
   {
     "ProductId": 1575,
-    "main_gemstone_shape": 3.6,
-    "main_gemstone_size": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 3.6,
     "gold_18k_weight": 1.86,
     "gold_14k_weight": 1.56,
     "plat_900_weight": 2.5,
@@ -15751,80 +15761,80 @@
   },
   {
     "ProductId": 1576,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 6,
+    "gold_18k_weight": 2.63,
+    "gold_14k_weight": 2.2,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1577,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 6.3,
+    "gold_18k_weight": 3.32,
+    "gold_14k_weight": 2.77,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1578,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 6.3,
+    "gold_18k_weight": 3.01,
+    "gold_14k_weight": 2.52,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1579,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 6.3,
+    "gold_18k_weight": 3.67,
+    "gold_14k_weight": 3.06,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1580,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 6.3,
+    "gold_18k_weight": 2.83,
+    "gold_14k_weight": 2.37,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1581,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 7.2,
+    "gold_18k_weight": 4.31,
+    "gold_14k_weight": 3.61,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1582,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 6.3,
+    "gold_18k_weight": 3.96,
+    "gold_14k_weight": 3.31,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1583,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 6.3,
+    "gold_18k_weight": 3.7,
+    "gold_14k_weight": 3.1,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
@@ -15841,40 +15851,40 @@
   },
   {
     "ProductId": 1585,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 5.4,
+    "gold_18k_weight": 3.22,
+    "gold_14k_weight": 2.69,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1586,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 6.3,
+    "gold_18k_weight": 3.64,
+    "gold_14k_weight": 3.04,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1587,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 6.3,
+    "gold_18k_weight": 3.48,
+    "gold_14k_weight": 2.91,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
   },
   {
     "ProductId": 1588,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 6.1,
+    "gold_18k_weight": 2.92,
+    "gold_14k_weight": 2.44,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
@@ -15891,10 +15901,10 @@
   },
   {
     "ProductId": 1590,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Round",
+    "main_gemstone_size": 6.3,
+    "gold_18k_weight": 3.85,
+    "gold_14k_weight": 3.22,
     "plat_900_weight": null,
     "surface_plain_pattern": null,
     "catalogue_color": null
