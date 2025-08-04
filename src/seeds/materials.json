@@ -4893,9 +4893,9 @@
     "ProductId": 490,
     "main_gemstone_shape": null,
     "main_gemstone_size": "",
-    "gold_18k_weight": 2.42,
-    "gold_14k_weight": 2.22,
-    "plat_900_weight": 3.2,
+    "gold_18k_weight": 2.32,
+    "gold_14k_weight": 1.94,
+    "plat_900_weight": 3.11,
     "surface_plain_pattern": "Pattern",
     "catalogue_color": "Hồng"
   },
@@ -8413,9 +8413,9 @@
     "ProductId": 842,
     "main_gemstone_shape": null,
     "main_gemstone_size": "",
-    "gold_18k_weight": 3.56,
-    "gold_14k_weight": 3.27,
-    "plat_900_weight": 4.7,
+    "gold_18k_weight": 3.22,
+    "gold_14k_weight": 2.69,
+    "plat_900_weight": 4.32,
     "surface_plain_pattern": "Pattern",
     "catalogue_color": "Hồng"
   },
@@ -10013,8 +10013,8 @@
     "ProductId": 1002,
     "main_gemstone_shape": null,
     "main_gemstone_size": "",
-    "gold_18k_weight": 2.85,
-    "gold_14k_weight": 2.62,
+    "gold_18k_weight": 2.81,
+    "gold_14k_weight": 2.35,
     "plat_900_weight": 3.77,
     "surface_plain_pattern": "Pattern",
     "catalogue_color": "Trắng"
@@ -11563,8 +11563,8 @@
     "ProductId": 1157,
     "main_gemstone_shape": null,
     "main_gemstone_size": "",
-    "gold_18k_weight": 4.68,
-    "gold_14k_weight": 4.3,
+    "gold_18k_weight": 4.61,
+    "gold_14k_weight": 3.85,
     "plat_900_weight": 6.18,
     "surface_plain_pattern": "Plain",
     "catalogue_color": "Trắng"
@@ -15183,9 +15183,9 @@
     "ProductId": 1519,
     "main_gemstone_shape": null,
     "main_gemstone_size": null,
-    "gold_18k_weight": 2.27,
-    "gold_14k_weight": 1.9,
-    "plat_900_weight": 3.05,
+    "gold_18k_weight": 2.39,
+    "gold_14k_weight": 1.99,
+    "plat_900_weight": 3.2,
     "surface_plain_pattern": "Plain",
     "catalogue_color": "Trắng"
   },
@@ -15193,9 +15193,9 @@
     "ProductId": 1520,
     "main_gemstone_shape": null,
     "main_gemstone_size": null,
-    "gold_18k_weight": 2.77,
-    "gold_14k_weight": 2.32,
-    "plat_900_weight": 3.72,
+    "gold_18k_weight": 2.88,
+    "gold_14k_weight": 2.4,
+    "plat_900_weight": 3.86,
     "surface_plain_pattern": "Plain",
     "catalogue_color": "Trắng"
   },
@@ -15747,7 +15747,7 @@
     "gold_14k_weight": 2.2,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1576,
@@ -15757,7 +15757,7 @@
     "gold_14k_weight": 2.77,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1577,
@@ -15767,7 +15767,7 @@
     "gold_14k_weight": 2.52,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1578,
@@ -15777,7 +15777,7 @@
     "gold_14k_weight": 3.06,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1579,
@@ -15787,7 +15787,7 @@
     "gold_14k_weight": 2.37,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1580,
@@ -15797,7 +15797,7 @@
     "gold_14k_weight": 3.61,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1581,
@@ -15807,7 +15807,7 @@
     "gold_14k_weight": 3.31,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1582,
@@ -15817,7 +15817,7 @@
     "gold_14k_weight": 3.1,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1583,
@@ -15837,7 +15837,7 @@
     "gold_14k_weight": 2.69,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1585,
@@ -15847,7 +15847,7 @@
     "gold_14k_weight": 3.04,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1586,
@@ -15857,7 +15857,7 @@
     "gold_14k_weight": 2.91,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1587,
@@ -15867,7 +15867,7 @@
     "gold_14k_weight": 2.44,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1588,
@@ -15877,7 +15877,7 @@
     "gold_14k_weight": "-",
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   },
   {
     "ProductId": 1589,
@@ -15887,6 +15887,6 @@
     "gold_14k_weight": 3.22,
     "plat_900_weight": "-",
     "surface_plain_pattern": null,
-    "catalogue_color": null
+    "catalogue_color": "Trắng"
   }
 ]
