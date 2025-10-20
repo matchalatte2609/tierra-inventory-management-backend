@@ -5101,7 +5101,7 @@
   },
   {
     "ProductId": 426,
-    "design_code": "UNF0013",
+    "design_code": "UCF0013",
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -5161,7 +5161,7 @@
   },
   {
     "ProductId": 431,
-    "design_code": "UNF0024",
+    "design_code": "UCF0024",
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -5233,7 +5233,7 @@
   },
   {
     "ProductId": 437,
-    "design_code": "UNF0042",
+    "design_code": "UCF0042",
     "name": "Petal of Joy 1",
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -5245,7 +5245,7 @@
   },
   {
     "ProductId": 438,
-    "design_code": "UNF0043",
+    "design_code": "UCF0043",
     "name": "Petal of Joy 2",
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -5257,7 +5257,7 @@
   },
   {
     "ProductId": 439,
-    "design_code": "UNF0044",
+    "design_code": "UCF0044",
     "name": "Petal of Love 2",
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -5269,7 +5269,7 @@
   },
   {
     "ProductId": 440,
-    "design_code": "UNF0045",
+    "design_code": "UCF0045",
     "name": "Petal of Love 1",
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -5281,7 +5281,7 @@
   },
   {
     "ProductId": 441,
-    "design_code": "UNF0046",
+    "design_code": "UCF0046",
     "name": "Petal of Happyness 3",
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -5295,7 +5295,7 @@
     "ProductId": 442,
     "design_code": "NCF0101",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -5307,7 +5307,7 @@
     "ProductId": 443,
     "design_code": "NCF0102",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.5,
@@ -5319,7 +5319,7 @@
     "ProductId": 444,
     "design_code": "BCF0103",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -5331,7 +5331,7 @@
     "ProductId": 445,
     "design_code": "NCF0104",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.5,
@@ -5343,7 +5343,7 @@
     "ProductId": 446,
     "design_code": "BCF0105",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.5,
@@ -5355,7 +5355,7 @@
     "ProductId": 447,
     "design_code": "NCF0106",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": null,
@@ -5367,7 +5367,7 @@
     "ProductId": 448,
     "design_code": "BCF0107",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.4,
@@ -5379,7 +5379,7 @@
     "ProductId": 449,
     "design_code": "NCF0108",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.45,
@@ -5391,7 +5391,7 @@
     "ProductId": 450,
     "design_code": "NCF0109",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.45,
@@ -5403,7 +5403,7 @@
     "ProductId": 451,
     "design_code": "BCF0111",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -5415,7 +5415,7 @@
     "ProductId": 452,
     "design_code": "BCF0114",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.5,
@@ -5427,7 +5427,7 @@
     "ProductId": 453,
     "design_code": "BCF0117",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -5439,7 +5439,7 @@
     "ProductId": 454,
     "design_code": "NCF0118",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.3,
@@ -5451,7 +5451,7 @@
     "ProductId": 455,
     "design_code": "BCF0119",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.45,
@@ -5463,7 +5463,7 @@
     "ProductId": 456,
     "design_code": "BCF0120",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.4,
@@ -5475,7 +5475,7 @@
     "ProductId": 457,
     "design_code": "BCF0121",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.5,
@@ -5487,7 +5487,7 @@
     "ProductId": 458,
     "design_code": "BCF0122",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.4,
@@ -5499,7 +5499,7 @@
     "ProductId": 459,
     "design_code": "BCF0124",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -5511,7 +5511,7 @@
     "ProductId": 460,
     "design_code": "NCF0125",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.5,
@@ -5523,7 +5523,7 @@
     "ProductId": 461,
     "design_code": "NCF0126",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.6,
@@ -5535,7 +5535,7 @@
     "ProductId": 462,
     "design_code": "BCF0127",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.4,
@@ -5547,7 +5547,7 @@
     "ProductId": 463,
     "design_code": "BCF0128",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.4,
@@ -5559,7 +5559,7 @@
     "ProductId": 464,
     "design_code": "BCF0129",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -5571,7 +5571,7 @@
     "ProductId": 465,
     "design_code": "BCF0131",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -5583,7 +5583,7 @@
     "ProductId": 466,
     "design_code": "NCF0132",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.65,
@@ -5595,7 +5595,7 @@
     "ProductId": 467,
     "design_code": "NCF0133",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.45,
@@ -5607,7 +5607,7 @@
     "ProductId": 468,
     "design_code": "NCF0134",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.6,
@@ -5619,7 +5619,7 @@
     "ProductId": 469,
     "design_code": "NCF0135",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.8,
@@ -5631,7 +5631,7 @@
     "ProductId": 470,
     "design_code": "BCF0136",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.8,
@@ -5643,7 +5643,7 @@
     "ProductId": 471,
     "design_code": "NCF0138",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.4,
@@ -5655,7 +5655,7 @@
     "ProductId": 472,
     "design_code": "BCF0139",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.4,
@@ -5667,7 +5667,7 @@
     "ProductId": 473,
     "design_code": "BCF0140",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 15,
     "base_thickness": 1.4,
@@ -5679,7 +5679,7 @@
     "ProductId": 474,
     "design_code": "NCF0141",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -5691,7 +5691,7 @@
     "ProductId": 475,
     "design_code": "BCF0142",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -5703,7 +5703,7 @@
     "ProductId": 476,
     "design_code": "BCF0143",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.9,
@@ -6361,7 +6361,7 @@
   },
   {
     "ProductId": 531,
-    "design_code": "UNF2058",
+    "design_code": "UCF2058",
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -6409,7 +6409,7 @@
   },
   {
     "ProductId": 535,
-    "design_code": "UNF2079",
+    "design_code": "UCF2079",
     "name": "Petal of Joy 3",
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -6421,7 +6421,7 @@
   },
   {
     "ProductId": 536,
-    "design_code": "UNF2081",
+    "design_code": "UCF2081",
     "name": "Petal of Happyness 2",
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -6433,7 +6433,7 @@
   },
   {
     "ProductId": 537,
-    "design_code": "UNF2090",
+    "design_code": "UCF2090",
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -6553,7 +6553,7 @@
   },
   {
     "ProductId": 547,
-    "design_code": "UNF3013",
+    "design_code": "UCF3013",
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -6565,7 +6565,7 @@
   },
   {
     "ProductId": 548,
-    "design_code": "UNF3026",
+    "design_code": "UCF3026",
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -6841,7 +6841,7 @@
   },
   {
     "ProductId": 571,
-    "design_code": "UNF8010",
+    "design_code": "UCF8010",
     "name": "Petal of Happyness 1",
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -6853,7 +6853,7 @@
   },
   {
     "ProductId": 572,
-    "design_code": "UNF9003",
+    "design_code": "UCF9003",
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -6865,7 +6865,7 @@
   },
   {
     "ProductId": 573,
-    "design_code": "UNF9004",
+    "design_code": "UCF9004",
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -6913,7 +6913,7 @@
   },
   {
     "ProductId": 577,
-    "design_code": "UNF9010",
+    "design_code": "UCF9010",
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -6925,7 +6925,7 @@
   },
   {
     "ProductId": 578,
-    "design_code": "UNF9011",
+    "design_code": "UCF9011",
     "name": "Petal of Happyness 4",
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -9745,7 +9745,7 @@
   },
   {
     "ProductId": 813,
-    "design_code": "UNM0013",
+    "design_code": "UCM0013",
     "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -9805,7 +9805,7 @@
   },
   {
     "ProductId": 818,
-    "design_code": "UNM0024",
+    "design_code": "UCM0024",
     "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -9877,7 +9877,7 @@
   },
   {
     "ProductId": 824,
-    "design_code": "UNM0042",
+    "design_code": "UCM0042",
     "name": "Petal of Joy 1",
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -9889,7 +9889,7 @@
   },
   {
     "ProductId": 825,
-    "design_code": "UNM0043",
+    "design_code": "UCM0043",
     "name": "Petal of Joy 2",
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -9901,7 +9901,7 @@
   },
   {
     "ProductId": 826,
-    "design_code": "UNM0044",
+    "design_code": "UCM0044",
     "name": "Petal of Love 2",
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -9913,7 +9913,7 @@
   },
   {
     "ProductId": 827,
-    "design_code": "UNM0045",
+    "design_code": "UCM0045",
     "name": "Petal of Love 1",
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -9925,7 +9925,7 @@
   },
   {
     "ProductId": 828,
-    "design_code": "UNM0046",
+    "design_code": "UCM0046",
     "name": "Petal of Happyness 3",
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -10585,7 +10585,7 @@
   },
   {
     "ProductId": 883,
-    "design_code": "UNM2058",
+    "design_code": "UCM2058",
     "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -10633,7 +10633,7 @@
   },
   {
     "ProductId": 887,
-    "design_code": "UNM2079",
+    "design_code": "UCM2079",
     "name": "Petal of Joy 3",
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -10645,7 +10645,7 @@
   },
   {
     "ProductId": 888,
-    "design_code": "UNM2081",
+    "design_code": "UCM2081",
     "name": "Petal of Happyness 2",
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -10657,7 +10657,7 @@
   },
   {
     "ProductId": 889,
-    "design_code": "UNM2090",
+    "design_code": "UCM2090",
     "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -10765,7 +10765,7 @@
   },
   {
     "ProductId": 898,
-    "design_code": "UNM3013",
+    "design_code": "UCM3013",
     "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -10777,7 +10777,7 @@
   },
   {
     "ProductId": 899,
-    "design_code": "UNM3026",
+    "design_code": "UCM3026",
     "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -11029,7 +11029,7 @@
   },
   {
     "ProductId": 920,
-    "design_code": "UNM8010",
+    "design_code": "UCM8010",
     "name": "Petal of Happyness 1",
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -11041,7 +11041,7 @@
   },
   {
     "ProductId": 921,
-    "design_code": "UNM9003",
+    "design_code": "UCM9003",
     "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -11053,7 +11053,7 @@
   },
   {
     "ProductId": 922,
-    "design_code": "UNM9004",
+    "design_code": "UCM9004",
     "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -11101,7 +11101,7 @@
   },
   {
     "ProductId": 926,
-    "design_code": "UNM9010",
+    "design_code": "UCM9010",
     "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -11113,7 +11113,7 @@
   },
   {
     "ProductId": 927,
-    "design_code": "UNM9011",
+    "design_code": "UCM9011",
     "name": "Petal of Happyness 4",
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -12097,7 +12097,7 @@
   },
   {
     "ProductId": 1009,
-    "design_code": "UNF2026",
+    "design_code": "UCF2026",
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -12277,7 +12277,7 @@
   },
   {
     "ProductId": 1024,
-    "design_code": "UNF2053",
+    "design_code": "UCF2053",
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -12337,7 +12337,7 @@
   },
   {
     "ProductId": 1029,
-    "design_code": "UNF2080",
+    "design_code": "UCF2080",
     "name": "Petal of Joy 4",
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -12445,7 +12445,7 @@
   },
   {
     "ProductId": 1038,
-    "design_code": "UNF3024",
+    "design_code": "UCF3024",
     "name": "Love'Em",
     "category": "Nhẫn cưới nữ",
     "diameter": null,
@@ -12507,7 +12507,7 @@
     "ProductId": 1043,
     "design_code": "NKC0003",
     "name": "Satin Heart",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -12519,7 +12519,7 @@
     "ProductId": 1044,
     "design_code": "UKC0005",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12531,7 +12531,7 @@
     "ProductId": 1045,
     "design_code": "UKC0007",
     "name": "Twin Flowers",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.5,
@@ -12543,7 +12543,7 @@
     "ProductId": 1046,
     "design_code": "UKC0008",
     "name": "Fancy Wide Band",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.3,
@@ -12555,7 +12555,7 @@
     "ProductId": 1047,
     "design_code": "UKC0009",
     "name": "Diamond Bowtie",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.3,
@@ -12567,7 +12567,7 @@
     "ProductId": 1048,
     "design_code": "NKC0011",
     "name": "White Camelia Diamond Ring",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12579,7 +12579,7 @@
     "ProductId": 1049,
     "design_code": "UKC0012",
     "name": "Plumeria Diamond Lady Ring",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12591,7 +12591,7 @@
     "ProductId": 1050,
     "design_code": "UKC0014",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1.4,
@@ -12603,7 +12603,7 @@
     "ProductId": 1051,
     "design_code": "UKC0015",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1.3,
@@ -12615,7 +12615,7 @@
     "ProductId": 1052,
     "design_code": "UKC1001",
     "name": "Tender Of Flower",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.4,
@@ -12627,7 +12627,7 @@
     "ProductId": 1053,
     "design_code": "UKC1003",
     "name": "Fully Heart",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": 1.3,
@@ -12639,7 +12639,7 @@
     "ProductId": 1054,
     "design_code": "UKC1008",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": "",
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12651,7 +12651,7 @@
     "ProductId": 1055,
     "design_code": "UKC1009",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": "",
     "ring_size": 12,
     "base_thickness": 1.5,
@@ -12663,7 +12663,7 @@
     "ProductId": 1056,
     "design_code": "UKC1125",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12675,7 +12675,7 @@
     "ProductId": 1057,
     "design_code": "UKC1201",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 2.1,
@@ -12687,7 +12687,7 @@
     "ProductId": 1058,
     "design_code": "NKC1201 6.3mm",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 2.1,
@@ -12699,7 +12699,7 @@
     "ProductId": 1059,
     "design_code": "UKC1205",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.5,
@@ -12711,7 +12711,7 @@
     "ProductId": 1060,
     "design_code": "UKC1207",
     "name": "Basket Diamond & Wide Band",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.3,
@@ -12723,7 +12723,7 @@
     "ProductId": 1061,
     "design_code": "NKC1308",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12735,7 +12735,7 @@
     "ProductId": 1062,
     "design_code": "NKC1308 6.3mm",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.45,
@@ -12747,7 +12747,7 @@
     "ProductId": 1063,
     "design_code": "NKC1316",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12759,7 +12759,7 @@
     "ProductId": 1064,
     "design_code": "UKC1428",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.4,
@@ -12771,7 +12771,7 @@
     "ProductId": 1065,
     "design_code": "UKC1511",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.5,
@@ -12783,7 +12783,7 @@
     "ProductId": 1066,
     "design_code": "NKC1608",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12795,7 +12795,7 @@
     "ProductId": 1067,
     "design_code": "NKC1608 6.3mm",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12807,7 +12807,7 @@
     "ProductId": 1068,
     "design_code": "NKC1611",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11.5,
     "base_thickness": 1.3,
@@ -12819,7 +12819,7 @@
     "ProductId": 1069,
     "design_code": "NKC1712",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -12831,7 +12831,7 @@
     "ProductId": 1070,
     "design_code": "UKC1801",
     "name": "Shining Love",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": 1.3,
@@ -12843,7 +12843,7 @@
     "ProductId": 1071,
     "design_code": "UKC2002",
     "name": "Décor Cushion Shape",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": 1.6,
@@ -12855,7 +12855,7 @@
     "ProductId": 1072,
     "design_code": "UKC2003",
     "name": "Queenie Butterfly",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": 2.1,
@@ -12867,7 +12867,7 @@
     "ProductId": 1073,
     "design_code": "UKC2006",
     "name": "Tournesol Bleu",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.3,
@@ -12879,7 +12879,7 @@
     "ProductId": 1074,
     "design_code": "NKC2008",
     "name": "Anne Queen'S Lace Diamond Lady Ring",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12891,7 +12891,7 @@
     "ProductId": 1075,
     "design_code": "UKC2010",
     "name": "Custom Halo With Rhombus Bridge Accent",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12903,7 +12903,7 @@
     "ProductId": 1076,
     "design_code": "UKC2012",
     "name": "Royal Milgrain Pattern",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12915,7 +12915,7 @@
     "ProductId": 1077,
     "design_code": "UKC2013",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12927,7 +12927,7 @@
     "ProductId": 1078,
     "design_code": "NKC2014",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12939,7 +12939,7 @@
     "ProductId": 1079,
     "design_code": "UKC2015",
     "name": "Full Of Light",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.3,
@@ -12951,7 +12951,7 @@
     "ProductId": 1080,
     "design_code": "NKC2015 6.3mm",
     "name": "Full Of Light",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": 1.3,
@@ -12963,7 +12963,7 @@
     "ProductId": 1081,
     "design_code": "UKC2017",
     "name": "Migranie Wide Band",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -12975,7 +12975,7 @@
     "ProductId": 1082,
     "design_code": "UKC2102",
     "name": "Vintage Butterfly",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": 1.4,
@@ -12987,7 +12987,7 @@
     "ProductId": 1083,
     "design_code": "NKC2203",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -12999,7 +12999,7 @@
     "ProductId": 1084,
     "design_code": "UKC2301",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13011,7 +13011,7 @@
     "ProductId": 1085,
     "design_code": "UKC2302",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13023,7 +13023,7 @@
     "ProductId": 1086,
     "design_code": "UKC2303",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13035,7 +13035,7 @@
     "ProductId": 1087,
     "design_code": "NKC2304",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13047,7 +13047,7 @@
     "ProductId": 1088,
     "design_code": "UKC2305",
     "name": "Double Halo Wide Band",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13059,7 +13059,7 @@
     "ProductId": 1089,
     "design_code": "UKC2306",
     "name": "Rose Gold Papillon",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": 1.3,
@@ -13071,7 +13071,7 @@
     "ProductId": 1090,
     "design_code": "UKC2308",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": null,
@@ -13083,7 +13083,7 @@
     "ProductId": 1091,
     "design_code": "NKC2401",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13095,7 +13095,7 @@
     "ProductId": 1092,
     "design_code": "NKC2405",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13107,7 +13107,7 @@
     "ProductId": 1093,
     "design_code": "NKC2405 6.3mm",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.35,
@@ -13119,7 +13119,7 @@
     "ProductId": 1094,
     "design_code": "UKC2406",
     "name": "Halo Twisted  Band",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -13131,7 +13131,7 @@
     "ProductId": 1095,
     "design_code": "UKC2408",
     "name": "Vintage Twisted Buds",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.9,
@@ -13143,7 +13143,7 @@
     "ProductId": 1096,
     "design_code": "UKC2501",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.5,
@@ -13155,7 +13155,7 @@
     "ProductId": 1097,
     "design_code": "UKC2502",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": "",
     "ring_size": 10.5,
     "base_thickness": 1.6,
@@ -13167,7 +13167,7 @@
     "ProductId": 1098,
     "design_code": "UKC2504",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13179,7 +13179,7 @@
     "ProductId": 1099,
     "design_code": "UKC2505",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13191,7 +13191,7 @@
     "ProductId": 1100,
     "design_code": "UKC2508",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13203,7 +13203,7 @@
     "ProductId": 1101,
     "design_code": "NKC2509",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.4,
@@ -13215,7 +13215,7 @@
     "ProductId": 1102,
     "design_code": "UKC2514",
     "name": "Fancy Sunflower",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": 1.3,
@@ -13227,7 +13227,7 @@
     "ProductId": 1103,
     "design_code": "UKC3005",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.35,
@@ -13239,7 +13239,7 @@
     "ProductId": 1104,
     "design_code": "NKC3103",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13251,7 +13251,7 @@
     "ProductId": 1105,
     "design_code": "NKC3206",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.5,
@@ -13263,7 +13263,7 @@
     "ProductId": 1106,
     "design_code": "NKC3301",
     "name": "Five Stone With Bridge Accent Stone",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13275,7 +13275,7 @@
     "ProductId": 1107,
     "design_code": "UKC3302",
     "name": "Art Deco Three Stone",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.3,
@@ -13287,7 +13287,7 @@
     "ProductId": 1108,
     "design_code": "UKC4110",
     "name": "Spring Peony",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.4,
@@ -13299,7 +13299,7 @@
     "ProductId": 1109,
     "design_code": "UKC4111",
     "name": "Spring Dandelion",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13311,7 +13311,7 @@
     "ProductId": 1110,
     "design_code": "UKC4112",
     "name": "Spring Willow",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.4,
@@ -13323,7 +13323,7 @@
     "ProductId": 1111,
     "design_code": "UKC4113",
     "name": "Joy of Spring",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -13335,7 +13335,7 @@
     "ProductId": 1112,
     "design_code": "UKC4114",
     "name": "Spring Sunflower",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -13347,7 +13347,7 @@
     "ProductId": 1113,
     "design_code": "UKC4117",
     "name": "Spring Light",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.4,
@@ -13359,7 +13359,7 @@
     "ProductId": 1114,
     "design_code": "UKC4118",
     "name": "Love of Spring",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.3,
@@ -13371,7 +13371,7 @@
     "ProductId": 1115,
     "design_code": "UKC4119",
     "name": "Dream's Spring",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.3,
@@ -13383,7 +13383,7 @@
     "ProductId": 1116,
     "design_code": "UKC4120",
     "name": "Spring Muse",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.3,
@@ -13395,7 +13395,7 @@
     "ProductId": 1117,
     "design_code": "UKC4121",
     "name": "Radiant Spring",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13407,7 +13407,7 @@
     "ProductId": 1118,
     "design_code": "UKC4201",
     "name": "Lotus Of Clear Moon",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": 1.3,
@@ -13419,7 +13419,7 @@
     "ProductId": 1119,
     "design_code": "UKC8101",
     "name": "La Reine",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": 1.39,
@@ -13431,7 +13431,7 @@
     "ProductId": 1120,
     "design_code": "NKC8103",
     "name": "Princess Cut With Royal Pattern",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": 1.4,
@@ -13443,7 +13443,7 @@
     "ProductId": 1121,
     "design_code": "UKC8204",
     "name": "Emerald And Split Diamond Band",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13455,7 +13455,7 @@
     "ProductId": 1122,
     "design_code": "UKC8205",
     "name": "Emerald And Twisted Diamond Band",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 9,
     "base_thickness": 1.3,
@@ -13467,7 +13467,7 @@
     "ProductId": 1123,
     "design_code": "UKC8207",
     "name": "Shape Of Emerald",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1.3,
@@ -13479,7 +13479,7 @@
     "ProductId": 1124,
     "design_code": "UKC8210",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13491,7 +13491,7 @@
     "ProductId": 1125,
     "design_code": "NKC8211",
     "name": "Radiant Cut And Décor Split Shank",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13503,7 +13503,7 @@
     "ProductId": 1126,
     "design_code": "UKC8302",
     "name": "Custom Pear Cut",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 5,
     "base_thickness": 1.3,
@@ -13515,7 +13515,7 @@
     "ProductId": 1127,
     "design_code": "UKC8402",
     "name": "You'Re My Treasure",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 12,
     "base_thickness": 1.6,
@@ -13527,7 +13527,7 @@
     "ProductId": 1128,
     "design_code": "UKC8503",
     "name": "Five Stone With Bridge Accent Stone",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.4,
@@ -13539,7 +13539,7 @@
     "ProductId": 1129,
     "design_code": "UKC8505",
     "name": "Princess Modern Oval",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 2.1,
@@ -13551,7 +13551,7 @@
     "ProductId": 1130,
     "design_code": "UKC9901",
     "name": "The Fleur",
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.4,
@@ -13563,7 +13563,7 @@
     "ProductId": 1131,
     "design_code": "UKC9902",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13575,7 +13575,7 @@
     "ProductId": 1132,
     "design_code": "NKC9905",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -13587,7 +13587,7 @@
     "ProductId": 1133,
     "design_code": "NKC9906",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.5,
@@ -13599,7 +13599,7 @@
     "ProductId": 1134,
     "design_code": "UKC9907",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -13611,7 +13611,7 @@
     "ProductId": 1135,
     "design_code": "UKC9908",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -13623,7 +13623,7 @@
     "ProductId": 1136,
     "design_code": "UKC9914",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.4,
@@ -13635,7 +13635,7 @@
     "ProductId": 1137,
     "design_code": "UKC9915",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13647,7 +13647,7 @@
     "ProductId": 1138,
     "design_code": "UKC9916",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -13659,7 +13659,7 @@
     "ProductId": 1139,
     "design_code": "NKC9917",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -13957,7 +13957,7 @@
   },
   {
     "ProductId": 1164,
-    "design_code": "UNM2026",
+    "design_code": "UCM2026",
     "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -14137,7 +14137,7 @@
   },
   {
     "ProductId": 1179,
-    "design_code": "UNM2053",
+    "design_code": "UCM2053",
     "name": null,
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -14197,7 +14197,7 @@
   },
   {
     "ProductId": 1184,
-    "design_code": "UNM2080",
+    "design_code": "UCM2080",
     "name": "Petal of Joy 4",
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -14305,7 +14305,7 @@
   },
   {
     "ProductId": 1193,
-    "design_code": "UNM3024",
+    "design_code": "UCM3024",
     "name": "Love'Em",
     "category": "Nhẫn cưới nam",
     "diameter": null,
@@ -16107,7 +16107,7 @@
     "ProductId": 1343,
     "design_code": "FNN1201",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 8,
     "base_thickness": 1.2,
@@ -16119,7 +16119,7 @@
     "ProductId": 1344,
     "design_code": "FNN1202",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 8,
     "base_thickness": 1.2,
@@ -16131,7 +16131,7 @@
     "ProductId": 1345,
     "design_code": "FNN1203",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 8,
     "base_thickness": 1.25,
@@ -16143,7 +16143,7 @@
     "ProductId": 1346,
     "design_code": "FNN1204",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.4,
@@ -16155,7 +16155,7 @@
     "ProductId": 1347,
     "design_code": "FNN1205",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -16167,7 +16167,7 @@
     "ProductId": 1348,
     "design_code": "FNN1206",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.2,
@@ -16179,7 +16179,7 @@
     "ProductId": 1349,
     "design_code": "FNN1207",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.2,
@@ -16191,7 +16191,7 @@
     "ProductId": 1350,
     "design_code": "FNN1208",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -16203,7 +16203,7 @@
     "ProductId": 1351,
     "design_code": "FNN1801",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -16215,7 +16215,7 @@
     "ProductId": 1352,
     "design_code": "FNN1802",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -16227,7 +16227,7 @@
     "ProductId": 1353,
     "design_code": "FNN1803",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.3,
@@ -16239,7 +16239,7 @@
     "ProductId": 1354,
     "design_code": "FNN1804",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.2,
@@ -16251,7 +16251,7 @@
     "ProductId": 1355,
     "design_code": "FNN1805",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.2,
@@ -16263,7 +16263,7 @@
     "ProductId": 1356,
     "design_code": "FNN1806",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.2,
@@ -16275,7 +16275,7 @@
     "ProductId": 1357,
     "design_code": "FNN1901",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 1.2,
@@ -16287,7 +16287,7 @@
     "ProductId": 1358,
     "design_code": "FNN5101",
     "name": "Xuân Đào",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 8.5,
     "base_thickness": null,
@@ -16299,7 +16299,7 @@
     "ProductId": 1359,
     "design_code": "FNN5102",
     "name": "Nút Thắt Tường An",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 9.5,
     "base_thickness": null,
@@ -16311,7 +16311,7 @@
     "ProductId": 1360,
     "design_code": "FNN5103",
     "name": "Tường Vân \" Phúc \"",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": null,
@@ -16323,7 +16323,7 @@
     "ProductId": 1361,
     "design_code": "FNN5104",
     "name": "Tường Vân \" Lộc \"",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": null,
@@ -16335,7 +16335,7 @@
     "ProductId": 1362,
     "design_code": "FNN5106",
     "name": "Mini Teddy Huggie",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 6.5,
     "base_thickness": null,
@@ -16347,7 +16347,7 @@
     "ProductId": 1363,
     "design_code": "FNN5107",
     "name": "Teddy Huggie",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": null,
@@ -16359,7 +16359,7 @@
     "ProductId": 1364,
     "design_code": "FNN5108",
     "name": "Heart Candy",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": null,
@@ -16371,7 +16371,7 @@
     "ProductId": 1365,
     "design_code": "FNN5109",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": null,
@@ -16383,7 +16383,7 @@
     "ProductId": 1366,
     "design_code": "FNN5109",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": null,
@@ -16395,7 +16395,7 @@
     "ProductId": 1367,
     "design_code": "FNN5109",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 16,
     "base_thickness": null,
@@ -16407,7 +16407,7 @@
     "ProductId": 1368,
     "design_code": "FNN5109",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 19,
     "base_thickness": null,
@@ -16419,7 +16419,7 @@
     "ProductId": 1369,
     "design_code": "FNN5110",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": null,
@@ -16431,7 +16431,7 @@
     "ProductId": 1370,
     "design_code": "FNN5110",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": null,
@@ -16443,7 +16443,7 @@
     "ProductId": 1371,
     "design_code": "FNN5110",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 16,
     "base_thickness": null,
@@ -16455,7 +16455,7 @@
     "ProductId": 1372,
     "design_code": "FNN5110",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 19,
     "base_thickness": null,
@@ -16467,7 +16467,7 @@
     "ProductId": 1373,
     "design_code": "FNN5111",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": null,
@@ -16479,7 +16479,7 @@
     "ProductId": 1374,
     "design_code": "FNN5111",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 13,
     "base_thickness": null,
@@ -16491,7 +16491,7 @@
     "ProductId": 1375,
     "design_code": "FNN5111",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 16,
     "base_thickness": null,
@@ -16503,7 +16503,7 @@
     "ProductId": 1376,
     "design_code": "FNN5111",
     "name": "Kim Tiền",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 19,
     "base_thickness": null,
@@ -16515,7 +16515,7 @@
     "ProductId": 1377,
     "design_code": "FNN5112",
     "name": "Kim Tiền Chiêu Tài",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": null,
     "base_thickness": null,
@@ -16527,7 +16527,7 @@
     "ProductId": 1378,
     "design_code": "FNN5113",
     "name": "Kim Tiền Chiêu An",
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": null,
     "base_thickness": null,
@@ -17029,18 +17029,6 @@
   },
   {
     "ProductId": 1420,
-    "design_code": "FVT5119",
-    "name": "Kim Tiền",
-    "category": "Vòng tay",
-    "diameter": null,
-    "ring_size": null,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
-    "ProductId": 1421,
     "design_code": "UVT9001",
     "name": null,
     "category": "Vòng tay",
@@ -17052,7 +17040,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1422,
+    "ProductId": 1421,
     "design_code": "UVT9002",
     "name": null,
     "category": "Vòng tay",
@@ -17064,7 +17052,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1423,
+    "ProductId": 1422,
     "design_code": "VTA9003",
     "name": null,
     "category": "Vòng tay",
@@ -17076,7 +17064,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1424,
+    "ProductId": 1423,
     "design_code": "UVT9004",
     "name": null,
     "category": "Vòng tay",
@@ -17088,7 +17076,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1425,
+    "ProductId": 1424,
     "design_code": "UMD8155",
     "name": null,
     "category": "Mặt dây chuyền",
@@ -17100,10 +17088,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1426,
+    "ProductId": 1425,
     "design_code": "UKC0022",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": null,
     "base_thickness": null,
@@ -17112,7 +17100,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1427,
+    "ProductId": 1426,
     "design_code": "UBT8152",
     "name": null,
     "category": "Bông tai",
@@ -17124,7 +17112,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1428,
+    "ProductId": 1427,
     "design_code": "VTA1118",
     "name": null,
     "category": "Vòng tay",
@@ -17136,7 +17124,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1429,
+    "ProductId": 1428,
     "design_code": "BCF0012",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17148,7 +17136,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1430,
+    "ProductId": 1429,
     "design_code": "BCM0012",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17160,7 +17148,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1431,
+    "ProductId": 1430,
     "design_code": "BCF1002",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17172,7 +17160,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1432,
+    "ProductId": 1431,
     "design_code": "BCM1002",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17184,7 +17172,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1433,
+    "ProductId": 1432,
     "design_code": "BCF1042",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17196,7 +17184,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1434,
+    "ProductId": 1433,
     "design_code": "BCM1042",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17208,7 +17196,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1435,
+    "ProductId": 1434,
     "design_code": "BCF2004",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17220,7 +17208,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1436,
+    "ProductId": 1435,
     "design_code": "BCM2004",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17232,7 +17220,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1437,
+    "ProductId": 1436,
     "design_code": "BCF2009",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17244,7 +17232,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1438,
+    "ProductId": 1437,
     "design_code": "BCM2009",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17256,7 +17244,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1439,
+    "ProductId": 1438,
     "design_code": "BCF2016",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17268,7 +17256,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1440,
+    "ProductId": 1439,
     "design_code": "BCM2016",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17280,7 +17268,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1441,
+    "ProductId": 1440,
     "design_code": "BCF2023",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17292,7 +17280,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1442,
+    "ProductId": 1441,
     "design_code": "BCM2023",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17304,7 +17292,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1443,
+    "ProductId": 1442,
     "design_code": "BCF2024",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17316,7 +17304,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1444,
+    "ProductId": 1443,
     "design_code": "BCM2024",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17328,7 +17316,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1445,
+    "ProductId": 1444,
     "design_code": "BCF2031",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17340,7 +17328,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1446,
+    "ProductId": 1445,
     "design_code": "BCM2031",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17352,7 +17340,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1447,
+    "ProductId": 1446,
     "design_code": "BCF2043",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17364,7 +17352,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1448,
+    "ProductId": 1447,
     "design_code": "BCM2043",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17376,7 +17364,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1449,
+    "ProductId": 1448,
     "design_code": "BCF2054",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17388,7 +17376,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1450,
+    "ProductId": 1449,
     "design_code": "BCM2054",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17400,7 +17388,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1451,
+    "ProductId": 1450,
     "design_code": "BCF2070",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17412,7 +17400,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1452,
+    "ProductId": 1451,
     "design_code": "BCM2070",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17424,7 +17412,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1453,
+    "ProductId": 1452,
     "design_code": "BCF3002",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17436,7 +17424,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1454,
+    "ProductId": 1453,
     "design_code": "BCM3002",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17448,7 +17436,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1455,
+    "ProductId": 1454,
     "design_code": "BCF3011",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17460,7 +17448,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1456,
+    "ProductId": 1455,
     "design_code": "BCM3011",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17472,7 +17460,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1457,
+    "ProductId": 1456,
     "design_code": "BCF3024",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17484,7 +17472,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1458,
+    "ProductId": 1457,
     "design_code": "BCM3024",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17496,7 +17484,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1459,
+    "ProductId": 1458,
     "design_code": "BNC2020",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17508,7 +17496,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1460,
+    "ProductId": 1459,
     "design_code": "NCC2027",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17520,7 +17508,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1461,
+    "ProductId": 1460,
     "design_code": "NCC2020",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17532,7 +17520,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1462,
+    "ProductId": 1461,
     "design_code": "BNC7010",
     "name": "Tender Love",
     "category": "Nhẫn cưới",
@@ -17544,7 +17532,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1463,
+    "ProductId": 1462,
     "design_code": "BNC2018",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17556,7 +17544,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1464,
+    "ProductId": 1463,
     "design_code": "BNC2066",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17568,7 +17556,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1465,
+    "ProductId": 1464,
     "design_code": "BNC2031",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17580,7 +17568,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1466,
+    "ProductId": 1465,
     "design_code": "BNC2007",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17592,7 +17580,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1467,
+    "ProductId": 1466,
     "design_code": "NCC2062",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17604,7 +17592,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1468,
+    "ProductId": 1467,
     "design_code": "BNC2054",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17616,7 +17604,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1469,
+    "ProductId": 1468,
     "design_code": "BNC2003",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17628,7 +17616,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1470,
+    "ProductId": 1469,
     "design_code": "BNC2014",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17640,7 +17628,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1471,
+    "ProductId": 1470,
     "design_code": "BNC1024",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17652,7 +17640,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1472,
+    "ProductId": 1471,
     "design_code": "BNC1003",
     "name": null,
     "category": "Nhẫn cưới",
@@ -17664,7 +17652,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1473,
+    "ProductId": 1472,
     "design_code": "BNC7008",
     "name": "Destiny Hallf",
     "category": "Nhẫn cưới",
@@ -17676,7 +17664,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1474,
+    "ProductId": 1473,
     "design_code": "BCF2002",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17688,7 +17676,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1475,
+    "ProductId": 1474,
     "design_code": "BCM2002",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17700,7 +17688,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1476,
+    "ProductId": 1475,
     "design_code": "BCF3005",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17712,7 +17700,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1477,
+    "ProductId": 1476,
     "design_code": "BCM3005",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17724,7 +17712,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1478,
+    "ProductId": 1477,
     "design_code": "BCF2007",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17736,7 +17724,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1479,
+    "ProductId": 1478,
     "design_code": "BCM2007",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17748,7 +17736,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1480,
+    "ProductId": 1479,
     "design_code": "BCF2008",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17760,7 +17748,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1481,
+    "ProductId": 1480,
     "design_code": "BCM2008",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17772,7 +17760,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1482,
+    "ProductId": 1481,
     "design_code": "BCF2055",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17784,7 +17772,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1483,
+    "ProductId": 1482,
     "design_code": "BCM2055",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17796,7 +17784,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1484,
+    "ProductId": 1483,
     "design_code": "BCF2022",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17808,7 +17796,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1485,
+    "ProductId": 1484,
     "design_code": "BCM2022",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17820,7 +17808,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1486,
+    "ProductId": 1485,
     "design_code": "BCF0001",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17832,7 +17820,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1487,
+    "ProductId": 1486,
     "design_code": "BCM0001",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17844,7 +17832,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1488,
+    "ProductId": 1487,
     "design_code": "BCF2010",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17856,7 +17844,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1489,
+    "ProductId": 1488,
     "design_code": "BCM2010",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17868,7 +17856,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1490,
+    "ProductId": 1489,
     "design_code": "BCF1003",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17880,7 +17868,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1491,
+    "ProductId": 1490,
     "design_code": "BCM1003",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17892,7 +17880,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1492,
+    "ProductId": 1491,
     "design_code": "BCF1015",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17904,7 +17892,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1493,
+    "ProductId": 1492,
     "design_code": "BCM1015",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17916,7 +17904,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1494,
+    "ProductId": 1493,
     "design_code": "BCF2003",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17928,7 +17916,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1495,
+    "ProductId": 1494,
     "design_code": "BCM2003",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17940,7 +17928,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1496,
+    "ProductId": 1495,
     "design_code": "BCF2005",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17952,7 +17940,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1497,
+    "ProductId": 1496,
     "design_code": "BCM2005",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17964,7 +17952,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1498,
+    "ProductId": 1497,
     "design_code": "BCF2012",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -17976,7 +17964,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1499,
+    "ProductId": 1498,
     "design_code": "BCM2012",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -17988,7 +17976,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1500,
+    "ProductId": 1499,
     "design_code": "BCF3007",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -18000,7 +17988,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1501,
+    "ProductId": 1500,
     "design_code": "BCM3007",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -18012,7 +18000,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1502,
+    "ProductId": 1501,
     "design_code": "BCF0006",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -18024,7 +18012,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1503,
+    "ProductId": 1502,
     "design_code": "BCM0006",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -18036,7 +18024,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1504,
+    "ProductId": 1503,
     "design_code": "BCF2013",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -18048,7 +18036,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1505,
+    "ProductId": 1504,
     "design_code": "BCM2013",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -18060,7 +18048,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1506,
+    "ProductId": 1505,
     "design_code": "BCF2014",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -18072,7 +18060,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1507,
+    "ProductId": 1506,
     "design_code": "BCM2014",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -18084,7 +18072,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1508,
+    "ProductId": 1507,
     "design_code": "BCF2015",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -18096,7 +18084,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1509,
+    "ProductId": 1508,
     "design_code": "BCM2015",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -18108,7 +18096,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1510,
+    "ProductId": 1509,
     "design_code": "BCF2018",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -18120,7 +18108,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1511,
+    "ProductId": 1510,
     "design_code": "BCM2018",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -18132,7 +18120,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1512,
+    "ProductId": 1511,
     "design_code": "BCF2019",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -18144,7 +18132,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1513,
+    "ProductId": 1512,
     "design_code": "BCM2019",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -18156,7 +18144,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1514,
+    "ProductId": 1513,
     "design_code": "BCF2020",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -18168,7 +18156,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1515,
+    "ProductId": 1514,
     "design_code": "BCM2020",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -18180,7 +18168,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1516,
+    "ProductId": 1515,
     "design_code": "BCF2025",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -18192,7 +18180,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1517,
+    "ProductId": 1516,
     "design_code": "BCM2025",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -18204,7 +18192,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1518,
+    "ProductId": 1517,
     "design_code": "BCF2017",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -18216,7 +18204,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1519,
+    "ProductId": 1518,
     "design_code": "BCM2017",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -18228,7 +18216,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1520,
+    "ProductId": 1519,
     "design_code": "BCF2066",
     "name": null,
     "category": "Nhẫn cưới nữ",
@@ -18240,7 +18228,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1521,
+    "ProductId": 1520,
     "design_code": "BCM2066",
     "name": null,
     "category": "Nhẫn cưới nam",
@@ -18252,7 +18240,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1522,
+    "ProductId": 1521,
     "design_code": "BNC2009",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18264,7 +18252,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1523,
+    "ProductId": 1522,
     "design_code": "BNC7001",
     "name": "Always You",
     "category": "Nhẫn cưới",
@@ -18276,7 +18264,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1524,
+    "ProductId": 1523,
     "design_code": "BNC2025",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18288,7 +18276,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1525,
+    "ProductId": 1524,
     "design_code": "NCC2029",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18300,7 +18288,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1526,
+    "ProductId": 1525,
     "design_code": "BNC2010",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18312,7 +18300,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1527,
+    "ProductId": 1526,
     "design_code": "BNC1006",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18324,7 +18312,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1528,
+    "ProductId": 1527,
     "design_code": "BNC0001",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18336,7 +18324,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1529,
+    "ProductId": 1528,
     "design_code": "BNC1004",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18348,7 +18336,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1530,
+    "ProductId": 1529,
     "design_code": "BNC1012",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18360,7 +18348,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1531,
+    "ProductId": 1530,
     "design_code": "NCC2023",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18372,7 +18360,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1532,
+    "ProductId": 1531,
     "design_code": "BNC2019",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18384,7 +18372,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1533,
+    "ProductId": 1532,
     "design_code": "NCC2035",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18396,7 +18384,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1534,
+    "ProductId": 1533,
     "design_code": "NCC3007",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18408,7 +18396,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1535,
+    "ProductId": 1534,
     "design_code": "BNC7009",
     "name": "Warmest Embrace",
     "category": "Nhẫn cưới",
@@ -18420,7 +18408,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1536,
+    "ProductId": 1535,
     "design_code": "BNC0006",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18432,7 +18420,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1537,
+    "ProductId": 1536,
     "design_code": "BNC2023",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18444,7 +18432,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1538,
+    "ProductId": 1537,
     "design_code": "BNC2070",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18456,7 +18444,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1539,
+    "ProductId": 1538,
     "design_code": "BNC2016",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18468,7 +18456,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1540,
+    "ProductId": 1539,
     "design_code": "NCC1013",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18480,7 +18468,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1541,
+    "ProductId": 1540,
     "design_code": "BNC2043",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18492,7 +18480,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1542,
+    "ProductId": 1541,
     "design_code": "BNC1042",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18504,7 +18492,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1543,
+    "ProductId": 1542,
     "design_code": "BNC1015",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18516,7 +18504,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1544,
+    "ProductId": 1543,
     "design_code": "BNC0012",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18528,7 +18516,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1545,
+    "ProductId": 1544,
     "design_code": "BNC2005",
     "name": null,
     "category": "Nhẫn cưới",
@@ -18540,10 +18528,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1546,
+    "ProductId": 1545,
     "design_code": "DLN2101",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18552,10 +18540,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1547,
+    "ProductId": 1546,
     "design_code": "DLN1801",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.1,
@@ -18564,10 +18552,22 @@
     "status": "Active"
   },
   {
-    "ProductId": 1548,
+    "ProductId": 1547,
     "design_code": "DLN2501",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
+    "diameter": null,
+    "ring_size": 11,
+    "base_thickness": 1.3,
+    "base_width": 1.55,
+    "prongs_height": 7.8,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1548,
+    "design_code": "DLN2502",
+    "name": null,
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 1.3,
@@ -18577,18 +18577,6 @@
   },
   {
     "ProductId": 1549,
-    "design_code": "DLN2502",
-    "name": null,
-    "category": "Nhẫn kim cương",
-    "diameter": null,
-    "ring_size": 11,
-    "base_thickness": 1.3,
-    "base_width": 1.55,
-    "prongs_height": 7.8,
-    "status": "Active"
-  },
-  {
-    "ProductId": 1550,
     "design_code": "DLB1101",
     "name": null,
     "category": "Bông tai",
@@ -18600,7 +18588,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1551,
+    "ProductId": 1550,
     "design_code": "DLB1102",
     "name": null,
     "category": "Bông tai",
@@ -18612,7 +18600,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1552,
+    "ProductId": 1551,
     "design_code": "DLB1103",
     "name": null,
     "category": "Bông tai",
@@ -18624,7 +18612,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1553,
+    "ProductId": 1552,
     "design_code": "DLM8101",
     "name": null,
     "category": "Mặt dây chuyền",
@@ -18636,7 +18624,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1554,
+    "ProductId": 1553,
     "design_code": "DLM8104",
     "name": null,
     "category": "Mặt dây chuyền",
@@ -18648,7 +18636,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1555,
+    "ProductId": 1554,
     "design_code": "DLM8106",
     "name": null,
     "category": "Mặt dây chuyền",
@@ -18660,7 +18648,7 @@
     "status": null
   },
   {
-    "ProductId": 1556,
+    "ProductId": 1555,
     "design_code": "DLM8107",
     "name": null,
     "category": "Mặt dây chuyền",
@@ -18672,7 +18660,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1557,
+    "ProductId": 1556,
     "design_code": "DLV5102",
     "name": null,
     "category": "Vòng tay",
@@ -18684,10 +18672,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1558,
+    "ProductId": 1557,
     "design_code": "DLN1001",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18696,10 +18684,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1559,
+    "ProductId": 1558,
     "design_code": "DLN1002",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18708,10 +18696,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1560,
+    "ProductId": 1559,
     "design_code": "DLN1003",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18720,10 +18708,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1561,
+    "ProductId": 1560,
     "design_code": "DLN2001",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18732,10 +18720,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1562,
+    "ProductId": 1561,
     "design_code": "DLN2002",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18744,10 +18732,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1563,
+    "ProductId": 1562,
     "design_code": "DLN2003",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 0.9,
@@ -18756,10 +18744,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1564,
+    "ProductId": 1563,
     "design_code": "DLN2004",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 0.9,
@@ -18768,10 +18756,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1565,
+    "ProductId": 1564,
     "design_code": "DLN2005",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18780,10 +18768,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1566,
+    "ProductId": 1565,
     "design_code": "DLN2102",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18792,10 +18780,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1567,
+    "ProductId": 1566,
     "design_code": "DLN4102",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18804,10 +18792,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1568,
+    "ProductId": 1567,
     "design_code": "DLN4101",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18816,10 +18804,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1569,
+    "ProductId": 1568,
     "design_code": "DLN3101",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18828,10 +18816,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1570,
+    "ProductId": 1569,
     "design_code": "DLN2201",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18840,10 +18828,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1571,
+    "ProductId": 1570,
     "design_code": "DLN2103",
     "name": null,
-    "category": "Nhẫn kim cương",
+    "category": "Nhẫn nữ KC",
     "diameter": null,
     "ring_size": 14,
     "base_thickness": 1,
@@ -18852,7 +18840,55 @@
     "status": "Active"
   },
   {
+    "ProductId": 1571,
+    "design_code": "DLN2010",
+    "name": null,
+    "category": "Nhẫn nữ KC",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
     "ProductId": 1572,
+    "design_code": "DLN2008",
+    "name": null,
+    "category": "Nhẫn nữ KC",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1573,
+    "design_code": "DLN2007",
+    "name": null,
+    "category": "Nhẫn nữ KC",
+    "diameter": null,
+    "ring_size": 14,
+    "base_thickness": 1.1,
+    "base_width": 1.5,
+    "prongs_height": 9.8,
+    "status": null
+  },
+  {
+    "ProductId": 1574,
+    "design_code": "DLM2103",
+    "name": null,
+    "category": "Mặt dây chuyền",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
+  },
+  {
+    "ProductId": 1575,
     "design_code": "FBT0001",
     "name": null,
     "category": "Bông tai",
@@ -18864,7 +18900,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1573,
+    "ProductId": 1576,
     "design_code": "FBT0002",
     "name": null,
     "category": "Bông tai",
@@ -18876,7 +18912,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1574,
+    "ProductId": 1577,
     "design_code": "FBT0003",
     "name": null,
     "category": "Bông tai",
@@ -18888,7 +18924,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1575,
+    "ProductId": 1578,
     "design_code": "FBT0005",
     "name": null,
     "category": "Bông tai",
@@ -18900,7 +18936,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1576,
+    "ProductId": 1579,
     "design_code": "FMD0001",
     "name": null,
     "category": "Mặt dây chuyền",
@@ -18912,7 +18948,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1577,
+    "ProductId": 1580,
     "design_code": "FMD0002",
     "name": null,
     "category": "Mặt dây chuyền",
@@ -18924,7 +18960,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1578,
+    "ProductId": 1581,
     "design_code": "FMD0003",
     "name": null,
     "category": "Mặt dây chuyền",
@@ -18936,7 +18972,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1579,
+    "ProductId": 1582,
     "design_code": "FMD0004",
     "name": null,
     "category": "Mặt dây chuyền",
@@ -18948,7 +18984,7 @@
     "status": "Active"
   },
   {
-    "ProductId": 1580,
+    "ProductId": 1583,
     "design_code": "FMD0005",
     "name": null,
     "category": "Mặt dây chuyền",
@@ -18960,10 +18996,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1581,
+    "ProductId": 1584,
     "design_code": "FNN5114",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
@@ -18972,10 +19008,10 @@
     "status": "Active"
   },
   {
-    "ProductId": 1582,
+    "ProductId": 1585,
     "design_code": "FNN5115",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 10,
     "base_thickness": 0.8,
@@ -18984,15 +19020,27 @@
     "status": "Active"
   },
   {
-    "ProductId": 1583,
+    "ProductId": 1586,
     "design_code": "FNN5116",
     "name": null,
-    "category": "Nhẫn thời trang",
+    "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 11,
     "base_thickness": 0.8,
     "base_width": 0.9,
     "prongs_height": null,
     "status": "Active"
+  },
+  {
+    "ProductId": 1587,
+    "design_code": "FMD0006",
+    "name": null,
+    "category": "Mặt dây chuyền",
+    "diameter": null,
+    "ring_size": null,
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": null
   }
 ]
