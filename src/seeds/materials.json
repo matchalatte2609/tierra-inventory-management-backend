@@ -15776,7 +15776,7 @@
     "gold_18k_weight": 1.72,
     "gold_14k_weight": 1.44,
     "plat_900_weight": null,
-    "surface_plain_pattern": "Pattern",
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   },
   {
@@ -15786,7 +15786,7 @@
     "gold_18k_weight": 1.64,
     "gold_14k_weight": 1.37,
     "plat_900_weight": null,
-    "surface_plain_pattern": "Pattern",
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   },
   {
@@ -15796,7 +15796,7 @@
     "gold_18k_weight": 1.65,
     "gold_14k_weight": 1.38,
     "plat_900_weight": null,
-    "surface_plain_pattern": "Pattern",
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   },
   {
@@ -15806,7 +15806,7 @@
     "gold_18k_weight": 1.44,
     "gold_14k_weight": 1.2,
     "plat_900_weight": null,
-    "surface_plain_pattern": "Pattern",
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   },
   {
@@ -15816,7 +15816,7 @@
     "gold_18k_weight": 0.87,
     "gold_14k_weight": 0.73,
     "plat_900_weight": null,
-    "surface_plain_pattern": "Pattern",
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   },
   {
@@ -15826,7 +15826,7 @@
     "gold_18k_weight": 0.82,
     "gold_14k_weight": 0.69,
     "plat_900_weight": null,
-    "surface_plain_pattern": "Pattern",
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   },
   {
@@ -15836,7 +15836,7 @@
     "gold_18k_weight": 0.73,
     "gold_14k_weight": 0.61,
     "plat_900_weight": null,
-    "surface_plain_pattern": "Pattern",
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   },
   {
@@ -15846,7 +15846,7 @@
     "gold_18k_weight": 1.09,
     "gold_14k_weight": 0.91,
     "plat_900_weight": null,
-    "surface_plain_pattern": "Pattern",
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   },
   {
@@ -15856,17 +15856,17 @@
     "gold_18k_weight": 0.34,
     "gold_14k_weight": 0.29,
     "plat_900_weight": null,
-    "surface_plain_pattern": "Pattern",
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   },
   {
     "ProductId": 1587,
-    "main_gemstone_shape": null,
-    "main_gemstone_size": null,
-    "gold_18k_weight": null,
-    "gold_14k_weight": null,
+    "main_gemstone_shape": "Heart",
+    "main_gemstone_size": 5.4,
+    "gold_18k_weight": 0.49,
+    "gold_14k_weight": 0.41,
     "plat_900_weight": null,
-    "surface_plain_pattern": null,
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   },
   {
@@ -15876,7 +15876,7 @@
     "gold_18k_weight": 1.02,
     "gold_14k_weight": 0.86,
     "plat_900_weight": null,
-    "surface_plain_pattern": "Pattern",
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   },
   {
@@ -15896,7 +15896,7 @@
     "gold_18k_weight": 0.96,
     "gold_14k_weight": 0.8,
     "plat_900_weight": null,
-    "surface_plain_pattern": "Pattern",
+    "surface_plain_pattern": "Plain",
     "catalogue_color": null
   }
 ]
