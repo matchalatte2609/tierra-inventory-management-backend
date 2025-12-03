@@ -29,7 +29,7 @@ const COLUMN_MAPPINGS = {
     outputColumns: ['ProductId', 'diamond_gold_18k', 'diamond_gold_14k', 'diamond_plat_900', 'cz_gold_18k', 'cz_gold_14k', 'cz_plat_900', 'cz_gold_10k']
   },
   shapes: {
-    inputColumns: ['STT', 'Shape1', 'Size1', 'SL1', 'Shape2', 'Size2', 'SL2', 'Shape3', 'Size3', 'SL3', 'Shape4', 'Size4', 'SL4', 'Shape5', 'Size5', 'SL5', 'Shape6', 'Size6', 'SL6', 'Shape7', 'Size7', 'SL7', 'Shape8', 'Size8', 'SL8', 'Shape9', 'Size9', 'SL9', 'Shape10', 'Size10', 'SL10', 'New version'],
+    inputColumns: ['STT', 'Shape1', 'Size1', 'SL1', 'Shape2', 'Size2', 'SL2', 'Shape3', 'Size3', 'SL3', 'Shape4', 'Size4', 'SL4', 'Shape5', 'Size5', 'SL5', 'Shape6', 'Size6', 'SL6', 'Shape7', 'Size7', 'SL7', 'Shape8', 'Size8', 'SL8', 'Shape9', 'Size9', 'SL9', 'Shape10', 'Size10', 'SL10', 'Tối ưu lòng nhẫn? (1=Yes,0=No)'],
     outputColumns: ['ProductId', 'Shape1', 'Size1', 'SL1', 'Shape2', 'Size2', 'SL2', 'Shape3', 'Size3', 'SL3', 'Shape4', 'Size4', 'SL4', 'Shape5', 'Size5', 'SL5', 'Shape6', 'Size6', 'SL6', 'Shape7', 'Size7', 'SL7', 'Shape8', 'Size8', 'SL8', 'Shape9', 'Size9', 'SL9', 'Shape10', 'Size10', 'SL10', 'new_ver']
   }
 };
