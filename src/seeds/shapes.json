@@ -16283,7 +16283,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": 1
+    "new_ver": 0
   },
   {
     "ProductId": 480,
@@ -27979,7 +27979,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": 1
+    "new_ver": 0
   },
   {
     "ProductId": 824,
@@ -30733,7 +30733,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": 1
+    "new_ver": 0
   },
   {
     "ProductId": 905,
@@ -33424,7 +33424,7 @@
   {
     "ProductId": 984,
     "Shape1": "Round",
-    "Size1": "1.2*1.2",
+    "Size1": "1.4*1.4",
     "SL1": 10,
     "Shape2": null,
     "Size2": null,
@@ -33935,7 +33935,7 @@
     "ProductId": 999,
     "Shape1": "Round",
     "Size1": "1.2*1.2",
-    "SL1": 8,
+    "SL1": 12,
     "Shape2": null,
     "Size2": null,
     "SL2": null,
@@ -53445,7 +53445,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1571,
@@ -53479,7 +53479,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1572,
@@ -53513,7 +53513,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1573,
@@ -53547,7 +53547,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1574,
@@ -53581,7 +53581,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1575,
@@ -53615,7 +53615,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1576,
@@ -53649,7 +53649,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1577,
@@ -53683,7 +53683,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1578,
@@ -53717,7 +53717,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1579,
@@ -53751,7 +53751,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1580,
@@ -53763,16 +53763,16 @@
     "SL2": 18,
     "Shape3": "Round",
     "Size3": "0.9*0.9",
-    "SL3": 18,
+    "SL3": 30,
     "Shape4": "Princess",
     "Size4": "1.5*1.5",
     "SL4": 2,
     "Shape5": "Round",
-    "Size5": "0.9*0.9",
-    "SL5": 12,
-    "Shape6": "Round",
-    "Size6": "0.8*0.8",
-    "SL6": 4,
+    "Size5": "0.8*0.8",
+    "SL5": 4,
+    "Shape6": null,
+    "Size6": null,
+    "SL6": null,
     "Shape7": null,
     "Size7": null,
     "SL7": null,
@@ -53785,7 +53785,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1581,
@@ -53819,7 +53819,7 @@
     "Shape10": null,
     "Size10": null,
     "SL10": null,
-    "new_ver": null
+    "new_ver": 0
   },
   {
     "ProductId": 1582,
@@ -53993,6 +53993,108 @@
   },
   {
     "ProductId": 1587,
+    "Shape1": null,
+    "Size1": null,
+    "SL1": null,
+    "Shape2": null,
+    "Size2": null,
+    "SL2": null,
+    "Shape3": null,
+    "Size3": null,
+    "SL3": null,
+    "Shape4": null,
+    "Size4": null,
+    "SL4": null,
+    "Shape5": null,
+    "Size5": null,
+    "SL5": null,
+    "Shape6": null,
+    "Size6": null,
+    "SL6": null,
+    "Shape7": null,
+    "Size7": null,
+    "SL7": null,
+    "Shape8": null,
+    "Size8": null,
+    "SL8": null,
+    "Shape9": null,
+    "Size9": null,
+    "SL9": null,
+    "Shape10": null,
+    "Size10": null,
+    "SL10": null,
+    "new_ver": null
+  },
+  {
+    "ProductId": 1588,
+    "Shape1": null,
+    "Size1": null,
+    "SL1": null,
+    "Shape2": null,
+    "Size2": null,
+    "SL2": null,
+    "Shape3": null,
+    "Size3": null,
+    "SL3": null,
+    "Shape4": null,
+    "Size4": null,
+    "SL4": null,
+    "Shape5": null,
+    "Size5": null,
+    "SL5": null,
+    "Shape6": null,
+    "Size6": null,
+    "SL6": null,
+    "Shape7": null,
+    "Size7": null,
+    "SL7": null,
+    "Shape8": null,
+    "Size8": null,
+    "SL8": null,
+    "Shape9": null,
+    "Size9": null,
+    "SL9": null,
+    "Shape10": null,
+    "Size10": null,
+    "SL10": null,
+    "new_ver": null
+  },
+  {
+    "ProductId": 1589,
+    "Shape1": null,
+    "Size1": null,
+    "SL1": null,
+    "Shape2": null,
+    "Size2": null,
+    "SL2": null,
+    "Shape3": null,
+    "Size3": null,
+    "SL3": null,
+    "Shape4": null,
+    "Size4": null,
+    "SL4": null,
+    "Shape5": null,
+    "Size5": null,
+    "SL5": null,
+    "Shape6": null,
+    "Size6": null,
+    "SL6": null,
+    "Shape7": null,
+    "Size7": null,
+    "SL7": null,
+    "Shape8": null,
+    "Size8": null,
+    "SL8": null,
+    "Shape9": null,
+    "Size9": null,
+    "SL9": null,
+    "Shape10": null,
+    "Size10": null,
+    "SL10": null,
+    "new_ver": null
+  },
+  {
+    "ProductId": 1590,
     "Shape1": null,
     "Size1": null,
     "SL1": null,

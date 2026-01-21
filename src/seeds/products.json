@@ -4901,7 +4901,7 @@
     "name": null,
     "category": "Nhẫn cưới nữ",
     "diameter": null,
-    "ring_size": 11.5,
+    "ring_size": 12,
     "base_thickness": 1.4,
     "base_width": 2.2,
     "prongs_height": null,
@@ -18858,9 +18858,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
+    "base_thickness": 1.3,
+    "base_width": 2.2,
+    "prongs_height": 6.8,
     "status": "Active"
   },
   {
@@ -18870,9 +18870,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
+    "base_thickness": 1.1,
+    "base_width": 2.2,
+    "prongs_height": 6.4,
     "status": "Active"
   },
   {
@@ -18882,9 +18882,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
+    "base_thickness": 1.1,
+    "base_width": 1.5,
+    "prongs_height": 6.9,
     "status": "Active"
   },
   {
@@ -18894,9 +18894,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
+    "base_thickness": 1.1,
+    "base_width": 1.7,
+    "prongs_height": 5.05,
     "status": "Active"
   },
   {
@@ -18906,9 +18906,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
+    "base_thickness": 1,
+    "base_width": 1.7,
+    "prongs_height": 6.8,
     "status": "Active"
   },
   {
@@ -18918,9 +18918,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
+    "base_thickness": 1.3,
+    "base_width": 1.8,
+    "prongs_height": 7.7,
     "status": "Active"
   },
   {
@@ -18930,9 +18930,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
+    "base_thickness": 1.5,
+    "base_width": 2,
+    "prongs_height": 6.6,
     "status": "Active"
   },
   {
@@ -18942,9 +18942,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
+    "base_thickness": 1.2,
+    "base_width": 1.4,
+    "prongs_height": 6.9,
     "status": "Active"
   },
   {
@@ -18954,9 +18954,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
+    "base_thickness": 1.2,
+    "base_width": 1.4,
+    "prongs_height": 7.49,
     "status": "Active"
   },
   {
@@ -18966,9 +18966,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
+    "base_thickness": 1.4,
+    "base_width": 1.5,
+    "prongs_height": 6.55,
     "status": "Active"
   },
   {
@@ -18978,9 +18978,9 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
+    "base_thickness": 1,
+    "base_width": 1.6,
+    "prongs_height": 7.6,
     "status": "Active"
   },
   {
@@ -18990,81 +18990,117 @@
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
+    "base_thickness": 1.1,
+    "base_width": 1.4,
+    "prongs_height": 7.55,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1582,
+    "design_code": "FMD0007",
+    "name": "Kim Mai Cát Tường",
+    "category": "Mặt dây chuyền",
+    "diameter": null,
+    "ring_size": "free",
     "base_thickness": null,
     "base_width": null,
     "prongs_height": null,
     "status": "Active"
   },
   {
-    "ProductId": 1582,
-    "design_code": "FMD0007",
-    "name": null,
-    "category": "Mặt dây chuyền",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": null
-  },
-  {
     "ProductId": 1583,
     "design_code": "FMD0008",
-    "name": null,
+    "name": "Nhất Mã An Lộc",
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": "free",
     "base_thickness": null,
     "base_width": null,
     "prongs_height": null,
-    "status": null
+    "status": "Active"
   },
   {
     "ProductId": 1584,
     "design_code": "FMD0009",
-    "name": null,
+    "name": "Kim Tài Viên Mãn",
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": "free",
     "base_thickness": null,
     "base_width": null,
     "prongs_height": null,
-    "status": null
+    "status": "Active"
   },
   {
     "ProductId": 1585,
     "design_code": "FMD0010",
-    "name": null,
+    "name": "Lộc Mã Song Hành",
     "category": "Mặt dây chuyền",
     "diameter": null,
     "ring_size": "free",
     "base_thickness": null,
     "base_width": null,
     "prongs_height": null,
-    "status": null
+    "status": "Active"
   },
   {
     "ProductId": 1586,
     "design_code": "FNN5117",
-    "name": null,
+    "name": "Cát Kết Tài Lộc",
     "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 9,
     "base_thickness": 0.8,
     "base_width": 1.2,
     "prongs_height": null,
-    "status": null
+    "status": "Active"
   },
   {
     "ProductId": 1587,
     "design_code": "FNN5118",
-    "name": null,
+    "name": "Hỷ Khí Vẹn Tròn",
     "category": "Nhẫn nữ NN",
     "diameter": null,
     "ring_size": 9,
     "base_thickness": 0.8,
     "base_width": 1.2,
     "prongs_height": null,
-    "status": null
+    "status": "Active"
+  },
+  {
+    "ProductId": 1588,
+    "design_code": "GBA1101",
+    "name": "Linh vật Bính Ngọ Tường Mã Bình An - 1 phân - vàng 24K",
+    "category": "Thẻ vàng mỹ nghệ",
+    "diameter": null,
+    "ring_size": "free",
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1589,
+    "design_code": "GBA1201",
+    "name": "Linh vật Bính Ngọ Tường Mã Bình An - 2 phân - vàng 24K",
+    "category": "Thẻ vàng mỹ nghệ",
+    "diameter": null,
+    "ring_size": "free",
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
+  },
+  {
+    "ProductId": 1590,
+    "design_code": "GBA1502",
+    "name": "Linh vật Bính Ngọc Phúc Mã Vinh Hoa - 5 phân - vàng 24K",
+    "category": "Thẻ vàng mỹ nghệ",
+    "diameter": null,
+    "ring_size": "free",
+    "base_thickness": null,
+    "base_width": null,
+    "prongs_height": null,
+    "status": "Active"
   }
 ]
