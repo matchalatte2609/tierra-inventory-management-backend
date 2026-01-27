@@ -13519,7 +13519,7 @@
     "diameter": null,
     "ring_size": 15,
     "base_thickness": 1.3,
-    "base_width": 4,
+    "base_width": 3.9,
     "prongs_height": null,
     "status": "Active"
   },
@@ -18854,7 +18854,7 @@
   {
     "ProductId": 1570,
     "design_code": "NCH1428",
-    "name": null,
+    "name": "Silken Bloom",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -18866,7 +18866,7 @@
   {
     "ProductId": 1571,
     "design_code": "NCH1429",
-    "name": null,
+    "name": "Under Gentle wings",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -18878,7 +18878,7 @@
   {
     "ProductId": 1572,
     "design_code": "NCH1725",
-    "name": null,
+    "name": "Ivory Veils",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -18890,7 +18890,7 @@
   {
     "ProductId": 1573,
     "design_code": "NCH0019",
-    "name": null,
+    "name": "Song Duyên",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -18902,7 +18902,7 @@
   {
     "ProductId": 1574,
     "design_code": "NCH0020",
-    "name": null,
+    "name": "Grace From Heaven",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -18914,7 +18914,7 @@
   {
     "ProductId": 1575,
     "design_code": "NCH1517",
-    "name": null,
+    "name": "Vow Beneath",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -18926,7 +18926,7 @@
   {
     "ProductId": 1576,
     "design_code": "NCH2502",
-    "name": null,
+    "name": "Starlit Meadow",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -18938,7 +18938,7 @@
   {
     "ProductId": 1577,
     "design_code": "NCH2020",
-    "name": null,
+    "name": "Bloom Garden",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -18950,7 +18950,7 @@
   {
     "ProductId": 1578,
     "design_code": "NCH1726",
-    "name": null,
+    "name": "Silk and Wild Flower",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -18962,7 +18962,7 @@
   {
     "ProductId": 1579,
     "design_code": "NCH2108",
-    "name": null,
+    "name": "Scarlette Lumière",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -18974,7 +18974,7 @@
   {
     "ProductId": 1580,
     "design_code": "NCH1619",
-    "name": null,
+    "name": "Versailles Glow",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
@@ -18986,7 +18986,7 @@
   {
     "ProductId": 1581,
     "design_code": "NCH9009",
-    "name": null,
+    "name": "Privé Lueur",
     "category": "Nhẫn cầu hôn",
     "diameter": null,
     "ring_size": 11,
