@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 const CONFIG = {
   masterFile: path.join(__dirname, '..', '..', 'data', 'masterFile.csv'),
   outputDir: path.join(__dirname, '..', '..', 'src', 'seeds'), // Output to src/seeds directory
-  skipRows: 1, // Skip the first row as per your Python script
+  skipRows: 2, // Skip the first 2 rows (section header + "App" marker row)
 };
 
 // Column mappings for different data categories
@@ -21,12 +21,12 @@ const COLUMN_MAPPINGS = {
     outputColumns: ['ProductId', 'main_gemstone_shape', 'main_gemstone_size', 'gold_18k_weight', 'gold_14k_weight', 'plat_900_weight', 'surface_plain_pattern', 'catalogue_color']
   },
   products: {
-    inputColumns: ['STT', 'Mã Thiết Kế', 'Tên gọi riêng', 'Dòng hàng', 'Đường kính vòng (cm)', 'Ni', 'Kích thước độ DÀY ĐÁY - Mặc định', 'Kích thước độ RỘNG ĐÁY - Mặc định2', 'Kích thước chiều CAO ổ/chấu', 'Status'],
+    inputColumns: ['STT', 'Mã Thiết Kế', 'Tên gọi riêng', 'Dòng hàng', 'Đường kính vòng (mm)', 'Ni', 'Kích thước độ DÀY ĐÁY - Mặc định', 'Kích thước độ RỘNG ĐÁY - Mặc định2', 'Kích thước chiều CAO ổ/chấu', 'Status'],
     outputColumns: ['ProductId', 'design_code', 'name', 'category', 'diameter', 'ring_size', 'base_thickness', 'base_width', 'prongs_height', 'status']
   },
   pricing: {
-    inputColumns: ['STT', 'Dia+18K', 'Dia+14K', 'Dia+Pt900', 'CZ+18K', 'CZ+14K', 'CZ+Pt900', 'CZ+10K'],
-    outputColumns: ['ProductId', 'diamond_gold_18k', 'diamond_gold_14k', 'diamond_plat_900', 'cz_gold_18k', 'cz_gold_14k', 'cz_plat_900', 'cz_gold_10k']
+    inputColumns: ['STT', 'Dia+10K', 'Dia+14K', 'Dia+18K', 'Dia+Pt900', 'CZ+10K', 'CZ+14K', 'CZ+18K', 'CZ+Pt900'],
+    outputColumns: ['ProductId', 'diamond_gold_10k', 'diamond_gold_14k', 'diamond_gold_18k', 'diamond_plat_900', 'cz_gold_10k', 'cz_gold_14k', 'cz_gold_18k', 'cz_plat_900']
   },
   shapes: {
     inputColumns: ['STT', 'Shape1', 'Size1', 'SL1', 'Shape2', 'Size2', 'SL2', 'Shape3', 'Size3', 'SL3', 'Shape4', 'Size4', 'SL4', 'Shape5', 'Size5', 'SL5', 'Shape6', 'Size6', 'SL6', 'Shape7', 'Size7', 'SL7', 'Shape8', 'Size8', 'SL8', 'Shape9', 'Size9', 'SL9', 'Shape10', 'Size10', 'SL10', 'Tối ưu lòng nhẫn? (1=Yes,0=No)'],
@@ -144,9 +144,9 @@ const readMasterFile = () => {
       console.log('⚠️  Parse warnings:', parsed.errors.slice(0, 3));
     }
     
-    // The first row contains the actual headers, so we need to reconstruct
+    // Skip the "App" marker row and use the actual header row
     const actualHeaders = {};
-    const firstRow = parsed.data[0];
+    const firstRow = parsed.data[CONFIG.skipRows - 1];
     
     // Map the detected fields to actual column names from first row
     parsed.meta.fields.forEach((field, index) => {
@@ -174,8 +174,8 @@ const processDataset = (datasetName, mapping, parsedData, actualHeaders) => {
   console.log(`🔄 Processing ${datasetName}...`);
   
   try {
-    // Skip the first row (which contains headers) and process actual data
-    const dataRows = parsedData.data.slice(1);
+    // Skip the header rows and process actual data
+    const dataRows = parsedData.data.slice(CONFIG.skipRows);
     
     dataRows.forEach((row, index) => {
       // Create filtered row with renamed columns
