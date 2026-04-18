@@ -21,7 +21,7 @@ const COLUMN_MAPPINGS = {
     outputColumns: ['ProductId', 'main_gemstone_shape', 'main_gemstone_size', 'gold_18k_weight', 'gold_14k_weight', 'plat_900_weight', 'surface_plain_pattern', 'catalogue_color']
   },
   products: {
-    inputColumns: ['STT', 'Mã Thiết Kế', 'Tên gọi riêng', 'Dòng hàng', 'Đường kính vòng (mm)', 'Ni', 'Kích thước độ DÀY ĐÁY - Mặc định', 'Kích thước độ RỘNG ĐÁY - Mặc định2', 'Kích thước chiều CAO ổ/chấu', 'Status'],
+    inputColumns: ['STT', 'Mã TK', 'Tên gọi riêng', 'Dòng hàng', 'Đường kính vòng (mm)', 'Ni', 'Kích thước độ DÀY ĐÁY - Mặc định', 'Kích thước độ RỘNG ĐÁY - Mặc định2', 'Kích thước chiều CAO ổ/chấu', 'Status'],
     outputColumns: ['ProductId', 'design_code', 'name', 'category', 'diameter', 'ring_size', 'base_thickness', 'base_width', 'prongs_height', 'status']
   },
   pricing: {
