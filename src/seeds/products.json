@@ -16176,42 +16176,6 @@
     "status": "Active"
   },
   {
-    "ProductId": 1349,
-    "design_code": "UVC0001",
-    "name": null,
-    "category": "Others",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
-    "ProductId": 1350,
-    "design_code": "UVC0002",
-    "name": null,
-    "category": "Others",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
-    "ProductId": 1351,
-    "design_code": "UVC0003",
-    "name": null,
-    "category": "Others",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
     "ProductId": 1352,
     "design_code": "UVC0004",
     "name": null,
@@ -16308,18 +16272,6 @@
     "status": "Active"
   },
   {
-    "ProductId": 1360,
-    "design_code": "VTA1102",
-    "name": null,
-    "category": "Vòng tay",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
     "ProductId": 1361,
     "design_code": "VTA1103",
     "name": null,
@@ -16368,18 +16320,6 @@
     "status": "Active"
   },
   {
-    "ProductId": 1365,
-    "design_code": "VTA1108",
-    "name": null,
-    "category": "Vòng tay",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
     "ProductId": 1366,
     "design_code": "VTA1109",
     "name": null,
@@ -16392,68 +16332,8 @@
     "status": "Inactive"
   },
   {
-    "ProductId": 1367,
-    "design_code": "VTA1110",
-    "name": null,
-    "category": "Vòng tay",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
     "ProductId": 1368,
     "design_code": "VTA1111",
-    "name": null,
-    "category": "Vòng tay",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
-    "ProductId": 1369,
-    "design_code": "VTA1112",
-    "name": null,
-    "category": "Vòng tay",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
-    "ProductId": 1370,
-    "design_code": "VTA1114",
-    "name": null,
-    "category": "Vòng tay",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
-    "ProductId": 1371,
-    "design_code": "VTA1116",
-    "name": null,
-    "category": "Vòng tay",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
-    "ProductId": 1372,
-    "design_code": "VTA1201",
     "name": null,
     "category": "Vòng tay",
     "diameter": null,
@@ -16584,18 +16464,6 @@
     "status": "Active"
   },
   {
-    "ProductId": 1383,
-    "design_code": "VTA8103",
-    "name": null,
-    "category": "Vòng tay",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
     "ProductId": 1384,
     "design_code": "VTA8104",
     "name": null,
@@ -16644,47 +16512,11 @@
     "status": "Active"
   },
   {
-    "ProductId": 1388,
-    "design_code": "VTA8112",
-    "name": null,
-    "category": "Vòng tay",
-    "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
     "ProductId": 1389,
     "design_code": "FVT5118",
     "name": "Kim Tiền",
     "category": "Vòng tay",
     "diameter": null,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
-    "ProductId": 1390,
-    "design_code": "UVT9001",
-    "name": null,
-    "category": "Vòng tay",
-    "diameter": 50,
-    "ring_size": "free",
-    "base_thickness": null,
-    "base_width": null,
-    "prongs_height": null,
-    "status": "Active"
-  },
-  {
-    "ProductId": 1391,
-    "design_code": "UVT9002",
-    "name": null,
-    "category": "Vòng tay",
-    "diameter": 50,
     "ring_size": "free",
     "base_thickness": null,
     "base_width": null,
@@ -18789,7 +18621,7 @@
     "base_thickness": null,
     "base_width": null,
     "prongs_height": null,
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "ProductId": 1565,
